@@ -54,7 +54,7 @@ jobs:
 
       - name: Generar En Vivo
         working-directory: movete-espectaculos
-        run: python generar_edicion.py eventos.json ../Movete-info/en-vivo
+        run: python generar_edicion.py --eventos eventos.json --output ../Movete-info/en-vivo
 
       - name: Instalar dependencias cine
         working-directory: movete-cine
