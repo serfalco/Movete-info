@@ -1,0 +1,77 @@
+name: Publicar MoVeTe
+
+on:
+  schedule:
+    # Jueves 07:20 Argentina (10:20 UTC)
+    - cron: "20 10 * * 4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Movete-info
+        uses: actions/checkout@v4
+        with:
+          path: Movete-info
+
+      - name: Checkout movete-scraper
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-scraper
+          path: movete-scraper
+
+      - name: Checkout movete-espectaculos
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-espectaculos
+          path: movete-espectaculos
+
+      - name: Checkout movete-cine
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-cine
+          path: movete-cine
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias scraper
+        working-directory: movete-scraper
+        run: pip install -r requirements.txt
+
+      - name: Generar eventos.json
+        working-directory: movete-scraper
+        env:
+          SALIDA_JSON: ../movete-espectaculos/eventos.json
+        run: python main.py
+
+      - name: Generar En Vivo
+        working-directory: movete-espectaculos
+        run: python generar_edicion.py eventos.json ../Movete-info/en-vivo
+
+      - name: Instalar dependencias cine
+        working-directory: movete-cine
+        run: pip install -r requirements.txt
+
+      - name: Generar Cine
+        working-directory: movete-cine
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          MOVETE_CINE_OUT: ../Movete-info/cine
+        run: python main.py
+
+      - name: Commit cambios en Movete-info
+        working-directory: Movete-info
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Publicar edición semanal MoVeTe"
+          git push
