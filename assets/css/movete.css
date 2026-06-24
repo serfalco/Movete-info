@@ -326,3 +326,23 @@ p {
     width: 82px;
   }
 }
+/* Extras para fichas enriquecidas de cine */
+.movie-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  align-items: center;
+}
+
+.movie-fact {
+  display: inline-block;
+}
+
+.movie-credit {
+  color: var(--muted);
+  margin: 6px 0;
+}
+
+.trailer-button {
+  margin-top: 4px;
+}
