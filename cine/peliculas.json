@@ -43,6 +43,32 @@
     "titulo_original": "Backrooms",
     "tmdb_id": 1083381
   },
+  "bleach thousand year blood war the calamity": {
+    "anio": "2026",
+    "director": "",
+    "duracion": 0,
+    "elenco": [
+      "Masakazu Morita",
+      "Noriaki Sugiyama",
+      "松岡由貴"
+    ],
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Animación",
+      "Ciencia ficción"
+    ],
+    "paises": [
+      "Japan"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/9HW5N89FN8hdo0PjbYiYVENBeH1.jpg",
+    "score": 0.0,
+    "sinopsis": "",
+    "titulo": "Bleach: Thousand-Year Blood War - The Calamity",
+    "titulo_original": "Bleach: Thousand-Year Blood War - The Calamity",
+    "tmdb_id": 1669841,
+    "trailer": ""
+  },
   "el dia de la revelacion": {
     "anio": "2026",
     "duracion": 145,
@@ -70,6 +96,56 @@
     "titulo": "El diablo viste de Prada 2",
     "titulo_original": "The Devil Wears Prada 2",
     "tmdb_id": 1314481
+  },
+  "jackass la ultima y nos vamos": {
+    "anio": "2026",
+    "director": "Jeff Tremaine",
+    "duracion": 104,
+    "elenco": [
+      "Johnny Knoxville",
+      "Steve-O",
+      "Chris Pontius"
+    ],
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Documental"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
+    "score": 0.0,
+    "sinopsis": "",
+    "titulo": "Jackass: Lo mejor para el final",
+    "titulo_original": "Jackass: Best and Last",
+    "tmdb_id": 1612018,
+    "trailer": "https://www.youtube.com/watch?v=1Wd2Awev2jk"
+  },
+  "leviticus ritual de sangre": {
+    "anio": "2026",
+    "director": "Adrian Chiarella",
+    "duracion": 88,
+    "elenco": [
+      "Joe Bird",
+      "Stacy Clausen",
+      "Mia Wasikowska"
+    ],
+    "generos": [
+      "Terror",
+      "Romance"
+    ],
+    "paises": [
+      "Australia",
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/h8l06Py59ZgU0GJok4gBOuSWgNY.jpg",
+    "score": 7.1,
+    "sinopsis": "",
+    "titulo": "Leviticus",
+    "titulo_original": "Leviticus",
+    "tmdb_id": 1564614,
+    "trailer": ""
   },
   "michael": {
     "anio": "2026",
@@ -144,6 +220,31 @@
     "titulo": "Super Mario Galaxy la película",
     "titulo_original": "The Super Mario Galaxy Movie",
     "tmdb_id": 1226863
+  },
+  "supergirl": {
+    "anio": "2026",
+    "director": "Craig Gillespie",
+    "duracion": 108,
+    "elenco": [
+      "Milly Alcock",
+      "Eve Ridley",
+      "Matthias Schoenaerts"
+    ],
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+    "score": 6.38,
+    "sinopsis": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+    "titulo": "Supergirl",
+    "titulo_original": "Supergirl",
+    "tmdb_id": 1081003,
+    "trailer": "https://www.youtube.com/watch?v=rjT2Naumaoo"
   },
   "toy story 5": {
     "anio": "2026",
