@@ -3,14 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MoVeTe.info · Cine y espectáculos en La Plata</title>
-  <meta name="description" content="Cartelera de cine y agenda de espectáculos en La Plata. Una edición semanal para saber qué hacer.">
+  <title>MoVeTe.info · Qué hacer en La Plata</title>
+  <meta name="description" content="Cartelera semanal de La Plata para encontrar tu salida: cine, teatro, música, stand up, danza y eventos en vivo.">
   <link rel="stylesheet" href="/assets/css/movete.css">
 </head>
-<body>
+<body id="top">
   <header class="site-header">
     <a class="brand" href="/" aria-label="MoVeTe inicio">MoVeTe<span>●</span></a>
     <nav class="site-nav" aria-label="Secciones principales">
+      <a href="/" aria-current="page">Inicio</a>
       <a href="/cine/">Cine</a>
       <a href="/en-vivo/">En vivo</a>
     </nav>
@@ -20,10 +21,12 @@
     <section class="hero">
       <p class="eyebrow">La Plata · Edición semanal</p>
       <h1>Qué hacer en La Plata</h1>
-      <p class="lead">Cine, teatro, stand up, música y salidas culturales. Dos carteleras hermanas, cada una con vida propia.</p>
-      <div class="actions">
+      <p class="lead">La cartelera semanal para encontrar tu salida: cine, teatro, música, stand up, danza y eventos en vivo.</p>
+      <div class="actions quick-nav">
         <a class="button" href="/cine/">Ver cine</a>
         <a class="button secondary" href="/en-vivo/">Ver en vivo</a>
+        <a class="button small" href="#la-movida">La movida</a>
+        <button class="button small secondary" type="button" data-share-page>Compartir</button>
       </div>
     </section>
 
@@ -31,21 +34,27 @@
       <article class="card">
         <p class="tag">Cartelera</p>
         <h2>Cine</h2>
-        <p>Películas, salas y funciones de la semana en La Plata.</p>
-        <a class="card-link" href="/cine/">Entrar a Cine →</a>
+        <p>Películas en salas, ciclos, cineclubes y funciones especiales para cortar la semana o armar plan.</p>
+        <a class="card-link" href="/cine/">Ver cartelera de cine →</a>
       </article>
       <article class="card">
-        <p class="tag">Agenda</p>
+        <p class="tag">Cartelera</p>
         <h2>En vivo</h2>
-        <p>Agenda de espectáculos: teatro, stand up, música, danza y eventos en vivo.</p>
-        <a class="card-link" href="/en-vivo/">Entrar a En vivo →</a>
+        <p>Teatro, música, stand up, danza, talleres y propuestas para compartir, cruzarte y encontrarte.</p>
+        <a class="card-link" href="/en-vivo/">Ver cartelera en vivo →</a>
       </article>
     </section>
 
-    <section class="note-box section-block">
+    <section class="note-box section-block" id="la-movida">
       <p class="eyebrow">Cómo funciona</p>
       <h2>Una edición nueva cada jueves</h2>
-      <p>MoVeTe publica una edición semanal de jueves a miércoles. Las ediciones anteriores quedan guardadas para consulta y archivo.</p>
+      <p>MoVeTe ordena la movida platense de jueves a miércoles. La portada muestra lo vigente y las ediciones anteriores quedan disponibles para volver a mirar.</p>
+    </section>
+
+    <section class="note-box section-block">
+      <p class="eyebrow">La movida</p>
+      <h2>La Plata siempre tiene algo pasando</h2>
+      <p>Una sala chica, una banda nueva, una obra que te recomendaron, una función para ir con alguien. MoVeTe junta esas pistas para que sea más fácil salir, compartir y encontrarse.</p>
     </section>
 
     <section class="ad-box section-block">
@@ -57,7 +66,26 @@
   </main>
 
   <footer class="site-footer">
-    <p>MoVeTe.info · Cine y espectáculos en La Plata</p>
+    <div class="footer-inner">
+      <div>
+        <p class="footer-title">MoVeTe.info</p>
+        <p>La cartelera semanal para encontrar tu salida en La Plata.</p>
+      </div>
+      <div class="footer-links" aria-label="Links del pie">
+        <a href="#top">Arriba</a>
+        <a href="/cine/">Cine</a>
+        <a href="/en-vivo/">En vivo</a>
+        <a href="#la-movida">La movida</a>
+        <button type="button" data-share-page>Compartir</button>
+      </div>
+    </div>
   </footer>
+  <nav class="mobile-nav" aria-label="Navegación rápida">
+    <a href="/" aria-current="page">Inicio</a>
+    <a href="/cine/">Cine</a>
+    <a href="/en-vivo/">En vivo</a>
+    <button type="button" data-share-page>Compartir</button>
+  </nav>
+  <script src="/assets/js/movete.js" defer></script>
 </body>
 </html>
