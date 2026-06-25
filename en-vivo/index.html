@@ -3,69 +3,55 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Agenda de espectáculos en La Plata · del 25/6 al 1/7 · MoVeTe</title>
-  <meta name="description" content="Agenda de espectáculos en La Plata. Teatro, música, stand up, danza y eventos en vivo. Edición del 25/6 al 1/7.">
+  <title>Cartelera en vivo en La Plata · del 25/6 al 1/7 · MoVeTe</title>
+  <meta name="description" content="Cartelera en vivo de La Plata para encontrar tu salida: teatro, música, stand up, danza, talleres y eventos. Edición semanal del 25/6 al 1/7.">
   <link rel="stylesheet" href="/assets/css/movete.css">
 </head>
-<body>
+<body id="top">
   <header class="site-header">
     <a class="brand" href="/">MoVeTe<span>●</span></a>
-    <nav>
+    <nav class="site-nav" aria-label="Secciones principales">
+      <a href="/">Inicio</a>
       <a href="/cine/">Cine</a>
-      <a href="/en-vivo/">En vivo</a>
+      <a href="/en-vivo/" aria-current="page">En vivo</a>
     </nav>
   </header>
 
   <main>
     <section class="hero compact">
       <p class="eyebrow">En vivo · Edición 2026-06-25</p>
-      <h1>Agenda de espectáculos en La Plata</h1>
-      <p class="lead">Edición del 25/6 al 1/7. Teatro, música, stand up, danza y eventos en vivo.</p>
-      <div class="actions">
+      <h1>Cartelera en vivo en La Plata</h1>
+      <p class="lead">Edición del 25/6 al 1/7. Teatro, música, stand up, danza, talleres y planes para compartir, cruzarte y encontrarte.</p>
+      <div class="actions quick-nav">
         <a class="button" href="#esta-semana">Esta semana</a>
         <a class="button secondary" href="#lo-que-se-viene">Lo que se viene</a>
+        <button class="button small" type="button" data-share-page>Compartir</button>
       </div>
     </section>
 
     <section class="card edition-summary">
       <p class="tag">Esta edición</p>
-      <h2>100 eventos esta semana</h2>
-      <p>Las ediciones anteriores quedan archivadas y la portada de En Vivo muestra siempre la edición vigente.</p>
-      <div class="pill-row">
-        <span class="pill">Todas</span>
-        <span class="pill">Teatro</span>
-<span class="pill">Artes plásticas</span>
-<span class="pill">Música</span>
-<span class="pill">Stand-up</span>
-<span class="pill">Infantil</span>
-<span class="pill">Danza</span>
+      <h2>100 propuestas para esta semana</h2>
+      <p>La cartelera se ordena de jueves a miércoles para que encuentres tu salida sin perderte en mil historias sueltas.</p>
+      <div class="pill-row filter-bar" data-filter-group data-filter-target=".event-card:not(.future)">
+        <button class="filter-button is-active" type="button" data-filter="all" aria-pressed="true">Todas</button>
+        <button class="filter-button" type="button" data-filter="a-plasticas" aria-pressed="false">Artes plásticas</button>
+<button class="filter-button" type="button" data-filter="teatro" aria-pressed="false">Teatro</button>
+<button class="filter-button" type="button" data-filter="musica" aria-pressed="false">Música</button>
+<button class="filter-button" type="button" data-filter="stand-up" aria-pressed="false">Stand-up</button>
+<button class="filter-button" type="button" data-filter="infantil" aria-pressed="false">Infantil</button>
+<button class="filter-button" type="button" data-filter="danza" aria-pressed="false">Danza</button>
       </div>
     </section>
 
     <section id="esta-semana" class="section">
-      <p class="eyebrow">Agenda semanal</p>
+      <p class="eyebrow">Cartelera semanal</p>
       <h2>Esta semana</h2>
       
-            <section class="day-block">
+            <section class="day-block" data-filter-section>
               <h2>Jueves 25 de junio</h2>
               <div class="grid cards">
-    <article class="event-card">
-      <p class="event-date">25 JUN</p>
-      <h3>Centro de Arte UNLP</h3>
-      <p class="event-meta">11:00 hs · La Plata</p>
-      <p class="pill">Teatro</p>
-    </article>
-    
-
-    <article class="event-card">
-      <p class="event-date">25 JUN</p>
-      <h3>La imaginación geométrica</h3>
-      <p class="event-meta">11:00 hs · La Plata</p>
-      <p class="pill">Artes plásticas</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="a-plasticas">
       <p class="event-date">25 JUN</p>
       <h3>Ana Gagliardino</h3>
       <p class="event-meta">20:00 hs · Entre Pueblos</p>
@@ -73,23 +59,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">25 JUN</p>
-      <h3>Perú afros</h3>
-      <p class="event-meta">20:00 hs · La Salamanca Centro de Cultura y Peña</p>
-      <p class="pill">Música</p>
-    </article>
-    
-
-    <article class="event-card">
-      <p class="event-date">25 JUN</p>
-      <h3>No hay banda club + Espanto Club</h3>
-      <p class="event-meta">20:00 hs · Pura Vida</p>
-      <p class="pill">Música</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">25 JUN</p>
       <h3>Pedaleada nocturna a la repu</h3>
       <p class="event-meta">20:00 hs · Plaza Moreno</p>
@@ -97,7 +67,23 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
+      <p class="event-date">25 JUN</p>
+      <h3>No hay banda club + Espanto Club</h3>
+      <p class="event-meta">20:00 hs · Pura Vida</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="musica">
+      <p class="event-date">25 JUN</p>
+      <h3>Perú afros</h3>
+      <p class="event-meta">20:00 hs · La Salamanca Centro de Cultura y Peña</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="musica">
       <p class="event-date">25 JUN</p>
       <h3>Corridas club + m4ly + Maia Dros</h3>
       <p class="event-meta">20:00 hs · Ciudad de Gatos</p>
@@ -105,7 +91,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">25 JUN</p>
       <h3>Fabio Lione + Christian Bertoncelli</h3>
       <p class="event-meta">20:00 hs · Teatro René Favaloro</p>
@@ -113,15 +99,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">25 JUN</p>
-      <h3>Chaza peña</h3>
-      <p class="event-meta">21:00 hs · Guajira Bar</p>
-      <p class="pill">Música</p>
+      <h3><a href="https://coliseopodesta.laplata.gob.ar/actividad/comedia-dramatica/rojos-globos-rojos" target="_blank" rel="noopener">ROJOS GLOBOS ROJOS</a></h3>
+      <p class="event-meta">20:00 hs · Teatro Coliseo Podestá</p>
+      <p class="pill">Teatro</p>
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">25 JUN</p>
       <h3>¿Donde hay un mango? - Edición especial homenaje al Indio</h3>
       <p class="event-meta">21:00 hs · Casa Cuchá - Asociación Profesional de Músicos (APM)</p>
@@ -129,7 +115,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
+      <p class="event-date">25 JUN</p>
+      <h3>Chaza peña</h3>
+      <p class="event-meta">21:00 hs · Guajira Bar</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="stand-up">
       <p class="event-date">25 JUN</p>
       <h3>Show de Humor Astuto</h3>
       <p class="event-meta">21:30 hs · Lázuli</p>
@@ -139,10 +133,10 @@
             </section>
             
 
-            <section class="day-block">
+            <section class="day-block" data-filter-section>
               <h2>Viernes 26 de junio</h2>
               <div class="grid cards">
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Juegos Bonaerenses 2026 Cultura - Cierre</h3>
       <p class="event-meta">09:00 hs · Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo</p>
@@ -150,7 +144,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Centro de Arte UNLP</h3>
       <p class="event-meta">11:00 hs · La Plata</p>
@@ -158,7 +152,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="a-plasticas">
       <p class="event-date">26 JUN</p>
       <h3>La imaginación geométrica</h3>
       <p class="event-meta">11:00 hs · La Plata</p>
@@ -166,7 +160,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Zamana + Ensayo sobre la miopía + Conversatorio con Juliana Schwindt</h3>
       <p class="event-meta">16:00 hs · Centro de Arte UNLP</p>
@@ -174,7 +168,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Observación astronómica</h3>
       <p class="event-meta">20:00 hs · Observatorio de La Plata - Museo de Astronomía y Geofísica - Planetario</p>
@@ -182,31 +176,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">26 JUN</p>
-      <h3>Ramiro Sagasti (Pérez)</h3>
-      <p class="event-meta">20:00 hs · 1/2 Galon Beer Store</p>
-      <p class="pill">Música</p>
-    </article>
-    
-
-    <article class="event-card">
-      <p class="event-date">26 JUN</p>
-      <h3>Paralapsus + Fuego fatuo</h3>
-      <p class="event-meta">20:00 hs · Casa Unclan</p>
-      <p class="pill">Música</p>
-    </article>
-    
-
-    <article class="event-card">
-      <p class="event-date">26 JUN</p>
-      <h3>La Bandurria</h3>
-      <p class="event-meta">20:00 hs · Esquina América</p>
-      <p class="pill">Música</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">26 JUN</p>
       <h3>Festival Raíces Random</h3>
       <p class="event-meta">20:00 hs · Comunidad Raíces - FM Raíces Rock</p>
@@ -214,7 +184,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Amor Trava</h3>
       <p class="event-meta">20:00 hs · Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo</p>
@@ -222,7 +192,23 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
+      <p class="event-date">26 JUN</p>
+      <h3>Ramiro Sagasti (Pérez)</h3>
+      <p class="event-meta">20:00 hs · 1/2 Galon Beer Store</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="musica">
+      <p class="event-date">26 JUN</p>
+      <h3>Paralapsus + Fuego fatuo</h3>
+      <p class="event-meta">20:00 hs · Casa Unclan</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="musica">
       <p class="event-date">26 JUN</p>
       <h3>Peña la Luna Cautiva</h3>
       <p class="event-meta">20:00 hs · Casa Metro</p>
@@ -230,7 +216,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
+      <p class="event-date">26 JUN</p>
+      <h3>La Bandurria</h3>
+      <p class="event-meta">20:00 hs · Esquina América</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Laberinto Borges</h3>
       <p class="event-meta">20:30 hs · Teatro Espacio 44</p>
@@ -238,7 +232,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Adela, todavía estoy acá</h3>
       <p class="event-meta">20:30 hs · Teatro El Escape</p>
@@ -246,23 +240,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">26 JUN</p>
-      <h3>El maletín rojo</h3>
-      <p class="event-meta">21:00 hs · La Lechuza Teatro</p>
-      <p class="pill">Teatro</p>
-    </article>
-    
-
-    <article class="event-card">
-      <p class="event-date">26 JUN</p>
-      <h3>Nico Diaz + Despistxdo + Lautaro curtale</h3>
-      <p class="event-meta">21:00 hs · La Culturosa</p>
-      <p class="pill">Música</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">26 JUN</p>
       <h3>Aimel Sali</h3>
       <p class="event-meta">21:00 hs · Marimacha</p>
@@ -270,15 +248,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">26 JUN</p>
-      <h3>Sueño Stereo (Tributo a Soda Stereo)</h3>
-      <p class="event-meta">21:00 hs · Los Tres Chiflados Bar</p>
+      <h3>Nico Diaz + Despistxdo + Lautaro curtale</h3>
+      <p class="event-meta">21:00 hs · La Culturosa</p>
       <p class="pill">Música</p>
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Aires de tango</h3>
       <p class="event-meta">21:00 hs · Lázuli</p>
@@ -286,23 +264,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">26 JUN</p>
-      <h3>Modo Tester - Cimon y los caballeros - San Francisco al sur</h3>
-      <p class="event-meta">21:00 hs · Teatro Bar Cultural La Ferretería</p>
-      <p class="pill">Música</p>
-    </article>
-    
-
-    <article class="event-card">
-      <p class="event-date">26 JUN</p>
-      <h3>Fuerza Profes</h3>
-      <p class="event-meta">21:00 hs · Teatro La Nonna</p>
-      <p class="pill">Stand-up</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">26 JUN</p>
       <h3>Lo mejor de Queen y Elton John, por Martin Babenco</h3>
       <p class="event-meta">21:00 hs · Espacio Live</p>
@@ -310,15 +272,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">26 JUN</p>
-      <h3>Consagrado a Marte + Sync rodeos</h3>
-      <p class="event-meta">21:00 hs · Mush Room</p>
+      <h3>Sueño Stereo (Tributo a Soda Stereo)</h3>
+      <p class="event-meta">21:00 hs · Los Tres Chiflados Bar</p>
       <p class="pill">Música</p>
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">26 JUN</p>
       <h3>Las fiebres polares + Kalaharired</h3>
       <p class="event-meta">21:00 hs · Casa Unclan</p>
@@ -326,7 +288,23 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="stand-up">
+      <p class="event-date">26 JUN</p>
+      <h3>Fuerza Profes</h3>
+      <p class="event-meta">21:00 hs · Teatro La Nonna</p>
+      <p class="pill">Stand-up</p>
+    </article>
+    
+
+    <article class="event-card" data-category="musica">
+      <p class="event-date">26 JUN</p>
+      <h3>Consagrado a Marte + Sync rodeos</h3>
+      <p class="event-meta">21:00 hs · Mush Room</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Pandora</h3>
       <p class="event-meta">21:00 hs · Casa Hereje</p>
@@ -334,7 +312,23 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
+      <p class="event-date">26 JUN</p>
+      <h3>El maletín rojo</h3>
+      <p class="event-meta">21:00 hs · La Lechuza Teatro</p>
+      <p class="pill">Teatro</p>
+    </article>
+    
+
+    <article class="event-card" data-category="musica">
+      <p class="event-date">26 JUN</p>
+      <h3>Modo Tester - Cimon y los caballeros - San Francisco al sur</h3>
+      <p class="event-meta">21:00 hs · Teatro Bar Cultural La Ferretería</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3>Made In Lanús</h3>
       <p class="event-meta">21:00 hs · Teatro y Museo Coliseo Podestá</p>
@@ -342,7 +336,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas97404-sweet-lovers?o=6" target="_blank" rel="noopener">Sweet Lovers</a></h3>
       <p class="event-meta">21:00 hs · CENTRO CULTURAL VIEJO ALMACEN EL OBRERO</p>
@@ -350,7 +344,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas100153-en-la-orilla?o=6" target="_blank" rel="noopener">En la orilla</a></h3>
       <p class="event-meta">21:00 hs · TEATRO ABIERTO</p>
@@ -358,7 +352,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3><a href="https://www.alternativateatral.com.ar/obra100397-el-puente-azul" target="_blank" rel="noopener">El puente azul</a></h3>
       <p class="event-meta">21:00 hs · LA MERCERIA TEATRO</p>
@@ -366,7 +360,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas101161-volcada?o=6" target="_blank" rel="noopener">Volcada</a></h3>
       <p class="event-meta">21:00 hs · ÁREA CHICA</p>
@@ -374,7 +368,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3><a href="https://www.alternativateatral.com.ar/obra85003-sociedad-platense-de-stand-up" target="_blank" rel="noopener">Sociedad Platense de Stand Up</a></h3>
       <p class="event-meta">21:30 hs · TRES EMPANADAS COMEDIA</p>
@@ -382,7 +376,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">26 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas101284-cronopios-iii?o=6" target="_blank" rel="noopener">Cronopios III</a></h3>
       <p class="event-meta">21:30 hs · ESCENARIO-40</p>
@@ -390,7 +384,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">26 JUN</p>
       <h3>Hay escarcha + Los posibles + Lape</h3>
       <p class="event-meta">23:55 hs · Casa Unclan</p>
@@ -400,10 +394,10 @@
             </section>
             
 
-            <section class="day-block">
+            <section class="day-block" data-filter-section>
               <h2>Sábado 27 de junio</h2>
               <div class="grid cards">
-    <article class="event-card">
+    <article class="event-card" data-category="a-plasticas">
       <p class="event-date">27 JUN</p>
       <h3>Feria de Artesanos Manos Platenses</h3>
       <p class="event-meta">10:00 hs · Calle Cantilo - City Bell</p>
@@ -411,7 +405,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="a-plasticas">
       <p class="event-date">27 JUN</p>
       <h3>La Feria del Playón – Meridiano V</h3>
       <p class="event-meta">11:00 hs · Meridiano V</p>
@@ -419,7 +413,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="a-plasticas">
       <p class="event-date">27 JUN</p>
       <h3>Feria de Parque Saavedra</h3>
       <p class="event-meta">12:00 hs · Jardín Botánico del Parque Saavedra - Casa histórica Pedro Benoit - Biblioteca Del otro lado del Arb</p>
@@ -427,7 +421,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3>Un viaje por el aire y el tiempo - Animales del pasado y el presente</h3>
       <p class="event-meta">13:30 hs · Museo de Ciencias Naturales de La Plata</p>
@@ -435,15 +429,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">27 JUN</p>
-      <h3>Centro de Arte UNLP</h3>
-      <p class="event-meta">15:00 hs · La Plata</p>
-      <p class="pill">Teatro</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3>Ciencia y fútbol - Cátedra de fisiología humana con actividades - Intercambio de figuritas - Juegos y trivias</h3>
       <p class="event-meta">15:00 hs · Museo de Fisica</p>
@@ -451,15 +437,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">27 JUN</p>
-      <h3>Encuentro de la escuela abierta del arroyo El Pescado</h3>
-      <p class="event-meta">15:00 hs · Club Unidos por Villa Garibaldi</p>
-      <p class="pill">Teatro</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="a-plasticas">
       <p class="event-date">27 JUN</p>
       <h3>La imaginación geométrica</h3>
       <p class="event-meta">15:00 hs · La Plata</p>
@@ -467,15 +445,23 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
-      <h3>Gamer</h3>
-      <p class="event-meta">16:00 hs · Teatro La Nonna</p>
-      <p class="pill">Infantil</p>
+      <h3>Centro de Arte UNLP</h3>
+      <p class="event-meta">15:00 hs · La Plata</p>
+      <p class="pill">Teatro</p>
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
+      <p class="event-date">27 JUN</p>
+      <h3>Encuentro de la escuela abierta del arroyo El Pescado</h3>
+      <p class="event-meta">15:00 hs · Club Unidos por Villa Garibaldi</p>
+      <p class="pill">Teatro</p>
+    </article>
+    
+
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3>Sant Joan - Fiesta Catalana - Ron cremat y quema de deseos</h3>
       <p class="event-meta">16:00 hs · Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo</p>
@@ -483,7 +469,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="infantil">
+      <p class="event-date">27 JUN</p>
+      <h3>Gamer</h3>
+      <p class="event-meta">16:00 hs · Teatro La Nonna</p>
+      <p class="pill">Infantil</p>
+    </article>
+    
+
+    <article class="event-card" data-category="infantil">
       <p class="event-date">27 JUN</p>
       <h3>Zootopía</h3>
       <p class="event-meta">16:30 hs · La Plata</p>
@@ -491,7 +485,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3>Destino circular - juntarse, desarmar, armar</h3>
       <p class="event-meta">18:00 hs · Azulunala</p>
@@ -499,15 +493,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">27 JUN</p>
-      <h3>Entrelazamiento Cuántico y su relación con la Filosofía Zen - Monje Zen y Doctor en Física Alan Boette</h3>
-      <p class="event-meta">18:00 hs · Espacio Moliere</p>
-      <p class="pill">Teatro</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">27 JUN</p>
       <h3>Hágase el favor de hacerse una pregunta</h3>
       <p class="event-meta">18:00 hs · Centro de Arte UNLP</p>
@@ -515,15 +501,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
-      <h3>Casa Pulsar le canta al Indio Solari</h3>
-      <p class="event-meta">19:00 hs · Casa Pulsar</p>
-      <p class="pill">Música</p>
+      <h3>Entrelazamiento Cuántico y su relación con la Filosofía Zen - Monje Zen y Doctor en Física Alan Boette</h3>
+      <p class="event-meta">18:00 hs · Espacio Moliere</p>
+      <p class="pill">Teatro</p>
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">27 JUN</p>
       <h3>Mora y los metegoles + Chicobruja</h3>
       <p class="event-meta">19:00 hs · Guajira Bar</p>
@@ -531,7 +517,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
+      <p class="event-date">27 JUN</p>
+      <h3>Casa Pulsar le canta al Indio Solari</h3>
+      <p class="event-meta">19:00 hs · Casa Pulsar</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas94808-el-vuelo-de-las-brujas?o=6" target="_blank" rel="noopener">El vuelo de las brujas</a></h3>
       <p class="event-meta">19:00 hs · CENTRO CULTURAL VIEJO ALMACEN EL OBRERO</p>
@@ -539,7 +533,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="danza">
       <p class="event-date">27 JUN</p>
       <h3>Milonga de la plaza</h3>
       <p class="event-meta">20:00 hs · Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo</p>
@@ -547,7 +541,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3>Ale Rodriguez + Ydiay con Banda + La Fogoneta Folk</h3>
       <p class="event-meta">20:00 hs · La Salamanca Centro de Cultura y Peña</p>
@@ -555,7 +549,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">27 JUN</p>
       <h3>Héroe lírico &amp; pop</h3>
       <p class="event-meta">20:30 hs · Teatro y Museo Coliseo Podestá</p>
@@ -563,15 +557,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">27 JUN</p>
-      <h3>El maletín rojo</h3>
-      <p class="event-meta">21:00 hs · La Lechuza Teatro</p>
-      <p class="pill">Teatro</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3>La Nona</h3>
       <p class="event-meta">21:00 hs · Teatro UNLP y Biblioteca Popular Teatral de La Plata &amp;quot;Alberto Mediza&amp;quot;</p>
@@ -579,7 +565,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
+      <p class="event-date">27 JUN</p>
+      <h3>El maletín rojo</h3>
+      <p class="event-meta">21:00 hs · La Lechuza Teatro</p>
+      <p class="pill">Teatro</p>
+    </article>
+    
+
+    <article class="event-card" data-category="musica">
       <p class="event-date">27 JUN</p>
       <h3>Flema - Nunca seré policía</h3>
       <p class="event-meta">21:00 hs · Pura Vida</p>
@@ -587,7 +581,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3>Lo quiero ya</h3>
       <p class="event-meta">21:00 hs · Teatro Estudio</p>
@@ -595,7 +589,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3><a href="https://www.alternativateatral.com.ar/obra97717-la-cantante-calva" target="_blank" rel="noopener">La cantante calva</a></h3>
       <p class="event-meta">21:00 hs · LA MERCERIA TEATRO</p>
@@ -603,7 +597,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3><a href="https://www.alternativateatral.com.ar/obra101524-bajo-la-tormenta" target="_blank" rel="noopener">Bajo la Tormenta</a></h3>
       <p class="event-meta">21:00 hs · TEATRO ARMANDO DISCEPOLO</p>
@@ -611,7 +605,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3>La nuez podrida + Choco con la bici + Valeriano</h3>
       <p class="event-meta">23:00 hs · Casa Unclan</p>
@@ -619,7 +613,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">27 JUN</p>
       <h3>Argentina en pantalla grande</h3>
       <p class="event-meta">23:00 hs · Cine Club Proyecciones Terrestres</p>
@@ -627,7 +621,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">27 JUN</p>
       <h3>Fiesta incógnita</h3>
       <p class="event-meta">23:55 hs · Pura Vida</p>
@@ -637,10 +631,10 @@
             </section>
             
 
-            <section class="day-block">
+            <section class="day-block" data-filter-section>
               <h2>Domingo 28 de junio</h2>
               <div class="grid cards">
-    <article class="event-card">
+    <article class="event-card" data-category="a-plasticas">
       <p class="event-date">28 JUN</p>
       <h3>La Feria del Playón – Meridiano V</h3>
       <p class="event-meta">11:00 hs · Meridiano V</p>
@@ -648,7 +642,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="a-plasticas">
       <p class="event-date">28 JUN</p>
       <h3>Feria de Parque Saavedra</h3>
       <p class="event-meta">12:00 hs · Jardín Botánico del Parque Saavedra - Casa histórica Pedro Benoit - Biblioteca Del otro lado del Arb</p>
@@ -656,7 +650,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3>La plata al piso X bajitos - Evento de autos</h3>
       <p class="event-meta">13:00 hs · La Plata</p>
@@ -664,7 +658,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3>Un viaje por el aire y el tiempo - Animales del pasado y el presente</h3>
       <p class="event-meta">13:30 hs · Museo de Ciencias Naturales de La Plata</p>
@@ -672,7 +666,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas101243-los-hornos-1103-pasos?o=6" target="_blank" rel="noopener">Los hornos 1103 pasos</a></h3>
       <p class="event-meta">14:00 hs · AV. 66 Y 173, LOS HORNOS</p>
@@ -680,23 +674,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">28 JUN</p>
-      <h3>Clarita y sus Princesas</h3>
-      <p class="event-meta">16:00 hs · Teatro La Nonna</p>
-      <p class="pill">Infantil</p>
-    </article>
-    
-
-    <article class="event-card">
-      <p class="event-date">28 JUN</p>
-      <h3>Merienda y mosaiquismo</h3>
-      <p class="event-meta">16:00 hs · Lázuli</p>
-      <p class="pill">Teatro</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="infantil">
       <p class="event-date">28 JUN</p>
       <h3>Aladdín y el hechizo de la lámpara</h3>
       <p class="event-meta">16:00 hs · Escenario 40</p>
@@ -704,15 +682,23 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
-      <h3>Cortado Doble</h3>
-      <p class="event-meta">17:00 hs · Espacio Medusa</p>
+      <h3>Merienda y mosaiquismo</h3>
+      <p class="event-meta">16:00 hs · Lázuli</p>
       <p class="pill">Teatro</p>
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="infantil">
+      <p class="event-date">28 JUN</p>
+      <h3>Clarita y sus Princesas</h3>
+      <p class="event-meta">16:00 hs · Teatro La Nonna</p>
+      <p class="pill">Infantil</p>
+    </article>
+    
+
+    <article class="event-card" data-category="musica">
       <p class="event-date">28 JUN</p>
       <h3>El pibe Materia - Desatanudos - Poderes extraños - Tranza - Las olas rompen - No Fumar</h3>
       <p class="event-meta">17:00 hs · La Plata</p>
@@ -720,7 +706,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
+      <p class="event-date">28 JUN</p>
+      <h3>Cortado Doble</h3>
+      <p class="event-meta">17:00 hs · Espacio Medusa</p>
+      <p class="pill">Teatro</p>
+    </article>
+    
+
+    <article class="event-card" data-category="infantil">
       <p class="event-date">28 JUN</p>
       <h3>Pequeño pez</h3>
       <p class="event-meta">17:00 hs · Teatro Metro</p>
@@ -728,7 +722,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">28 JUN</p>
       <h3>Sol Ariens</h3>
       <p class="event-meta">18:00 hs · Pasaje Dardo Rocha</p>
@@ -736,15 +730,7 @@
     </article>
     
 
-    <article class="event-card">
-      <p class="event-date">28 JUN</p>
-      <h3>Cuarteto Tarabust - Beethoven - Prokofiev</h3>
-      <p class="event-meta">19:00 hs · La Peña de las Bellas Artes</p>
-      <p class="pill">Música</p>
-    </article>
-    
-
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3>Carles - El eslabón perdido del rock nacional</h3>
       <p class="event-meta">19:00 hs · Teatro Abierto</p>
@@ -752,7 +738,15 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
+      <p class="event-date">28 JUN</p>
+      <h3>Cuarteto Tarabust - Beethoven - Prokofiev</h3>
+      <p class="event-meta">19:00 hs · La Peña de las Bellas Artes</p>
+      <p class="pill">Música</p>
+    </article>
+    
+
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas86399-con-tu-propio-miedo?o=6" target="_blank" rel="noopener">Con tu propio miedo</a></h3>
       <p class="event-meta">19:00 hs · ESPACIO 44</p>
@@ -760,7 +754,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas100201-primera-noche?o=6" target="_blank" rel="noopener">Primera noche</a></h3>
       <p class="event-meta">19:00 hs · LA MERCERIA TEATRO</p>
@@ -768,7 +762,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3>Petit hotel, el último suspiro - Un hospedaje clownesco</h3>
       <p class="event-meta">19:30 hs · Casa Hereje</p>
@@ -776,7 +770,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3>Maldita felicidad</h3>
       <p class="event-meta">20:00 hs · Teatro y Museo Coliseo Podestá</p>
@@ -784,7 +778,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">28 JUN</p>
       <h3>Zero afro jazz</h3>
       <p class="event-meta">20:00 hs · Desafinado Club</p>
@@ -792,7 +786,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas95366-la-casa-de-bernarda-alba?o=6" target="_blank" rel="noopener">La casa de Bernarda Alba</a></h3>
       <p class="event-meta">20:00 hs · CENTRO CULTURAL VIEJO ALMACEN EL OBRERO</p>
@@ -800,7 +794,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">28 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas101293-narices-negras?o=6" target="_blank" rel="noopener">Narices negras</a></h3>
       <p class="event-meta">20:00 hs · ESCENARIO-40</p>
@@ -808,7 +802,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">28 JUN</p>
       <h3>Flema - 30 años</h3>
       <p class="event-meta">21:00 hs · Pura Vida</p>
@@ -818,10 +812,23 @@
             </section>
             
 
-            <section class="day-block">
+            <section class="day-block" data-filter-section>
+              <h2>Lunes 29 de junio</h2>
+              <div class="grid cards">
+    <article class="event-card" data-category="teatro">
+      <p class="event-date">29 JUN</p>
+      <h3><a href="https://coliseopodesta.laplata.gob.ar/actividad/teatro-inmersivo/laberinto-podesta-el-ultimo-aplauso" target="_blank" rel="noopener">Laberinto Podestá, el último aplauso</a></h3>
+      <p class="event-meta">20:30 hs · Teatro Coliseo Podestá</p>
+      <p class="pill">Teatro</p>
+    </article>
+    </div>
+            </section>
+            
+
+            <section class="day-block" data-filter-section>
               <h2>Martes 30 de junio</h2>
               <div class="grid cards">
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">30 JUN</p>
       <h3>La música está en el poema</h3>
       <p class="event-meta">18:00 hs · Museo Almafuerte</p>
@@ -829,7 +836,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="musica">
       <p class="event-date">30 JUN</p>
       <h3>Luna Violeta - Ensamble de mujeres y disidencias</h3>
       <p class="event-meta">18:30 hs · Macá Cultura</p>
@@ -837,7 +844,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">30 JUN</p>
       <h3><a href="https://publico.alternativateatral.com/entradas101265-muestra-del-taller-del-match-de-improvisacion?o=6" target="_blank" rel="noopener">Muestra del taller del match de improvisacion</a></h3>
       <p class="event-meta">20:00 hs · SALA 420</p>
@@ -847,10 +854,10 @@
             </section>
             
 
-            <section class="day-block">
+            <section class="day-block" data-filter-section>
               <h2>Miércoles 1 de julio</h2>
               <div class="grid cards">
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">1 JUL</p>
       <h3>Centro de Arte UNLP</h3>
       <p class="event-meta">11:00 hs · La Plata</p>
@@ -858,7 +865,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="a-plasticas">
       <p class="event-date">1 JUL</p>
       <h3>La imaginación geométrica</h3>
       <p class="event-meta">11:00 hs · La Plata</p>
@@ -866,7 +873,7 @@
     </article>
     
 
-    <article class="event-card">
+    <article class="event-card" data-category="teatro">
       <p class="event-date">1 JUL</p>
       <h3>Curso de magia</h3>
       <p class="event-meta">17:30 hs · Escenario 40</p>
@@ -880,7 +887,7 @@
     <section id="lo-que-se-viene" class="section">
       <p class="eyebrow">Anticipadas</p>
       <h2>Lo que se viene</h2>
-      <p>Grandes eventos anunciados en estadios y teatros mayores, para mirar con tiempo.</p>
+      <p>Fechas para mirar con tiempo, avisar en el grupo y armar plan antes de que se agote.</p>
       <div class="grid cards">
             <article class="event-card future">
               <p class="event-date">8 JUL</p>
@@ -978,14 +985,33 @@
     <section class="card">
       <p class="tag">También en MoVeTe</p>
       <h2>Cartelera de cine</h2>
-      <p>Películas, salas y funciones de la semana en La Plata.</p>
-      <a href="/cine/">Ver cine →</a>
+      <p>Películas en salas, ciclos, cineclubes y funciones especiales para cortar la semana o armar plan.</p>
+      <a href="/cine/">Ver cartelera de cine →</a>
     </section>
   </main>
 
   <footer class="site-footer">
-    <p>MoVeTe · Agenda cultural del Gran La Plata · Edición 2026-06-25</p>
-    <p>Datos actualizados 2026-06-25T12:36:05</p>
+    <div class="footer-inner">
+      <div>
+        <p class="footer-title">MoVeTe.info</p>
+        <p>Cartelera en vivo en La Plata · Edición 2026-06-25</p>
+        <p>Datos actualizados 2026-06-25T16:16:04</p>
+      </div>
+      <div class="footer-links" aria-label="Links del pie">
+        <a href="#top">Arriba</a>
+        <a href="#esta-semana">Esta semana</a>
+        <a href="#lo-que-se-viene">Lo que se viene</a>
+        <a href="/cine/">Cine</a>
+        <button type="button" data-share-page>Compartir</button>
+      </div>
+    </div>
   </footer>
+  <nav class="mobile-nav" aria-label="Navegación rápida">
+    <a href="/">Inicio</a>
+    <a href="/cine/">Cine</a>
+    <a href="/en-vivo/" aria-current="page">En vivo</a>
+    <button type="button" data-share-page>Compartir</button>
+  </nav>
+  <script src="/assets/js/movete.js" defer></script>
 </body>
 </html>
