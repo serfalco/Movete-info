@@ -1,52 +1,87 @@
 {
   "amarga navidad": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vkaujALtN1SZGr4M54selGTImVY.jpg",
+    "director": "Pedro Almodóvar",
     "duracion": 112,
+    "elenco": [
+      "Bárbara Lennie",
+      "Leonardo Sbaraglia",
+      "Aitana Sánchez-Gijón"
+    ],
     "generos": [
       "Drama",
       "Comedia"
     ],
+    "paises": [
+      "Spain"
+    ],
     "poster": "https://image.tmdb.org/t/p/w342/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
-    "score": 6.488,
+    "score": 6.5,
     "sinopsis": "Tras el fallecimiento de su madre en diciembre, Elsa, directora de publicidad, se sumerge en el trabajo para afrontar la situación. Cuando un ataque de pánico la obliga a tomarse un descanso, decide viajar a Lanzarote con su amiga Patricia mientras su pareja, Bonifacio, se queda en Madrid.",
     "titulo": "Amarga Navidad",
     "titulo_original": "Amarga Navidad",
-    "tmdb_id": 1088548
+    "tmdb_id": 1088548,
+    "trailer": ""
   },
   "amos del universo": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pSptA1YdHreII6OLAvXbnYytwcz.jpg",
+    "director": "Travis Knight",
     "duracion": 140,
+    "elenco": [
+      "Nicholas Galitzine",
+      "Camila Mendes",
+      "Idris Elba"
+    ],
     "generos": [
       "Acción",
       "Fantasía",
       "Ciencia ficción"
     ],
+    "paises": [
+      "United States of America"
+    ],
     "poster": "https://image.tmdb.org/t/p/w342/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg",
-    "score": 7.3,
+    "score": 7.2,
     "sinopsis": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
     "titulo": "He-Man y los masters del universo",
     "titulo_original": "Masters of the Universe",
-    "tmdb_id": 454639
+    "tmdb_id": 454639,
+    "trailer": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo"
   },
   "backrooms": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+    "director": "Kane Parsons",
     "duracion": 105,
+    "elenco": [
+      "Chiwetel Ejiofor",
+      "Renate Reinsve",
+      "Mark Duplass"
+    ],
     "generos": [
       "Terror",
       "Misterio",
       "Ciencia ficción"
     ],
+    "paises": [
+      "United States of America",
+      "Canada"
+    ],
     "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-    "score": 6.875,
+    "score": 6.89,
     "sinopsis": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "titulo": "Backrooms",
     "titulo_original": "Backrooms",
-    "tmdb_id": 1083381
+    "tmdb_id": 1083381,
+    "trailer": "https://www.youtube.com/watch?v=9EYRSmbsqzY"
   },
   "bleach thousand year blood war the calamity": {
     "anio": "2026",
-    "director": "",
-    "duracion": 0,
+    "backdrop": "https://image.tmdb.org/t/p/w780/fwdosqd1BW1tDlvaF9qhMuERQGY.jpg",
+    "director": "村田光",
+    "duracion": 80,
     "elenco": [
       "Masakazu Morita",
       "Noriaki Sugiyama",
@@ -62,7 +97,7 @@
       "Japan"
     ],
     "poster": "https://image.tmdb.org/t/p/w342/9HW5N89FN8hdo0PjbYiYVENBeH1.jpg",
-    "score": 0.0,
+    "score": 8.0,
     "sinopsis": "",
     "titulo": "Bleach: Thousand-Year Blood War - The Calamity",
     "titulo_original": "Bleach: Thousand-Year Blood War - The Calamity",
@@ -71,34 +106,57 @@
   },
   "el dia de la revelacion": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+    "director": "Steven Spielberg",
     "duracion": 145,
+    "elenco": [
+      "Emily Blunt",
+      "Josh O'Connor",
+      "Colin Firth"
+    ],
     "generos": [
       "Ciencia ficción",
       "Suspense"
     ],
+    "paises": [
+      "United States of America"
+    ],
     "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-    "score": 6.72,
+    "score": 6.696,
     "sinopsis": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
     "titulo": "El día de la revelación",
     "titulo_original": "Disclosure Day",
-    "tmdb_id": 1275779
+    "tmdb_id": 1275779,
+    "trailer": "https://www.youtube.com/watch?v=-XXZgYygh40"
   },
   "el diablo viste a la moda 2": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+    "director": "David Frankel",
     "duracion": 119,
+    "elenco": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt"
+    ],
     "generos": [
       "Comedia",
       "Drama"
     ],
+    "paises": [
+      "United States of America"
+    ],
     "poster": "https://image.tmdb.org/t/p/w342/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-    "score": 6.5,
+    "score": 6.548,
     "sinopsis": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
     "titulo": "El diablo viste de Prada 2",
     "titulo_original": "The Devil Wears Prada 2",
-    "tmdb_id": 1314481
+    "tmdb_id": 1314481,
+    "trailer": "https://www.youtube.com/watch?v=IQD3qh7te2o"
   },
   "jackass la ultima y nos vamos": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/om1hoP6W0j54esiYMi9meYZ90Vq.jpg",
     "director": "Jeff Tremaine",
     "duracion": 104,
     "elenco": [
@@ -115,7 +173,7 @@
       "United States of America"
     ],
     "poster": "https://image.tmdb.org/t/p/w342/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
-    "score": 0.0,
+    "score": 5.0,
     "sinopsis": "",
     "titulo": "Jackass: Lo mejor para el final",
     "titulo_original": "Jackass: Best and Last",
@@ -124,6 +182,7 @@
   },
   "leviticus ritual de sangre": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ekFr4AyEpwyIHK1R3VOYDXN2PqL.jpg",
     "director": "Adrian Chiarella",
     "duracion": 88,
     "elenco": [
@@ -140,7 +199,7 @@
       "United States of America"
     ],
     "poster": "https://image.tmdb.org/t/p/w342/h8l06Py59ZgU0GJok4gBOuSWgNY.jpg",
-    "score": 7.1,
+    "score": 7.3,
     "sinopsis": "",
     "titulo": "Leviticus",
     "titulo_original": "Leviticus",
@@ -149,45 +208,79 @@
   },
   "michael": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+    "director": "Antoine Fuqua",
     "duracion": 128,
+    "elenco": [
+      "Jaafar Jackson",
+      "Colman Domingo",
+      "Nia Long"
+    ],
     "generos": [
       "Música",
       "Drama"
     ],
+    "paises": [
+      "United States of America"
+    ],
     "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-    "score": 8.681,
+    "score": 8.694,
     "sinopsis": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
     "titulo": "Michael",
     "titulo_original": "Michael",
-    "tmdb_id": 936075
+    "tmdb_id": 936075,
+    "trailer": "https://www.youtube.com/watch?v=o1HQSh6zZ8s"
   },
   "obsesion": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "director": "Curry Barker",
     "duracion": 108,
+    "elenco": [
+      "Michael Johnston",
+      "Inde Navarrette",
+      "Cooper Tomlinson"
+    ],
     "generos": [
       "Terror",
       "Suspense"
     ],
+    "paises": [
+      "United States of America",
+      "United Kingdom"
+    ],
     "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-    "score": 7.912,
+    "score": 7.902,
     "sinopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
     "titulo": "Obsesión",
     "titulo_original": "Obsession",
-    "tmdb_id": 1339713
+    "tmdb_id": 1339713,
+    "trailer": "https://www.youtube.com/watch?v=5MBu6Xhuj38"
   },
+  "obsesion 12 14 10 18 30 obsesion": null,
   "scary movie terrorificamente incorrecta": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "director": "Michael Tiddes",
     "duracion": 96,
+    "elenco": [
+      "Marlon Wayans",
+      "Shawn Wayans",
+      "Anna Faris"
+    ],
     "generos": [
-      "Comedia",
-      "Terror"
+      "Comedia"
+    ],
+    "paises": [
+      "United States of America"
     ],
     "poster": "https://image.tmdb.org/t/p/w342/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
-    "score": 5.528,
+    "score": 5.533,
     "sinopsis": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
     "titulo": "Scary Movie",
     "titulo_original": "Scary Movie",
-    "tmdb_id": 1273221
+    "tmdb_id": 1273221,
+    "trailer": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0"
   },
   "star wars the mandalorian grogu": {
     "anio": "2026",
@@ -206,7 +299,14 @@
   },
   "super mario galaxy": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+    "director": "Michael Jelenic",
     "duracion": 98,
+    "elenco": [
+      "Chris Pratt",
+      "Anya Taylor-Joy",
+      "Charlie Day"
+    ],
     "generos": [
       "Familia",
       "Comedia",
@@ -214,15 +314,21 @@
       "Fantasía",
       "Animación"
     ],
+    "paises": [
+      "Japan",
+      "United States of America"
+    ],
     "poster": "https://image.tmdb.org/t/p/w342/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-    "score": 8.222,
+    "score": 8.226,
     "sinopsis": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
     "titulo": "Super Mario Galaxy la película",
     "titulo_original": "The Super Mario Galaxy Movie",
-    "tmdb_id": 1226863
+    "tmdb_id": 1226863,
+    "trailer": "https://www.youtube.com/watch?v=Hz57G2KaAp8"
   },
   "supergirl": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vk5IwZNS35wh6rNmqB1ns6XuiyI.jpg",
     "director": "Craig Gillespie",
     "duracion": 108,
     "elenco": [
@@ -239,7 +345,7 @@
       "United States of America"
     ],
     "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
-    "score": 6.38,
+    "score": 6.2,
     "sinopsis": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
     "titulo": "Supergirl",
     "titulo_original": "Supergirl",
@@ -248,18 +354,29 @@
   },
   "toy story 5": {
     "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "director": "Andrew Stanton",
     "duracion": 102,
+    "elenco": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ],
     "generos": [
       "Animación",
       "Familia",
       "Comedia",
       "Aventura"
     ],
+    "paises": [
+      "United States of America"
+    ],
     "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-    "score": 7.437,
+    "score": 7.48,
     "sinopsis": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
     "titulo": "Toy Story 5",
     "titulo_original": "Toy Story 5",
-    "tmdb_id": 1084244
+    "tmdb_id": 1084244,
+    "trailer": "https://www.youtube.com/watch?v=9_reo5Jl1OM"
   }
 }
