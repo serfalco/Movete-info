@@ -163,8 +163,17 @@ p {
 }
 
 .button[data-share-page] {
-  background: var(--whatsapp);
+  align-items: center;
+  background: #fff;
   color: var(--ink);
+  display: inline-flex;
+  gap: 7px;
+}
+
+.share-icon {
+  flex: 0 0 auto;
+  height: 16px;
+  width: 16px;
 }
 
 .button.small {
@@ -369,9 +378,12 @@ nav a:focus-visible,
 }
 
 .footer-links [data-share-page] {
-  background: var(--whatsapp);
-  border-color: var(--whatsapp-dark);
+  align-items: center;
+  background: #fff;
+  border-color: var(--line);
   color: var(--ink);
+  display: inline-flex;
+  gap: 6px;
 }
 
 .mobile-nav {
@@ -563,7 +575,11 @@ nav a:focus-visible,
   }
 
   .mobile-nav [data-share-page] {
-    color: var(--whatsapp-dark);
+    align-items: center;
+    color: var(--ink);
+    display: flex;
+    gap: 4px;
+    justify-content: center;
   }
 
   .footer-inner {
