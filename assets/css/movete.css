@@ -4,6 +4,8 @@
   --accent: #ff5128;
   --accent2: #e8c547;
   --shadow: #5b5750;
+  --whatsapp: #25d366;
+  --whatsapp-dark: #0b6b35;
   --muted: #6f6a61;
   --card: #fffaf0;
   --line: rgba(14, 13, 16, .16);
@@ -158,6 +160,11 @@ p {
   background: var(--accent);
   color: var(--ink);
   box-shadow: 2px 2px 0 var(--shadow);
+}
+
+.button[data-share-page] {
+  background: var(--whatsapp);
+  color: var(--ink);
 }
 
 .button.small {
@@ -361,6 +368,12 @@ nav a:focus-visible,
   text-decoration: none;
 }
 
+.footer-links [data-share-page] {
+  background: var(--whatsapp);
+  border-color: var(--whatsapp-dark);
+  color: var(--ink);
+}
+
 .mobile-nav {
   display: none;
 }
@@ -547,6 +560,10 @@ nav a:focus-visible,
   .mobile-nav a[aria-current="page"] {
     background: var(--accent2);
     color: var(--ink);
+  }
+
+  .mobile-nav [data-share-page] {
+    color: var(--whatsapp-dark);
   }
 
   .footer-inner {
