@@ -8,6 +8,9 @@
   --line: rgba(14, 13, 16, .16);
   --radius: 22px;
   --max: 1120px;
+  --font-body: "Trebuchet MS", "Segoe UI", system-ui, sans-serif;
+  --font-display: "Franklin Gothic Medium", "Bahnschrift", "Arial Narrow", "Segoe UI", sans-serif;
+  --font-action: "Bahnschrift", "Franklin Gothic Medium", "Arial Narrow", "Segoe UI", sans-serif;
 }
 
 * {
@@ -20,7 +23,7 @@ html {
 
 body {
   margin: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: var(--font-body);
   color: var(--ink);
   background:
     radial-gradient(circle at top left, rgba(255, 81, 40, .12), transparent 32rem),
@@ -41,10 +44,11 @@ a {
 }
 
 .brand {
+  font-family: var(--font-display);
   font-size: 1.5rem;
   font-weight: 950;
   text-decoration: none;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.02em;
 }
 
 .brand span {
@@ -58,6 +62,7 @@ nav {
 }
 
 nav a {
+  font-family: var(--font-action);
   text-decoration: none;
   font-weight: 800;
 }
@@ -83,6 +88,7 @@ main {
 .eyebrow,
 .tag,
 .ad-label {
+  font-family: var(--font-action);
   text-transform: uppercase;
   letter-spacing: .08em;
   font-size: .78rem;
@@ -92,25 +98,28 @@ main {
 }
 
 h1 {
+  font-family: var(--font-display);
   font-size: clamp(3rem, 10vw, 7rem);
   line-height: .88;
   margin: 10px 0 20px;
-  letter-spacing: -0.08em;
+  letter-spacing: -0.025em;
   max-width: 960px;
 }
 
 h2 {
+  font-family: var(--font-display);
   font-size: clamp(1.65rem, 4vw, 2.5rem);
   line-height: 1;
   margin: 8px 0 12px;
-  letter-spacing: -0.05em;
+  letter-spacing: -0.015em;
 }
 
 h3 {
+  font-family: var(--font-display);
   font-size: 1.25rem;
   line-height: 1.12;
   margin: 0 0 8px;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.01em;
 }
 
 p {
@@ -136,13 +145,17 @@ p {
   background: var(--ink);
   color: var(--paper);
   padding: 13px 18px;
-  border-radius: 999px;
+  border: 2px solid var(--ink);
+  border-radius: 4px;
+  box-shadow: 3px 3px 0 var(--ink);
+  font-family: var(--font-action);
   text-decoration: none;
   font-weight: 900;
 }
 
 .button.secondary {
   background: var(--accent);
+  color: var(--ink);
 }
 
 .button.small {
@@ -218,7 +231,7 @@ p {
 .filter-button {
   display: inline-block;
   border: 1px solid var(--line);
-  border-radius: 999px;
+  border-radius: 4px;
   padding: 6px 10px;
   font-size: .78rem;
   font-weight: 900;
@@ -228,7 +241,7 @@ p {
 .filter-button {
   color: var(--ink);
   cursor: pointer;
-  font-family: inherit;
+  font-family: var(--font-action);
 }
 
 .filter-button.is-active {
@@ -290,10 +303,11 @@ nav a:focus-visible,
 }
 
 .footer-title {
+  font-family: var(--font-display);
   color: var(--ink);
   font-size: 1.6rem;
   font-weight: 950;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.015em;
 }
 
 .footer-links {
@@ -306,11 +320,11 @@ nav a:focus-visible,
 .footer-links a,
 .footer-links button {
   border: 1px solid var(--line);
-  border-radius: 999px;
+  border-radius: 4px;
   background: rgba(255, 250, 240, .65);
   color: var(--ink);
   cursor: pointer;
-  font: inherit;
+  font-family: var(--font-action);
   font-size: .9rem;
   font-weight: 900;
   padding: 9px 12px;
@@ -357,7 +371,8 @@ nav a:focus-visible,
 
 .times li {
   background: rgba(14, 13, 16, .08);
-  border-radius: 999px;
+  border-radius: 4px;
+  font-family: var(--font-action);
   padding: 6px 10px;
   font-weight: 900;
   font-size: .9rem;
@@ -372,6 +387,27 @@ nav a:focus-visible,
 @media (max-width: 720px) {
   body {
     padding-bottom: 78px;
+  }
+
+  h1 {
+    font-size: clamp(2.45rem, 13vw, 3.9rem);
+    line-height: .92;
+    letter-spacing: -0.02em;
+  }
+
+  h2 {
+    font-size: 1.45rem;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+  }
+
+  h3 {
+    font-size: 1.08rem;
+    line-height: 1.18;
+  }
+
+  p {
+    font-size: .96rem;
   }
 
   .site-header {
@@ -393,7 +429,36 @@ nav a:focus-visible,
   }
 
   .lead {
-    font-size: 1.08rem;
+    font-size: 1rem;
+    line-height: 1.45;
+  }
+
+  .eyebrow,
+  .tag,
+  .ad-label {
+    font-size: .68rem;
+  }
+
+  .card,
+  .ad-box,
+  .event-card {
+    padding: 20px;
+  }
+
+  .button {
+    padding: 11px 15px;
+    font-size: .92rem;
+  }
+
+  .button.small {
+    padding: 9px 12px;
+    font-size: .85rem;
+  }
+
+  .filter-button,
+  .pill {
+    font-size: .72rem;
+    padding: 5px 9px;
   }
 
   .actions,
@@ -428,7 +493,7 @@ nav a:focus-visible,
     padding: 7px;
     background: rgba(255, 250, 240, .9);
     border: 1px solid var(--line);
-    border-radius: 999px;
+    border-radius: 6px;
     box-shadow: 0 16px 40px rgba(14, 13, 16, .18);
     backdrop-filter: blur(14px);
   }
@@ -437,12 +502,12 @@ nav a:focus-visible,
   .mobile-nav button {
     display: block;
     border: 0;
-    border-radius: 999px;
+    border-radius: 4px;
     background: transparent;
     color: var(--ink);
     cursor: pointer;
-    font: inherit;
-    font-size: .78rem;
+    font-family: var(--font-action);
+    font-size: .72rem;
     font-weight: 950;
     padding: 10px 8px;
     text-align: center;
@@ -471,6 +536,10 @@ nav a:focus-visible,
 
   .movie-poster {
     width: 82px;
+  }
+
+  .times li {
+    font-size: .78rem;
   }
 }
 /* Extras para fichas enriquecidas de cine */
