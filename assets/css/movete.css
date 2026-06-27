@@ -3,6 +3,7 @@
   --paper: #f5f1e8;
   --accent: #ff5128;
   --accent2: #e8c547;
+  --shadow: #5b5750;
   --muted: #6f6a61;
   --card: #fffaf0;
   --line: rgba(14, 13, 16, .16);
@@ -52,7 +53,7 @@ a {
 }
 
 .brand span {
-  color: var(--accent);
+  color: var(--accent2);
 }
 
 nav {
@@ -64,7 +65,7 @@ nav {
 nav a {
   font-family: var(--font-action);
   text-decoration: none;
-  font-weight: 800;
+  font-weight: 650;
 }
 
 nav a[aria-current="page"] {
@@ -147,15 +148,16 @@ p {
   padding: 13px 18px;
   border: 2px solid var(--ink);
   border-radius: 4px;
-  box-shadow: 3px 3px 0 var(--ink);
+  box-shadow: 2px 2px 0 var(--shadow);
   font-family: var(--font-action);
   text-decoration: none;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .button.secondary {
   background: var(--accent);
   color: var(--ink);
+  box-shadow: 2px 2px 0 var(--shadow);
 }
 
 .button.small {
@@ -165,6 +167,22 @@ p {
 
 .quick-nav {
   align-items: center;
+}
+
+.movida-intro {
+  color: var(--muted);
+  margin-top: 32px;
+  max-width: 720px;
+}
+
+.movida-intro .eyebrow {
+  margin-bottom: 6px;
+}
+
+.movida-intro p:last-child {
+  font-size: 1rem;
+  line-height: 1.55;
+  margin: 0;
 }
 
 .grid {
@@ -192,12 +210,20 @@ p {
 
 .card a,
 .event-card a {
-  font-weight: 900;
+  font-weight: 700;
   text-decoration: none;
 }
 
 .section {
   margin-top: 44px;
+}
+
+.site-notice {
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: .88rem;
+  margin: 32px 0 0;
+  padding-top: 18px;
 }
 
 .day-block {
@@ -227,6 +253,10 @@ p {
   margin-top: 12px;
 }
 
+.edition-filters {
+  margin-top: 28px;
+}
+
 .pill,
 .filter-button {
   display: inline-block;
@@ -234,7 +264,7 @@ p {
   border-radius: 4px;
   padding: 6px 10px;
   font-size: .78rem;
-  font-weight: 900;
+  font-weight: 700;
   background: rgba(232, 197, 71, .18);
 }
 
@@ -245,9 +275,9 @@ p {
 }
 
 .filter-button.is-active {
-  background: var(--ink);
+  background: var(--accent2);
   border-color: var(--ink);
-  color: var(--paper);
+  color: var(--ink);
 }
 
 .filter-bar {
@@ -326,7 +356,7 @@ nav a:focus-visible,
   cursor: pointer;
   font-family: var(--font-action);
   font-size: .9rem;
-  font-weight: 900;
+  font-weight: 700;
   padding: 9px 12px;
   text-decoration: none;
 }
@@ -508,15 +538,15 @@ nav a:focus-visible,
     cursor: pointer;
     font-family: var(--font-action);
     font-size: .72rem;
-    font-weight: 950;
+    font-weight: 700;
     padding: 10px 8px;
     text-align: center;
     text-decoration: none;
   }
 
   .mobile-nav a[aria-current="page"] {
-    background: var(--ink);
-    color: var(--paper);
+    background: var(--accent2);
+    color: var(--ink);
   }
 
   .footer-inner {
