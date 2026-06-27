@@ -37,28 +37,10 @@
   });
 
   document.querySelectorAll("[data-share-page]").forEach((button) => {
-    button.addEventListener("click", async () => {
-      const shareData = {
-        title: document.title,
-        text: "Mirá la cartelera de MoVeTe.",
-        url: window.location.href,
-      };
-
-      try {
-        if (navigator.share) {
-          await navigator.share(shareData);
-          return;
-        }
-
-        await navigator.clipboard.writeText(window.location.href);
-        const original = button.textContent;
-        button.textContent = "Copiado";
-        setTimeout(() => {
-          button.textContent = original;
-        }, 1600);
-      } catch (_error) {
-        button.textContent = "Copiá el link";
-      }
+    button.addEventListener("click", () => {
+      const message = `Mirá esta cartelera en MoVeTe:\n${document.title}\n${window.location.href}`;
+      const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(message)}`;
+      window.open(whatsappUrl, "_blank", "noopener,noreferrer");
     });
   });
 })();
