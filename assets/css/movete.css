@@ -262,6 +262,98 @@ p {
   margin: 0 0 12px;
 }
 
+.venue-address {
+  font-size: .86rem;
+  margin-top: -4px;
+}
+
+.venue-address a {
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.independent-cinema-card {
+  min-height: 260px;
+  display: flex;
+  flex-direction: column;
+  border-top: 4px solid var(--accent2);
+  border-radius: 8px;
+  padding: 22px;
+}
+
+.independent-card-topline {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.independent-card-topline .event-date,
+.independent-card-topline .pill {
+  margin: 0;
+}
+
+.independent-cinema-card h3 {
+  margin: 18px 0 8px;
+}
+
+.independent-venue {
+  margin-top: auto;
+  padding-top: 24px;
+}
+
+.venue-name {
+  margin: 0 0 10px;
+  font-family: var(--font-action);
+  font-size: .94rem;
+  font-weight: 700;
+}
+
+.map-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 11px 12px;
+  color: var(--ink);
+  background: rgba(232, 197, 71, .18);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  transition: background-color .18s ease, border-color .18s ease;
+}
+
+.map-link:hover,
+.map-link:focus-visible {
+  background: rgba(232, 197, 71, .32);
+  border-color: var(--accent2);
+}
+
+.map-icon {
+  width: 22px;
+  height: 22px;
+  flex: 0 0 auto;
+}
+
+.map-copy,
+.map-label,
+.map-address {
+  display: block;
+}
+
+.map-label {
+  font-family: var(--font-action);
+  font-size: .76rem;
+  font-weight: 700;
+}
+
+.map-address {
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: .82rem;
+  font-weight: 500;
+  line-height: 1.35;
+}
+
 .pill-row {
   display: flex;
   flex-wrap: wrap;
@@ -329,6 +421,13 @@ nav a:focus-visible,
   border-style: dashed;
 }
 
+.cinema-sponsor {
+  background: rgba(232, 197, 71, .18);
+  border-color: var(--accent);
+  border-style: solid;
+  margin-top: 12px;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   padding: 32px 18px;
@@ -393,26 +492,35 @@ nav a:focus-visible,
 /* Cine */
 .movie-list {
   display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 18px;
 }
 
 .movie-card {
-  display: grid;
-  grid-template-columns: 110px 1fr;
-  gap: 18px;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
   background: var(--card);
   border: 1px solid var(--line);
-  border-radius: var(--radius);
-  padding: 18px;
+  border-radius: 8px;
+  overflow: hidden;
   box-shadow: 0 14px 35px rgba(14, 13, 16, .05);
 }
 
-.movie-poster {
-  width: 110px;
-  aspect-ratio: 2 / 3;
+.movie-backdrop {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
-  border-radius: 14px;
-  background: rgba(14, 13, 16, .08);
+  background: var(--ink);
+}
+
+.movie-backdrop.portrait-fallback {
+  object-fit: contain;
+}
+
+.movie-card-body {
+  padding: 18px;
 }
 
 .times {
@@ -592,13 +700,8 @@ nav a:focus-visible,
 }
 
 @media (max-width: 640px) {
-  .movie-card {
-    grid-template-columns: 82px 1fr;
-    gap: 14px;
-  }
-
-  .movie-poster {
-    width: 82px;
+  .movie-list {
+    grid-template-columns: 1fr;
   }
 
   .times li {
