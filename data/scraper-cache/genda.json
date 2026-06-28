@@ -1,35 +1,8 @@
 [
   {
-    "titulo": "Argentina en pantalla grande",
-    "fecha": "2026-06-27 23:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "La nuez podrida + Choco con la bici + Valeriano",
-    "fecha": "2026-06-27 23:00:00",
-    "lugar": "Casa Unclan",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Fiesta incógnita",
-    "fecha": "2026-06-27 23:55:00",
-    "lugar": "Pura Vida",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Doble J + Set Dj Uriel",
-    "fecha": "2026-06-27 23:55:00",
-    "lugar": "Guajira Bar",
+    "titulo": "Torneo de Rompecabezas",
+    "fecha": "2026-06-28 11:00:00",
+    "lugar": "Centro Gallego de la Plata",
     "direccion": "",
     "categoria": "teatro",
     "url": "",
@@ -54,6 +27,15 @@
     "fuente": "genda"
   },
   {
+    "titulo": "La Plata Lúdica - juegos de mesa y rol",
+    "fecha": "2026-06-28 14:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Merienda y mosaiquismo",
     "fecha": "2026-06-28 16:00:00",
     "lugar": "Lázuli",
@@ -67,7 +49,7 @@
     "fecha": "2026-06-28 16:00:00",
     "lugar": "Escenario 40",
     "direccion": "",
-    "categoria": "infantil",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -76,7 +58,7 @@
     "fecha": "2026-06-28 16:00:00",
     "lugar": "Teatro La Nonna",
     "direccion": "",
-    "categoria": "infantil",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -85,7 +67,7 @@
     "fecha": "2026-06-28 17:00:00",
     "lugar": "La Plata",
     "direccion": "",
-    "categoria": "musica",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -94,7 +76,7 @@
     "fecha": "2026-06-28 17:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "cine",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -112,7 +94,7 @@
     "fecha": "2026-06-28 17:00:00",
     "lugar": "Teatro Metro",
     "direccion": "",
-    "categoria": "infantil",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -121,7 +103,7 @@
     "fecha": "2026-06-28 18:00:00",
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
-    "categoria": "cine",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -130,7 +112,7 @@
     "fecha": "2026-06-28 18:00:00",
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
-    "categoria": "cine",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -139,7 +121,7 @@
     "fecha": "2026-06-28 18:00:00",
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "musica",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -148,7 +130,7 @@
     "fecha": "2026-06-28 18:05:00",
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "a-plasticas",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -166,7 +148,7 @@
     "fecha": "2026-06-28 19:00:00",
     "lugar": "La Peña de las Bellas Artes",
     "direccion": "",
-    "categoria": "musica",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -184,7 +166,16 @@
     "fecha": "2026-06-28 19:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "cine",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Día del Orgullo LGBTTTIQ+",
+    "fecha": "2026-06-28 19:00:00",
+    "lugar": "Calle UNO, Casa de Cultura",
+    "direccion": "",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -211,7 +202,7 @@
     "fecha": "2026-06-28 20:00:00",
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
-    "categoria": "cine",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -220,7 +211,7 @@
     "fecha": "2026-06-28 20:00:00",
     "lugar": "Desafinado Club",
     "direccion": "",
-    "categoria": "musica",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -229,7 +220,7 @@
     "fecha": "2026-06-28 20:00:00",
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
-    "categoria": "cine",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -238,7 +229,7 @@
     "fecha": "2026-06-28 21:00:00",
     "lugar": "Pura Vida",
     "direccion": "",
-    "categoria": "musica",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -247,7 +238,7 @@
     "fecha": "2026-06-28 21:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "cine",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   },
@@ -914,6 +905,78 @@
     "lugar": "Casa Unclan",
     "direccion": "",
     "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Yuna soy yo",
+    "fecha": "2026-07-11 18:00:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Mito del Rey + La Mirada sin hilo",
+    "fecha": "2026-07-11 20:00:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Peña patria",
+    "fecha": "2026-07-11 20:00:00",
+    "lugar": "Comunidad Ferroviaria",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Palito Ortega",
+    "fecha": "2026-07-11 21:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Sebastián Mendoza",
+    "fecha": "2026-07-11 21:00:00",
+    "lugar": "Retro disco",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Varieté o ke - Danza, clown, teatro, poesía",
+    "fecha": "2026-07-11 21:00:00",
+    "lugar": "La Bulla Cultural",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La Nona",
+    "fecha": "2026-07-11 21:00:00",
+    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Empoederadas - Cuatro cuentos clásicos de Poe",
+    "fecha": "2026-07-11 21:30:00",
+    "lugar": "Escenario 40",
+    "direccion": "",
+    "categoria": "teatro",
     "url": "",
     "fuente": "genda"
   }
