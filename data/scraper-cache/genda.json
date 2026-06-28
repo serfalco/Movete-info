@@ -4,8 +4,8 @@
     "fecha": "2026-06-28 11:00:00",
     "lugar": "Centro Gallego de la Plata",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/torneo-de-rompecabezas-centro-gallego-de-la-plata-20260607234430",
     "fuente": "genda"
   },
   {
@@ -13,8 +13,8 @@
     "fecha": "2026-06-28 13:00:00",
     "lugar": "La Plata",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/la-plata-al-piso-x-bajitos-evento-de-autos-20260616011803",
     "fuente": "genda"
   },
   {
@@ -22,8 +22,8 @@
     "fecha": "2026-06-28 13:30:00",
     "lugar": "Museo de Ciencias Naturales de La Plata",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/un-viaje-por-el-aire-y-el-tiempo-animales-del-pasado-y-el-presente-museo-de-ciencias-naturales-de-la-plata-20260620150505",
     "fuente": "genda"
   },
   {
@@ -31,8 +31,8 @@
     "fecha": "2026-06-28 14:00:00",
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/la-plata-ludica-juegos-de-mesa-y-rol-pasaje-dardo-rocha-20260504215324",
     "fuente": "genda"
   },
   {
@@ -40,8 +40,8 @@
     "fecha": "2026-06-28 16:00:00",
     "lugar": "Lázuli",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/merienda-y-mosaiquismo-lazuli-20260620170824",
     "fuente": "genda"
   },
   {
@@ -49,8 +49,8 @@
     "fecha": "2026-06-28 16:00:00",
     "lugar": "Escenario 40",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/aladdin-y-el-hechizo-de-la-lampara-escenario-40-20260623022333",
     "fuente": "genda"
   },
   {
@@ -58,8 +58,8 @@
     "fecha": "2026-06-28 16:00:00",
     "lugar": "Teatro La Nonna",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/clarita-y-sus-princesas-teatro-la-nonna-20260609015146",
     "fuente": "genda"
   },
   {
@@ -67,8 +67,8 @@
     "fecha": "2026-06-28 17:00:00",
     "lugar": "La Plata",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/el-pibe-materia-desatanudos-poderes-extranos-tranza-las-olas-rompen-no-fumar-20260616012101",
     "fuente": "genda"
   },
   {
@@ -76,8 +76,17 @@
     "fecha": "2026-06-28 17:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/un-solo-latido-cine-club-proyecciones-terrestres-20260623012059",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Dafnis y Cloe (Maurice Ravel + coreografía Carlos Trunsky) - Adagietto (Gustav Mahler - coreo Oscar Araiz) - Bolero (Mau",
+    "fecha": "2026-06-28 17:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/dafnis-y-cloe-maurice-ravel-coreografia-carlos-trunsky-adagietto-gustav-mahler-coreo-oscar-araiz-bolero-maurice-ravel-coreo-romina-simone-teatro-argentino-centro-provincial-de-las-artes-20260616014815",
     "fuente": "genda"
   },
   {
@@ -86,7 +95,7 @@
     "lugar": "Espacio Medusa",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/cortado-doble-espacio-medusa-20260612011402",
     "fuente": "genda"
   },
   {
@@ -94,8 +103,8 @@
     "fecha": "2026-06-28 17:00:00",
     "lugar": "Teatro Metro",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/pequeno-pez-teatro-metro-20260508190340",
     "fuente": "genda"
   },
   {
@@ -103,8 +112,8 @@
     "fecha": "2026-06-28 18:00:00",
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
     "fuente": "genda"
   },
   {
@@ -112,8 +121,8 @@
     "fecha": "2026-06-28 18:00:00",
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-frecuencia-kirlian-cine-select-espacio-incaa-20260624221459",
     "fuente": "genda"
   },
   {
@@ -121,8 +130,8 @@
     "fecha": "2026-06-28 18:00:00",
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/sol-ariens-pasaje-dardo-rocha-20260624220339",
     "fuente": "genda"
   },
   {
@@ -130,8 +139,8 @@
     "fecha": "2026-06-28 18:05:00",
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/expo-foto-la-plata-pasaje-dardo-rocha-20260627014324",
     "fuente": "genda"
   },
   {
@@ -140,7 +149,7 @@
     "lugar": "Teatro Espacio 44",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/con-tu-propio-miedo-teatro-espacio-44-20260627015556",
     "fuente": "genda"
   },
   {
@@ -148,8 +157,8 @@
     "fecha": "2026-06-28 19:00:00",
     "lugar": "La Peña de las Bellas Artes",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/cuarteto-tarabust-beethoven-prokofiev-la-pena-de-las-bellas-artes-20260624203040",
     "fuente": "genda"
   },
   {
@@ -157,8 +166,8 @@
     "fecha": "2026-06-28 19:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/carles-el-eslabon-perdido-del-rock-nacional-teatro-abierto-20260604235959",
     "fuente": "genda"
   },
   {
@@ -166,8 +175,8 @@
     "fecha": "2026-06-28 19:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/gatillero-2025-dir-cris-tapia-marchiori-cine-club-proyecciones-terrestres-20260602223505",
     "fuente": "genda"
   },
   {
@@ -175,8 +184,8 @@
     "fecha": "2026-06-28 19:00:00",
     "lugar": "Calle UNO, Casa de Cultura",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/dia-del-orgullo-lgbtttiq-calle-uno-casa-de-cultura-20260623010743",
     "fuente": "genda"
   },
   {
@@ -185,7 +194,7 @@
     "lugar": "Casa Hereje",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/petit-hotel-el-ultimo-suspiro-un-hospedaje-clownesco-casa-hereje-20260616014935",
     "fuente": "genda"
   },
   {
@@ -194,7 +203,7 @@
     "lugar": "Teatro y Museo Coliseo Podestá",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/maldita-felicidad-teatro-y-museo-coliseo-podesta-20260508192623",
     "fuente": "genda"
   },
   {
@@ -202,8 +211,8 @@
     "fecha": "2026-06-28 20:00:00",
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-parte-del-leon-dir-adolfo-aristarain-cine-select-espacio-incaa-20260612005409",
     "fuente": "genda"
   },
   {
@@ -211,8 +220,8 @@
     "fecha": "2026-06-28 20:00:00",
     "lugar": "Desafinado Club",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/zero-afro-jazz-desafinado-club-20260623013349",
     "fuente": "genda"
   },
   {
@@ -220,8 +229,8 @@
     "fecha": "2026-06-28 20:00:00",
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/terciopelo-azul-cine-ecoselect-espacio-incaa-20260607024721",
     "fuente": "genda"
   },
   {
@@ -229,8 +238,8 @@
     "fecha": "2026-06-28 21:00:00",
     "lugar": "Pura Vida",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/flema-30-anos-pura-vida-20260624214621",
     "fuente": "genda"
   },
   {
@@ -238,8 +247,8 @@
     "fecha": "2026-06-28 21:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/aguirre-la-ira-de-dios-cine-club-proyecciones-terrestres-20260623012717",
     "fuente": "genda"
   },
   {
@@ -248,7 +257,7 @@
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/la-frecuencia-kirlian-cine-select-espacio-incaa-20260624221459",
     "fuente": "genda"
   },
   {
@@ -257,16 +266,16 @@
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/la-terraza-cine-select-espacio-incaa-20260624232300",
     "fuente": "genda"
   },
   {
     "titulo": "Un maldito embrollo (Pietro Germi, 1959)",
     "fecha": "2026-06-30 16:00:00",
-    "lugar": "Asociación de Jubilados y Pensionados de la Caja de Previsión Social para Abogados de la Prov de Bs",
+    "lugar": "Asociación de Jubilados y Pensionados de la Caja de Previsión Social para Abogados de la Prov de Bs ",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/un-maldito-embrollo-pietro-germi-1959-asociacion-de-jubilados-y-pensionados-de-la-caja-de-prevision-social-para-abogados-de-la-prov-de-bs-as-20260516222457",
     "fuente": "genda"
   },
   {
@@ -275,7 +284,7 @@
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
     "fuente": "genda"
   },
   {
@@ -284,7 +293,7 @@
     "lugar": "Museo Almafuerte",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/la-musica-esta-en-el-poema-museo-almafuerte-20260609033300",
     "fuente": "genda"
   },
   {
@@ -293,7 +302,7 @@
     "lugar": "Macá Cultura",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/luna-violeta-ensamble-de-mujeres-y-disidencias-maca-cultura-20260612002457",
     "fuente": "genda"
   },
   {
@@ -302,7 +311,7 @@
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/la-frecuencia-kirlian-cine-select-espacio-incaa-20260624221459",
     "fuente": "genda"
   },
   {
@@ -310,8 +319,8 @@
     "fecha": "2026-06-30 20:00:00",
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
-    "categoria": "cine",
-    "url": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/memoria-externa-muestra-cortos-estudiantes-de-cine-unlp-cine-ecoselect-espacio-incaa-20260624233352",
     "fuente": "genda"
   },
   {
@@ -320,7 +329,7 @@
     "lugar": "Refugio 62",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/sorry-to-bother-you-boots-riley-2018-refugio-62-20260607051224",
     "fuente": "genda"
   },
   {
@@ -329,7 +338,7 @@
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/corpse-can-t-play-dead-of-night-the-exorcism-cine-select-espacio-incaa-20260624232446",
     "fuente": "genda"
   },
   {
@@ -337,8 +346,8 @@
     "fecha": "2026-07-01 17:30:00",
     "lugar": "Escenario 40",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/curso-de-magia-escenario-40-20260612010157",
     "fuente": "genda"
   },
   {
@@ -347,7 +356,7 @@
     "lugar": "Teatro Bar Cultural La Ferretería",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/sembrando-ilusiones-luigi-comencini-1972-teatro-bar-cultural-la-ferreteria-20260609011529",
     "fuente": "genda"
   },
   {
@@ -356,7 +365,7 @@
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
     "fuente": "genda"
   },
   {
@@ -365,7 +374,7 @@
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/la-frecuencia-kirlian-cine-select-espacio-incaa-20260624221459",
     "fuente": "genda"
   },
   {
@@ -374,7 +383,7 @@
     "lugar": "Desafinado Club",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/amarcord-federico-fellini-1973-desafinado-club-20260626210649",
     "fuente": "genda"
   },
   {
@@ -383,7 +392,7 @@
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/pi-fe-en-el-caos-darren-aronofsky-1998-cine-ecoselect-espacio-incaa-20260624233517",
     "fuente": "genda"
   },
   {
@@ -392,7 +401,7 @@
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/olor-a-tigre-la-intimidad-de-los-recitales-de-los-redondos-cine-select-espacio-incaa-20260624232556",
     "fuente": "genda"
   },
   {
@@ -400,8 +409,8 @@
     "fecha": "2026-07-02 18:00:00",
     "lugar": "Ciudad de Gatos",
     "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/bang-bang-estas-en-la-plata-un-homenaje-platense-a-la-obra-del-indio-ciudad-de-gatos-20260617123011",
     "fuente": "genda"
   },
   {
@@ -410,7 +419,7 @@
     "lugar": "La Peña de las Bellas Artes",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/mitos-y-leyendas-de-mi-ciudad-narracion-oral-musica-la-pena-de-las-bellas-artes-20260617123146",
     "fuente": "genda"
   },
   {
@@ -419,7 +428,7 @@
     "lugar": "Teatro y Museo Coliseo Podestá",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/acassuso-teatro-y-museo-coliseo-podesta-20260612000303",
     "fuente": "genda"
   },
   {
@@ -428,7 +437,7 @@
     "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/mysterious-skin-dir-gregg-araki-eeuu-2004-cine-club-proyecciones-terrestres-20260624215438",
     "fuente": "genda"
   },
   {
@@ -437,7 +446,7 @@
     "lugar": "Teatro Metro",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/gordillo-20-anos-1-teatro-metro-20260509234459",
     "fuente": "genda"
   },
   {
@@ -445,8 +454,8 @@
     "fecha": "2026-07-03 12:00:00",
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/4ta-edicion-de-laplatacomic-invitado-especial-trukini-pasaje-dardo-rocha-20260526024941",
     "fuente": "genda"
   },
   {
@@ -455,7 +464,7 @@
     "lugar": "Espacio Satélite",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/tesis-1996-de-alejandro-amenabar-espacio-satelite-20260602225556",
     "fuente": "genda"
   },
   {
@@ -464,7 +473,7 @@
     "lugar": "Ciudad de Gatos",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/mundial-de-bandas-ciudad-de-gatos-20260627012156",
     "fuente": "genda"
   },
   {
@@ -473,7 +482,7 @@
     "lugar": "Teatro Opera",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/nonpalidese-nonpalidesenchufado-teatro-opera-20260618222648",
     "fuente": "genda"
   },
   {
@@ -482,7 +491,7 @@
     "lugar": "Teatro El Escape",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/13-y-martes-teatro-el-escape-20260607231820",
     "fuente": "genda"
   },
   {
@@ -491,7 +500,7 @@
     "lugar": "Guajira Bar",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/tinta-kalahari-red-bazz-guajira-bar-20260616231337",
     "fuente": "genda"
   },
   {
@@ -500,7 +509,7 @@
     "lugar": "La Plata",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/lula-bertoldi-20260606213437",
     "fuente": "genda"
   },
   {
@@ -509,7 +518,7 @@
     "lugar": "El Teatro BAR",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/she-loves-90s-el-teatro-bar-20260529011452",
     "fuente": "genda"
   },
   {
@@ -518,7 +527,7 @@
     "lugar": "Esquina América",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/perro-azul-utimo-tren-esquina-america-20260626210054",
     "fuente": "genda"
   },
   {
@@ -527,7 +536,7 @@
     "lugar": "Pura Vida",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/fraxu-gente-conversando-pura-vida-20260624213009",
     "fuente": "genda"
   },
   {
@@ -535,8 +544,8 @@
     "fecha": "2026-07-04 12:00:00",
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/4ta-edicion-de-laplatacomic-invitado-especial-trukini-pasaje-dardo-rocha-20260526024941",
     "fuente": "genda"
   },
   {
@@ -544,8 +553,8 @@
     "fecha": "2026-07-04 16:30:00",
     "lugar": "La Peña de las Bellas Artes",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/cafe-literario-la-pena-de-las-bellas-artes-20260620173604",
     "fuente": "genda"
   },
   {
@@ -553,8 +562,8 @@
     "fecha": "2026-07-04 17:00:00",
     "lugar": "Casa Hereje",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/presentacion-de-revista-zaguan-casa-hereje-20260624220837",
     "fuente": "genda"
   },
   {
@@ -562,8 +571,8 @@
     "fecha": "2026-07-04 18:00:00",
     "lugar": "El Galpón de fierro",
     "direccion": "",
-    "categoria": "musica",
-    "url": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/humedas-historias-platenses-el-galpon-de-fierro-20260620145905",
     "fuente": "genda"
   },
   {
@@ -572,7 +581,7 @@
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
     "categoria": "infantil",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/metal-warrior-eddie-cruz-pasaje-dardo-rocha-20260626224906",
     "fuente": "genda"
   },
   {
@@ -580,8 +589,8 @@
     "fecha": "2026-07-04 19:00:00",
     "lugar": "Club Ateneo Popular",
     "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/festejamos-los-aniversarios-de-cadiz-napoles-rb-flash-tatto-serigrafia-feria-de-pilchas-vinilos-libros-club-ateneo-popular-20260620144506",
     "fuente": "genda"
   },
   {
@@ -590,7 +599,7 @@
     "lugar": "Dynamo Teatro",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/insurrectxs-dynamo-teatro-20260601224107",
     "fuente": "genda"
   },
   {
@@ -599,7 +608,7 @@
     "lugar": "Teatro de Cámara City Bell",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/duo-gonilski-pishenin-teatro-de-camara-city-bell-20260626210401",
     "fuente": "genda"
   },
   {
@@ -608,7 +617,7 @@
     "lugar": "Ciudad de Gatos",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/las-ligas-menores-ciudad-de-gatos-20260612003528",
     "fuente": "genda"
   },
   {
@@ -617,7 +626,7 @@
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/residuos-una-poetica-del-espanto-pasaje-dardo-rocha-20260627002947",
     "fuente": "genda"
   },
   {
@@ -626,7 +635,7 @@
     "lugar": "El Galpón de La Caterva",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/templo-estancia-batallon-el-galpon-de-la-caterva-20260627020033",
     "fuente": "genda"
   },
   {
@@ -635,7 +644,7 @@
     "lugar": "Esquina América",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/las-canciones-favoritas-en-el-album-de-alguien-mas-esquina-america-20260612005829",
     "fuente": "genda"
   },
   {
@@ -644,7 +653,7 @@
     "lugar": "Casa Suiza",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/luzbelito-tributo-a-patricio-rey-casa-suiza-20260616194004",
     "fuente": "genda"
   },
   {
@@ -652,8 +661,8 @@
     "fecha": "2026-07-04 20:00:00",
     "lugar": "Teatro René Favaloro",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/entre-todos-es-posible-show-solidario-por-santino-teatro-rene-favaloro-20260607022355",
     "fuente": "genda"
   },
   {
@@ -662,7 +671,7 @@
     "lugar": "Teatro Espacio 44",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/todas-somos-yo-veronica-bogdan-teatro-espacio-44-20260627011830",
     "fuente": "genda"
   },
   {
@@ -671,7 +680,7 @@
     "lugar": "Teatro El Escape",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/lluvia-verde-teatro-el-escape-20260620144044",
     "fuente": "genda"
   },
   {
@@ -680,7 +689,7 @@
     "lugar": "Guajira Bar",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/red-hot-minute-tributo-a-red-hot-chili-peppers-guajira-bar-20260626231741",
     "fuente": "genda"
   },
   {
@@ -689,7 +698,7 @@
     "lugar": "Casa Pulsar",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/poncio-pilatos-casa-pulsar-20260612001019",
     "fuente": "genda"
   },
   {
@@ -698,7 +707,7 @@
     "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/la-nona-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260417234317",
     "fuente": "genda"
   },
   {
@@ -707,7 +716,7 @@
     "lugar": "Teatro Opera",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/la-h-no-murio-teatro-opera-20260414020058",
     "fuente": "genda"
   },
   {
@@ -716,7 +725,7 @@
     "lugar": "Esquina América",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/los-pararrayos-esquina-america-20260526023752",
     "fuente": "genda"
   },
   {
@@ -725,7 +734,7 @@
     "lugar": "Pura Vida",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/isaac-tranza-tu-ex-y-sus-choices-pura-vida-20260626232408",
     "fuente": "genda"
   },
   {
@@ -733,8 +742,8 @@
     "fecha": "2026-07-05 12:00:00",
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/4ta-edicion-de-laplatacomic-invitado-especial-trukini-pasaje-dardo-rocha-20260526024941",
     "fuente": "genda"
   },
   {
@@ -743,7 +752,7 @@
     "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/billy-elliot-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260624212234",
     "fuente": "genda"
   },
   {
@@ -752,7 +761,7 @@
     "lugar": "Sala 420",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/florecera-el-verano-360-sala-420-20260615010555",
     "fuente": "genda"
   },
   {
@@ -761,7 +770,7 @@
     "lugar": "La Culturosa",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/getting-any-1994-direccion-takeshi-kitano-la-culturosa-20260627012832",
     "fuente": "genda"
   },
   {
@@ -770,7 +779,7 @@
     "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/devas-canciones-iconicas-de-tus-animes-favoritos-pasaje-dardo-rocha-20260624212839",
     "fuente": "genda"
   },
   {
@@ -779,7 +788,7 @@
     "lugar": "Dynamo Teatro",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/exit-o-exit-dynamo-teatro-20260530005745",
     "fuente": "genda"
   },
   {
@@ -788,7 +797,7 @@
     "lugar": "Casa Suiza",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/vozenoff-casa-suiza-20260615002952",
     "fuente": "genda"
   },
   {
@@ -797,7 +806,7 @@
     "lugar": "Teatro El Escape",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/13-y-martes-teatro-el-escape-20260607231820",
     "fuente": "genda"
   },
   {
@@ -806,7 +815,7 @@
     "lugar": "Teatro Bar Cultural La Ferretería",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/los-desconocidos-de-siempre-mario-monicelli-1958-teatro-bar-cultural-la-ferreteria-20260609011725",
     "fuente": "genda"
   },
   {
@@ -815,7 +824,7 @@
     "lugar": "Hipódromo de La Plata",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/candu-y-sony-hipodromo-de-la-plata-20260623013919",
     "fuente": "genda"
   },
   {
@@ -824,7 +833,7 @@
     "lugar": "Casa Metro",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/roda-de-boleros-casa-metro-20260604200913",
     "fuente": "genda"
   },
   {
@@ -833,7 +842,7 @@
     "lugar": "Teatro de Cámara City Bell",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/erase-una-vez-en-el-oeste-teatro-de-camara-city-bell-20260623023608",
     "fuente": "genda"
   },
   {
@@ -842,7 +851,7 @@
     "lugar": "Casa Unclan",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/pablo-amarillo-iniciativa-cuatroele-casa-unclan-20260627012540",
     "fuente": "genda"
   },
   {
@@ -850,8 +859,8 @@
     "fecha": "2026-07-10 18:00:00",
     "lugar": "Olga Vázquez",
     "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/i-wanna-rock-kiki-ball-x-ginno-007-y-metacrisis-007-olga-vazquez-20260607052244",
     "fuente": "genda"
   },
   {
@@ -860,7 +869,7 @@
     "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
     "categoria": "cine",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/misery-rob-reiner-1990-dejala-morir-adentro-julie-darling-1983-paul-nicholas-cine-club-proyecciones-terrestres-20260528003340",
     "fuente": "genda"
   },
   {
@@ -869,7 +878,7 @@
     "lugar": "Casa Unclan",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/chic-s-de-oro-malen-y-las-porkerias-helen-flor-urruttia-casa-unclan-20260613192950",
     "fuente": "genda"
   },
   {
@@ -878,7 +887,7 @@
     "lugar": "Sala 420",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/leyendas-del-match-sala-420-20260626224603",
     "fuente": "genda"
   },
   {
@@ -887,7 +896,7 @@
     "lugar": "Casa Suiza",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/bisturi-los-suenos-raros-casa-suiza-20260616195154",
     "fuente": "genda"
   },
   {
@@ -896,7 +905,7 @@
     "lugar": "Ciudad de Gatos",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/hojas-por-el-barrio-fonso-y-las-paritarias-ciudad-de-gatos-20260617123530",
     "fuente": "genda"
   },
   {
@@ -905,7 +914,7 @@
     "lugar": "Casa Unclan",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/recreo-uruguayo-casa-unclan-20260612005715",
     "fuente": "genda"
   },
   {
@@ -914,7 +923,7 @@
     "lugar": "Teatro Espacio 44",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/yuna-soy-yo-teatro-espacio-44-20260604034729",
     "fuente": "genda"
   },
   {
@@ -923,7 +932,7 @@
     "lugar": "Casa Unclan",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/mito-del-rey-la-mirada-sin-hilo-casa-unclan-20260627015026",
     "fuente": "genda"
   },
   {
@@ -932,7 +941,7 @@
     "lugar": "Comunidad Ferroviaria",
     "direccion": "",
     "categoria": "danza",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/pena-patria-comunidad-ferroviaria-20260610025003",
     "fuente": "genda"
   },
   {
@@ -941,7 +950,7 @@
     "lugar": "Teatro Argentino - Centro Provincial de las Artes",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/palito-ortega-teatro-argentino-centro-provincial-de-las-artes-20260415124137",
     "fuente": "genda"
   },
   {
@@ -950,7 +959,7 @@
     "lugar": "Retro disco",
     "direccion": "",
     "categoria": "musica",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/sebastian-mendoza-retro-disco-20260626210255",
     "fuente": "genda"
   },
   {
@@ -959,7 +968,7 @@
     "lugar": "La Bulla Cultural",
     "direccion": "",
     "categoria": "danza",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/variete-o-ke-danza-clown-teatro-poesia-la-bulla-cultural-20260624202925",
     "fuente": "genda"
   },
   {
@@ -968,7 +977,7 @@
     "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/la-nona-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260417234317",
     "fuente": "genda"
   },
   {
@@ -977,7 +986,7 @@
     "lugar": "Escenario 40",
     "direccion": "",
     "categoria": "teatro",
-    "url": "",
+    "url": "https://agendalaplata.ar/evento/empoederadas-cuatro-cuentos-clasicos-de-poe-escenario-40-20260620174000",
     "fuente": "genda"
   }
 ]
