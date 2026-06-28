@@ -461,6 +461,10 @@ p {
   display: block;
 }
 
+.event-map-link {
+  margin: 4px 0 12px;
+}
+
 .map-label {
   font-family: var(--font-action);
   font-size: .76rem;
