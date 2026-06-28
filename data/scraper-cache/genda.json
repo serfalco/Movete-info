@@ -1,0 +1,920 @@
+[
+  {
+    "titulo": "Argentina en pantalla grande",
+    "fecha": "2026-06-27 23:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La nuez podrida + Choco con la bici + Valeriano",
+    "fecha": "2026-06-27 23:00:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Fiesta incógnita",
+    "fecha": "2026-06-27 23:55:00",
+    "lugar": "Pura Vida",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Doble J + Set Dj Uriel",
+    "fecha": "2026-06-27 23:55:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La plata al piso X bajitos - Evento de autos",
+    "fecha": "2026-06-28 13:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Un viaje por el aire y el tiempo - Animales del pasado y el presente",
+    "fecha": "2026-06-28 13:30:00",
+    "lugar": "Museo de Ciencias Naturales de La Plata",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Merienda y mosaiquismo",
+    "fecha": "2026-06-28 16:00:00",
+    "lugar": "Lázuli",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Aladdín y el hechizo de la lámpara",
+    "fecha": "2026-06-28 16:00:00",
+    "lugar": "Escenario 40",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Clarita y sus Princesas",
+    "fecha": "2026-06-28 16:00:00",
+    "lugar": "Teatro La Nonna",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "El pibe Materia - Desatanudos - Poderes extraños - Tranza - Las olas rompen - No Fumar",
+    "fecha": "2026-06-28 17:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Un solo latido",
+    "fecha": "2026-06-28 17:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Cortado Doble",
+    "fecha": "2026-06-28 17:00:00",
+    "lugar": "Espacio Medusa",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Pequeño pez",
+    "fecha": "2026-06-28 17:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Nada entre los dos",
+    "fecha": "2026-06-28 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La frecuencia Kirlian",
+    "fecha": "2026-06-28 18:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Sol Ariens",
+    "fecha": "2026-06-28 18:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Expo Foto La Plata",
+    "fecha": "2026-06-28 18:05:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Con tu propio miedo",
+    "fecha": "2026-06-28 19:00:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Cuarteto Tarabust - Beethoven - Prokofiev",
+    "fecha": "2026-06-28 19:00:00",
+    "lugar": "La Peña de las Bellas Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Carles - El eslabón perdido del rock nacional",
+    "fecha": "2026-06-28 19:00:00",
+    "lugar": "Teatro Abierto",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Gatillero (2025) Dir. Cris Tapia Marchiori",
+    "fecha": "2026-06-28 19:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Petit hotel, el último suspiro - Un hospedaje clownesco",
+    "fecha": "2026-06-28 19:30:00",
+    "lugar": "Casa Hereje",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Maldita felicidad",
+    "fecha": "2026-06-28 20:00:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La parte del león - Dir. Adolfo Aristarain",
+    "fecha": "2026-06-28 20:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Zero afro jazz",
+    "fecha": "2026-06-28 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Terciopelo azul",
+    "fecha": "2026-06-28 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Flema - 30 años",
+    "fecha": "2026-06-28 21:00:00",
+    "lugar": "Pura Vida",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Aguirre, la ira de dios",
+    "fecha": "2026-06-28 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La frecuencia Kirlian",
+    "fecha": "2026-06-29 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La terraza",
+    "fecha": "2026-06-29 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Un maldito embrollo (Pietro Germi, 1959)",
+    "fecha": "2026-06-30 16:00:00",
+    "lugar": "Asociación de Jubilados y Pensionados de la Caja de Previsión Social para Abogados de la Prov de Bs",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Nada entre los dos",
+    "fecha": "2026-06-30 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La música está en el poema",
+    "fecha": "2026-06-30 18:00:00",
+    "lugar": "Museo Almafuerte",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Luna Violeta - Ensamble de mujeres y disidencias",
+    "fecha": "2026-06-30 18:30:00",
+    "lugar": "Macá Cultura",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La frecuencia Kirlian",
+    "fecha": "2026-06-30 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Memoria Externa - Muestra cortos estudiantes de Cine - UNLP",
+    "fecha": "2026-06-30 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Sorry to Bother You (Boots Riley, 2018)",
+    "fecha": "2026-06-30 20:30:00",
+    "lugar": "Refugio 62",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Corpse can´t play + Dead of night + The exorcism",
+    "fecha": "2026-06-30 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Curso de magia",
+    "fecha": "2026-07-01 17:30:00",
+    "lugar": "Escenario 40",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Sembrando ilusiones (Luigi Comencini - 1972)",
+    "fecha": "2026-07-01 17:30:00",
+    "lugar": "Teatro Bar Cultural La Ferretería",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Nada entre los dos",
+    "fecha": "2026-07-01 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La frecuencia Kirlian",
+    "fecha": "2026-07-01 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Amarcord (Federico Fellini - 1973)",
+    "fecha": "2026-07-01 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Pi, fe en el caos (Darren Aronofsky, 1998)",
+    "fecha": "2026-07-01 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Olor a tigre - La intimidad de los recitales de Los Redondos",
+    "fecha": "2026-07-01 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "¡BANG! ¡BANG!… Estás en La Plata (Un homenaje platense a la obra del Indio)",
+    "fecha": "2026-07-02 18:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Mitos y leyendas de mi ciudad - Narración oral + Música",
+    "fecha": "2026-07-02 18:00:00",
+    "lugar": "La Peña de las Bellas Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Acassuso",
+    "fecha": "2026-07-02 20:00:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Mysterious Skin — Dir. Gregg Araki EEUU, 2004",
+    "fecha": "2026-07-02 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Gordillo 20 años + 1",
+    "fecha": "2026-07-02 21:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "4ta Edición de #LaPlataComic - Invitado especial: Trukini",
+    "fecha": "2026-07-03 12:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Tésis (1996) de Alejandro Amenábar",
+    "fecha": "2026-07-03 19:00:00",
+    "lugar": "Espacio Satélite",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Mundial de bandas",
+    "fecha": "2026-07-03 19:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Nonpalidese - Nonpalidesenchufado",
+    "fecha": "2026-07-03 20:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "13 y Martes",
+    "fecha": "2026-07-03 20:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Tinta + Kalahari Red Bazz",
+    "fecha": "2026-07-03 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Lula Bertoldi",
+    "fecha": "2026-07-03 21:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "She loves 90s",
+    "fecha": "2026-07-03 21:00:00",
+    "lugar": "El Teatro BAR",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Perro azul & Útimo tren",
+    "fecha": "2026-07-03 21:30:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Fraxu + Gente conversando",
+    "fecha": "2026-07-03 23:55:00",
+    "lugar": "Pura Vida",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "4ta Edición de #LaPlataComic - Invitado especial: Trukini",
+    "fecha": "2026-07-04 12:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Café literario",
+    "fecha": "2026-07-04 16:30:00",
+    "lugar": "La Peña de las Bellas Artes",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Presentación de revista Zaguán",
+    "fecha": "2026-07-04 17:00:00",
+    "lugar": "Casa Hereje",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Húmedas historias platenses",
+    "fecha": "2026-07-04 18:00:00",
+    "lugar": "El Galpón de fierro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Metal warrior + Eddie Cruz",
+    "fecha": "2026-07-04 19:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Festejamos los aniversarios de Cádiz, Nápoles & RB - Flash Tatto - Serigrafía - Feria de pilchas, vinilos & libros",
+    "fecha": "2026-07-04 19:00:00",
+    "lugar": "Club Ateneo Popular",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Insurrectxs",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Dúo Gonilski–Pishenin",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Las ligas menores",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Residuos, una poética del espanto",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Templo Estancia Batallón",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "El Galpón de La Caterva",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Las canciones favoritas en el álbum de alguien más",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Luzbelito (tributo a Patricio Rey)",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Entre todos es posible - Show solidario por Santino",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Todas somos yo? - Verónica Bogdan",
+    "fecha": "2026-07-04 20:30:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Lluvia Verde",
+    "fecha": "2026-07-04 20:30:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Red Hot Minute (Tributo a Red Hot Chili Peppers)",
+    "fecha": "2026-07-04 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Poncio Pilatos",
+    "fecha": "2026-07-04 21:00:00",
+    "lugar": "Casa Pulsar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La Nona",
+    "fecha": "2026-07-04 21:00:00",
+    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La H no murió",
+    "fecha": "2026-07-04 21:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Los pararrayos",
+    "fecha": "2026-07-04 21:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Isaac + Tranza + Tu ex y sus choices",
+    "fecha": "2026-07-04 23:55:00",
+    "lugar": "Pura Vida",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "4ta Edición de #LaPlataComic - Invitado especial: Trukini",
+    "fecha": "2026-07-05 12:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Billy Elliot",
+    "fecha": "2026-07-05 17:00:00",
+    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Florecerá el verano 360",
+    "fecha": "2026-07-05 19:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Getting Any? (1994) Dirección: Takeshi Kitano",
+    "fecha": "2026-07-05 19:00:00",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Devas - Canciones icónicas de tus animes favoritos",
+    "fecha": "2026-07-05 19:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Èxit o exit",
+    "fecha": "2026-07-05 20:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Vozenoff",
+    "fecha": "2026-07-05 20:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "13 y Martes",
+    "fecha": "2026-07-05 20:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Los desconocidos de siempre (Mario Monicelli - 1958)",
+    "fecha": "2026-07-08 17:30:00",
+    "lugar": "Teatro Bar Cultural La Ferretería",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Candu y Sony",
+    "fecha": "2026-07-08 20:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Roda de Boleros",
+    "fecha": "2026-07-08 21:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Érase una vez en el Oeste",
+    "fecha": "2026-07-09 18:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Pablo Amarillo + Iniciativa + Cuatroele",
+    "fecha": "2026-07-09 20:00:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "“I Wanna Rock” Kiki Ball x Ginno 007 y Metacrisis 007",
+    "fecha": "2026-07-10 18:00:00",
+    "lugar": "Olga Vázquez",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Misery (Rob Reiner, 1990) + Déjala morir adentro (Julie Darling, 1983, Paul Nicholas)",
+    "fecha": "2026-07-10 20:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Chic@s De Oro - Malen y las porkerias - Helen - Flor Urruttia",
+    "fecha": "2026-07-10 20:00:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Leyendas del match",
+    "fecha": "2026-07-10 21:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Bisturí + Los Suenos Raros",
+    "fecha": "2026-07-10 21:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Hojas por el barrio + Fonso y las paritarias",
+    "fecha": "2026-07-10 21:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Recreo Uruguayo",
+    "fecha": "2026-07-10 23:55:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "genda"
+  }
+]
