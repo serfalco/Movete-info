@@ -1,4 +1,4 @@
-name: Publicar MoVeTe
+name: Publicar En vivo
 
 on:
   schedule:
@@ -9,14 +9,19 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: publicar-movete
+  cancel-in-progress: false
+
 jobs:
-  publicar:
+  publicar-en-vivo:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Movete-info
         uses: actions/checkout@v4
         with:
+          ref: main
           path: Movete-info
 
       - name: Checkout movete-scraper
@@ -31,12 +36,6 @@ jobs:
           repository: serfalco/movete-espectaculos
           path: movete-espectaculos
 
-      - name: Checkout movete-cine
-        uses: actions/checkout@v4
-        with:
-          repository: serfalco/movete-cine
-          path: movete-cine
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -50,22 +49,12 @@ jobs:
         working-directory: movete-scraper
         env:
           SALIDA_JSON: ../movete-espectaculos/eventos.json
+          MOVETE_CACHE_DIR: ../Movete-info/data/scraper-cache
         run: python main.py
 
       - name: Generar En Vivo
         working-directory: movete-espectaculos
         run: python generar_edicion.py --eventos eventos.json --output ../Movete-info/en-vivo
-
-      - name: Instalar dependencias cine
-        working-directory: movete-cine
-        run: pip install -r requirements.txt
-
-      - name: Generar Cine
-        working-directory: movete-cine
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          MOVETE_CINE_OUT: ../Movete-info/cine
-        run: python main.py
 
       - name: Commit cambios en Movete-info
         working-directory: Movete-info
@@ -73,5 +62,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Publicar edición semanal MoVeTe"
+          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Publicar edición semanal En vivo"
           git push
