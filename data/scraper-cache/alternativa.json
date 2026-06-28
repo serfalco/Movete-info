@@ -76,7 +76,7 @@
     "fecha": "2026-07-10 21:00:00",
     "lugar": "SALA 420",
     "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
-    "categoria": "teatro",
+    "categoria": "impro",
     "url": "https://publico.alternativateatral.com/entradas83453-match-teatro-deporte-y-humor?o=6",
     "fuente": "alternativa"
   },
@@ -94,7 +94,7 @@
     "fecha": "2026-07-03 21:30:00",
     "lugar": "TRES EMPANADAS COMEDIA",
     "direccion": "Calle 43 N°1349, La Plata",
-    "categoria": "teatro",
+    "categoria": "stand-up",
     "url": "https://www.alternativateatral.com.ar/obra85003-sociedad-platense-de-stand-up",
     "fuente": "alternativa"
   },
@@ -229,7 +229,7 @@
     "fecha": "2026-06-28 19:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
-    "categoria": "teatro",
+    "categoria": "musica",
     "url": "https://publico.alternativateatral.com/entradas100716-carles-el-eslabon-perdido-del-rock-nacional?o=6",
     "fuente": "alternativa"
   },
@@ -256,7 +256,7 @@
     "fecha": "2026-06-30 20:00:00",
     "lugar": "SALA 420",
     "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
-    "categoria": "teatro",
+    "categoria": "impro",
     "url": "https://publico.alternativateatral.com/entradas101265-muestra-del-taller-del-match-de-improvisacion?o=6",
     "fuente": "alternativa"
   },
