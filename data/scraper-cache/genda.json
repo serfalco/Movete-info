@@ -1,236 +1,11 @@
 [
   {
-    "titulo": "Torneo de Rompecabezas",
-    "fecha": "2026-06-28 11:00:00",
-    "lugar": "Centro Gallego de la Plata",
-    "direccion": "",
-    "categoria": "actividades",
-    "url": "https://agendalaplata.ar/evento/torneo-de-rompecabezas-centro-gallego-de-la-plata-20260607234430",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "La plata al piso X bajitos - Evento de autos",
-    "fecha": "2026-06-28 13:00:00",
-    "lugar": "La Plata",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-plata-al-piso-x-bajitos-evento-de-autos-20260616011803",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Un viaje por el aire y el tiempo - Animales del pasado y el presente",
-    "fecha": "2026-06-28 13:30:00",
-    "lugar": "Museo de Ciencias Naturales de La Plata",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-viaje-por-el-aire-y-el-tiempo-animales-del-pasado-y-el-presente-museo-de-ciencias-naturales-de-la-plata-20260620150505",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "La Plata Lúdica - juegos de mesa y rol",
-    "fecha": "2026-06-28 14:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "actividades",
-    "url": "https://agendalaplata.ar/evento/la-plata-ludica-juegos-de-mesa-y-rol-pasaje-dardo-rocha-20260504215324",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Merienda y mosaiquismo",
-    "fecha": "2026-06-28 16:00:00",
-    "lugar": "Lázuli",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/merienda-y-mosaiquismo-lazuli-20260620170824",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Aladdín y el hechizo de la lámpara",
-    "fecha": "2026-06-28 16:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/aladdin-y-el-hechizo-de-la-lampara-escenario-40-20260623022333",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Clarita y sus Princesas",
-    "fecha": "2026-06-28 16:00:00",
-    "lugar": "Teatro La Nonna",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/clarita-y-sus-princesas-teatro-la-nonna-20260609015146",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "El pibe Materia - Desatanudos - Poderes extraños - Tranza - Las olas rompen - No Fumar",
-    "fecha": "2026-06-28 17:00:00",
-    "lugar": "La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/el-pibe-materia-desatanudos-poderes-extranos-tranza-las-olas-rompen-no-fumar-20260616012101",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Un solo latido",
-    "fecha": "2026-06-28 17:00:00",
+    "titulo": "Aguirre, la ira de dios",
+    "fecha": "2026-06-28 21:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/un-solo-latido-cine-club-proyecciones-terrestres-20260623012059",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Dafnis y Cloe (Maurice Ravel + coreografía Carlos Trunsky) - Adagietto (Gustav Mahler - coreo Oscar Araiz) - Bolero (Mau",
-    "fecha": "2026-06-28 17:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/dafnis-y-cloe-maurice-ravel-coreografia-carlos-trunsky-adagietto-gustav-mahler-coreo-oscar-araiz-bolero-maurice-ravel-coreo-romina-simone-teatro-argentino-centro-provincial-de-las-artes-20260616014815",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Cortado Doble",
-    "fecha": "2026-06-28 17:00:00",
-    "lugar": "Espacio Medusa",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/cortado-doble-espacio-medusa-20260612011402",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Pequeño pez",
-    "fecha": "2026-06-28 17:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/pequeno-pez-teatro-metro-20260508190340",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Nada entre los dos",
-    "fecha": "2026-06-28 18:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "La frecuencia Kirlian",
-    "fecha": "2026-06-28 18:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-frecuencia-kirlian-cine-select-espacio-incaa-20260624221459",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Sol Ariens",
-    "fecha": "2026-06-28 18:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/sol-ariens-pasaje-dardo-rocha-20260624220339",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Expo Foto La Plata",
-    "fecha": "2026-06-28 18:05:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/expo-foto-la-plata-pasaje-dardo-rocha-20260627014324",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Con tu propio miedo",
-    "fecha": "2026-06-28 19:00:00",
-    "lugar": "Teatro Espacio 44",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/con-tu-propio-miedo-teatro-espacio-44-20260627015556",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Cuarteto Tarabust - Beethoven - Prokofiev",
-    "fecha": "2026-06-28 19:00:00",
-    "lugar": "La Peña de las Bellas Artes",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/cuarteto-tarabust-beethoven-prokofiev-la-pena-de-las-bellas-artes-20260624203040",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Carles - El eslabón perdido del rock nacional",
-    "fecha": "2026-06-28 19:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/carles-el-eslabon-perdido-del-rock-nacional-teatro-abierto-20260604235959",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Gatillero (2025) Dir. Cris Tapia Marchiori",
-    "fecha": "2026-06-28 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/gatillero-2025-dir-cris-tapia-marchiori-cine-club-proyecciones-terrestres-20260602223505",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Día del Orgullo LGBTTTIQ+",
-    "fecha": "2026-06-28 19:00:00",
-    "lugar": "Calle UNO, Casa de Cultura",
-    "direccion": "",
-    "categoria": "actividades",
-    "url": "https://agendalaplata.ar/evento/dia-del-orgullo-lgbtttiq-calle-uno-casa-de-cultura-20260623010743",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Petit hotel, el último suspiro - Un hospedaje clownesco",
-    "fecha": "2026-06-28 19:30:00",
-    "lugar": "Casa Hereje",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/petit-hotel-el-ultimo-suspiro-un-hospedaje-clownesco-casa-hereje-20260616014935",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Maldita felicidad",
-    "fecha": "2026-06-28 20:00:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/maldita-felicidad-teatro-y-museo-coliseo-podesta-20260508192623",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "La parte del león - Dir. Adolfo Aristarain",
-    "fecha": "2026-06-28 20:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-parte-del-leon-dir-adolfo-aristarain-cine-select-espacio-incaa-20260612005409",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Zero afro jazz",
-    "fecha": "2026-06-28 20:00:00",
-    "lugar": "Desafinado Club",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/zero-afro-jazz-desafinado-club-20260623013349",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Terciopelo azul",
-    "fecha": "2026-06-28 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/terciopelo-azul-cine-ecoselect-espacio-incaa-20260607024721",
+    "url": "https://agendalaplata.ar/evento/aguirre-la-ira-de-dios-cine-club-proyecciones-terrestres-20260623012717",
     "fuente": "genda"
   },
   {
@@ -240,15 +15,6 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/flema-30-anos-pura-vida-20260624214621",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Aguirre, la ira de dios",
-    "fecha": "2026-06-28 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/aguirre-la-ira-de-dios-cine-club-proyecciones-terrestres-20260623012717",
     "fuente": "genda"
   },
   {
@@ -279,21 +45,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Nada entre los dos",
-    "fecha": "2026-06-30 18:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
-    "fuente": "genda"
-  },
-  {
     "titulo": "La música está en el poema",
     "fecha": "2026-06-30 18:00:00",
     "lugar": "Museo Almafuerte",
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/la-musica-esta-en-el-poema-museo-almafuerte-20260609033300",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Nada entre los dos",
+    "fecha": "2026-06-30 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
     "fuente": "genda"
   },
   {
@@ -603,30 +369,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Dúo Gonilski–Pishenin",
-    "fecha": "2026-07-04 20:00:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/duo-gonilski-pishenin-teatro-de-camara-city-bell-20260626210401",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Las ligas menores",
     "fecha": "2026-07-04 20:00:00",
     "lugar": "Ciudad de Gatos",
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/las-ligas-menores-ciudad-de-gatos-20260612003528",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Residuos, una poética del espanto",
-    "fecha": "2026-07-04 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/residuos-una-poetica-del-espanto-pasaje-dardo-rocha-20260627002947",
     "fuente": "genda"
   },
   {
@@ -648,6 +396,24 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Dúo Gonilski–Pishenin",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/duo-gonilski-pishenin-teatro-de-camara-city-bell-20260626210401",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Residuos, una poética del espanto",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/residuos-una-poetica-del-espanto-pasaje-dardo-rocha-20260627002947",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Luzbelito (tributo a Patricio Rey)",
     "fecha": "2026-07-04 20:00:00",
     "lugar": "Casa Suiza",
@@ -666,21 +432,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Todas somos yo? - Verónica Bogdan",
-    "fecha": "2026-07-04 20:30:00",
-    "lugar": "Teatro Espacio 44",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/todas-somos-yo-veronica-bogdan-teatro-espacio-44-20260627011830",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Lluvia Verde",
     "fecha": "2026-07-04 20:30:00",
     "lugar": "Teatro El Escape",
     "direccion": "",
     "categoria": "teatro",
     "url": "https://agendalaplata.ar/evento/lluvia-verde-teatro-el-escape-20260620144044",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Todas somos yo? - Verónica Bogdan",
+    "fecha": "2026-07-04 20:30:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/todas-somos-yo-veronica-bogdan-teatro-espacio-44-20260627011830",
     "fuente": "genda"
   },
   {
@@ -693,21 +459,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Poncio Pilatos",
-    "fecha": "2026-07-04 21:00:00",
-    "lugar": "Casa Pulsar",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/poncio-pilatos-casa-pulsar-20260612001019",
-    "fuente": "genda"
-  },
-  {
     "titulo": "La Nona",
     "fecha": "2026-07-04 21:00:00",
     "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
     "direccion": "",
     "categoria": "teatro",
     "url": "https://agendalaplata.ar/evento/la-nona-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260417234317",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Poncio Pilatos",
+    "fecha": "2026-07-04 21:00:00",
+    "lugar": "Casa Pulsar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/poncio-pilatos-casa-pulsar-20260612001019",
     "fuente": "genda"
   },
   {
@@ -954,21 +720,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Sebastián Mendoza",
-    "fecha": "2026-07-11 21:00:00",
-    "lugar": "Retro disco",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/sebastian-mendoza-retro-disco-20260626210255",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Varieté o ke - Danza, clown, teatro, poesía",
     "fecha": "2026-07-11 21:00:00",
     "lugar": "La Bulla Cultural",
     "direccion": "",
     "categoria": "danza",
     "url": "https://agendalaplata.ar/evento/variete-o-ke-danza-clown-teatro-poesia-la-bulla-cultural-20260624202925",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Sebastián Mendoza",
+    "fecha": "2026-07-11 21:00:00",
+    "lugar": "Retro disco",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/sebastian-mendoza-retro-disco-20260626210255",
     "fuente": "genda"
   },
   {
