@@ -36,6 +36,22 @@
     applyFilter("all");
   });
 
+  document.querySelectorAll(".section-jump-nav").forEach((nav) => {
+    const links = Array.from(nav.querySelectorAll('a[href^="#"]'));
+    const setActive = (hash) => {
+      links.forEach((link) => {
+        link.classList.toggle("is-active", link.getAttribute("href") === hash);
+      });
+    };
+
+    links.forEach((link) => {
+      link.addEventListener("click", () => setActive(link.getAttribute("href")));
+    });
+
+    setActive(window.location.hash || "#cine-tradicional");
+    window.addEventListener("hashchange", () => setActive(window.location.hash));
+  });
+
   document.querySelectorAll("[data-share-page]").forEach((button) => {
     button.addEventListener("click", () => {
       const message = `Mirá esta cartelera en MoVeTe:\n${document.title}\n${window.location.href}`;
