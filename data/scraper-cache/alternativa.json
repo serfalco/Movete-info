@@ -99,30 +99,12 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Con tu propio miedo",
-    "fecha": "2026-06-28 19:00:00",
-    "lugar": "ESPACIO 44",
-    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas86399-con-tu-propio-miedo?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Bosque",
     "fecha": "2026-07-16 15:30:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra89788-bosque",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "La casa de Bernarda Alba",
-    "fecha": "2026-06-28 20:00:00",
-    "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
-    "direccion": "Av 13 1900 esquina 71, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas95366-la-casa-de-bernarda-alba?o=6",
     "fuente": "alternativa"
   },
   {
@@ -189,15 +171,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Primera noche",
-    "fecha": "2026-06-28 19:00:00",
-    "lugar": "LA MERCERIA TEATRO",
-    "direccion": "Calle 1 Nº 210, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas100201-primera-noche?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "El puente azul",
     "fecha": "2026-07-03 21:00:00",
     "lugar": "LA MERCERIA TEATRO",
@@ -225,30 +198,12 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Carles. El eslabón perdido del Rock Nacional",
-    "fecha": "2026-06-28 19:00:00",
-    "lugar": "TEATRO ABIERTO",
-    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
-    "categoria": "musica",
-    "url": "https://publico.alternativateatral.com/entradas100716-carles-el-eslabon-perdido-del-rock-nacional?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Volcada",
     "fecha": "2026-08-02 18:00:00",
     "lugar": "ÁREA CHICA",
     "direccion": "Boulevard 83 403, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101161-volcada?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "Los hornos 1103 pasos",
-    "fecha": "2026-06-28 14:00:00",
-    "lugar": "AV. 66 Y 173, LOS HORNOS",
-    "direccion": "Av. 66 y 173, Los Hornos, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101243-los-hornos-1103-pasos?o=6",
     "fuente": "alternativa"
   },
   {
@@ -297,15 +252,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Narices negras",
-    "fecha": "2026-06-28 20:00:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101293-narices-negras?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "13 y martes",
     "fecha": "2026-07-03 22:00:00",
     "lugar": "TEATRO EL ESCAPE",
@@ -334,7 +280,7 @@
   },
   {
     "titulo": "Bajo la Tormenta",
-    "fecha": "2026-06-28 20:00:00",
+    "fecha": "2026-07-04 21:00:00",
     "lugar": "TEATRO ARMANDO DISCEPOLO",
     "direccion": "Calle 12 entre 62 Y 63, La Plata",
     "categoria": "teatro",

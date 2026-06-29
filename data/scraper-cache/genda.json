@@ -1,23 +1,5 @@
 [
   {
-    "titulo": "Aguirre, la ira de dios",
-    "fecha": "2026-06-28 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/aguirre-la-ira-de-dios-cine-club-proyecciones-terrestres-20260623012717",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Flema - 30 años",
-    "fecha": "2026-06-28 21:00:00",
-    "lugar": "Pura Vida",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/flema-30-anos-pura-vida-20260624214621",
-    "fuente": "genda"
-  },
-  {
     "titulo": "La frecuencia Kirlian",
     "fecha": "2026-06-29 18:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -45,21 +27,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "La música está en el poema",
-    "fecha": "2026-06-30 18:00:00",
-    "lugar": "Museo Almafuerte",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-musica-esta-en-el-poema-museo-almafuerte-20260609033300",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Nada entre los dos",
     "fecha": "2026-06-30 18:00:00",
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
     "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La música está en el poema",
+    "fecha": "2026-06-30 18:00:00",
+    "lugar": "Museo Almafuerte",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-musica-esta-en-el-poema-museo-almafuerte-20260609033300",
     "fuente": "genda"
   },
   {
@@ -90,21 +72,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Sorry to Bother You (Boots Riley, 2018)",
-    "fecha": "2026-06-30 20:30:00",
-    "lugar": "Refugio 62",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/sorry-to-bother-you-boots-riley-2018-refugio-62-20260607051224",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Corpse can´t play + Dead of night + The exorcism",
     "fecha": "2026-06-30 20:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
     "url": "https://agendalaplata.ar/evento/corpse-can-t-play-dead-of-night-the-exorcism-cine-select-espacio-incaa-20260624232446",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Sorry to Bother You (Boots Riley, 2018)",
+    "fecha": "2026-06-30 20:30:00",
+    "lugar": "Refugio 62",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/sorry-to-bother-you-boots-riley-2018-refugio-62-20260607051224",
     "fuente": "genda"
   },
   {
@@ -225,21 +207,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Tésis (1996) de Alejandro Amenábar",
-    "fecha": "2026-07-03 19:00:00",
-    "lugar": "Espacio Satélite",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/tesis-1996-de-alejandro-amenabar-espacio-satelite-20260602225556",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Mundial de bandas",
     "fecha": "2026-07-03 19:00:00",
     "lugar": "Ciudad de Gatos",
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/mundial-de-bandas-ciudad-de-gatos-20260627012156",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Tésis (1996) de Alejandro Amenábar",
+    "fecha": "2026-07-03 19:00:00",
+    "lugar": "Espacio Satélite",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/tesis-1996-de-alejandro-amenabar-espacio-satelite-20260602225556",
     "fuente": "genda"
   },
   {
@@ -261,21 +243,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Tinta + Kalahari Red Bazz",
-    "fecha": "2026-07-03 21:00:00",
-    "lugar": "Guajira Bar",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/tinta-kalahari-red-bazz-guajira-bar-20260616231337",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Lula Bertoldi",
     "fecha": "2026-07-03 21:00:00",
     "lugar": "La Plata",
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/lula-bertoldi-20260606213437",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Tinta + Kalahari Red Bazz",
+    "fecha": "2026-07-03 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/tinta-kalahari-red-bazz-guajira-bar-20260616231337",
     "fuente": "genda"
   },
   {
@@ -369,6 +351,15 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Dúo Gonilski–Pishenin",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/duo-gonilski-pishenin-teatro-de-camara-city-bell-20260626210401",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Las ligas menores",
     "fecha": "2026-07-04 20:00:00",
     "lugar": "Ciudad de Gatos",
@@ -387,24 +378,6 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Las canciones favoritas en el álbum de alguien más",
-    "fecha": "2026-07-04 20:00:00",
-    "lugar": "Esquina América",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/las-canciones-favoritas-en-el-album-de-alguien-mas-esquina-america-20260612005829",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Dúo Gonilski–Pishenin",
-    "fecha": "2026-07-04 20:00:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/duo-gonilski-pishenin-teatro-de-camara-city-bell-20260626210401",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Residuos, una poética del espanto",
     "fecha": "2026-07-04 20:00:00",
     "lugar": "Pasaje Dardo Rocha",
@@ -420,6 +393,15 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/luzbelito-tributo-a-patricio-rey-casa-suiza-20260616194004",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Las canciones favoritas en el álbum de alguien más",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/las-canciones-favoritas-en-el-album-de-alguien-mas-esquina-america-20260612005829",
     "fuente": "genda"
   },
   {
@@ -450,15 +432,6 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Red Hot Minute (Tributo a Red Hot Chili Peppers)",
-    "fecha": "2026-07-04 21:00:00",
-    "lugar": "Guajira Bar",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/red-hot-minute-tributo-a-red-hot-chili-peppers-guajira-bar-20260626231741",
-    "fuente": "genda"
-  },
-  {
     "titulo": "La Nona",
     "fecha": "2026-07-04 21:00:00",
     "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
@@ -474,6 +447,15 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/poncio-pilatos-casa-pulsar-20260612001019",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Red Hot Minute (Tributo a Red Hot Chili Peppers)",
+    "fecha": "2026-07-04 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/red-hot-minute-tributo-a-red-hot-chili-peppers-guajira-bar-20260626231741",
     "fuente": "genda"
   },
   {
@@ -648,6 +630,15 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Hojas por el barrio + Fonso y las paritarias",
+    "fecha": "2026-07-10 21:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/hojas-por-el-barrio-fonso-y-las-paritarias-ciudad-de-gatos-20260617123530",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Leyendas del match",
     "fecha": "2026-07-10 21:00:00",
     "lugar": "Sala 420",
@@ -663,15 +654,6 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/bisturi-los-suenos-raros-casa-suiza-20260616195154",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Hojas por el barrio + Fonso y las paritarias",
-    "fecha": "2026-07-10 21:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/hojas-por-el-barrio-fonso-y-las-paritarias-ciudad-de-gatos-20260617123530",
     "fuente": "genda"
   },
   {
@@ -720,6 +702,15 @@
     "fuente": "genda"
   },
   {
+    "titulo": "La Nona",
+    "fecha": "2026-07-11 21:00:00",
+    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-nona-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260417234317",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Varieté o ke - Danza, clown, teatro, poesía",
     "fecha": "2026-07-11 21:00:00",
     "lugar": "La Bulla Cultural",
@@ -738,21 +729,48 @@
     "fuente": "genda"
   },
   {
-    "titulo": "La Nona",
-    "fecha": "2026-07-11 21:00:00",
-    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/la-nona-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260417234317",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Empoederadas - Cuatro cuentos clásicos de Poe",
     "fecha": "2026-07-11 21:30:00",
     "lugar": "Escenario 40",
     "direccion": "",
     "categoria": "teatro",
     "url": "https://agendalaplata.ar/evento/empoederadas-cuatro-cuentos-clasicos-de-poe-escenario-40-20260620174000",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Peque Feria",
+    "fecha": "2026-07-12 14:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/peque-feria-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260601221031",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Batalla de bandas + stands gastronómicos, indumentaria, accesorios, dibujos, tattoo y más",
+    "fecha": "2026-07-12 16:00:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/batalla-de-bandas-stands-gastronomicos-indumentaria-accesorios-dibujos-tattoo-y-mas-casa-unclan-20260627013155",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Bajo terapia",
+    "fecha": "2026-07-12 18:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/bajo-terapia-teatro-de-camara-city-bell-20260627013749",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Florecerá el verano 360",
+    "fecha": "2026-07-12 20:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/florecera-el-verano-360-sala-420-20260615010555",
     "fuente": "genda"
   }
 ]
