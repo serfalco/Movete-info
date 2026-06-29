@@ -12,9 +12,21 @@
     "fecha": "2026-06-30"
   },
   {
+    "titulo": "Persépolis - (Francia, 2007) de Marjane Satrapi",
+    "hora": "18:30",
+    "espacio": "Galpón de La Grieta y Biblioteca Popular La Chicharra",
+    "fecha": "2026-06-30"
+  },
+  {
     "titulo": "La frecuencia Kirlian",
     "hora": "18:30",
     "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-06-30"
+  },
+  {
+    "titulo": "Al final del arcoiris",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
     "fecha": "2026-06-30"
   },
   {
@@ -36,6 +48,12 @@
     "fecha": "2026-06-30"
   },
   {
+    "titulo": "El estado de las cosas",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-06-30"
+  },
+  {
     "titulo": "Sembrando ilusiones (Luigi Comencini  - 1972)",
     "hora": "17:30",
     "espacio": "Teatro Bar Cultural La Ferretería",
@@ -54,9 +72,9 @@
     "fecha": "2026-07-01"
   },
   {
-    "titulo": "Amarcord (Federico Fellini - 1973)",
-    "hora": "20:00",
-    "espacio": "Desafinado Club",
+    "titulo": "Al final del arcoiris",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
     "fecha": "2026-07-01"
   },
   {
@@ -66,9 +84,21 @@
     "fecha": "2026-07-01"
   },
   {
+    "titulo": "Amarcord (Federico Fellini - 1973)",
+    "hora": "20:00",
+    "espacio": "Desafinado Club",
+    "fecha": "2026-07-01"
+  },
+  {
     "titulo": "Olor a tigre - La intimidad de los recitales de Los Redondos",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-07-01"
+  },
+  {
+    "titulo": "Alicia en las ciudades",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
     "fecha": "2026-07-01"
   }
 ]
