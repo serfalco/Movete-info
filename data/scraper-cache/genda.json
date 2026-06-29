@@ -27,15 +27,6 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Nada entre los dos",
-    "fecha": "2026-06-30 18:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
-    "fuente": "genda"
-  },
-  {
     "titulo": "La música está en el poema",
     "fecha": "2026-06-30 18:00:00",
     "lugar": "Museo Almafuerte",
@@ -45,12 +36,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Luna Violeta - Ensamble de mujeres y disidencias",
-    "fecha": "2026-06-30 18:30:00",
-    "lugar": "Macá Cultura",
+    "titulo": "Nada entre los dos",
+    "fecha": "2026-06-30 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/luna-violeta-ensamble-de-mujeres-y-disidencias-maca-cultura-20260612002457",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
     "fuente": "genda"
   },
   {
@@ -60,6 +51,15 @@
     "direccion": "",
     "categoria": "cine",
     "url": "https://agendalaplata.ar/evento/la-frecuencia-kirlian-cine-select-espacio-incaa-20260624221459",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Luna Violeta - Ensamble de mujeres y disidencias",
+    "fecha": "2026-06-30 18:30:00",
+    "lugar": "Macá Cultura",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/luna-violeta-ensamble-de-mujeres-y-disidencias-maca-cultura-20260612002457",
     "fuente": "genda"
   },
   {
@@ -153,21 +153,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "¡BANG! ¡BANG!… Estás en La Plata (Un homenaje platense a la obra del Indio)",
-    "fecha": "2026-07-02 18:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "actividades",
-    "url": "https://agendalaplata.ar/evento/bang-bang-estas-en-la-plata-un-homenaje-platense-a-la-obra-del-indio-ciudad-de-gatos-20260617123011",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Mitos y leyendas de mi ciudad - Narración oral + Música",
     "fecha": "2026-07-02 18:00:00",
     "lugar": "La Peña de las Bellas Artes",
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/mitos-y-leyendas-de-mi-ciudad-narracion-oral-musica-la-pena-de-las-bellas-artes-20260617123146",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "¡BANG! ¡BANG!… Estás en La Plata (Un homenaje platense a la obra del Indio)",
+    "fecha": "2026-07-02 18:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/bang-bang-estas-en-la-plata-un-homenaje-platense-a-la-obra-del-indio-ciudad-de-gatos-20260617123011",
     "fuente": "genda"
   },
   {
@@ -207,15 +207,6 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Mundial de bandas",
-    "fecha": "2026-07-03 19:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mundial-de-bandas-ciudad-de-gatos-20260627012156",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Tésis (1996) de Alejandro Amenábar",
     "fecha": "2026-07-03 19:00:00",
     "lugar": "Espacio Satélite",
@@ -225,12 +216,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Nonpalidese - Nonpalidesenchufado",
-    "fecha": "2026-07-03 20:00:00",
-    "lugar": "Teatro Opera",
+    "titulo": "Mundial de bandas",
+    "fecha": "2026-07-03 19:00:00",
+    "lugar": "Ciudad de Gatos",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/nonpalidese-nonpalidesenchufado-teatro-opera-20260618222648",
+    "url": "https://agendalaplata.ar/evento/mundial-de-bandas-ciudad-de-gatos-20260627012156",
     "fuente": "genda"
   },
   {
@@ -240,6 +231,15 @@
     "direccion": "",
     "categoria": "teatro",
     "url": "https://agendalaplata.ar/evento/13-y-martes-teatro-el-escape-20260607231820",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Nonpalidese - Nonpalidesenchufado",
+    "fecha": "2026-07-03 20:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/nonpalidese-nonpalidesenchufado-teatro-opera-20260618222648",
     "fuente": "genda"
   },
   {
@@ -351,21 +351,21 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Residuos, una poética del espanto",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/residuos-una-poetica-del-espanto-pasaje-dardo-rocha-20260627002947",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Dúo Gonilski–Pishenin",
     "fecha": "2026-07-04 20:00:00",
     "lugar": "Teatro de Cámara City Bell",
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/duo-gonilski-pishenin-teatro-de-camara-city-bell-20260626210401",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Las ligas menores",
-    "fecha": "2026-07-04 20:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/las-ligas-menores-ciudad-de-gatos-20260612003528",
     "fuente": "genda"
   },
   {
@@ -378,30 +378,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Residuos, una poética del espanto",
-    "fecha": "2026-07-04 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/residuos-una-poetica-del-espanto-pasaje-dardo-rocha-20260627002947",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Luzbelito (tributo a Patricio Rey)",
     "fecha": "2026-07-04 20:00:00",
     "lugar": "Casa Suiza",
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/luzbelito-tributo-a-patricio-rey-casa-suiza-20260616194004",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Las canciones favoritas en el álbum de alguien más",
-    "fecha": "2026-07-04 20:00:00",
-    "lugar": "Esquina América",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/las-canciones-favoritas-en-el-album-de-alguien-mas-esquina-america-20260612005829",
     "fuente": "genda"
   },
   {
@@ -414,12 +396,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Lluvia Verde",
-    "fecha": "2026-07-04 20:30:00",
-    "lugar": "Teatro El Escape",
+    "titulo": "Las canciones favoritas en el álbum de alguien más",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Esquina América",
     "direccion": "",
     "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/lluvia-verde-teatro-el-escape-20260620144044",
+    "url": "https://agendalaplata.ar/evento/las-canciones-favoritas-en-el-album-de-alguien-mas-esquina-america-20260612005829",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Las ligas menores",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/las-ligas-menores-ciudad-de-gatos-20260612003528",
     "fuente": "genda"
   },
   {
@@ -432,12 +423,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "La Nona",
-    "fecha": "2026-07-04 21:00:00",
-    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
+    "titulo": "Lluvia Verde",
+    "fecha": "2026-07-04 20:30:00",
+    "lugar": "Teatro El Escape",
     "direccion": "",
     "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/la-nona-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260417234317",
+    "url": "https://agendalaplata.ar/evento/lluvia-verde-teatro-el-escape-20260620144044",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Red Hot Minute (Tributo a Red Hot Chili Peppers)",
+    "fecha": "2026-07-04 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/red-hot-minute-tributo-a-red-hot-chili-peppers-guajira-bar-20260626231741",
     "fuente": "genda"
   },
   {
@@ -450,12 +450,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Red Hot Minute (Tributo a Red Hot Chili Peppers)",
+    "titulo": "La Nona",
     "fecha": "2026-07-04 21:00:00",
-    "lugar": "Guajira Bar",
+    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/red-hot-minute-tributo-a-red-hot-chili-peppers-guajira-bar-20260626231741",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-nona-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260417234317",
     "fuente": "genda"
   },
   {
@@ -504,12 +504,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Florecerá el verano 360",
+    "titulo": "Devas - Canciones icónicas de tus animes favoritos",
     "fecha": "2026-07-05 19:00:00",
-    "lugar": "Sala 420",
+    "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/florecera-el-verano-360-sala-420-20260615010555",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/devas-canciones-iconicas-de-tus-animes-favoritos-pasaje-dardo-rocha-20260624212839",
     "fuente": "genda"
   },
   {
@@ -522,12 +522,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Devas - Canciones icónicas de tus animes favoritos",
+    "titulo": "Florecerá el verano 360",
     "fecha": "2026-07-05 19:00:00",
-    "lugar": "Pasaje Dardo Rocha",
+    "lugar": "Sala 420",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/devas-canciones-iconicas-de-tus-animes-favoritos-pasaje-dardo-rocha-20260624212839",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/florecera-el-verano-360-sala-420-20260615010555",
     "fuente": "genda"
   },
   {
@@ -564,6 +564,15 @@
     "direccion": "",
     "categoria": "cine",
     "url": "https://agendalaplata.ar/evento/los-desconocidos-de-siempre-mario-monicelli-1958-teatro-bar-cultural-la-ferreteria-20260609011725",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "The Loneliness of the Long Distance Runner (Tony Richardson, 1962)",
+    "fecha": "2026-07-08 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/the-loneliness-of-the-long-distance-runner-tony-richardson-1962-cine-ecoselect-espacio-incaa-20260629113835",
     "fuente": "genda"
   },
   {
@@ -630,15 +639,6 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Hojas por el barrio + Fonso y las paritarias",
-    "fecha": "2026-07-10 21:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/hojas-por-el-barrio-fonso-y-las-paritarias-ciudad-de-gatos-20260617123530",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Leyendas del match",
     "fecha": "2026-07-10 21:00:00",
     "lugar": "Sala 420",
@@ -654,6 +654,15 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/bisturi-los-suenos-raros-casa-suiza-20260616195154",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Hojas por el barrio + Fonso y las paritarias",
+    "fecha": "2026-07-10 21:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/hojas-por-el-barrio-fonso-y-las-paritarias-ciudad-de-gatos-20260617123530",
     "fuente": "genda"
   },
   {
@@ -702,15 +711,6 @@
     "fuente": "genda"
   },
   {
-    "titulo": "La Nona",
-    "fecha": "2026-07-11 21:00:00",
-    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/la-nona-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260417234317",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Varieté o ke - Danza, clown, teatro, poesía",
     "fecha": "2026-07-11 21:00:00",
     "lugar": "La Bulla Cultural",
@@ -726,6 +726,15 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/sebastian-mendoza-retro-disco-20260626210255",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La Nona",
+    "fecha": "2026-07-11 21:00:00",
+    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-nona-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260417234317",
     "fuente": "genda"
   },
   {
