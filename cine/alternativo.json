@@ -1,47 +1,5 @@
 [
   {
-    "titulo": "Un solo latido",
-    "hora": "17:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-06-28"
-  },
-  {
-    "titulo": "Nada entre los dos",
-    "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-06-28"
-  },
-  {
-    "titulo": "La frecuencia Kirlian",
-    "hora": "18:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-06-28"
-  },
-  {
-    "titulo": "Gatillero (2025) Dir. Cris Tapia Marchiori",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-06-28"
-  },
-  {
-    "titulo": "La parte del león - Dir. Adolfo Aristarain",
-    "hora": "20:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-06-28"
-  },
-  {
-    "titulo": "Terciopelo azul",
-    "hora": "20:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-06-28"
-  },
-  {
-    "titulo": "Aguirre, la ira de dios",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-06-28"
-  },
-  {
     "titulo": "La frecuencia Kirlian",
     "hora": "18:30",
     "espacio": "Cine Select (Espacio INCAA)",
@@ -78,15 +36,15 @@
     "fecha": "2026-06-30"
   },
   {
-    "titulo": "Sorry to Bother You (Boots Riley, 2018)",
-    "hora": "20:30",
-    "espacio": "Refugio 62",
-    "fecha": "2026-06-30"
-  },
-  {
     "titulo": "Corpse can´t play + Dead of night + The exorcism",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-06-30"
+  },
+  {
+    "titulo": "Sorry to Bother You (Boots Riley, 2018)",
+    "hora": "20:30",
+    "espacio": "Refugio 62",
     "fecha": "2026-06-30"
   },
   {
