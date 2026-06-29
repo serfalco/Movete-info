@@ -306,6 +306,10 @@ p {
 }
 
 .sponsor-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 16px;
+  padding: 18px 20px;
   margin-top: 24px;
   background: var(--card);
   border-color: var(--line);
@@ -313,10 +317,11 @@ p {
 }
 
 .sponsor-kicker {
+  grid-column: 1 / -1;
   display: flex;
   align-items: center;
-  gap: 10px;
-  margin-bottom: 12px;
+  gap: 8px;
+  margin-bottom: 8px;
 }
 
 .sponsor-kicker .ad-label {
@@ -324,11 +329,32 @@ p {
 }
 
 .sponsor-logo {
-  width: 42px;
-  height: 42px;
+  width: 36px;
+  height: 36px;
   flex: 0 0 auto;
   border-radius: 50%;
   object-fit: cover;
+}
+
+.sponsor-card h2 {
+  grid-column: 1;
+  font-size: 1.5rem;
+  margin: 0 0 4px;
+}
+
+.sponsor-card > p {
+  grid-column: 1;
+  color: var(--muted);
+  font-size: .9rem;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.sponsor-card > .button {
+  grid-column: 2;
+  grid-row: 2 / span 2;
+  align-self: center;
+  justify-self: end;
 }
 
 .movida-intro {
@@ -402,11 +428,23 @@ p {
   gap: 18px;
 }
 
+.section-card-copy {
+  min-width: 0;
+}
+
+.section-card-meta {
+  color: var(--muted);
+  font-size: .78rem;
+  line-height: 1.2;
+  margin: 0;
+  white-space: nowrap;
+}
+
 .section-card-icon {
   width: 112px;
   height: 112px;
   flex: 0 0 112px;
-  margin: -10px -8px 0 0;
+  margin: 0 -8px 0 0;
   border-radius: 8px;
   object-fit: cover;
 }
@@ -942,7 +980,29 @@ nav a:focus-visible,
     width: 92px;
     height: 92px;
     flex-basis: 92px;
-    margin: -6px -5px 0 0;
+    margin: 0 -5px 0 0;
+  }
+
+  .sponsor-card {
+    column-gap: 12px;
+    padding: 16px;
+  }
+
+  .sponsor-card h2 {
+    font-size: 1.25rem;
+  }
+
+  .sponsor-card > p {
+    font-size: .82rem;
+  }
+
+  .sponsor-card > .button {
+    padding: 8px 10px;
+    font-size: .8rem;
+  }
+
+  .section-card-meta {
+    font-size: .7rem;
   }
 
 }
