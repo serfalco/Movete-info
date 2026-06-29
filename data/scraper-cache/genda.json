@@ -1,20 +1,20 @@
 [
   {
-    "titulo": "La frecuencia Kirlian",
-    "fecha": "2026-06-29 18:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-frecuencia-kirlian-cine-select-espacio-incaa-20260624221459",
-    "fuente": "genda"
-  },
-  {
     "titulo": "La terraza",
     "fecha": "2026-06-29 20:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
     "url": "https://agendalaplata.ar/evento/la-terraza-cine-select-espacio-incaa-20260624232300",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Alicia en las ciudades",
+    "fecha": "2026-06-29 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/alicia-en-las-ciudades-cine-club-proyecciones-terrestres-20260629182322",
     "fuente": "genda"
   },
   {
@@ -27,6 +27,15 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Nada entre los dos",
+    "fecha": "2026-06-30 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
+    "fuente": "genda"
+  },
+  {
     "titulo": "La música está en el poema",
     "fecha": "2026-06-30 18:00:00",
     "lugar": "Museo Almafuerte",
@@ -36,12 +45,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Nada entre los dos",
-    "fecha": "2026-06-30 18:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "titulo": "Persépolis - (Francia, 2007) de Marjane Satrapi",
+    "fecha": "2026-06-30 18:30:00",
+    "lugar": "Galpón de La Grieta y Biblioteca Popular La Chicharra",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/nada-entre-los-dos-cine-ecoselect-espacio-incaa-20260624233018",
+    "url": "https://agendalaplata.ar/evento/persepolis-francia-2007-de-marjane-satrapi-galpon-de-la-grieta-y-biblioteca-popular-la-chicharra-20260629165108",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Luna Violeta - Ensamble de mujeres y disidencias",
+    "fecha": "2026-06-30 18:30:00",
+    "lugar": "Macá Cultura",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/luna-violeta-ensamble-de-mujeres-y-disidencias-maca-cultura-20260612002457",
     "fuente": "genda"
   },
   {
@@ -54,12 +72,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Luna Violeta - Ensamble de mujeres y disidencias",
-    "fecha": "2026-06-30 18:30:00",
-    "lugar": "Macá Cultura",
+    "titulo": "Al final del arcoiris",
+    "fecha": "2026-06-30 19:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/luna-violeta-ensamble-de-mujeres-y-disidencias-maca-cultura-20260612002457",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/al-final-del-arcoiris-cine-club-proyecciones-terrestres-20260629182150",
     "fuente": "genda"
   },
   {
@@ -90,12 +108,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Curso de magia",
-    "fecha": "2026-07-01 17:30:00",
-    "lugar": "Escenario 40",
+    "titulo": "El estado de las cosas",
+    "fecha": "2026-06-30 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/curso-de-magia-escenario-40-20260612010157",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-estado-de-las-cosas-cine-club-proyecciones-terrestres-20260629182519",
     "fuente": "genda"
   },
   {
@@ -105,6 +123,15 @@
     "direccion": "",
     "categoria": "cine",
     "url": "https://agendalaplata.ar/evento/sembrando-ilusiones-luigi-comencini-1972-teatro-bar-cultural-la-ferreteria-20260609011529",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Curso de magia",
+    "fecha": "2026-07-01 17:30:00",
+    "lugar": "Escenario 40",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/curso-de-magia-escenario-40-20260612010157",
     "fuente": "genda"
   },
   {
@@ -126,12 +153,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Amarcord (Federico Fellini - 1973)",
-    "fecha": "2026-07-01 20:00:00",
-    "lugar": "Desafinado Club",
+    "titulo": "Al final del arcoiris",
+    "fecha": "2026-07-01 19:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/amarcord-federico-fellini-1973-desafinado-club-20260626210649",
+    "url": "https://agendalaplata.ar/evento/al-final-del-arcoiris-cine-club-proyecciones-terrestres-20260629182150",
     "fuente": "genda"
   },
   {
@@ -144,6 +171,15 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Amarcord (Federico Fellini - 1973)",
+    "fecha": "2026-07-01 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/amarcord-federico-fellini-1973-desafinado-club-20260626210649",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Olor a tigre - La intimidad de los recitales de Los Redondos",
     "fecha": "2026-07-01 20:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -153,12 +189,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Mitos y leyendas de mi ciudad - Narración oral + Música",
-    "fecha": "2026-07-02 18:00:00",
-    "lugar": "La Peña de las Bellas Artes",
+    "titulo": "Alicia en las ciudades",
+    "fecha": "2026-07-01 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mitos-y-leyendas-de-mi-ciudad-narracion-oral-musica-la-pena-de-las-bellas-artes-20260617123146",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/alicia-en-las-ciudades-cine-club-proyecciones-terrestres-20260629182322",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La materia del gesto",
+    "fecha": "2026-07-02 17:00:00",
+    "lugar": "Facultad de Bellas Artes",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/la-materia-del-gesto-facultad-de-bellas-artes-20260629175914",
     "fuente": "genda"
   },
   {
@@ -171,6 +216,33 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Mitos y leyendas de mi ciudad - Narración oral + Música",
+    "fecha": "2026-07-02 18:00:00",
+    "lugar": "La Peña de las Bellas Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/mitos-y-leyendas-de-mi-ciudad-narracion-oral-musica-la-pena-de-las-bellas-artes-20260617123146",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Al final del arcoiris",
+    "fecha": "2026-07-02 19:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/al-final-del-arcoiris-cine-club-proyecciones-terrestres-20260629182150",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Club del litoral",
+    "fecha": "2026-07-02 20:00:00",
+    "lugar": "Espacio Cultural La Hormiguera",
+    "direccion": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/club-del-litoral-espacio-cultural-la-hormiguera-20260629182911",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Acassuso",
     "fecha": "2026-07-02 20:00:00",
     "lugar": "Teatro y Museo Coliseo Podestá",
@@ -180,12 +252,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Mysterious Skin — Dir. Gregg Araki EEUU, 2004",
-    "fecha": "2026-07-02 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
+    "titulo": "2001: Odisea del Espacio Dir. Stanley Kubrick",
+    "fecha": "2026-07-02 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/mysterious-skin-dir-gregg-araki-eeuu-2004-cine-club-proyecciones-terrestres-20260624215438",
+    "url": "https://agendalaplata.ar/evento/2001-odisea-del-espacio-dir-stanley-kubrick-cine-select-espacio-incaa-20260629180304",
     "fuente": "genda"
   },
   {
@@ -198,6 +270,15 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Mysterious Skin — Dir. Gregg Araki EEUU, 2004",
+    "fecha": "2026-07-02 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/mysterious-skin-dir-gregg-araki-eeuu-2004-cine-club-proyecciones-terrestres-20260624215438",
+    "fuente": "genda"
+  },
+  {
     "titulo": "4ta Edición de #LaPlataComic - Invitado especial: Trukini",
     "fecha": "2026-07-03 12:00:00",
     "lugar": "Pasaje Dardo Rocha",
@@ -207,12 +288,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Tésis (1996) de Alejandro Amenábar",
-    "fecha": "2026-07-03 19:00:00",
-    "lugar": "Espacio Satélite",
+    "titulo": "Riichi Mahjong - Vení a compartir partidas o aprender",
+    "fecha": "2026-07-03 18:00:00",
+    "lugar": "La Culturosa",
     "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/tesis-1996-de-alejandro-amenabar-espacio-satelite-20260602225556",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/riichi-mahjong-veni-a-compartir-partidas-o-aprender-la-culturosa-20260629163042",
     "fuente": "genda"
   },
   {
@@ -225,12 +306,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "13 y Martes",
-    "fecha": "2026-07-03 20:00:00",
-    "lugar": "Teatro El Escape",
+    "titulo": "Tésis (1996) de Alejandro Amenábar",
+    "fecha": "2026-07-03 19:00:00",
+    "lugar": "Espacio Satélite",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/13-y-martes-teatro-el-escape-20260607231820",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/tesis-1996-de-alejandro-amenabar-espacio-satelite-20260602225556",
     "fuente": "genda"
   },
   {
@@ -240,6 +321,15 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/nonpalidese-nonpalidesenchufado-teatro-opera-20260618222648",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "13 y Martes",
+    "fecha": "2026-07-03 20:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/13-y-martes-teatro-el-escape-20260607231820",
     "fuente": "genda"
   },
   {
@@ -279,6 +369,24 @@
     "fuente": "genda"
   },
   {
+    "titulo": "El estado de las cosas",
+    "fecha": "2026-07-03 22:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-estado-de-las-cosas-cine-club-proyecciones-terrestres-20260629182519",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Al final del arcoiris",
+    "fecha": "2026-07-03 23:55:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/al-final-del-arcoiris-cine-club-proyecciones-terrestres-20260629182150",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Fraxu + Gente conversando",
     "fecha": "2026-07-03 23:55:00",
     "lugar": "Pura Vida",
@@ -315,12 +423,30 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Las Alas del Deseo - Wim Wenders",
+    "fecha": "2026-07-04 17:00:00",
+    "lugar": "Espacio Moliere",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/las-alas-del-deseo-wim-wenders-espacio-moliere-20260629122836",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Húmedas historias platenses",
     "fecha": "2026-07-04 18:00:00",
     "lugar": "El Galpón de fierro",
     "direccion": "",
     "categoria": "teatro",
     "url": "https://agendalaplata.ar/evento/humedas-historias-platenses-el-galpon-de-fierro-20260620145905",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Milonga La Simone",
+    "fecha": "2026-07-04 18:00:00",
+    "lugar": "Macá Cultura",
+    "direccion": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/milonga-la-simone-maca-cultura-20260629181531",
     "fuente": "genda"
   },
   {
@@ -351,30 +477,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Residuos, una poética del espanto",
+    "titulo": "Gillespi & Alvaro Torres",
     "fecha": "2026-07-04 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/residuos-una-poetica-del-espanto-pasaje-dardo-rocha-20260627002947",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Dúo Gonilski–Pishenin",
-    "fecha": "2026-07-04 20:00:00",
-    "lugar": "Teatro de Cámara City Bell",
+    "lugar": "Desafinado Club",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/duo-gonilski-pishenin-teatro-de-camara-city-bell-20260626210401",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Templo Estancia Batallón",
-    "fecha": "2026-07-04 20:00:00",
-    "lugar": "El Galpón de La Caterva",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/templo-estancia-batallon-el-galpon-de-la-caterva-20260627020033",
+    "url": "https://agendalaplata.ar/evento/gillespi-alvaro-torres-desafinado-club-20260629183905",
     "fuente": "genda"
   },
   {
@@ -387,6 +495,15 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Las canciones favoritas en el álbum de alguien más",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/las-canciones-favoritas-en-el-album-de-alguien-mas-esquina-america-20260612005829",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Entre todos es posible - Show solidario por Santino",
     "fecha": "2026-07-04 20:00:00",
     "lugar": "Teatro René Favaloro",
@@ -396,12 +513,30 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Las canciones favoritas en el álbum de alguien más",
+    "titulo": "Templo Estancia Batallón",
     "fecha": "2026-07-04 20:00:00",
-    "lugar": "Esquina América",
+    "lugar": "El Galpón de La Caterva",
     "direccion": "",
     "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/las-canciones-favoritas-en-el-album-de-alguien-mas-esquina-america-20260612005829",
+    "url": "https://agendalaplata.ar/evento/templo-estancia-batallon-el-galpon-de-la-caterva-20260627020033",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Residuos, una poética del espanto",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/residuos-una-poetica-del-espanto-pasaje-dardo-rocha-20260627002947",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Night is short, walk on girl",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/night-is-short-walk-on-girl-cine-club-proyecciones-terrestres-20260629182636",
     "fuente": "genda"
   },
   {
@@ -414,12 +549,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Todas somos yo? - Verónica Bogdan",
-    "fecha": "2026-07-04 20:30:00",
-    "lugar": "Teatro Espacio 44",
+    "titulo": "Dúo Gonilski–Pishenin",
+    "fecha": "2026-07-04 20:00:00",
+    "lugar": "Teatro de Cámara City Bell",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/todas-somos-yo-veronica-bogdan-teatro-espacio-44-20260627011830",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/duo-gonilski-pishenin-teatro-de-camara-city-bell-20260626210401",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Fantastic Planet (1973) René Laloux",
+    "fecha": "2026-07-04 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/fantastic-planet-1973-rene-laloux-cine-select-espacio-incaa-20260629183805",
     "fuente": "genda"
   },
   {
@@ -432,21 +576,21 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Todas somos yo? - Verónica Bogdan",
+    "fecha": "2026-07-04 20:30:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/todas-somos-yo-veronica-bogdan-teatro-espacio-44-20260627011830",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Red Hot Minute (Tributo a Red Hot Chili Peppers)",
     "fecha": "2026-07-04 21:00:00",
     "lugar": "Guajira Bar",
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/red-hot-minute-tributo-a-red-hot-chili-peppers-guajira-bar-20260626231741",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Poncio Pilatos",
-    "fecha": "2026-07-04 21:00:00",
-    "lugar": "Casa Pulsar",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/poncio-pilatos-casa-pulsar-20260612001019",
     "fuente": "genda"
   },
   {
@@ -459,12 +603,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "La H no murió",
+    "titulo": "Poncio Pilatos",
     "fecha": "2026-07-04 21:00:00",
-    "lugar": "Teatro Opera",
+    "lugar": "Casa Pulsar",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-h-no-murio-teatro-opera-20260414020058",
+    "url": "https://agendalaplata.ar/evento/poncio-pilatos-casa-pulsar-20260612001019",
     "fuente": "genda"
   },
   {
@@ -474,6 +618,42 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/los-pararrayos-esquina-america-20260526023752",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La H no murió",
+    "fecha": "2026-07-04 21:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-h-no-murio-teatro-opera-20260414020058",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Heridas de la infancia - cinco micro obras",
+    "fecha": "2026-07-04 21:30:00",
+    "lugar": "Escenario 40",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/heridas-de-la-infancia-cinco-micro-obras-escenario-40-20260629180025",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Alicia en las ciudades",
+    "fecha": "2026-07-04 22:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/alicia-en-las-ciudades-cine-club-proyecciones-terrestres-20260629182322",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Al final del arcoiris",
+    "fecha": "2026-07-04 23:55:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/al-final-del-arcoiris-cine-club-proyecciones-terrestres-20260629182150",
     "fuente": "genda"
   },
   {
@@ -495,12 +675,30 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Padawan Training",
+    "fecha": "2026-07-05 16:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/padawan-training-pasaje-dardo-rocha-20260629174822",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Billy Elliot",
     "fecha": "2026-07-05 17:00:00",
     "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
     "direccion": "",
     "categoria": "cine",
     "url": "https://agendalaplata.ar/evento/billy-elliot-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260624212234",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Night is short, walk on girl",
+    "fecha": "2026-07-05 17:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/night-is-short-walk-on-girl-cine-club-proyecciones-terrestres-20260629182636",
     "fuente": "genda"
   },
   {
@@ -513,12 +711,12 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Getting Any? (1994) Dirección: Takeshi Kitano",
+    "titulo": "Al final del arcoiris",
     "fecha": "2026-07-05 19:00:00",
-    "lugar": "La Culturosa",
+    "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/getting-any-1994-direccion-takeshi-kitano-la-culturosa-20260627012832",
+    "url": "https://agendalaplata.ar/evento/al-final-del-arcoiris-cine-club-proyecciones-terrestres-20260629182150",
     "fuente": "genda"
   },
   {
@@ -528,6 +726,15 @@
     "direccion": "",
     "categoria": "teatro",
     "url": "https://agendalaplata.ar/evento/florecera-el-verano-360-sala-420-20260615010555",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Getting Any? (1994) Dirección: Takeshi Kitano",
+    "fecha": "2026-07-05 19:00:00",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/getting-any-1994-direccion-takeshi-kitano-la-culturosa-20260627012832",
     "fuente": "genda"
   },
   {
@@ -549,12 +756,39 @@
     "fuente": "genda"
   },
   {
+    "titulo": "El hombrecito",
+    "fecha": "2026-07-05 20:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/el-hombrecito-20260629175725",
+    "fuente": "genda"
+  },
+  {
     "titulo": "13 y Martes",
     "fecha": "2026-07-05 20:00:00",
     "lugar": "Teatro El Escape",
     "direccion": "",
     "categoria": "teatro",
     "url": "https://agendalaplata.ar/evento/13-y-martes-teatro-el-escape-20260607231820",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "El estado de las cosas",
+    "fecha": "2026-07-05 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-estado-de-las-cosas-cine-club-proyecciones-terrestres-20260629182519",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Noche de Kizomba",
+    "fecha": "2026-07-05 22:30:00",
+    "lugar": "Bye Henry Diagonal",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/noche-de-kizomba-bye-henry-diagonal-20260629181356",
     "fuente": "genda"
   },
   {
@@ -567,12 +801,21 @@
     "fuente": "genda"
   },
   {
-    "titulo": "The Loneliness of the Long Distance Runner (Tony Richardson, 1962)",
-    "fecha": "2026-07-08 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "titulo": "Paris, Texas (1984)",
+    "fecha": "2026-07-08 18:00:00",
+    "lugar": "Espressivo",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/the-loneliness-of-the-long-distance-runner-tony-richardson-1962-cine-ecoselect-espacio-incaa-20260629113835",
+    "url": "https://agendalaplata.ar/evento/paris-texas-1984-espressivo-20260629183316",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Señoras bien - Despertar de dónde",
+    "fecha": "2026-07-08 19:00:00",
+    "lugar": "Fábrica Abierta",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/senoras-bien-despertar-de-donde-fabrica-abierta-20260629171602",
     "fuente": "genda"
   },
   {
@@ -582,6 +825,15 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/candu-y-sony-hipodromo-de-la-plata-20260623013919",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "The Loneliness of the Long Distance Runner (Tony Richardson, 1962)",
+    "fecha": "2026-07-08 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/the-loneliness-of-the-long-distance-runner-tony-richardson-1962-cine-ecoselect-espacio-incaa-20260629113835",
     "fuente": "genda"
   },
   {
@@ -612,12 +864,30 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Jam especial de reggae y cumbia 4ta edición",
+    "fecha": "2026-07-09 21:00:00",
+    "lugar": "Azulunala",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/jam-especial-de-reggae-y-cumbia-4ta-edicion-azulunala-20260629122559",
+    "fuente": "genda"
+  },
+  {
     "titulo": "“I Wanna Rock” Kiki Ball x Ginno 007 y Metacrisis 007",
     "fecha": "2026-07-10 18:00:00",
     "lugar": "Olga Vázquez",
     "direccion": "",
     "categoria": "actividades",
     "url": "https://agendalaplata.ar/evento/i-wanna-rock-kiki-ball-x-ginno-007-y-metacrisis-007-olga-vazquez-20260607052244",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Riichi Mahjong - Vení a compartir partidas o aprender",
+    "fecha": "2026-07-10 18:00:00",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/riichi-mahjong-veni-a-compartir-partidas-o-aprender-la-culturosa-20260629163042",
     "fuente": "genda"
   },
   {
@@ -636,6 +906,15 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/chic-s-de-oro-malen-y-las-porkerias-helen-flor-urruttia-casa-unclan-20260613192950",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Ciclo Fe 3ra Edición - Mora + Santi Casiasesino",
+    "fecha": "2026-07-10 20:00:00",
+    "lugar": "1/2 Galon Beer Store",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/ciclo-fe-3ra-edicion-mora-santi-casiasesino-1-2-galon-beer-store-20260629183641",
     "fuente": "genda"
   },
   {
@@ -702,15 +981,6 @@
     "fuente": "genda"
   },
   {
-    "titulo": "Palito Ortega",
-    "fecha": "2026-07-11 21:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/palito-ortega-teatro-argentino-centro-provincial-de-las-artes-20260415124137",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Varieté o ke - Danza, clown, teatro, poesía",
     "fecha": "2026-07-11 21:00:00",
     "lugar": "La Bulla Cultural",
@@ -726,6 +996,15 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/sebastian-mendoza-retro-disco-20260626210255",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "Palito Ortega",
+    "fecha": "2026-07-11 21:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/palito-ortega-teatro-argentino-centro-provincial-de-las-artes-20260415124137",
     "fuente": "genda"
   },
   {
@@ -765,6 +1044,15 @@
     "fuente": "genda"
   },
   {
+    "titulo": "Taikai edición arte emergente - cultura friki y el arte emergente",
+    "fecha": "2026-07-12 18:00:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "actividades",
+    "url": "https://agendalaplata.ar/evento/taikai-edicion-arte-emergente-cultura-friki-y-el-arte-emergente-casa-unclan-20260629180901",
+    "fuente": "genda"
+  },
+  {
     "titulo": "Bajo terapia",
     "fecha": "2026-07-12 18:00:00",
     "lugar": "Teatro de Cámara City Bell",
@@ -780,6 +1068,15 @@
     "direccion": "",
     "categoria": "teatro",
     "url": "https://agendalaplata.ar/evento/florecera-el-verano-360-sala-420-20260615010555",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "El hombrecito",
+    "fecha": "2026-07-12 20:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/el-hombrecito-20260629175725",
     "fuente": "genda"
   }
 ]
