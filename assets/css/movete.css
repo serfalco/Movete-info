@@ -193,14 +193,6 @@ p {
   box-shadow: 2px 2px 0 var(--shadow);
 }
 
-.button[data-share-page] {
-  align-items: center;
-  background: #fff;
-  color: var(--ink);
-  display: inline-flex;
-  gap: 7px;
-}
-
 .share-icon {
   flex: 0 0 auto;
   height: 16px;
@@ -772,21 +764,57 @@ nav a:focus-visible,
 
 .site-footer {
   border-top: 1px solid var(--line);
-  padding: 20px 18px;
+  padding: 18px;
 }
 
-.footer-title {
+.footer-line {
   max-width: var(--max);
   margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  color: var(--muted);
+  font-size: .78rem;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.footer-brand {
   font-family: var(--font-display);
   color: var(--ink);
-  font-size: 1.35rem;
+  font-size: 1rem;
   font-weight: 950;
   letter-spacing: -0.015em;
 }
 
-.footer-title span {
+.footer-brand span {
   color: var(--accent2);
+}
+
+.footer-share {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin: 0;
+  padding: 2px 0;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font: inherit;
+  line-height: inherit;
+}
+
+.footer-share:hover,
+.footer-share:focus-visible {
+  color: var(--ink);
+}
+
+.footer-share .share-icon {
+  width: 14px;
+  height: 14px;
 }
 
 .source-credit {
