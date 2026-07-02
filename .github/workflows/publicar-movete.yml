@@ -1,9 +1,9 @@
-name: Publicar En vivo
+name: Publicar semanal
 
 on:
   schedule:
-    # Jueves 07:20 Argentina (10:20 UTC)
-    - cron: "20 10 * * 4"
+    # Jueves 07:17 Argentina (10:17 UTC). GitHub puede demorar los cron.
+    - cron: "17 10 * * 4"
   workflow_dispatch:
 
 permissions:
@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  publicar-en-vivo:
+  publicar-semanal:
     runs-on: ubuntu-latest
 
     steps:
@@ -36,13 +36,23 @@ jobs:
           repository: serfalco/movete-espectaculos
           path: movete-espectaculos
 
+      - name: Checkout movete-cine
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-cine
+          path: movete-cine
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Instalar dependencias scraper
+      - name: Instalar dependencias de En vivo
         working-directory: movete-scraper
+        run: pip install -r requirements.txt
+
+      - name: Instalar dependencias de Cine
+        working-directory: movete-cine
         run: pip install -r requirements.txt
 
       - name: Generar eventos.json
@@ -52,15 +62,26 @@ jobs:
           MOVETE_CACHE_DIR: ../Movete-info/data/scraper-cache
         run: python main.py
 
-      - name: Generar En Vivo
+      - name: Generar En vivo
         working-directory: movete-espectaculos
         run: python generar_edicion.py --eventos eventos.json --output ../Movete-info/en-vivo
 
-      - name: Commit cambios en Movete-info
+      - name: Generar Cine
+        working-directory: movete-cine
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          MOVETE_CINE_OUT: ../Movete-info/cine
+        run: python main.py
+
+      - name: Actualizar fecha de portada
+        working-directory: Movete-info
+        run: python actualizar_portada.py
+
+      - name: Commit unico en Movete-info
         working-directory: Movete-info
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Publicar edición semanal En vivo"
+          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Publicar edicion semanal MoVeTe"
           git push
