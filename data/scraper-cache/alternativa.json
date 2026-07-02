@@ -100,11 +100,11 @@
   },
   {
     "titulo": "Bosque",
-    "fecha": "2026-07-16 15:30:00",
+    "fecha": "2026-07-26 15:30:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra89788-bosque",
+    "url": "https://publico.alternativateatral.com/entradas89788-bosque?o=6",
     "fuente": "alternativa"
   },
   {
@@ -158,7 +158,16 @@
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra99025-los-cuadernos-de-andre-andrazur",
+    "url": "https://publico.alternativateatral.com/entradas99025-los-cuadernos-de-andre-andrazur?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Pelota de goma",
+    "fecha": "2026-08-21 20:30:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas99166-pelota-de-goma?o=6",
     "fuente": "alternativa"
   },
   {
@@ -207,6 +216,15 @@
     "fuente": "alternativa"
   },
   {
+    "titulo": "DORA. Ellos saben que sabe. Ella sabe que saben. Pero ella es Dora, la Administradora",
+    "fecha": "2026-08-08 20:30:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas100866-dora-ellos-saben-que-sabe-ella-sabe-que-saben-pero-ella-es-dora-la-administradora?o=6",
+    "fuente": "alternativa"
+  },
+  {
     "titulo": "Volcada",
     "fecha": "2026-08-02 18:00:00",
     "lugar": "ÁREA CHICA",
@@ -222,15 +240,6 @@
     "direccion": "Av. 66 y 173, Los Hornos, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101243-los-hornos-1103-pasos?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "Muestra del taller del match de improvisacion",
-    "fecha": "2026-06-30 20:00:00",
-    "lugar": "SALA 420",
-    "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
-    "categoria": "impro",
-    "url": "https://publico.alternativateatral.com/entradas101265-muestra-del-taller-del-match-de-improvisacion?o=6",
     "fuente": "alternativa"
   },
   {
