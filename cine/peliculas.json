@@ -104,6 +104,35 @@
     "tmdb_id": 1669841,
     "trailer": ""
   },
+  "el afinador": {
+    "anio": "2005",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q5Dw0lwoyyPOFzHGqx28TXsYCNc.jpg",
+    "director": "Timothy Quay",
+    "duracion": 99,
+    "elenco": [
+      "Amira Casar",
+      "Gottfried John",
+      "Assumpta Serna"
+    ],
+    "generos": [
+      "Romance",
+      "Fantasía",
+      "Drama",
+      "Música"
+    ],
+    "paises": [
+      "France",
+      "Germany",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/a3vfQ4tsbw6qcw7RJC16RFLwlaX.jpg",
+    "score": 6.303,
+    "sinopsis": "Ambientada en el siglo XVIII, en un mundo imaginario de atmósferas y paisajes crepusculares, transcurre la historia de la cantante de ópera Malvina van Stille, que es asesinada en el escenario por el nefasto Dr. Emmanuel Droz. Su intención es crear una \"ópera diabólica\", haciendo resucitar a Malvina con la ayuda de un afinador de pianos llamado Felisberto, que deberá reajustar unos autómatas de metal que Droz tiene instalados alrededor de los jardines de su Villa.",
+    "titulo": "El afinador de terremotos",
+    "titulo_original": "The Piano Tuner of Earthquakes",
+    "tmdb_id": 44502,
+    "trailer": ""
+  },
   "el dia de la revelacion": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
@@ -206,6 +235,32 @@
     "tmdb_id": 1564614,
     "trailer": ""
   },
+  "los colores del tiempo": {
+    "anio": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b28RiKlALbdC2Dmnndt93MBt76h.jpg",
+    "director": "Cédric Klapisch",
+    "duracion": 126,
+    "elenco": [
+      "Suzanne Lindon",
+      "Abraham Wapler",
+      "Vincent Macaigne"
+    ],
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "paises": [
+      "France",
+      "Belgium"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/22YFO9PqCw22IE1uDah6RRvCd1c.jpg",
+    "score": 7.4,
+    "sinopsis": "París, 2025. A una treintena de personas de una misma familia se les informa de que van a heredar una casa abandonada desde hace años. Cuatro de ellos reciben el encargo de hacer el inventario de la casa, donde descubren tesoros ocultos. Entre las antigüedades se encuentran con una misteriosa antepasada, Adèle, que abandonó su Normandía natal a los 20 años para viajar al París de finales del siglo XIX, en plena revolución industrial y cultural, cuando se inventaba la fotografía y nacía el Impresionismo.",
+    "titulo": "Los colores del tiempo",
+    "titulo_original": "La Venue de l'avenir",
+    "tmdb_id": 1235304,
+    "trailer": ""
+  },
   "michael": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
@@ -231,6 +286,7 @@
     "tmdb_id": 936075,
     "trailer": "https://www.youtube.com/watch?v=o1HQSh6zZ8s"
   },
+  "minions y monstruos": null,
   "obsesion": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
