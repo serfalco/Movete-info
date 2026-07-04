@@ -1,0 +1,77 @@
+name: Actualizar viernes (El Dia + 0221)
+
+on:
+  schedule:
+    # Viernes 10:00 Argentina (13:00 UTC). GitHub puede demorar los cron unos minutos.
+    # A esta hora El Dia y 0221 ya publicaron su cartelera del finde.
+    - cron: "0 13 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  # Mismo grupo que la corrida del jueves: nunca se pisan entre si al hacer push.
+  group: publicar-movete
+  cancel-in-progress: false
+
+jobs:
+  actualizar-en-vivo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Movete-info
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: Movete-info
+
+      - name: Checkout movete-scraper
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-scraper
+          path: movete-scraper
+
+      - name: Checkout movete-espectaculos
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-espectaculos
+          path: movete-espectaculos
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias del scraper
+        working-directory: movete-scraper
+        run: pip install -r requirements.txt
+
+      # El viernes el scraper corre con es_viernes=True, asi que ademas de las
+      # fuentes base suma El Dia y 0221 (que recien hoy publicaron su agenda).
+      - name: Generar eventos.json (incluye El Dia + 0221)
+        working-directory: movete-scraper
+        env:
+          SALIDA_JSON: ../movete-espectaculos/eventos.json
+          MOVETE_CACHE_DIR: ../Movete-info/data/scraper-cache
+          # Fuerza El Dia + 0221 aunque se corra a mano un dia que no sea viernes.
+          # (Requiere el cambio en main.py del scraper; si no esta, se ignora sin romper.)
+          FORZAR_PERIODISTICAS: "1"
+        run: python main.py
+
+      - name: Generar En vivo
+        working-directory: movete-espectaculos
+        run: python generar_edicion.py --eventos eventos.json --output ../Movete-info/en-vivo
+
+      - name: Actualizar fecha de portada
+        working-directory: Movete-info
+        run: python actualizar_portada.py
+
+      - name: Commit unico en Movete-info
+        working-directory: Movete-info
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Actualizar En Vivo del viernes (El Dia + 0221)"
+          git push
