@@ -1,32 +1,5 @@
 [
   {
-    "titulo": "GORDILLO 20 MAS 1",
-    "fecha": "2026-07-02 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro"
-  },
-  {
-    "titulo": "GORDILLO - Nueva función 23hs",
-    "fecha": "2026-07-02 23:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro"
-  },
-  {
-    "titulo": "Candlelight",
-    "fecha": "2026-07-03 19:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro"
-  },
-  {
     "titulo": "Daniel Agostini",
     "fecha": "2026-07-04 21:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -155,6 +128,24 @@
   {
     "titulo": "Viva las brujas",
     "fecha": "2026-07-27 15:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro"
+  },
+  {
+    "titulo": "BELLA Y EL REENCUENTRO",
+    "fecha": "2026-07-27 17:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro"
+  },
+  {
+    "titulo": "Cazadoras Doradas",
+    "fecha": "2026-07-28 14:30:00",
     "lugar": "Teatro Metro La Plata",
     "direccion": "Calle 4 entre 51 y 53, La Plata",
     "categoria": "teatro",

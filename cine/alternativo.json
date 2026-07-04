@@ -1,71 +1,5 @@
 [
   {
-    "titulo": "Pensamiento Lateral",
-    "hora": "18:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-03"
-  },
-  {
-    "titulo": "Tésis (1996) de Alejandro Amenábar",
-    "hora": "19:00",
-    "espacio": "Espacio Satélite",
-    "fecha": "2026-07-03"
-  },
-  {
-    "titulo": "El estado de las cosas",
-    "hora": "22:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-03"
-  },
-  {
-    "titulo": "Al final del arcoiris",
-    "hora": "23:55",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-03"
-  },
-  {
-    "titulo": "Wall-E",
-    "hora": "16:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-04"
-  },
-  {
-    "titulo": "Las Alas del Deseo - Wim Wenders",
-    "hora": "17:00",
-    "espacio": "Espacio Moliere",
-    "fecha": "2026-07-04"
-  },
-  {
-    "titulo": "Pensamiento Lateral",
-    "hora": "18:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-04"
-  },
-  {
-    "titulo": "Night is short, walk on girl",
-    "hora": "20:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-04"
-  },
-  {
-    "titulo": "Fantastic Planet (1973) René Laloux",
-    "hora": "20:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-04"
-  },
-  {
-    "titulo": "Alicia en las ciudades",
-    "hora": "22:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-04"
-  },
-  {
-    "titulo": "Al final del arcoiris",
-    "hora": "23:55",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-04"
-  },
-  {
     "titulo": "Billy Elliot",
     "hora": "17:00",
     "espacio": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
@@ -84,15 +18,15 @@
     "fecha": "2026-07-05"
   },
   {
-    "titulo": "Al final del arcoiris",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-05"
-  },
-  {
     "titulo": "Getting Any? (1994) Dirección: Takeshi Kitano",
     "hora": "19:00",
     "espacio": "La Culturosa",
+    "fecha": "2026-07-05"
+  },
+  {
+    "titulo": "Al final del arcoiris",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
     "fecha": "2026-07-05"
   },
   {
@@ -126,7 +60,7 @@
     "fecha": "2026-07-07"
   },
   {
-    "titulo": "The Twilight Zone I: The Time Element + Walking Distance + The Hitch-Hiker + The Monsters Are Due on Maple Street",
+    "titulo": "The twilight zone I (La Dimensión Desconocida I)",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
     "fecha": "2026-07-07"

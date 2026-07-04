@@ -1,24 +1,6 @@
 [
   {
     "titulo": "Laberinto Podestá, el último aplauso",
-    "fecha": "2026-06-29 20:30:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "teatro",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/teatro-inmersivo/laberinto-podesta-el-ultimo-aplauso",
-    "fuente": "coliseo"
-  },
-  {
-    "titulo": "Acassuso",
-    "fecha": "2026-07-02 20:00:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "teatro",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/comedia-dramatica/acassuso-0",
-    "fuente": "coliseo"
-  },
-  {
-    "titulo": "Laberinto Podestá, el último aplauso",
     "fecha": "2026-07-06 20:30:00",
     "lugar": "Teatro Coliseo Podestá",
     "direccion": "Calle 10 entre 46 y 47, La Plata",
@@ -90,6 +72,15 @@
     "fuente": "coliseo"
   },
   {
+    "titulo": "Plim Plim. Energía Musical Recargada",
+    "fecha": "2026-07-26 15:00:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "infantil",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/plim-plim-energia-musical-recargada",
+    "fuente": "coliseo"
+  },
+  {
     "titulo": "HÉROE LÍRICO POP, CINEMA LÍRICO",
     "fecha": "2026-07-26 20:30:00",
     "lugar": "Teatro Coliseo Podestá",
@@ -154,7 +145,7 @@
   },
   {
     "titulo": "Fiesta PIM PAU",
-    "fecha": "2026-08-02 15:00:00",
+    "fecha": "2026-08-02 18:00:00",
     "lugar": "Teatro Coliseo Podestá",
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",

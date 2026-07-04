@@ -91,7 +91,7 @@
   },
   {
     "titulo": "Sociedad Platense de Stand Up",
-    "fecha": "2026-07-03 21:30:00",
+    "fecha": "2026-07-10 21:30:00",
     "lugar": "TRES EMPANADAS COMEDIA",
     "direccion": "Calle 43 N°1349, La Plata",
     "categoria": "stand-up",
@@ -105,6 +105,24 @@
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas89788-bosque?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "EL ROBO, un policial metafísico",
+    "fecha": "2026-08-14 21:30:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra89911-el-robo-un-policial-metafisico",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "EL ROBO, un policial metafísico",
+    "fecha": "2026-07-17 20:00:00",
+    "lugar": "TCB - TEATRO COMUNITARIO DE BERISSO",
+    "direccion": "Nueva York y Marsella N°4711, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra89911-el-robo-un-policial-metafisico",
     "fuente": "alternativa"
   },
   {
@@ -132,6 +150,15 @@
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas96111-lo-quiero-ya?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "La leona (el amor de una madre nunca se rompe)",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
+    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas96437-la-leona-el-amor-de-una-madre-nunca-se-rompe?o=6",
     "fuente": "alternativa"
   },
   {
@@ -181,7 +208,7 @@
   },
   {
     "titulo": "El puente azul",
-    "fecha": "2026-07-03 21:00:00",
+    "fecha": "2026-07-05 19:00:00",
     "lugar": "LA MERCERIA TEATRO",
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
@@ -195,6 +222,15 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas100545-todas-somos-yo?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Laberinto Borges",
+    "fecha": "2026-08-14 20:30:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra100577-laberinto-borges",
     "fuente": "alternativa"
   },
   {
@@ -280,7 +316,7 @@
   },
   {
     "titulo": "13 y martes",
-    "fecha": "2026-07-03 22:00:00",
+    "fecha": "2026-07-05 20:00:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
@@ -294,6 +330,15 @@
     "direccion": "13 e/ 32 y 33, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra101374-la-risa",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Poema criollo. Versos del subsuelo",
+    "fecha": "2026-08-07 20:30:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas101398-poema-criollo-versos-del-subsuelo?o=6",
     "fuente": "alternativa"
   },
   {
@@ -357,6 +402,42 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101706-terapia?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Tangutio mio, un musical bien guapito",
+    "fecha": "2026-08-09 16:30:00",
+    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
+    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra101869-tangutio-mio-un-musical-bien-guapito",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Cronopios X",
+    "fecha": "2026-08-21 21:30:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas101878-cronopios-x?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Cronopios XI",
+    "fecha": "2026-08-28 21:30:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas101879-cronopios-xi?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Una chispa en el infierno de la fria luna",
+    "fecha": "2026-07-11 16:30:00",
+    "lugar": "LA CAIPO",
+    "direccion": "Calle 9 entre 58 y 59, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra101881-una-chispa-en-el-infierno-de-la-fria-luna",
     "fuente": "alternativa"
   }
 ]

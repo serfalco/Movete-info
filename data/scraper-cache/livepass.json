@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "NONPALIDECE",
-    "fecha": "2026-07-03 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass"
-  },
-  {
     "titulo": "LA H NO MURIÓ",
     "fecha": "2026-07-04 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -227,6 +218,15 @@
   {
     "titulo": "PALITO ORTEGA",
     "fecha": "2026-07-11 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass"
+  },
+  {
+    "titulo": "A 18 MINUTOS",
+    "fecha": "2026-08-13 21:00:00",
     "lugar": "Teatro Argentino La Plata",
     "direccion": "Av. 51 entre 9 y 10, La Plata",
     "categoria": "musica",
