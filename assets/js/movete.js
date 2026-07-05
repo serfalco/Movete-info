@@ -54,7 +54,7 @@
 
   document.querySelectorAll("[data-share-page]").forEach((button) => {
     button.addEventListener("click", () => {
-      const message = `Mirá esta cartelera en MoVeTe:\n${document.title}\n${window.location.href}`;
+      const message = `¡Che! Mirá qué hay para hacer esta semana en La Plata 🎭🎬\n${document.title}\n${window.location.href}\n— vía MoVeTe`;
       const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(message)}`;
       window.open(whatsappUrl, "_blank", "noopener,noreferrer");
     });

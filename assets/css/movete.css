@@ -1064,6 +1064,7 @@ nav a:focus-visible,
 .trailer-button {
   margin-top: 4px;
 }
+
 /* --- Destacado editorial de la semana (lo under) --- */
 .destacado-under {
   margin-top: 24px;
@@ -1111,4 +1112,20 @@ nav a:focus-visible,
   border-top: 1px solid var(--line);
   margin: 12px 0 0;
   padding-top: 10px;
+}
+
+/* --- Antihéroes de la semana (lo más chico) --- */
+.antiheroes {
+  background: rgba(232, 197, 71, .12);
+  border: 2px dashed var(--accent2);
+  border-radius: var(--radius);
+  padding: 22px 20px 26px;
+}
+.antiheroes-eyebrow {
+  color: var(--accent-text);
+}
+.antiheroes-sub {
+  color: var(--muted);
+  max-width: 640px;
+  margin: 0 0 6px;
 }
