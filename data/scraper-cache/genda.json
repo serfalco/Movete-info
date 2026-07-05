@@ -1,23 +1,5 @@
 [
   {
-    "titulo": "Feria de vinilos",
-    "fecha": "2026-07-05 14:00:00",
-    "lugar": "La Plata",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/feria-de-vinilos-20260703143330",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Show del Payaso Manotas",
-    "fecha": "2026-07-05 15:00:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/show-del-payaso-manotas-republica-de-los-ninos-20260705023241",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Padawan Training",
     "fecha": "2026-07-05 16:00:00",
     "lugar": "Pasaje Dardo Rocha",
