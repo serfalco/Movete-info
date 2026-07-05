@@ -10,7 +10,7 @@
   },
   {
     "titulo": "La nona",
-    "fecha": "2026-07-04 21:00:00",
+    "fecha": "2026-07-11 21:00:00",
     "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
@@ -145,7 +145,7 @@
   },
   {
     "titulo": "Lo quiero ya",
-    "fecha": "2026-07-04 21:00:00",
+    "fecha": "2026-07-11 21:00:00",
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
@@ -216,26 +216,17 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Todas Somos YO?",
-    "fecha": "2026-07-04 20:30:00",
-    "lugar": "ESPACIO 44",
-    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas100545-todas-somos-yo?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Laberinto Borges",
     "fecha": "2026-08-14 20:30:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra100577-laberinto-borges",
+    "url": "https://publico.alternativateatral.com/entradas100577-laberinto-borges?o=6",
     "fuente": "alternativa"
   },
   {
     "titulo": "Lluvia verde",
-    "fecha": "2026-07-04 20:30:00",
+    "fecha": "2026-07-12 19:00:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
@@ -288,15 +279,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Cronopios V",
-    "fecha": "2026-07-04 21:30:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101286-cronopios-v?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Cronopios VI",
     "fecha": "2026-07-10 21:30:00",
     "lugar": "ESCENARIO-40",
@@ -325,7 +307,7 @@
   },
   {
     "titulo": "La risa",
-    "fecha": "2026-07-04 20:30:00",
+    "fecha": "2026-07-11 20:30:00",
     "lugar": "TELON NEGRO TEATRO",
     "direccion": "13 e/ 32 y 33, La Plata",
     "categoria": "teatro",
@@ -343,7 +325,7 @@
   },
   {
     "titulo": "Bajo la Tormenta",
-    "fecha": "2026-07-04 21:00:00",
+    "fecha": "2026-07-05 20:00:00",
     "lugar": "TEATRO ARMANDO DISCEPOLO",
     "direccion": "Calle 12 entre 62 Y 63, La Plata",
     "categoria": "teatro",

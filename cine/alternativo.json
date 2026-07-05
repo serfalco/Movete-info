@@ -1,47 +1,5 @@
 [
   {
-    "titulo": "Billy Elliot",
-    "hora": "17:00",
-    "espacio": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "fecha": "2026-07-05"
-  },
-  {
-    "titulo": "Night is short, walk on girl",
-    "hora": "17:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-05"
-  },
-  {
-    "titulo": "Los bobos",
-    "hora": "18:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-05"
-  },
-  {
-    "titulo": "Getting Any? (1994) Dirección: Takeshi Kitano",
-    "hora": "19:00",
-    "espacio": "La Culturosa",
-    "fecha": "2026-07-05"
-  },
-  {
-    "titulo": "Al final del arcoiris",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-05"
-  },
-  {
-    "titulo": "Las Criaturas - Dir. Agnès Varda Año: 1966",
-    "hora": "20:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-05"
-  },
-  {
-    "titulo": "El estado de las cosas",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-05"
-  },
-  {
     "titulo": "Los bobos",
     "hora": "18:30",
     "espacio": "Cine Select (Espacio INCAA)",
@@ -52,6 +10,12 @@
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
     "fecha": "2026-07-06"
+  },
+  {
+    "titulo": "Catita es una dama (Julio Saraceni, 1956)",
+    "hora": "15:00",
+    "espacio": "Asociación de Jubilados y Pensionados de la Caja de Previsión Social para Abogados de la Prov de Bs",
+    "fecha": "2026-07-07"
   },
   {
     "titulo": "Los bobos",
