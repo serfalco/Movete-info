@@ -135,6 +135,15 @@
     "fuente": "alternativa"
   },
   {
+    "titulo": "Acassuso",
+    "fecha": "2026-08-22 20:00:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra95417-acassuso",
+    "fuente": "alternativa"
+  },
+  {
     "titulo": "Arcade",
     "fecha": "2026-07-23 18:00:00",
     "lugar": "TELON NEGRO TEATRO",
@@ -198,21 +207,21 @@
     "fuente": "alternativa"
   },
   {
+    "titulo": "Tanguito mio, un musical bien guapito",
+    "fecha": "2026-08-09 16:30:00",
+    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
+    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra99437-tanguito-mio-un-musical-bien-guapito",
+    "fuente": "alternativa"
+  },
+  {
     "titulo": "Comerse un hipopótamo",
     "fecha": "2026-07-08 20:30:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas99636-comerse-un-hipopotamo?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "El puente azul",
-    "fecha": "2026-07-05 19:00:00",
-    "lugar": "LA MERCERIA TEATRO",
-    "direccion": "Calle 1 Nº 210, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas100397-el-puente-azul?o=6",
     "fuente": "alternativa"
   },
   {
@@ -235,7 +244,7 @@
   },
   {
     "titulo": "Carles. El eslabón perdido del Rock Nacional",
-    "fecha": "2026-07-05 19:00:00",
+    "fecha": "2026-07-12 19:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "musica",
@@ -261,24 +270,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Los hornos 1103 pasos",
-    "fecha": "2026-07-05 14:00:00",
-    "lugar": "AV. 66 Y 173, LOS HORNOS",
-    "direccion": "Av. 66 y 173, Los Hornos, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101243-los-hornos-1103-pasos?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "Cronopios IV",
-    "fecha": "2026-07-05 20:00:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101285-cronopios-iv?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Cronopios VI",
     "fecha": "2026-07-10 21:30:00",
     "lugar": "ESCENARIO-40",
@@ -294,15 +285,6 @@
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101288-cronopios-vii?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "13 y martes",
-    "fecha": "2026-07-05 20:00:00",
-    "lugar": "TEATRO EL ESCAPE",
-    "direccion": "44 1443 entre 23 y 24, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101326-13-y-martes?o=6",
     "fuente": "alternativa"
   },
   {
@@ -325,7 +307,7 @@
   },
   {
     "titulo": "Bajo la Tormenta",
-    "fecha": "2026-07-05 20:00:00",
+    "fecha": "2026-07-11 21:00:00",
     "lugar": "TEATRO ARMANDO DISCEPOLO",
     "direccion": "Calle 12 entre 62 Y 63, La Plata",
     "categoria": "teatro",
@@ -387,15 +369,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Tangutio mio, un musical bien guapito",
-    "fecha": "2026-08-09 16:30:00",
-    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
-    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra101869-tangutio-mio-un-musical-bien-guapito",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Cronopios X",
     "fecha": "2026-08-21 21:30:00",
     "lugar": "ESCENARIO-40",
@@ -420,6 +393,15 @@
     "direccion": "Calle 9 entre 58 y 59, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra101881-una-chispa-en-el-infierno-de-la-fria-luna",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Todo lo que cabe en una valija",
+    "fecha": "2026-07-25 20:30:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas101900-todo-lo-que-cabe-en-una-valija?o=6",
     "fuente": "alternativa"
   }
 ]

@@ -1,158 +1,5 @@
 [
   {
-    "titulo": "Padawan Training",
-    "fecha": "2026-07-05 16:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/padawan-training-pasaje-dardo-rocha-20260629174822",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Billy Elliot",
-    "fecha": "2026-07-05 17:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/billy-elliot-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260624212234",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Night is short, walk on girl",
-    "fecha": "2026-07-05 17:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/night-is-short-walk-on-girl-cine-club-proyecciones-terrestres-20260629182636",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Los bobos",
-    "fecha": "2026-07-05 18:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/los-bobos-cine-select-espacio-incaa-20260701013543",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Al final del arcoiris",
-    "fecha": "2026-07-05 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/al-final-del-arcoiris-cine-club-proyecciones-terrestres-20260629182150",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Getting Any? (1994) Dirección: Takeshi Kitano",
-    "fecha": "2026-07-05 19:00:00",
-    "lugar": "La Culturosa",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/getting-any-1994-direccion-takeshi-kitano-la-culturosa-20260627012832",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Florecerá el verano 360",
-    "fecha": "2026-07-05 19:00:00",
-    "lugar": "Sala 420",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/florecera-el-verano-360-sala-420-20260615010555",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Devas - Canciones icónicas de tus animes favoritos",
-    "fecha": "2026-07-05 19:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/devas-canciones-iconicas-de-tus-animes-favoritos-pasaje-dardo-rocha-20260624212839",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Èxit o exit",
-    "fecha": "2026-07-05 20:00:00",
-    "lugar": "Dynamo Teatro",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/exit-o-exit-dynamo-teatro-20260530005745",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Las Criaturas - Dir. Agnès Varda Año: 1966",
-    "fecha": "2026-07-05 20:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/las-criaturas-dir-agnes-varda-ano-1966-cine-select-espacio-incaa-20260630192740",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "El hombrecito",
-    "fecha": "2026-07-05 20:00:00",
-    "lugar": "La Lechuza Teatro",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/el-hombrecito-la-lechuza-teatro-20260629175725",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Huguito Comparin + Timeless + Talboyz",
-    "fecha": "2026-07-05 20:00:00",
-    "lugar": "Blondie Cultural",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/huguito-comparin-timeless-talboyz-blondie-cultural-20260701201939",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "13 y Martes",
-    "fecha": "2026-07-05 20:00:00",
-    "lugar": "Teatro El Escape",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/13-y-martes-teatro-el-escape-20260607231820",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Vozenoff",
-    "fecha": "2026-07-05 20:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/vozenoff-casa-suiza-20260615002952",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "El estado de las cosas",
-    "fecha": "2026-07-05 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-estado-de-las-cosas-cine-club-proyecciones-terrestres-20260629182519",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Jam de Puesía y Música",
-    "fecha": "2026-07-05 21:00:00",
-    "lugar": "Marimacha",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/jam-de-puesia-y-musica-marimacha-20260704170939",
-    "fuente": "genda"
-  },
-  {
-    "titulo": "Noche de Kizomba",
-    "fecha": "2026-07-05 22:30:00",
-    "lugar": "Bye Henry Diagonal",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/noche-de-kizomba-bye-henry-diagonal-20260629181356",
-    "fuente": "genda"
-  },
-  {
     "titulo": "Homenaje a Francisco López Merino",
     "fecha": "2026-07-06 14:00:00",
     "lugar": "Complejo Bibliotecario Municipal - Palacio López Merino",
@@ -1032,6 +879,15 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://agendalaplata.ar/evento/pizza-nacar-bazooka-casa-unclan-20260627012049",
+    "fuente": "genda"
+  },
+  {
+    "titulo": "La mujer infiel (1969) Dir. Claude Chabrol",
+    "fecha": "2026-07-19 20:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-mujer-infiel-1969-dir-claude-chabrol-cine-select-espacio-incaa-20260630193034",
     "fuente": "genda"
   }
 ]
