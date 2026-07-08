@@ -1,0 +1,11 @@
+.git
+.github
+.wrangler
+__pycache__
+node_modules
+*.py
+*.md
+data
+wrangler.jsonc
+.gitignore
+.assetsignore
