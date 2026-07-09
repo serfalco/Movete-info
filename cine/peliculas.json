@@ -158,6 +158,7 @@
     "tmdb_id": 1275779,
     "trailer": "https://www.youtube.com/watch?v=-XXZgYygh40"
   },
+  "el dia de la revolucion": null,
   "el diablo viste a la moda 2": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
@@ -182,6 +183,31 @@
     "titulo_original": "The Devil Wears Prada 2",
     "tmdb_id": 1314481,
     "trailer": "https://www.youtube.com/watch?v=IQD3qh7te2o"
+  },
+  "evil dead en llamas": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+    "director": "Sébastien Vaniček",
+    "duracion": 110,
+    "elenco": [
+      "Souheila Yacoub",
+      "Tandi Wright",
+      "Hunter Doohan"
+    ],
+    "generos": [
+      "Terror",
+      "Suspense"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
+    "score": 7.5,
+    "sinopsis": "",
+    "titulo": "Posesión infernal: En llamas",
+    "titulo_original": "Evil Dead Burn",
+    "tmdb_id": 1212763,
+    "trailer": "https://www.youtube.com/watch?v=xs9rmpoEzNs"
   },
   "jackass la ultima y nos vamos": {
     "anio": "2026",
@@ -287,6 +313,33 @@
     "trailer": "https://www.youtube.com/watch?v=o1HQSh6zZ8s"
   },
   "minions y monstruos": null,
+  "moana": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "director": "Thomas Kail",
+    "duracion": 115,
+    "elenco": [
+      "Catherine Lagaʻaia",
+      "Dwayne Johnson",
+      "Rena Owen"
+    ],
+    "generos": [
+      "Familia",
+      "Fantasía",
+      "Comedia",
+      "Aventura"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+    "score": 4.8,
+    "sinopsis": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+    "titulo": "Vaiana",
+    "titulo_original": "Moana",
+    "tmdb_id": 1108427,
+    "trailer": "https://www.youtube.com/watch?v=hAGDSmLpjFM"
+  },
   "obsesion": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",

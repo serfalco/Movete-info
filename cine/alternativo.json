@@ -1,50 +1,98 @@
 [
   {
-    "titulo": "Catita es una dama (Julio Saraceni, 1956)",
-    "hora": "15:00",
-    "espacio": "Asociación de Jubilados y Pensionados de la Caja de Previsión Social para Abogados de la Prov de Bs",
-    "fecha": "2026-07-07"
+    "titulo": "Cortometrajes UNLP",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-10"
   },
   {
-    "titulo": "Los bobos",
-    "hora": "18:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-07"
+    "titulo": "Tésis (1996) Dir. Alejandro Amenábar",
+    "hora": "19:00",
+    "espacio": "Espacio Satélite",
+    "fecha": "2026-07-10"
   },
   {
-    "titulo": "The twilight zone I (La Dimensión Desconocida I)",
-    "hora": "20:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-07"
+    "titulo": "Misery (Rob Reiner, 1990) + Déjala morir adentro (Julie Darling, 1983, Paul Nicholas)",
+    "hora": "20:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-10"
   },
   {
-    "titulo": "Los desconocidos de siempre (Mario Monicelli - 1958)",
-    "hora": "17:30",
-    "espacio": "Teatro Bar Cultural La Ferretería",
-    "fecha": "2026-07-08"
+    "titulo": "Miró (2022) Dir. Oriol Ferrer",
+    "hora": "20:00",
+    "espacio": "Casal dels Països Catalans de La Plata",
+    "fecha": "2026-07-10"
   },
   {
-    "titulo": "Paris, Texas (1984)",
-    "hora": "18:00",
-    "espacio": "Espressivo",
-    "fecha": "2026-07-08"
+    "titulo": "Una bonita mañana",
+    "hora": "22:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-10"
   },
   {
-    "titulo": "Los bobos",
-    "hora": "18:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-08"
+    "titulo": "Ai no korîda - El imperio de los sentidos (Dir. Nagisa Ōshima)",
+    "hora": "23:55",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-10"
   },
   {
-    "titulo": "The Loneliness of the Long Distance Runner (Tony Richardson, 1962)",
+    "titulo": "El joven manos de tijeras",
+    "hora": "17:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-12"
+  },
+  {
+    "titulo": "Juan Moreira - Mes de Leonardo Favio",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-12"
+  },
+  {
+    "titulo": "Night Is Short, Walk On Girl",
     "hora": "20:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-08"
+    "fecha": "2026-07-12"
   },
   {
-    "titulo": "Nazareno Cruz y el lobo",
+    "titulo": "Mi noche con Maud - Dir. Éric Rohmer Año: 1969",
+    "hora": "20:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-07-12"
+  },
+  {
+    "titulo": "Una bonita mañana",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-12"
+  },
+  {
+    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-14"
+  },
+  {
+    "titulo": "The twilight zone II (La Dimensión Desconocida II)",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-08"
+    "fecha": "2026-07-14"
+  },
+  {
+    "titulo": "Tokyo-Ga - Dir Wim Wenders",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-14"
+  },
+  {
+    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-15"
+  },
+  {
+    "titulo": "Badlands (Terrence Malick, 1973)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-07-15"
   }
 ]

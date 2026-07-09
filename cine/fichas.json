@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-02"
+    "ultima_semana": "2026-07-09"
   },
   "454639": {
     "tmdb": {
@@ -712,7 +712,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-02"
+    "ultima_semana": "2026-07-09"
   },
   "1081003": {
     "tmdb": {
@@ -1058,7 +1058,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-02"
+    "ultima_semana": "2026-07-09"
   },
   "1314481": {
     "tmdb": {
@@ -1246,7 +1246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-02"
+    "ultima_semana": "2026-07-09"
   },
   "936075": {
     "tmdb": {
@@ -1605,7 +1605,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-02"
+    "ultima_semana": "2026-07-09"
   },
   "1273221": {
     "tmdb": {
@@ -1822,7 +1822,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-02"
+    "ultima_semana": "2026-07-09"
   },
   "44502": {
     "tmdb": {
@@ -1997,7 +1997,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-02"
+    "ultima_semana": "2026-07-09"
   },
   "1088548": {
     "tmdb": {
@@ -2332,6 +2332,372 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-02"
+    "ultima_semana": "2026-07-09"
+  },
+  "1108427": {
+    "tmdb": {
+      "tmdb_id": 1108427,
+      "titulo": "Vaiana",
+      "titulo_original": "Moana",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-07-08",
+      "duracion": 115,
+      "generos": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Aventura"
+      ],
+      "score": 4.8,
+      "votos": 29,
+      "certificacion": "PG",
+      "sinopsis": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "https://image.tmdb.org/t/p/w780/ogv0eTxwCVcrfKYsl2GKH4hNHJL.jpg",
+        "https://image.tmdb.org/t/p/w780/1Qf5ClZJpmEPJgBqBB03UvCVXzO.jpg",
+        "https://image.tmdb.org/t/p/w780/lniL0aoEvuWxfZOcZss7vWQfi1x.jpg",
+        "https://image.tmdb.org/t/p/w780/7gidpHWeWlnjJOgQQsQIxwJs2Pp.jpg",
+        "https://image.tmdb.org/t/p/w780/sC1HIGFZ1nBxJpNbjztUDvD5arc.jpg"
+      ],
+      "director": "Thomas Kail",
+      "guionistas": [
+        "Jared Bush",
+        "Dana Ledoux Miller"
+      ],
+      "musica": "Mark Mancina",
+      "elenco": [
+        {
+          "nombre": "Catherine Lagaʻaia",
+          "personaje": "Moana",
+          "foto": "https://image.tmdb.org/t/p/w185/2KRIRDwy1CtY7Bge3aqVZrORelc.jpg",
+          "iniciales": "CL"
+        },
+        {
+          "nombre": "Dwayne Johnson",
+          "personaje": "Maui",
+          "foto": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg",
+          "iniciales": "DJ"
+        },
+        {
+          "nombre": "Rena Owen",
+          "personaje": "Gramma Tala",
+          "foto": "https://image.tmdb.org/t/p/w185/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg",
+          "iniciales": "RO"
+        },
+        {
+          "nombre": "John Tui",
+          "personaje": "Chief Tui",
+          "foto": "https://image.tmdb.org/t/p/w185/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg",
+          "iniciales": "JT"
+        },
+        {
+          "nombre": "Frankie Adams",
+          "personaje": "Sina",
+          "foto": "https://image.tmdb.org/t/p/w185/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg",
+          "iniciales": "FA"
+        },
+        {
+          "nombre": "Jemaine Clement",
+          "personaje": "Tamatoa (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg",
+          "iniciales": "JC"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Walt Disney Pictures",
+        "Seven Bucks Productions",
+        "Flynn Picture Company",
+        "5000 Broadway Productions"
+      ],
+      "temas": [
+        "Sailboat",
+        "Sea",
+        "Friendship",
+        "Ocean",
+        "Leaving one's family",
+        "Musical",
+        "Remake",
+        "Curse"
+      ],
+      "trailer": "",
+      "teaser": "https://www.youtube.com/watch?v=hAGDSmLpjFM",
+      "imdb_id": "tt27419466",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 71,
+          "titulo": "Billy Elliot (Quiero bailar)",
+          "anio": "2000",
+          "poster": "https://image.tmdb.org/t/p/w342/lN6JppeFXbPFXFREickSSeHOjCz.jpg",
+          "score": 7.597
+        },
+        {
+          "tmdb_id": 1541802,
+          "titulo": "Operasi Pesta Copet",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/q6jhaPlAnzNFuvPDbDXBDbavIXE.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 173,
+          "titulo": "20.000 leguas de viaje submarino",
+          "anio": "1954",
+          "poster": "https://image.tmdb.org/t/p/w342/fD8N9bFnnoXFP9hUqOdAkOxQkBR.jpg",
+          "score": 7.1
+        },
+        {
+          "tmdb_id": 128,
+          "titulo": "La princesa Mononoke",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/xP466sdt19CPLVljpRwI7luEgFn.jpg",
+          "score": 8.321
+        },
+        {
+          "tmdb_id": 157,
+          "titulo": "Star Trek III. En busca de Spock",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/mv29MhfQRHvWFeTg0VwOKvBQlKg.jpg",
+          "score": 6.578
+        },
+        {
+          "tmdb_id": 158,
+          "titulo": "Llamando a las puertas del cielo",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/9pTUCXcMDZurDmZRtOrnk9mjSFH.jpg",
+          "score": 7.703
+        },
+        {
+          "tmdb_id": 159,
+          "titulo": "El hombre deseado",
+          "anio": "1994",
+          "poster": "https://image.tmdb.org/t/p/w342/eD6ARhHj2CdRyFnfkLXRxz288Mj.jpg",
+          "score": 6.227
+        },
+        {
+          "tmdb_id": 13,
+          "titulo": "Forrest Gump",
+          "anio": "1994",
+          "poster": "https://image.tmdb.org/t/p/w342/azV6hV99lYkdhydsQbJCI6FqMl4.jpg",
+          "score": 8.464
+        }
+      ]
+    },
+    "ultima_semana": "2026-07-09"
+  },
+  "1212763": {
+    "tmdb": {
+      "tmdb_id": 1212763,
+      "titulo": "Posesión infernal: En llamas",
+      "titulo_original": "Evil Dead Burn",
+      "tagline": "Toda familia tiene sus demonios",
+      "anio": "2026",
+      "estreno": "2026-07-07",
+      "duracion": 110,
+      "generos": [
+        "Terror",
+        "Suspense"
+      ],
+      "score": 7.5,
+      "votos": 15,
+      "certificacion": "+16",
+      "sinopsis": "",
+      "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+        "https://image.tmdb.org/t/p/w780/n5WyWfw8bUqXFPYtRAXTbg0697h.jpg",
+        "https://image.tmdb.org/t/p/w780/vg480Csd6V2jLJMNGs2aUIJaY73.jpg",
+        "https://image.tmdb.org/t/p/w780/wKEJSwFRTaMFftw2vf9LAHxnraK.jpg",
+        "https://image.tmdb.org/t/p/w780/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "https://image.tmdb.org/t/p/w780/5jOehvLnURsx2kUY6Wy7UHf9hpD.jpg"
+      ],
+      "director": "Sébastien Vaniček",
+      "guionistas": [
+        "Sébastien Vaniček",
+        "Florent Bernard"
+      ],
+      "musica": "Xavier Caux, Douglas Cavanna",
+      "elenco": [
+        {
+          "nombre": "Souheila Yacoub",
+          "personaje": "Alice",
+          "foto": "https://image.tmdb.org/t/p/w185/8GXQwfBQybNDwinJOQF0dGtlITj.jpg",
+          "iniciales": "SY"
+        },
+        {
+          "nombre": "Tandi Wright",
+          "personaje": "Susan",
+          "foto": "https://image.tmdb.org/t/p/w185/zluVB3mzZVlv8D013OgeQLhzNEw.jpg",
+          "iniciales": "TW"
+        },
+        {
+          "nombre": "Hunter Doohan",
+          "personaje": "Joseph",
+          "foto": "https://image.tmdb.org/t/p/w185/ihno5ut6ha8TaubQFgl5Ozco2K1.jpg",
+          "iniciales": "HD"
+        },
+        {
+          "nombre": "Luciane Buchanan",
+          "personaje": "Thya",
+          "foto": "https://image.tmdb.org/t/p/w185/4BVfv9HE6ZipHqZO8xDlkDFBWlN.jpg",
+          "iniciales": "LB"
+        },
+        {
+          "nombre": "Erroll Shand",
+          "personaje": "Edgar Price",
+          "foto": "https://image.tmdb.org/t/p/w185/75nc5lUcp1So9RTNNr08NZ0oQDG.jpg",
+          "iniciales": "ES"
+        },
+        {
+          "nombre": "Maude Davey",
+          "personaje": "Polly",
+          "foto": "https://image.tmdb.org/t/p/w185/gJsnWVfgcyFrTYPVvcJrvIjIH1k.jpg",
+          "iniciales": "MD"
+        },
+        {
+          "nombre": "Alain Chabat",
+          "personaje": "Alice's Father (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/xRjymE6LIJd0useKWN2R1WgKDRy.jpg",
+          "iniciales": "AC"
+        },
+        {
+          "nombre": "Victory Ndukwe",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/fAIXv88uXtJp1dH5qoMpsZxn8w1.jpg",
+          "iniciales": "VN"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Français"
+      ],
+      "productoras": [
+        "New Line Cinema",
+        "Screen Gems",
+        "Ghost House Pictures"
+      ],
+      "temas": [
+        "Funeral",
+        "Widow",
+        "Possession",
+        "Grief",
+        "Spirit",
+        "Demon",
+        "Spin off",
+        "Family"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=xs9rmpoEzNs",
+      "teaser": "",
+      "imdb_id": "tt31170389",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Evil Dead (Reboot) Collection",
+        "partes": [
+          {
+            "tmdb_id": 109428,
+            "titulo": "Posesión infernal (Evil Dead)",
+            "anio": "2013",
+            "poster": "https://image.tmdb.org/t/p/w342/w0BrfbkdKReQsyilSpZtjEE9ZQ5.jpg",
+            "fecha": "2013-04-05"
+          },
+          {
+            "tmdb_id": 713704,
+            "titulo": "Posesión infernal: El despertar",
+            "anio": "2023",
+            "poster": "https://image.tmdb.org/t/p/w342/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg",
+            "fecha": "2023-04-12"
+          },
+          {
+            "tmdb_id": 1212763,
+            "titulo": "Posesión infernal: En llamas",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
+            "fecha": "2026-07-07"
+          },
+          {
+            "tmdb_id": 1280608,
+            "titulo": "Evil Dead Wrath",
+            "anio": "2028",
+            "poster": "https://image.tmdb.org/t/p/w342/r10fSbmxDipJG6VOyt9nkX3zEbx.jpg",
+            "fecha": "2028-04-07"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 805,
+          "titulo": "La semilla del diablo",
+          "anio": "1968",
+          "poster": "https://image.tmdb.org/t/p/w342/1PbbUmtP8SnGRCTvTzqfj5aj0xK.jpg",
+          "score": 7.8
+        },
+        {
+          "tmdb_id": 806,
+          "titulo": "La profecía",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/t0u95VL153ywMlzc7MmBO8ATV4L.jpg",
+          "score": 5.649
+        },
+        {
+          "tmdb_id": 827,
+          "titulo": "Las diabólicas",
+          "anio": "1955",
+          "poster": "https://image.tmdb.org/t/p/w342/eX2SM3UECXJgrGknXHdYS2veReS.jpg",
+          "score": 7.889
+        },
+        {
+          "tmdb_id": 948,
+          "titulo": "La noche de Halloween",
+          "anio": "1978",
+          "poster": "https://image.tmdb.org/t/p/w342/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
+          "score": 7.6
+        },
+        {
+          "tmdb_id": 1367792,
+          "titulo": "Jade",
+          "anio": "",
+          "poster": "https://image.tmdb.org/t/p/w342/slmSIGD7zQoAxOVqz437oBO7jw0.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 927,
+          "titulo": "Gremlins",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/73Lf0JYHyWyZQGu04wvzzM3hh0l.jpg",
+          "score": 7.144
+        },
+        {
+          "tmdb_id": 956,
+          "titulo": "Misión imposible III",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/w61xBgFOfP8Z6uHKIKn1sl1TI8j.jpg",
+          "score": 6.766
+        },
+        {
+          "tmdb_id": 791,
+          "titulo": "Terror en la niebla",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/8ZA2oBaGNk3A4xljFPz0bt4SOGQ.jpg",
+          "score": 4.572
+        }
+      ]
+    },
+    "ultima_semana": "2026-07-09"
   }
 }
