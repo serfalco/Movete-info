@@ -28,7 +28,7 @@
   },
   {
     "titulo": "Bety Godt, la inconquistable",
-    "fecha": "2026-07-11 21:00:00",
+    "fecha": "2026-07-18 21:00:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -140,7 +140,7 @@
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra95417-acassuso",
+    "url": "https://publico.alternativateatral.com/entradas95417-acassuso?o=6",
     "fuente": "alternativa"
   },
   {
@@ -212,16 +212,16 @@
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra99437-tanguito-mio-un-musical-bien-guapito",
+    "url": "https://publico.alternativateatral.com/entradas99437-tanguito-mio-un-musical-bien-guapito?o=6",
     "fuente": "alternativa"
   },
   {
-    "titulo": "Comerse un hipopótamo",
-    "fecha": "2026-07-08 20:30:00",
-    "lugar": "ESPACIO 44",
-    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "titulo": "Ecografía",
+    "fecha": "2026-07-18 21:00:00",
+    "lugar": "LA MERCERIA TEATRO",
+    "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas99636-comerse-un-hipopotamo?o=6",
+    "url": "https://publico.alternativateatral.com/entradas100151-ecografia?o=6",
     "fuente": "alternativa"
   },
   {
