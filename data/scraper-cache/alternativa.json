@@ -41,7 +41,7 @@
     "lugar": "ESPACIO MOLIERE CITYBELL",
     "direccion": "Sarmiento (15 A) 826, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra66914-perez-y-compania",
+    "url": "https://publico.alternativateatral.com/entradas66914-perez-y-compania?o=6",
     "fuente": "alternativa"
   },
   {
@@ -141,6 +141,15 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas95417-acassuso?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Vacío",
+    "fecha": "2026-07-17 22:00:00",
+    "lugar": "ÁREA CHICA",
+    "direccion": "Boulevard 83 403, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas95731-vacio?o=6",
     "fuente": "alternativa"
   },
   {
@@ -402,6 +411,15 @@
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101900-todo-lo-que-cabe-en-una-valija?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Vecinas, música y teatro",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "EL MEDIO ALJIBE",
+    "direccion": "11 e/66 y 67, La Plata",
+    "categoria": "musica",
+    "url": "https://www.alternativateatral.com.ar/obra101966-vecinas-musica-y-teatro",
     "fuente": "alternativa"
   }
 ]
