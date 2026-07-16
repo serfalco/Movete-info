@@ -15,6 +15,252 @@
   <meta name="twitter:card" content="summary_large_image">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"MoVeTe","url":"https://movete.info/","description":"Cartelera cultural semanal de La Plata: cine, teatro, música, stand up y eventos en vivo.","potentialAction":{"@type":"SearchAction","target":"https://movete.info/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
   <link rel="stylesheet" href="/assets/css/movete.css">
+  <style>
+    .home-page main {
+      padding-top: 28px;
+    }
+
+    .home-cover {
+      position: relative;
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(280px, .8fr);
+      gap: 28px;
+      align-items: stretch;
+      margin: 14px 0 28px;
+    }
+
+    .home-hero-panel {
+      min-height: 430px;
+      padding: clamp(28px, 5vw, 56px);
+      border: 1px solid var(--line);
+      border-radius: 34px;
+      background:
+        radial-gradient(circle at 90% 10%, rgba(232, 197, 71, .5), transparent 9rem),
+        radial-gradient(circle at 0 100%, rgba(255, 81, 40, .12), transparent 16rem),
+        var(--card);
+      box-shadow: 0 22px 55px rgba(14, 13, 16, .08);
+      overflow: hidden;
+    }
+
+    .home-hero-panel .eyebrow {
+      margin-bottom: 18px;
+    }
+
+    .home-hero-panel h1 {
+      font-size: clamp(3.8rem, 9vw, 8.6rem);
+      line-height: .82;
+      margin: 0 0 24px;
+      max-width: 760px;
+    }
+
+    .home-lead {
+      max-width: 680px;
+      margin: 0;
+      color: #3f3b35;
+      font-size: clamp(1.08rem, 2vw, 1.36rem);
+      line-height: 1.48;
+    }
+
+    .home-edition-card {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 430px;
+      padding: 28px;
+      border-radius: 34px;
+      border: 1px solid var(--line);
+      background: #0e0d10;
+      color: var(--paper);
+      box-shadow: 0 22px 55px rgba(14, 13, 16, .16);
+    }
+
+    .home-edition-card .tag,
+    .home-edition-card .eyebrow {
+      color: var(--accent2);
+    }
+
+    .home-edition-card h2 {
+      font-size: clamp(2.2rem, 5vw, 4.4rem);
+      line-height: .92;
+      margin: 8px 0 16px;
+    }
+
+    .home-edition-card p {
+      color: rgba(245, 241, 232, .82);
+      margin: 0;
+    }
+
+    .home-primary-actions {
+      display: grid;
+      gap: 10px;
+      margin-top: 24px;
+    }
+
+    .home-primary-actions a {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 0;
+      color: var(--paper);
+      border-top: 1px solid rgba(245, 241, 232, .22);
+      font-family: var(--font-action);
+      font-weight: 850;
+      text-decoration: none;
+    }
+
+    .home-primary-actions a:last-child {
+      border-bottom: 1px solid rgba(245, 241, 232, .22);
+    }
+
+    .home-section-title {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: end;
+      margin: 34px 0 16px;
+    }
+
+    .home-section-title h2 {
+      margin: 0;
+    }
+
+    .home-section-title p {
+      max-width: 520px;
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .home-feature-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .home-feature-card {
+      position: relative;
+      min-height: 330px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      overflow: hidden;
+      border-radius: 30px;
+      border: 1px solid var(--line);
+      background: var(--card);
+      box-shadow: 0 18px 45px rgba(14, 13, 16, .07);
+    }
+
+    .home-feature-image {
+      height: 150px;
+      width: 100%;
+      object-fit: cover;
+      filter: saturate(.92) contrast(1.04);
+    }
+
+    .home-feature-body {
+      padding: 22px;
+    }
+
+    .home-feature-body h3 {
+      font-size: clamp(2rem, 4vw, 3rem);
+      line-height: .92;
+      margin: 6px 0 10px;
+    }
+
+    .home-feature-body p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .home-link-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 0 22px 22px;
+    }
+
+    .home-link-list a {
+      padding: 9px 12px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: rgba(232, 197, 71, .16);
+      font-family: var(--font-action);
+      font-weight: 800;
+      text-decoration: none;
+    }
+
+    .home-sponsor-soft {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      gap: 16px;
+      align-items: center;
+      margin-top: 24px;
+      padding: 18px 20px;
+      border-radius: 26px;
+      border: 1px dashed rgba(14, 13, 16, .24);
+      background: rgba(255, 250, 240, .68);
+    }
+
+    .home-sponsor-soft img {
+      width: 46px;
+      height: 46px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .home-sponsor-soft h2 {
+      font-size: 1.35rem;
+      margin: 0 0 2px;
+    }
+
+    .home-sponsor-soft p {
+      margin: 0;
+      color: var(--muted);
+      font-size: .95rem;
+    }
+
+    .home-small-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+      margin-top: 24px;
+    }
+
+    @media (max-width: 820px) {
+      .home-cover,
+      .home-feature-grid,
+      .home-small-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .home-page main {
+        padding-top: 14px;
+      }
+
+      .home-hero-panel,
+      .home-edition-card {
+        min-height: auto;
+        border-radius: 26px;
+      }
+
+      .home-section-title {
+        display: block;
+      }
+
+      .home-section-title p {
+        margin-top: 8px;
+      }
+
+      .home-sponsor-soft {
+        grid-template-columns: auto minmax(0, 1fr);
+      }
+
+      .home-sponsor-soft .button {
+        grid-column: 1 / -1;
+        width: fit-content;
+      }
+    }
+  </style>
 </head>
 <body id="top" class="home-page">
   <header class="site-header">
@@ -27,57 +273,76 @@
   </header>
 
   <main>
-    <section class="hero">
-      <p class="eyebrow">La Plata · Edición semanal · <time data-edition-date datetime="2026-07-16" aria-label="Edición del 16 de julio de 2026">16.07.2026</time></p>
-      <h1>Qué hacer en La Plata<span class="headline-mark">?</span></h1>
-      <div class="movida-intro">
-        <p class="eyebrow">La movida</p>
-        <p>La Plata siempre tiene algo pasando: una sala chica, una banda nueva, una obra que te recomendaron, una función para compartir. MoVeTe junta esas pistas para que sea más fácil salir y encontrarse.</p>
+    <section class="home-cover" aria-label="Portada de MoVeTe">
+      <div class="home-hero-panel">
+        <p class="eyebrow">La Plata · Edición semanal · <time data-edition-date datetime="2026-07-16" aria-label="Edición del 16 de julio de 2026">16.07.2026</time></p>
+        <h1>Qué hacer en La Plata<span class="headline-mark">?</span></h1>
+        <p class="home-lead">En La Plata pasan cosas. Cada semana reunimos la cartelera cultural del Gran La Plata para que sea muy fácil descubrir un evento para compartir. Porque la cultura es encontrarnos.</p>
       </div>
+
+      <aside class="home-edition-card" aria-label="Entradas principales">
+        <div>
+          <p class="tag">Esta semana</p>
+          <h2>Cine y en vivo</h2>
+          <p>Dos caminos simples: mirar la cartelera de cine o recorrer teatro, música, stand up y otras salidas culturales.</p>
+        </div>
+        <nav class="home-primary-actions" aria-label="Accesos principales">
+          <a href="/cine/"><span>Cartelera de cine</span><span>→</span></a>
+          <a href="/cine/pelis/"><span>Películas en cartelera</span><span>→</span></a>
+          <a href="/en-vivo/"><span>Agenda en vivo</span><span>→</span></a>
+        </nav>
+      </aside>
     </section>
 
-    <section class="grid two section-block" aria-label="Carteleras principales">
-      <article class="card section-card">
-        <div class="section-card-head">
-          <div class="section-card-copy">
-            <p class="tag">Cartelera de cine</p>
-            <h2>Cine en La Plata</h2>
-            <p class="section-card-meta">Tradicional · Alternativo · Por salas · Por películas</p>
-            <p>Funciones de la semana en salas comerciales, cineclubes y espacios alternativos.</p>
-          </div>
-          <img class="section-card-icon" src="/assets/images/cartelera-cine.jpg" alt="" width="112" height="112" decoding="async">
+    <section class="home-section-title" aria-label="Secciones principales">
+      <div>
+        <p class="tag">Elegí tu salida</p>
+        <h2>La semana, ordenada</h2>
+      </div>
+      <p>Cine por salas o por películas; en vivo por categorías simples para no perderse entre links.</p>
+    </section>
+
+    <section class="home-feature-grid" aria-label="Carteleras principales">
+      <article class="home-feature-card">
+        <img class="home-feature-image" src="/assets/images/cartelera-cine.jpg" alt="" width="640" height="300" decoding="async">
+        <div class="home-feature-body">
+          <p class="tag">Cartelera</p>
+          <h3>Cine</h3>
+          <p>Salas comerciales, cine alternativo, funciones y películas de la semana en La Plata.</p>
         </div>
-        <a class="card-link" href="/cine/">Ver cartelera por salas →</a>
-        <a class="card-link" href="/cine/pelis/">Ver cartelera por películas →</a>
+        <div class="home-link-list">
+          <a href="/cine/">Por salas</a>
+          <a href="/cine/pelis/">Por películas</a>
+        </div>
       </article>
-      <article class="card section-card">
-        <div class="section-card-head">
-          <div class="section-card-copy">
-            <p class="tag">Agenda en vivo</p>
-            <h2>Teatro, música, stand up y más</h2>
-            <p class="section-card-meta">Stand Up · Teatro · Música · Danza · Talleres · Otros</p>
-            <p>Una guía semanal para encontrar obras, recitales, comedia y salidas culturales.</p>
-          </div>
-          <img class="section-card-icon" src="/assets/images/cartelera-en-vivo.jpg" alt="" width="112" height="112" decoding="async">
+
+      <article class="home-feature-card">
+        <img class="home-feature-image" src="/assets/images/cartelera-en-vivo.jpg" alt="" width="640" height="300" decoding="async">
+        <div class="home-feature-body">
+          <p class="tag">Agenda</p>
+          <h3>En vivo</h3>
+          <p>Teatro, música, stand up, danza, talleres y otras propuestas culturales para salir.</p>
         </div>
-        <a class="card-link" href="/en-vivo/">Ver toda la agenda en vivo →</a>
-        <a class="card-link" href="/en-vivo/teatro/">Teatro →</a>
-        <a class="card-link" href="/en-vivo/musica/">Música →</a>
-        <a class="card-link" href="/en-vivo/stand-up/">Stand up →</a>
+        <div class="home-link-list">
+          <a href="/en-vivo/">Todo</a>
+          <a href="/en-vivo/teatro/">Teatro</a>
+          <a href="/en-vivo/musica/">Música</a>
+          <a href="/en-vivo/stand-up/">Stand up</a>
+        </div>
       </article>
     </section>
 
-    <section class="ad-box sponsor-card section-block">
-      <div class="sponsor-kicker">
-        <img class="sponsor-logo" src="/assets/images/tres-empanadas-comedia.png" alt="">
+    <section class="home-sponsor-soft" aria-label="Espacio promocional">
+      <img src="/assets/images/tres-empanadas-comedia.png" alt="">
+      <div>
         <p class="ad-label">Espacio promocional</p>
+        <h2>Tres Empanadas Comedia</h2>
+        <p>Stand up en La Plata. Shows a la gorra, todos los viernes.</p>
       </div>
-      <h2>Tres Empanadas Comedia</h2>
-      <p>Stand up en La Plata. Shows a la gorra, todos los viernes.</p>
       <a class="button small" href="https://tresempanadas.com.ar/reservas">Más info</a>
     </section>
 
-    <section class="grid two section-block" aria-label="Participá">
+    <section class="home-small-grid" aria-label="Participá">
       <article class="card">
         <p class="tag">Sumá lo tuyo</p>
         <h2>¿Tenés un evento?</h2>
