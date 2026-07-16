@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
   },
   "454639": {
     "tmdb": {
@@ -712,7 +712,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
   },
   "1081003": {
     "tmdb": {
@@ -1058,7 +1058,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
   },
   "1314481": {
     "tmdb": {
@@ -1246,7 +1246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
   },
   "936075": {
     "tmdb": {
@@ -1605,7 +1605,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
   },
   "1273221": {
     "tmdb": {
@@ -1822,7 +1822,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
   },
   "44502": {
     "tmdb": {
@@ -1997,7 +1997,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
   },
   "1088548": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
   },
   "1108427": {
     "tmdb": {
@@ -2494,7 +2494,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
   },
   "1212763": {
     "tmdb": {
@@ -2698,6 +2698,177 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-09"
+    "ultima_semana": "2026-07-16"
+  },
+  "1368337": {
+    "tmdb": {
+      "tmdb_id": 1368337,
+      "titulo": "La Odisea",
+      "titulo_original": "The Odyssey",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-07-15",
+      "duracion": 173,
+      "generos": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "score": 6.301,
+      "votos": 73,
+      "certificacion": "R",
+      "sinopsis": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+        "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+        "https://image.tmdb.org/t/p/w780/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+        "https://image.tmdb.org/t/p/w780/n3D2Lmwomtbc4SZFO8hLtLL0b5q.jpg",
+        "https://image.tmdb.org/t/p/w780/kGCOfQpITTI0rKzrVMRGOFteszf.jpg"
+      ],
+      "director": "Christopher Nolan",
+      "guionistas": [
+        "Christopher Nolan"
+      ],
+      "musica": "Ludwig Göransson, Callum Armstrong",
+      "elenco": [
+        {
+          "nombre": "Matt Damon",
+          "personaje": "Odysseus",
+          "foto": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
+          "iniciales": "MD"
+        },
+        {
+          "nombre": "Tom Holland",
+          "personaje": "Telemachus",
+          "foto": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+          "iniciales": "TH"
+        },
+        {
+          "nombre": "Anne Hathaway",
+          "personaje": "Penelope",
+          "foto": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+          "iniciales": "AH"
+        },
+        {
+          "nombre": "Robert Pattinson",
+          "personaje": "Antinous",
+          "foto": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
+          "iniciales": "RP"
+        },
+        {
+          "nombre": "Lupita Nyong'o",
+          "personaje": "Helen / Clytemnestra",
+          "foto": "https://image.tmdb.org/t/p/w185/mJMpsADPpt0bmXEzs3ywrUiCkpD.jpg",
+          "iniciales": "LN"
+        },
+        {
+          "nombre": "Charlize Theron",
+          "personaje": "Calypso",
+          "foto": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
+          "iniciales": "CT"
+        },
+        {
+          "nombre": "Zendaya",
+          "personaje": "Athena",
+          "foto": "https://image.tmdb.org/t/p/w185/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg",
+          "iniciales": "ZE"
+        },
+        {
+          "nombre": "Benny Safdie",
+          "personaje": "Agamemnon",
+          "foto": "https://image.tmdb.org/t/p/w185/u10A5DpUYRB1zMF7YoGYcyvhois.jpg",
+          "iniciales": "BS"
+        }
+      ],
+      "paises": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Universal Pictures",
+        "Syncopy"
+      ],
+      "temas": [
+        "Ship",
+        "Trojan war",
+        "Greek mythology",
+        "Historical fiction",
+        "Ancient world",
+        "Period drama",
+        "Based on song, poem or rhyme",
+        "Greek history"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt33764258",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 18870,
+          "titulo": "Minotauro",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/sPP0NVwnoPvifsYvTF2kj5ZIaWE.jpg",
+          "score": 4.934
+        },
+        {
+          "tmdb_id": 18823,
+          "titulo": "Furia de titanes",
+          "anio": "2010",
+          "poster": "https://image.tmdb.org/t/p/w342/gn2q6HooPdGfFaOI2U2nbjw3BSZ.jpg",
+          "score": 5.923
+        },
+        {
+          "tmdb_id": 1385969,
+          "titulo": "Believe: Takdir, Mimpi, Keberanian",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/qP5wSoHngnDM1o6nzzUjv6CEiz5.jpg",
+          "score": 6.0
+        },
+        {
+          "tmdb_id": 19666,
+          "titulo": "Lagaan: Érase una vez en la India",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/z82yWJJ6MJzBjGMfioNcs3KnY5U.jpg",
+          "score": 7.265
+        },
+        {
+          "tmdb_id": 454227,
+          "titulo": "El rey proscrito",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/wbuKZsSvoqaOhCeghh5MGcPhzDc.jpg",
+          "score": 6.83
+        },
+        {
+          "tmdb_id": 454294,
+          "titulo": "El niño que pudo ser rey",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/fe1e9mKeoHf6stqUBBFZ1JKtJET.jpg",
+          "score": 6.2
+        },
+        {
+          "tmdb_id": 19493,
+          "titulo": "Hornblower: The Even Chance",
+          "anio": "1998",
+          "poster": "https://image.tmdb.org/t/p/w342/gEBjQzBRJMTil8XE2VoZrOg5IYs.jpg",
+          "score": 7.525
+        },
+        {
+          "tmdb_id": 1212788,
+          "titulo": "ಕಾಟೇರ",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/5G2b21lvs7ZsgZH1Ee596XhUhLP.jpg",
+          "score": 5.2
+        }
+      ]
+    },
+    "ultima_semana": "2026-07-16"
   }
 }

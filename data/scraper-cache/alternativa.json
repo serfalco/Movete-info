@@ -9,8 +9,26 @@
     "fuente": "alternativa"
   },
   {
+    "titulo": "Sapo en Buenos Aires",
+    "fecha": "2026-07-29 15:00:00",
+    "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
+    "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra15567-sapo-en-buenos-aires",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Greta y Gaspar",
+    "fecha": "2026-07-22 15:00:00",
+    "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
+    "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra24515-greta-y-gaspar",
+    "fuente": "alternativa"
+  },
+  {
     "titulo": "La nona",
-    "fecha": "2026-07-11 21:00:00",
+    "fecha": "2026-07-18 21:00:00",
     "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
@@ -45,6 +63,15 @@
     "fuente": "alternativa"
   },
   {
+    "titulo": "El Principito",
+    "fecha": "2026-07-21 15:00:00",
+    "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
+    "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra70884-el-principito",
+    "fuente": "alternativa"
+  },
+  {
     "titulo": "Bergman y Liv Correspondencia Amorosa",
     "fecha": "2026-07-17 21:00:00",
     "lugar": "SALA 420",
@@ -63,17 +90,8 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Yuna soy yo",
-    "fecha": "2026-07-11 18:00:00",
-    "lugar": "ESPACIO 44",
-    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas78122-yuna-soy-yo?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "MATCH- TEATRO DEPORTE Y HUMOR",
-    "fecha": "2026-07-10 21:00:00",
+    "fecha": "2026-07-24 21:00:00",
     "lugar": "SALA 420",
     "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
     "categoria": "impro",
@@ -82,7 +100,7 @@
   },
   {
     "titulo": "Empoederadas",
-    "fecha": "2026-07-11 19:30:00",
+    "fecha": "2026-08-22 21:30:00",
     "lugar": "ESCENARIO-40",
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
@@ -91,7 +109,7 @@
   },
   {
     "titulo": "Sociedad Platense de Stand Up",
-    "fecha": "2026-07-10 21:30:00",
+    "fecha": "2026-07-17 21:30:00",
     "lugar": "TRES EMPANADAS COMEDIA",
     "direccion": "Calle 43 N°1349, La Plata",
     "categoria": "stand-up",
@@ -162,15 +180,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Lo quiero ya",
-    "fecha": "2026-07-11 21:00:00",
-    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
-    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas96111-lo-quiero-ya?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "La leona (el amor de una madre nunca se rompe)",
     "fecha": "2026-08-08 21:00:00",
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
@@ -180,21 +189,30 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Lobo, pieza perdida",
-    "fecha": "2026-07-12 20:00:00",
-    "lugar": "ÁREA CHICA",
-    "direccion": "Boulevard 83 403, La Plata",
+    "titulo": "Bailó toda la noche, tomó agua fría y se murió",
+    "fecha": "2026-08-14 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas96993-lobo-pieza-perdida?o=6",
+    "url": "https://www.alternativateatral.com.ar/obra96455-bailo-toda-la-noche-tomo-agua-fria-y-se-murio",
     "fuente": "alternativa"
   },
   {
     "titulo": "La cantante calva",
-    "fecha": "2026-07-12 19:00:00",
+    "fecha": "2026-07-25 21:00:00",
     "lugar": "LA MERCERIA TEATRO",
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas97717-la-cantante-calva?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Recuerdos del FUTURO: Mi abuela es una super modelo",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra98557-recuerdos-del-futuro-mi-abuela-es-una-super-modelo",
     "fuente": "alternativa"
   },
   {
@@ -243,24 +261,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Lluvia verde",
-    "fecha": "2026-07-12 19:00:00",
-    "lugar": "TEATRO EL ESCAPE",
-    "direccion": "44 1443 entre 23 y 24, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas100686-lluvia-verde?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "Carles. El eslabón perdido del Rock Nacional",
-    "fecha": "2026-07-12 19:00:00",
-    "lugar": "TEATRO ABIERTO",
-    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
-    "categoria": "musica",
-    "url": "https://publico.alternativateatral.com/entradas100716-carles-el-eslabon-perdido-del-rock-nacional?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "DORA. Ellos saben que sabe. Ella sabe que saben. Pero ella es Dora, la Administradora",
     "fecha": "2026-08-08 20:30:00",
     "lugar": "ESPACIO 44",
@@ -279,15 +279,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Cronopios VI",
-    "fecha": "2026-07-10 21:30:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101287-cronopios-vi?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Cronopios VII",
     "fecha": "2026-08-07 21:30:00",
     "lugar": "ESCENARIO-40",
@@ -298,11 +289,11 @@
   },
   {
     "titulo": "La risa",
-    "fecha": "2026-07-11 20:30:00",
+    "fecha": "2026-08-08 21:00:00",
     "lugar": "TELON NEGRO TEATRO",
     "direccion": "13 e/ 32 y 33, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra101374-la-risa",
+    "url": "https://publico.alternativateatral.com/entradas101374-la-risa?o=6",
     "fuente": "alternativa"
   },
   {
@@ -316,7 +307,7 @@
   },
   {
     "titulo": "Bajo la Tormenta",
-    "fecha": "2026-07-11 21:00:00",
+    "fecha": "2026-07-18 21:00:00",
     "lugar": "TEATRO ARMANDO DISCEPOLO",
     "direccion": "Calle 12 entre 62 Y 63, La Plata",
     "categoria": "teatro",
@@ -396,15 +387,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Una chispa en el infierno de la fria luna",
-    "fecha": "2026-07-11 16:30:00",
-    "lugar": "LA CAIPO",
-    "direccion": "Calle 9 entre 58 y 59, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra101881-una-chispa-en-el-infierno-de-la-fria-luna",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Todo lo que cabe en una valija",
     "fecha": "2026-07-25 20:30:00",
     "lugar": "TEATRO EL ESCAPE",
@@ -420,6 +402,69 @@
     "direccion": "11 e/66 y 67, La Plata",
     "categoria": "musica",
     "url": "https://www.alternativateatral.com.ar/obra101966-vecinas-musica-y-teatro",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "El Andador",
+    "fecha": "2026-08-01 20:30:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra101992-el-andador",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Políptico 1976 - Micro monólogos de la Memoria - 2026",
+    "fecha": "2026-07-18 20:00:00",
+    "lugar": "ALUVIÓN",
+    "direccion": "Calle 45 Número 484, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas102009-poliptico-1976-micro-monologos-de-la-memoria-2026?o=6",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "13 y martes",
+    "fecha": "2026-08-07 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102033-13-y-martes",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "El picaro burlado",
+    "fecha": "2026-07-23 15:00:00",
+    "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
+    "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102034-el-picaro-burlado",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Archipielago",
+    "fecha": "2026-07-28 15:00:00",
+    "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
+    "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102035-archipielago",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Hit Vox Experience",
+    "fecha": "2026-09-05 20:00:00",
+    "lugar": "SALA 420",
+    "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102049-hit-vox-experience",
+    "fuente": "alternativa"
+  },
+  {
+    "titulo": "Laberinto Podestá, el último aplauso",
+    "fecha": "2026-07-20 18:00:00",
+    "lugar": "TEATRO COLISEO PODESTÁ",
+    "direccion": "Calle 10 Nº 733, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102053-laberinto-podesta-el-ultimo-aplauso",
     "fuente": "alternativa"
   }
 ]

@@ -1,98 +1,50 @@
 [
   {
-    "titulo": "Cortometrajes UNLP",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-10"
-  },
-  {
-    "titulo": "Tésis (1996) Dir. Alejandro Amenábar",
-    "hora": "19:00",
-    "espacio": "Espacio Satélite",
-    "fecha": "2026-07-10"
-  },
-  {
-    "titulo": "Misery (Rob Reiner, 1990) + Déjala morir adentro (Julie Darling, 1983, Paul Nicholas)",
-    "hora": "20:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-10"
-  },
-  {
-    "titulo": "Miró (2022) Dir. Oriol Ferrer",
-    "hora": "20:00",
-    "espacio": "Casal dels Països Catalans de La Plata",
-    "fecha": "2026-07-10"
-  },
-  {
-    "titulo": "Una bonita mañana",
-    "hora": "22:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-10"
-  },
-  {
-    "titulo": "Ai no korîda - El imperio de los sentidos (Dir. Nagisa Ōshima)",
-    "hora": "23:55",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-10"
-  },
-  {
-    "titulo": "El joven manos de tijeras",
-    "hora": "17:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-12"
-  },
-  {
-    "titulo": "Juan Moreira - Mes de Leonardo Favio",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-12"
-  },
-  {
-    "titulo": "Night Is Short, Walk On Girl",
-    "hora": "20:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-12"
-  },
-  {
-    "titulo": "Mi noche con Maud - Dir. Éric Rohmer Año: 1969",
-    "hora": "20:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-12"
-  },
-  {
-    "titulo": "Una bonita mañana",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-12"
-  },
-  {
-    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-14"
-  },
-  {
-    "titulo": "The twilight zone II (La Dimensión Desconocida II)",
-    "hora": "20:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-14"
+    "titulo": "Primavera, Verano, Otoño. Invierno (Dir Kim Ki Duk)",
+    "hora": "18:30",
+    "espacio": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
+    "fecha": "2026-07-17"
   },
   {
     "titulo": "Tokyo-Ga - Dir Wim Wenders",
-    "hora": "21:00",
+    "hora": "23:55",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-14"
+    "fecha": "2026-07-17"
   },
   {
-    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-15"
+    "titulo": "Las Mil y Una Noche - Musicalizada en vivo",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-07-18"
   },
   {
-    "titulo": "Badlands (Terrence Malick, 1973)",
+    "titulo": "Paris, Texas",
     "hora": "20:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-15"
+    "fecha": "2026-07-19"
+  },
+  {
+    "titulo": "La mujer infiel (1969) Dir. Claude Chabrol",
+    "hora": "20:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-07-19"
+  },
+  {
+    "titulo": "Tokyo-Ga - Dir Wim Wenders",
+    "hora": "22:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-19"
+  },
+  {
+    "titulo": "The twilight zone III (La Dimensión Desconocida III)",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-07-21"
+  },
+  {
+    "titulo": "Les Amants du Pont-Neuf (Leos Carax, 1991)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-07-22"
   }
 ]
