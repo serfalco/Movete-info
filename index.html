@@ -278,19 +278,19 @@
         <p class="home-week-label">Esta semana tenemos :</p>
         <div class="home-edition-stats" aria-label="Datos de esta edición semanal">
           <div class="home-edition-stat">
-            <strong>35</strong>
+            <strong data-stat="peliculas">35</strong>
             <span>películas</span>
           </div>
           <div class="home-edition-stat">
-            <strong>56</strong>
+            <strong data-stat="funciones-cine">56</strong>
             <span>funciones de cine</span>
           </div>
           <div class="home-edition-stat">
-            <strong>50+</strong>
+            <strong data-stat="eventos-vivo">50+</strong>
             <span>eventos en vivo</span>
           </div>
           <div class="home-edition-stat">
-            <strong>30+</strong>
+            <strong data-stat="espacios">30+</strong>
             <span>espacios</span>
           </div>
         </div>
@@ -375,6 +375,58 @@
       <button class="footer-share" type="button" data-share-page title="Avisá que existimos por WhatsApp" aria-label="Avisá que existimos por WhatsApp">Avisá que existimos <img class="share-icon" src="/assets/icons/whatsapp.svg" alt=""></button>
     </p>
   </footer>
+  <script>
+    (function () {
+      const setStat = (name, value) => {
+        const el = document.querySelector(`[data-stat="${name}"]`);
+        if (el && Number.isFinite(value) && value > 0) {
+          el.textContent = String(value);
+        }
+      };
+
+      const getDoc = async (url) => {
+        const res = await fetch(url, { cache: 'no-store' });
+        if (!res.ok) return null;
+        const html = await res.text();
+        return new DOMParser().parseFromString(html, 'text/html');
+      };
+
+      const textoLimpio = (txt) => (txt || '').replace(/\s+/g, ' ').trim();
+
+      const contarCine = async () => {
+        const [cine, pelis] = await Promise.all([
+          getDoc('/cine/'),
+          getDoc('/cine/pelis/'),
+        ]);
+        if (pelis) {
+          setStat('peliculas', pelis.querySelectorAll('.pf-icartelera').length);
+        }
+        if (cine) {
+          const funcionesTradicionales = cine.querySelectorAll('#cine-tradicional .times li').length;
+          const funcionesAlternativas = cine.querySelectorAll('#cine-alternativo .event-card').length;
+          setStat('funciones-cine', funcionesTradicionales + funcionesAlternativas);
+        }
+      };
+
+      const contarEnVivo = async () => {
+        const vivo = await getDoc('/en-vivo/');
+        if (!vivo) return;
+        const eventos = Array.from(vivo.querySelectorAll('#esta-semana .event-card'));
+        setStat('eventos-vivo', eventos.length);
+
+        const espacios = new Set();
+        eventos.forEach((card) => {
+          const meta = textoLimpio(card.querySelector('.event-meta')?.textContent);
+          const partes = meta.split('·');
+          const lugar = textoLimpio(partes[partes.length - 1]);
+          if (lugar && !/^\d{1,2}:\d{2}/.test(lugar)) espacios.add(lugar.toLowerCase());
+        });
+        setStat('espacios', espacios.size);
+      };
+
+      Promise.allSettled([contarCine(), contarEnVivo()]);
+    }());
+  </script>
   <script src="/assets/js/movete.js" defer></script>
 </body>
 </html>
