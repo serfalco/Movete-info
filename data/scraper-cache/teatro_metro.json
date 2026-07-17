@@ -72,15 +72,6 @@
     "fuente": "teatro-metro"
   },
   {
-    "titulo": "UN INVIERNO DE PELICULA II",
-    "fecha": "2026-07-24 15:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "cine",
-    "url": "",
-    "fuente": "teatro-metro"
-  },
-  {
     "titulo": "El Explorador",
     "fecha": "2026-07-25 15:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -137,6 +128,33 @@
   {
     "titulo": "Cazadoras Doradas",
     "fecha": "2026-07-28 14:30:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro"
+  },
+  {
+    "titulo": "BRAINROTS",
+    "fecha": "2026-07-28 18:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro"
+  },
+  {
+    "titulo": "Chingalepa",
+    "fecha": "2026-07-29 17:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro"
+  },
+  {
+    "titulo": "JUGUETES EN ACCION",
+    "fecha": "2026-07-30 17:00:00",
     "lugar": "Teatro Metro La Plata",
     "direccion": "Calle 4 entre 51 y 53, La Plata",
     "categoria": "teatro",
