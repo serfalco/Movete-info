@@ -1,21 +1,63 @@
 :root {
-  --ink: #0e0d10;
-  --paper: #f5f1e8;
+  --ink: #141019;
+  --paper: #f4efe4;
   --accent: #ff5128;
   --accent-text: #b83214;
   --accent2: #e8c547;
+  --blue: #20408f;
   --shadow: #5b5750;
   --whatsapp: #25d366;
   --whatsapp-dark: #0b6b35;
-  --muted: #6f6a61;
-  --card: #fffaf0;
-  --line: rgba(14, 13, 16, .16);
+  --muted: #6d6559;
+  --card: #fdf8ee;
+  --line: rgba(20, 16, 25, .16);
+  --line-strong: rgba(20, 16, 25, .30);
   --radius: 22px;
   --max: 1120px;
   --sticky-header-height: 52px;
   --font-body: "Trebuchet MS", "Segoe UI", system-ui, sans-serif;
   --font-display: "Franklin Gothic Medium", "Bahnschrift", "Arial Narrow", "Segoe UI", sans-serif;
   --font-action: "Bahnschrift", "Franklin Gothic Medium", "Arial Narrow", "Segoe UI", sans-serif;
+
+  /* Color por categoria: permite escanear la cartelera por tipo de evento */
+  --c-teatro: #e23a2e;
+  --c-musica: #20408f;
+  --c-stand-up: #d81e63;
+  --c-cine: #7b3ff2;
+  --c-danza: #0f9d8f;
+  --c-infantil: #ef8a17;
+  --c-humor: #c58a00;
+  --c-impro: #2f8fd6;
+  --c-taller: #5b6b2f;
+  --c-a-plasticas: #b0468c;
+  --c-otros: #8fb400;
+}
+
+/* Modo oscuro automatico segun preferencia del sistema */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #f3ede1;
+    --paper: #151119;
+    --accent: #ff6a44;
+    --accent-text: #ff8a5c;
+    --accent2: #f0d05a;
+    --blue: #6f93ff;
+    --muted: #a49b8d;
+    --card: #211b26;
+    --line: rgba(243, 237, 225, .16);
+    --line-strong: rgba(243, 237, 225, .30);
+    --c-teatro: #ff5a4d;
+    --c-musica: #6f93ff;
+    --c-stand-up: #ff5f96;
+    --c-cine: #b592ff;
+    --c-danza: #3fd0be;
+    --c-infantil: #ffb03f;
+    --c-humor: #ffd23f;
+    --c-impro: #63b8ff;
+    --c-taller: #a7bd63;
+    --c-a-plasticas: #e57ac0;
+    --c-otros: #c6e24f;
+  }
 }
 
 * {
@@ -489,8 +531,39 @@ p {
 }
 
 .day-block > h2 {
-  border-top: 2px solid var(--ink);
-  padding-top: 18px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--accent2);
+  color: #161310;
+  border: 2px solid var(--ink);
+  border-radius: 8px;
+  padding: 9px 16px;
+}
+
+/* Color por categoria: cada tarjeta se lee por su tipo de un vistazo */
+.event-card {
+  border-left: 6px solid var(--cat, var(--c-otros));
+  border-radius: 14px;
+}
+
+.event-card[data-category="teatro"] { --cat: var(--c-teatro); }
+.event-card[data-category="musica"] { --cat: var(--c-musica); }
+.event-card[data-category="stand-up"] { --cat: var(--c-stand-up); }
+.event-card[data-category="cine"] { --cat: var(--c-cine); }
+.event-card[data-category="danza"] { --cat: var(--c-danza); }
+.event-card[data-category="infantil"] { --cat: var(--c-infantil); }
+.event-card[data-category="humor"] { --cat: var(--c-humor); }
+.event-card[data-category="impro"] { --cat: var(--c-impro); }
+.event-card[data-category="taller"] { --cat: var(--c-taller); }
+.event-card[data-category="a-plasticas"] { --cat: var(--c-a-plasticas); }
+.event-card[data-category="otros"] { --cat: var(--c-otros); }
+
+.event-card .pill {
+  background: color-mix(in srgb, var(--cat, var(--muted)) 16%, transparent);
+  color: var(--cat, var(--muted));
+  border-color: color-mix(in srgb, var(--cat, var(--muted)) 35%, transparent);
+  font-weight: 800;
 }
 
 .event-date {
@@ -873,7 +946,7 @@ nav a:focus-visible,
 }
 
 .times li {
-  background: rgba(14, 13, 16, .08);
+  background: color-mix(in srgb, var(--ink) 8%, transparent);
   border-radius: 4px;
   font-family: var(--font-action);
   padding: 6px 10px;
@@ -1146,4 +1219,42 @@ nav a:focus-visible,
   color: var(--muted);
   max-width: 640px;
   margin: 0 0 6px;
+}
+
+/* Superficies amarillas (accent2): el texto siempre va oscuro, en claro y en oscuro.
+   Se incluyen los .is-active para ganarle a su especificidad [0,3,0]. */
+.site-nav a[aria-current="page"],
+.section-jump-nav a,
+.sticky-category-nav > .filter-button,
+.sticky-category-nav > .category-more > summary,
+.section-jump-nav a.is-active,
+.sticky-category-nav > .filter-button.is-active,
+.sticky-category-nav > .filter-button[aria-current="page"],
+.sticky-category-nav > .category-more > summary.is-active,
+.filter-button.is-active,
+.category-more-menu .filter-button,
+.section-card .card-link {
+  color: #161310;
+}
+
+/* Instagram de la sala (páginas por sala) */
+.venue-social {
+  margin: 12px 0 0;
+}
+
+.venue-social a {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-family: var(--font-action);
+  font-weight: 700;
+  font-size: .9rem;
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 2px solid var(--line);
+  padding-bottom: 2px;
+}
+
+.venue-social a:hover {
+  border-bottom-color: var(--blue);
 }

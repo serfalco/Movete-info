@@ -143,7 +143,7 @@
 
 .pf-times { display: flex; flex-wrap: wrap; gap: 7px; padding: 0; margin: 0; list-style: none; }
 .pf-time {
-  background: rgba(14, 13, 16, .07);
+  background: color-mix(in srgb, var(--ink) 7%, transparent);
   border-radius: 5px;
   font-family: var(--font-action);
   font-weight: 900;
