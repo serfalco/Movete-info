@@ -93,7 +93,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: rgba(245, 241, 232, .94);
+  background: color-mix(in srgb, var(--paper) 92%, transparent);
   border-bottom: 1px solid var(--line);
   box-shadow: 0 6px 18px rgba(35, 33, 36, .06);
   backdrop-filter: blur(12px);
@@ -820,7 +820,7 @@ nav a:focus-visible,
 
 .empty {
   color: var(--muted);
-  background: rgba(255, 250, 240, .6);
+  background: color-mix(in srgb, var(--card) 60%, transparent);
   border: 1px dashed var(--line);
   border-radius: var(--radius);
   padding: 18px;
