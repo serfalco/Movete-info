@@ -1236,3 +1236,25 @@ nav a:focus-visible,
 .section-card .card-link {
   color: #161310;
 }
+
+/* Instagram de la sala (páginas por sala) */
+.venue-social {
+  margin: 12px 0 0;
+}
+
+.venue-social a {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-family: var(--font-action);
+  font-weight: 700;
+  font-size: .9rem;
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 2px solid var(--line);
+  padding-bottom: 2px;
+}
+
+.venue-social a:hover {
+  border-bottom-color: var(--blue);
+}
