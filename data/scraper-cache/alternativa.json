@@ -27,30 +27,12 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "La nona",
-    "fecha": "2026-07-18 21:00:00",
-    "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
-    "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra41751-la-nona",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Amazonana",
     "fecha": "2026-07-28 16:00:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas65505-amazonana?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "Bety Godt, la inconquistable",
-    "fecha": "2026-07-18 21:00:00",
-    "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
-    "direccion": "Av 13 1900 esquina 71, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas66245-bety-godt-la-inconquistable?o=6",
     "fuente": "alternativa"
   },
   {
@@ -69,15 +51,6 @@
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra70884-el-principito",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "Bergman y Liv Correspondencia Amorosa",
-    "fecha": "2026-07-17 21:00:00",
-    "lugar": "SALA 420",
-    "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas74191-bergman-y-liv-correspondencia-amorosa?o=6",
     "fuente": "alternativa"
   },
   {
@@ -109,7 +82,7 @@
   },
   {
     "titulo": "Sociedad Platense de Stand Up",
-    "fecha": "2026-07-17 21:30:00",
+    "fecha": "2026-07-24 21:30:00",
     "lugar": "TRES EMPANADAS COMEDIA",
     "direccion": "Calle 43 N°1349, La Plata",
     "categoria": "stand-up",
@@ -135,17 +108,8 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "EL ROBO, un policial metafísico",
-    "fecha": "2026-07-17 20:00:00",
-    "lugar": "TCB - TEATRO COMUNITARIO DE BERISSO",
-    "direccion": "Nueva York y Marsella N°4711, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra89911-el-robo-un-policial-metafisico",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "Monstruos",
-    "fecha": "2026-07-17 21:30:00",
+    "fecha": "2026-08-23 20:00:00",
     "lugar": "ESCENARIO-40",
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
@@ -159,15 +123,6 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas95417-acassuso?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "Vacío",
-    "fecha": "2026-07-17 22:00:00",
-    "lugar": "ÁREA CHICA",
-    "direccion": "Boulevard 83 403, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas95731-vacio?o=6",
     "fuente": "alternativa"
   },
   {
@@ -234,21 +189,21 @@
     "fuente": "alternativa"
   },
   {
+    "titulo": "La gravedad de lo incierto",
+    "fecha": "2026-09-12 21:30:00",
+    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
+    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra99436-la-gravedad-de-lo-incierto",
+    "fuente": "alternativa"
+  },
+  {
     "titulo": "Tanguito mio, un musical bien guapito",
     "fecha": "2026-08-09 16:30:00",
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas99437-tanguito-mio-un-musical-bien-guapito?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "Ecografía",
-    "fecha": "2026-07-18 21:00:00",
-    "lugar": "LA MERCERIA TEATRO",
-    "direccion": "Calle 1 Nº 210, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas100151-ecografia?o=6",
     "fuente": "alternativa"
   },
   {
@@ -307,7 +262,7 @@
   },
   {
     "titulo": "Bajo la Tormenta",
-    "fecha": "2026-07-18 21:00:00",
+    "fecha": "2026-07-19 20:00:00",
     "lugar": "TEATRO ARMANDO DISCEPOLO",
     "direccion": "Calle 12 entre 62 Y 63, La Plata",
     "categoria": "teatro",
@@ -339,15 +294,6 @@
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101592-donde-estare-atrapado?o=6",
-    "fuente": "alternativa"
-  },
-  {
-    "titulo": "Ciclo de obras cortas El Escape - Julio",
-    "fecha": "2026-07-17 20:30:00",
-    "lugar": "TEATRO EL ESCAPE",
-    "direccion": "44 1443 entre 23 y 24, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101675-ciclo-de-obras-cortas-el-escape-julio?o=6",
     "fuente": "alternativa"
   },
   {
@@ -414,15 +360,6 @@
     "fuente": "alternativa"
   },
   {
-    "titulo": "Políptico 1976 - Micro monólogos de la Memoria - 2026",
-    "fecha": "2026-07-18 20:00:00",
-    "lugar": "ALUVIÓN",
-    "direccion": "Calle 45 Número 484, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas102009-poliptico-1976-micro-monologos-de-la-memoria-2026?o=6",
-    "fuente": "alternativa"
-  },
-  {
     "titulo": "13 y martes",
     "fecha": "2026-08-07 21:00:00",
     "lugar": "TEATRO ABIERTO",
@@ -455,13 +392,13 @@
     "lugar": "SALA 420",
     "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102049-hit-vox-experience",
+    "url": "https://publico.alternativateatral.com/entradas102049-hit-vox-experience?o=6",
     "fuente": "alternativa"
   },
   {
     "titulo": "Laberinto Podestá, el último aplauso",
     "fecha": "2026-07-20 18:00:00",
-    "lugar": "TEATRO COLISEO PODESTÁ",
+    "lugar": "TEATRO MUNICIPAL COLISEO PODESTÁ",
     "direccion": "Calle 10 Nº 733, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra102053-laberinto-podesta-el-ultimo-aplauso",
