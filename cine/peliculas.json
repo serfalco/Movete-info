@@ -184,6 +184,30 @@
     "tmdb_id": 1314481,
     "trailer": "https://www.youtube.com/watch?v=IQD3qh7te2o"
   },
+  "el partido": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
+    "director": "Juan Cabral",
+    "duracion": 91,
+    "elenco": [
+      "Gary Lineker",
+      "John Barnes",
+      "Jorge Burruchaga"
+    ],
+    "generos": [
+      "Documental"
+    ],
+    "paises": [
+      "Argentina"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/e5PVS1QgYS5DxHZeBWTKdxYMyou.jpg",
+    "score": 6.0,
+    "sinopsis": "Narra la historia del emblemático partido entre Argentina e Inglaterra, disputado en el Estadio Azteca durante la Copa Mundial de Fútbol de 1986. Utilizando raras imágenes de archivo, como la controvertida \"Mano de Dios\" de Maradona, la película reconstruye aquel acontecimiento como un recuerdo vivo, pero también como la culminación de más de doscientos años de tensiones, encuentros y conflictos entre ambas naciones.",
+    "titulo": "El Partido",
+    "titulo_original": "El Partido",
+    "tmdb_id": 1666712,
+    "trailer": ""
+  },
   "evil dead en llamas": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
@@ -209,6 +233,7 @@
     "tmdb_id": 1212763,
     "trailer": "https://www.youtube.com/watch?v=xs9rmpoEzNs"
   },
+  "evil dead en llamas 23 10 minions y monstruos": null,
   "jackass la ultima y nos vamos": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/om1hoP6W0j54esiYMi9meYZ90Vq.jpg",

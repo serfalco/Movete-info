@@ -2870,5 +2870,177 @@
       ]
     },
     "ultima_semana": "2026-07-16"
+  },
+  "1666712": {
+    "tmdb": {
+      "tmdb_id": 1666712,
+      "titulo": "El Partido",
+      "titulo_original": "El Partido",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-05-21",
+      "duracion": 91,
+      "generos": [
+        "Documental"
+      ],
+      "score": 6.0,
+      "votos": 4,
+      "certificacion": "",
+      "sinopsis": "Narra la historia del emblemático partido entre Argentina e Inglaterra, disputado en el Estadio Azteca durante la Copa Mundial de Fútbol de 1986. Utilizando raras imágenes de archivo, como la controvertida \"Mano de Dios\" de Maradona, la película reconstruye aquel acontecimiento como un recuerdo vivo, pero también como la culminación de más de doscientos años de tensiones, encuentros y conflictos entre ambas naciones.",
+      "poster": "https://image.tmdb.org/t/p/w342/e5PVS1QgYS5DxHZeBWTKdxYMyou.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
+        "https://image.tmdb.org/t/p/w780/2ArGRoVavStBpzgun2Hb977aJaK.jpg",
+        "https://image.tmdb.org/t/p/w780/yBKCF9GNWpTao9OagNZUzxipufC.jpg",
+        "https://image.tmdb.org/t/p/w780/3UNMKlar1AR1b4EayJW0pBWhDvj.jpg",
+        "https://image.tmdb.org/t/p/w780/ogNN49f7wp2BHKwxtOd4fAiKHhT.jpg",
+        "https://image.tmdb.org/t/p/w780/eIudfdxjOGSS1XYYrvPHvlpLnjh.jpg"
+      ],
+      "director": "Juan Cabral",
+      "guionistas": [
+        "Juan Cabral",
+        "Santiago Franco"
+      ],
+      "musica": "Nico Barry, Tomas Jacobi",
+      "elenco": [
+        {
+          "nombre": "Gary Lineker",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/mfHN34kbcqbkN8zYyfjE5fk5dpX.jpg",
+          "iniciales": "GL"
+        },
+        {
+          "nombre": "John Barnes",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/eHSMhsbxNRJtHajPeybjebxT3Uh.jpg",
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Jorge Burruchaga",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/1aKZKVvHM9zTynUwFtsZ6vsh907.jpg",
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Jorge Valdano",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/2tIgWAXewk9eOVuFEbbuUAjJktE.jpg",
+          "iniciales": "JV"
+        },
+        {
+          "nombre": "Julio Olarticoechea",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/l8hHs83ucFYGVJdZz51nw2O8FKU.jpg",
+          "iniciales": "JO"
+        },
+        {
+          "nombre": "Oscar Ruggeri  ",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/oD7jQcxMRgWLZrQP23B4Qs4KXyU.jpg",
+          "iniciales": "OR"
+        },
+        {
+          "nombre": "Peter Shilton",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/qPFCRMXVIKkUp7E2yIEovuXUVfz.jpg",
+          "iniciales": "PS"
+        },
+        {
+          "nombre": "Ricardo Giusti",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/5GupWNeNfWcKCI79VeEd29QWZuW.jpg",
+          "iniciales": "RG"
+        }
+      ],
+      "paises": [
+        "Argentina"
+      ],
+      "idiomas": [
+        "English",
+        "Español",
+        "Français"
+      ],
+      "productoras": [
+        "Industria del Milagro",
+        "Blurr Stories",
+        "Labhouse"
+      ],
+      "temas": [
+        "World cup",
+        "Argentina",
+        "Football (soccer)",
+        "1980s",
+        "Mundial",
+        "Guerra malvinas",
+        "Argentina 78",
+        "Futbol"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt41593328",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 620917,
+          "titulo": "Chelsea FC - Season Review 2005/06",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/9EMsK9JjjywX4cv8eIPoW0ks9M9.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 1373875,
+          "titulo": "Las Brigadistas",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/z3SwLc6lC8aRMpcRjUBDdBwtowk.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 620304,
+          "titulo": "Growing Up in America",
+          "anio": "1989",
+          "poster": "https://image.tmdb.org/t/p/w342/hU6Um9wSA3q7Oa8AGgUWECrffdf.jpg",
+          "score": 8.5
+        },
+        {
+          "tmdb_id": 620690,
+          "titulo": "Chelsea FC - Season Review 1998/99",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/lsnqhIqw0wXUYi8bbcicX0QXZKR.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 1179529,
+          "titulo": "Desde el infierno, hasta el cielo",
+          "anio": "2015",
+          "poster": "https://image.tmdb.org/t/p/w342/9arjma5RWyUHV6TwHxBLCuAoOhv.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 1180065,
+          "titulo": "Entrevues en série",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/9Ia2n2HD9Xu0qPM52BKyXJEjp4Q.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 624233,
+          "titulo": "Chelsea FC - Season Review 2019/20",
+          "anio": "2020",
+          "poster": "https://image.tmdb.org/t/p/w342/rHcbrn0oRIYkmVmUwuTuTgdCr60.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 1187872,
+          "titulo": "Higuita: El camino del Escorpión",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/hdSnhdqNE5bKa57qCwtCkWESjBA.jpg",
+          "score": 7.75
+        }
+      ]
+    },
+    "ultima_semana": "2026-07-16"
   }
 }

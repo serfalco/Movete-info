@@ -1,45 +1,27 @@
 [
   {
-    "titulo": "Primavera, Verano, Otoño. Invierno (Dir Kim Ki Duk)",
-    "hora": "18:30",
-    "espacio": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "fecha": "2026-07-17"
-  },
-  {
-    "titulo": "Tokyo-Ga - Dir Wim Wenders",
-    "hora": "23:55",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-17"
-  },
-  {
-    "titulo": "Las Mil y Una Noche - Musicalizada en vivo",
-    "hora": "20:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-18"
-  },
-  {
-    "titulo": "Paris, Texas",
-    "hora": "20:00",
+    "titulo": "Una directora extraordinaria",
+    "hora": "18:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-19"
+    "fecha": "2026-07-20"
   },
   {
-    "titulo": "La mujer infiel (1969) Dir. Claude Chabrol",
-    "hora": "20:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-19"
-  },
-  {
-    "titulo": "Tokyo-Ga - Dir Wim Wenders",
-    "hora": "22:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-19"
+    "titulo": "Una directora extraordinaria",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-07-21"
   },
   {
     "titulo": "The twilight zone III (La Dimensión Desconocida III)",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
     "fecha": "2026-07-21"
+  },
+  {
+    "titulo": "Una directora extraordinaria",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-07-22"
   },
   {
     "titulo": "Les Amants du Pont-Neuf (Leos Carax, 1991)",
