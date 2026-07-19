@@ -5,6 +5,11 @@ on:
     # Jueves 07:17 Argentina (10:17 UTC). GitHub puede demorar los cron.
     - cron: "17 10 * * 4"
   workflow_dispatch:
+    inputs:
+      enviar_newsletter:
+        description: "Enviar tambien el newsletter en esta corrida manual"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -76,6 +81,14 @@ jobs:
       - name: Actualizar fecha de portada
         working-directory: Movete-info
         run: python actualizar_portada.py
+
+      - name: Enviar newsletter semanal
+        # Automatico los jueves (schedule); en corrida manual, solo si se marca la casilla.
+        if: github.event_name == 'schedule' || github.event.inputs.enviar_newsletter == 'true'
+        working-directory: movete-espectaculos
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python generar_newsletter.py --eventos eventos.json || echo "newsletter fallo, se continua"
 
       - name: Commit unico en Movete-info
         working-directory: Movete-info
