@@ -547,6 +547,27 @@ p {
   border-radius: 14px;
 }
 
+/* Imagen del evento: full-bleed arriba, rompiendo el padding del card. El
+   overflow la recorta al radio; el borde de color de la categoría sigue a la
+   vista a la izquierda. Relación fija para que la grilla quede pareja. */
+.event-card.has-media {
+  overflow: hidden;
+}
+
+.event-card-media {
+  margin: -24px -24px 18px;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: color-mix(in srgb, var(--cat, var(--c-otros)) 14%, var(--card));
+}
+
+.event-card-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
 .event-card[data-category="teatro"] { --cat: var(--c-teatro); }
 .event-card[data-category="musica"] { --cat: var(--c-musica); }
 .event-card[data-category="stand-up"] { --cat: var(--c-stand-up); }
