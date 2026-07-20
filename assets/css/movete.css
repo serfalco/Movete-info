@@ -179,7 +179,7 @@ h1 {
 }
 
 .headline-mark {
-  color: var(--accent2);
+  color: var(--accent);
 }
 
 h2 {
@@ -560,9 +560,11 @@ p {
 .event-card[data-category="otros"] { --cat: var(--c-otros); }
 
 .event-card .pill {
-  background: color-mix(in srgb, var(--cat, var(--muted)) 16%, transparent);
-  color: var(--cat, var(--muted));
-  border-color: color-mix(in srgb, var(--cat, var(--muted)) 35%, transparent);
+  background: color-mix(in srgb, var(--cat, var(--muted)) 18%, transparent);
+  /* Texto del color de la categoria pero llevado hacia la tinta para que se lea
+     sobre el papel (y hacia el crema en modo oscuro): adapta el contraste solo. */
+  color: color-mix(in srgb, var(--cat, var(--muted)) 55%, var(--ink));
+  border-color: color-mix(in srgb, var(--cat, var(--muted)) 40%, transparent);
   font-weight: 800;
 }
 
