@@ -568,6 +568,28 @@ p {
   display: block;
 }
 
+/* Enlace a la edición vigente, solo en las ediciones archivadas. */
+.edicion-vigente-bar {
+  text-align: center;
+  margin: 0 0 22px;
+}
+
+.edicion-vigente-bar a {
+  display: inline-block;
+  padding: 9px 20px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent2) 20%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent2) 45%, transparent);
+  color: color-mix(in srgb, var(--accent2) 55%, var(--ink));
+  font-weight: 800;
+  font-size: .92rem;
+  text-decoration: none;
+}
+
+.edicion-vigente-bar a:hover {
+  background: color-mix(in srgb, var(--accent2) 30%, transparent);
+}
+
 .event-card[data-category="teatro"] { --cat: var(--c-teatro); }
 .event-card[data-category="musica"] { --cat: var(--c-musica); }
 .event-card[data-category="stand-up"] { --cat: var(--c-stand-up); }
