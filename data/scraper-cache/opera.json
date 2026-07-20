@@ -6,7 +6,8 @@
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "otros",
     "url": "",
-    "fuente": "opera"
+    "fuente": "opera",
+    "imagen": ""
   },
   {
     "titulo": "SOFIA MORA",
@@ -15,7 +16,8 @@
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "otros",
     "url": "",
-    "fuente": "opera"
+    "fuente": "opera",
+    "imagen": ""
   },
   {
     "titulo": "FALTA Y RESTO",
@@ -24,7 +26,8 @@
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "otros",
     "url": "",
-    "fuente": "opera"
+    "fuente": "opera",
+    "imagen": ""
   },
   {
     "titulo": "LA CUMPARSITA",
@@ -33,7 +36,8 @@
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "otros",
     "url": "",
-    "fuente": "opera"
+    "fuente": "opera",
+    "imagen": ""
   },
   {
     "titulo": "CIELO RAZZO",
@@ -42,6 +46,7 @@
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "otros",
     "url": "",
-    "fuente": "opera"
+    "fuente": "opera",
+    "imagen": ""
   }
 ]

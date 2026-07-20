@@ -6,16 +6,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "teatro",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/teatro-inmersivo/laberinto-podesta-el-ultimo-aplauso-0",
-    "fuente": "coliseo"
-  },
-  {
-    "titulo": "Lucas Hargouas presenta: El Naranjo Siberiano",
-    "fecha": "2026-07-16 20:00:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "musica",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/recital/lucas-hargouas-presenta-el-naranjo-siberiano",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "Un Circo de La Gran 7",
@@ -24,7 +16,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/un-circo-de-la-gran-7",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "LAS AVENTURAS DE MARIO SUPERHEROES AL RESCATE",
@@ -33,7 +26,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/las-aventuras-de-mario-superheroes-al-rescate",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "JUGUETES EN APUROS UNA NUEVA AVENTURA",
@@ -42,7 +36,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/juguetes-en-apuros-una-nueva-aventura",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "EL CORAZÓN DEL OCÉANO",
@@ -51,7 +46,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/el-corazon-del-oceano-0",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "ESCUADRÓN AL RESCATE",
@@ -60,7 +56,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/escuadron-al-rescate",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "Plim Plim. Energía Musical Recargada",
@@ -69,7 +66,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/plim-plim-energia-musical-recargada",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "HÉROE LÍRICO POP, CINEMA LÍRICO",
@@ -78,7 +76,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "musica",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/recital/heroe-lirico-pop-cinema-lirico-0",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "CANTICUÉNTICOS",
@@ -87,7 +86,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/canticuenticos-5",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "LAS GUARDIANAS KPOP, THE OFFICIAL TOUR 2026",
@@ -96,7 +96,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/las-guardianas-kpop-official-tour-2026",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "EL BOSQUE ENCANTADO",
@@ -105,7 +106,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/el-bosque-encantado",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "SONICO RECARGADO",
@@ -114,7 +116,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/sonico-recargado-0",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "LUCAS LAURIENTE STAND UP",
@@ -123,7 +126,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "stand-up",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/stand-humoristico/lucas-lauriente-stand",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "Cuentos y canciones de María Elena Walsh",
@@ -132,7 +136,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/cuentos-y-canciones-de-maria-elena-walsh",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "Fiesta PIM PAU",
@@ -141,7 +146,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/fiesta-pim-pau",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "LA CHIRICHOTA - Vuelven los clásicos",
@@ -150,7 +156,8 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "stand-up",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/stand-humoristico/la-chirichota-vuelven-los-clasicos",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   },
   {
     "titulo": "Noelia Pace. Presenta: Mediumnidad",
@@ -159,6 +166,7 @@
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "otros",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/evento/noelia-pace-presenta-mediumnidad-2",
-    "fuente": "coliseo"
+    "fuente": "coliseo",
+    "imagen": ""
   }
 ]

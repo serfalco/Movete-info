@@ -6,7 +6,8 @@
     "direccion": "Sarmiento (15 A) 826, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas15353-el-investigatopo?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/000143726.jpg"
   },
   {
     "titulo": "Sapo en Buenos Aires",
@@ -15,7 +16,8 @@
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra15567-sapo-en-buenos-aires",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": ""
   },
   {
     "titulo": "Greta y Gaspar",
@@ -24,7 +26,8 @@
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra24515-greta-y-gaspar",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/000075557.jpg"
   },
   {
     "titulo": "Amazonana",
@@ -33,7 +36,18 @@
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas65505-amazonana?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/67/000316667.jpg"
+  },
+  {
+    "titulo": "Bety Godt, la inconquistable",
+    "fecha": "2026-07-25 21:00:00",
+    "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
+    "direccion": "Av 13 1900 esquina 71, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas66245-bety-godt-la-inconquistable?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/18/000206518.jpg"
   },
   {
     "titulo": "Perez y compañia",
@@ -42,7 +56,8 @@
     "direccion": "Sarmiento (15 A) 826, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas66914-perez-y-compania?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/88/000317388.jpg"
   },
   {
     "titulo": "El Principito",
@@ -51,7 +66,8 @@
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra70884-el-principito",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/53/000235653.jpg"
   },
   {
     "titulo": "Murga: Esa Te La Debo",
@@ -60,7 +76,8 @@
     "direccion": "Diagonal 77 # 444, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas74360-murga-esa-te-la-debo?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/06/000302006.jpg"
   },
   {
     "titulo": "MATCH- TEATRO DEPORTE Y HUMOR",
@@ -69,7 +86,8 @@
     "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
     "categoria": "impro",
     "url": "https://publico.alternativateatral.com/entradas83453-match-teatro-deporte-y-humor?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/46/000295746.jpg"
   },
   {
     "titulo": "Empoederadas",
@@ -78,7 +96,8 @@
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas84037-empoederadas?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/61/000316061.jpg"
   },
   {
     "titulo": "Sociedad Platense de Stand Up",
@@ -87,7 +106,8 @@
     "direccion": "Calle 43 N°1349, La Plata",
     "categoria": "stand-up",
     "url": "https://www.alternativateatral.com.ar/obra85003-sociedad-platense-de-stand-up",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": ""
   },
   {
     "titulo": "Bosque",
@@ -96,7 +116,8 @@
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas89788-bosque?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/17/000284117.jpg"
   },
   {
     "titulo": "EL ROBO, un policial metafísico",
@@ -105,7 +126,8 @@
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra89911-el-robo-un-policial-metafisico",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/54/000305254.jpg"
   },
   {
     "titulo": "Monstruos",
@@ -114,7 +136,8 @@
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas95391-monstruos?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/16/000315716.jpg"
   },
   {
     "titulo": "Acassuso",
@@ -123,7 +146,8 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas95417-acassuso?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/57/000298657.jpg"
   },
   {
     "titulo": "Arcade",
@@ -132,7 +156,8 @@
     "direccion": "13 e/ 32 y 33, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas96059-arcade?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/49/000316849.jpg"
   },
   {
     "titulo": "La leona (el amor de una madre nunca se rompe)",
@@ -141,7 +166,8 @@
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas96437-la-leona-el-amor-de-una-madre-nunca-se-rompe?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/48/000301148.jpg"
   },
   {
     "titulo": "Bailó toda la noche, tomó agua fría y se murió",
@@ -149,8 +175,9 @@
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra96455-bailo-toda-la-noche-tomo-agua-fria-y-se-murio",
-    "fuente": "alternativa"
+    "url": "https://publico.alternativateatral.com/entradas96455-bailo-toda-la-noche-tomo-agua-fria-y-se-murio?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/08/000301208.jpg"
   },
   {
     "titulo": "La cantante calva",
@@ -159,7 +186,8 @@
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas97717-la-cantante-calva?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/56/000305356.jpg"
   },
   {
     "titulo": "Recuerdos del FUTURO: Mi abuela es una super modelo",
@@ -168,7 +196,8 @@
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra98557-recuerdos-del-futuro-mi-abuela-es-una-super-modelo",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/24/000307724.jpg"
   },
   {
     "titulo": "Los cuadernos de André Andrazur",
@@ -177,7 +206,8 @@
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas99025-los-cuadernos-de-andre-andrazur?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/53/000308953.jpg"
   },
   {
     "titulo": "Pelota de goma",
@@ -186,7 +216,8 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas99166-pelota-de-goma?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/39/000309339.jpg"
   },
   {
     "titulo": "La gravedad de lo incierto",
@@ -195,7 +226,8 @@
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra99436-la-gravedad-de-lo-incierto",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/80/000310180.jpg"
   },
   {
     "titulo": "Tanguito mio, un musical bien guapito",
@@ -204,7 +236,8 @@
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas99437-tanguito-mio-un-musical-bien-guapito?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/82/000310182.jpg"
   },
   {
     "titulo": "Laberinto Borges",
@@ -213,7 +246,8 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas100577-laberinto-borges?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/61/000313361.jpg"
   },
   {
     "titulo": "DORA. Ellos saben que sabe. Ella sabe que saben. Pero ella es Dora, la Administradora",
@@ -222,7 +256,8 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas100866-dora-ellos-saben-que-sabe-ella-sabe-que-saben-pero-ella-es-dora-la-administradora?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/01/000314401.jpg"
   },
   {
     "titulo": "Volcada",
@@ -231,7 +266,8 @@
     "direccion": "Boulevard 83 403, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101161-volcada?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/75/000315375.jpg"
   },
   {
     "titulo": "Cronopios VII",
@@ -240,7 +276,8 @@
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101288-cronopios-vii?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/32/000315632.jpg"
   },
   {
     "titulo": "La risa",
@@ -249,7 +286,8 @@
     "direccion": "13 e/ 32 y 33, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101374-la-risa?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/28/000315828.jpg"
   },
   {
     "titulo": "Poema criollo. Versos del subsuelo",
@@ -258,16 +296,18 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101398-poema-criollo-versos-del-subsuelo?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/70/000316070.jpg"
   },
   {
     "titulo": "Bajo la Tormenta",
-    "fecha": "2026-07-19 20:00:00",
+    "fecha": "2026-07-25 21:00:00",
     "lugar": "TEATRO ARMANDO DISCEPOLO",
     "direccion": "Calle 12 entre 62 Y 63, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra101524-bajo-la-tormenta",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/90/000316190.jpg"
   },
   {
     "titulo": "El hijo del superhéroe",
@@ -276,7 +316,8 @@
     "direccion": "Calle 58 e/ 10 y 11, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101533-el-hijo-del-superheroe?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/25/000316225.jpg"
   },
   {
     "titulo": "Chispa y Estela. La máquina de ser yo",
@@ -285,7 +326,8 @@
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101537-chispa-y-estela-la-maquina-de-ser-yo?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/83/000316483.jpg"
   },
   {
     "titulo": "Donde estaré atrapado",
@@ -294,7 +336,8 @@
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101592-donde-estare-atrapado?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/36/000316536.jpg"
   },
   {
     "titulo": "Luz al tiempo. Anecdotario genealógico de historias dispersas",
@@ -303,7 +346,8 @@
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101681-luz-al-tiempo-anecdotario-genealogico-de-historias-dispersas?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/12/000316812.jpg"
   },
   {
     "titulo": "Terapia",
@@ -312,7 +356,8 @@
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101706-terapia?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/55/000316755.jpg"
   },
   {
     "titulo": "Cronopios X",
@@ -321,7 +366,8 @@
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101878-cronopios-x?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": ""
   },
   {
     "titulo": "Cronopios XI",
@@ -330,7 +376,8 @@
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101879-cronopios-xi?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": ""
   },
   {
     "titulo": "Todo lo que cabe en una valija",
@@ -339,7 +386,8 @@
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101900-todo-lo-que-cabe-en-una-valija?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/34/000317134.jpg"
   },
   {
     "titulo": "Vecinas, música y teatro",
@@ -348,7 +396,8 @@
     "direccion": "11 e/66 y 67, La Plata",
     "categoria": "musica",
     "url": "https://www.alternativateatral.com.ar/obra101966-vecinas-musica-y-teatro",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/46/000317646.jpg"
   },
   {
     "titulo": "El Andador",
@@ -357,7 +406,8 @@
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101992-el-andador?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/44/000317644.jpg"
   },
   {
     "titulo": "13 y martes",
@@ -365,8 +415,9 @@
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102033-13-y-martes",
-    "fuente": "alternativa"
+    "url": "https://publico.alternativateatral.com/entradas102033-13-y-martes?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000317838.jpg"
   },
   {
     "titulo": "El picaro burlado",
@@ -375,7 +426,8 @@
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra102034-el-picaro-burlado",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": ""
   },
   {
     "titulo": "Archipielago",
@@ -384,7 +436,8 @@
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra102035-archipielago",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": ""
   },
   {
     "titulo": "Hit Vox Experience",
@@ -393,7 +446,8 @@
     "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas102049-hit-vox-experience?o=6",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/31/000317731.jpg"
   },
   {
     "titulo": "Laberinto Podestá, el último aplauso",
@@ -402,6 +456,7 @@
     "direccion": "Calle 10 Nº 733, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra102053-laberinto-podesta-el-ultimo-aplauso",
-    "fuente": "alternativa"
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/27/000317627.jpg"
   }
 ]
