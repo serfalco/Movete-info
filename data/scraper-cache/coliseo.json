@@ -1,43 +1,33 @@
 [
   {
     "titulo": "Laberinto Podestá, el último aplauso",
-    "fecha": "2026-07-20 20:30:00",
+    "fecha": "2026-07-27 20:30:00",
     "lugar": "Teatro Coliseo Podestá",
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "teatro",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/teatro-inmersivo/laberinto-podesta-el-ultimo-aplauso-0",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/laberinto-podesta-el-ultimo-aplauso-1200x1200.jpg?itok=E5TYOcbS"
   },
   {
     "titulo": "Un Circo de La Gran 7",
-    "fecha": "2026-07-21 16:00:00",
+    "fecha": "2026-07-23 16:00:00",
     "lugar": "Teatro Coliseo Podestá",
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/un-circo-de-la-gran-7",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/un-circo-de-la-gran-7-1200x1200.jpg?itok=SmJFgsnd"
   },
   {
-    "titulo": "LAS AVENTURAS DE MARIO SUPERHEROES AL RESCATE",
-    "fecha": "2026-07-22 15:00:00",
+    "titulo": "Un Circo de La Gran 7",
+    "fecha": "2026-07-25 16:00:00",
     "lugar": "Teatro Coliseo Podestá",
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "infantil",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/las-aventuras-de-mario-superheroes-al-rescate",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/un-circo-de-la-gran-7",
     "fuente": "coliseo",
-    "imagen": ""
-  },
-  {
-    "titulo": "JUGUETES EN APUROS UNA NUEVA AVENTURA",
-    "fecha": "2026-07-22 17:00:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "infantil",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/juguetes-en-apuros-una-nueva-aventura",
-    "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/un-circo-de-la-gran-7-1200x1200.jpg?itok=SmJFgsnd"
   },
   {
     "titulo": "EL CORAZÓN DEL OCÉANO",
@@ -47,7 +37,7 @@
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/el-corazon-del-oceano-0",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/el-corazon-del-oceano-1200x1200.jpg?itok=-N7j_q-M"
   },
   {
     "titulo": "ESCUADRÓN AL RESCATE",
@@ -57,7 +47,7 @@
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/escuadron-al-rescate",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/escuadron-al-rescate-1200x1200.jpg?itok=YxviwkP_"
   },
   {
     "titulo": "Plim Plim. Energía Musical Recargada",
@@ -67,7 +57,7 @@
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/plim-plim-energia-musical-recargada",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/plim-plim-energia-musical-recargada-1200x1200.jpg?itok=taS2ukL1"
   },
   {
     "titulo": "HÉROE LÍRICO POP, CINEMA LÍRICO",
@@ -77,7 +67,7 @@
     "categoria": "musica",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/recital/heroe-lirico-pop-cinema-lirico-0",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/heroe-lirico-pop-cinema-lirico-1200x1200.jpg?itok=B3cJqo7n"
   },
   {
     "titulo": "CANTICUÉNTICOS",
@@ -87,7 +77,7 @@
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/canticuenticos-5",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/canticuenticos-1200x1200.jpg?itok=PERE4-sv"
   },
   {
     "titulo": "LAS GUARDIANAS KPOP, THE OFFICIAL TOUR 2026",
@@ -97,7 +87,7 @@
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/las-guardianas-kpop-official-tour-2026",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/las-guardianas-kpop-official-tour-2026-1200x1200.jpg?itok=t_G439BS"
   },
   {
     "titulo": "EL BOSQUE ENCANTADO",
@@ -107,7 +97,7 @@
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/el-bosque-encantado",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/el-bosque-encantado-1200x1200.jpg?itok=9hC2BBYf"
   },
   {
     "titulo": "SONICO RECARGADO",
@@ -117,7 +107,7 @@
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/sonico-recargado-0",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/sonico-recargado-1200x1200.jpg?itok=iFaUTkgH"
   },
   {
     "titulo": "LUCAS LAURIENTE STAND UP",
@@ -127,7 +117,7 @@
     "categoria": "stand-up",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/stand-humoristico/lucas-lauriente-stand",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/lucas-lauriente-stand-1200x1200.jpg?itok=NUlCX5nz"
   },
   {
     "titulo": "Cuentos y canciones de María Elena Walsh",
@@ -137,7 +127,7 @@
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/cuentos-y-canciones-de-maria-elena-walsh",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/cuentos-y-canciones-de-maria-elena-walsh-1200x1200.jpg?itok=tcBOmp6G"
   },
   {
     "titulo": "Fiesta PIM PAU",
@@ -147,7 +137,7 @@
     "categoria": "infantil",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/fiesta-pim-pau",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/fiesta-pim-pau-1200x1200.jpg?itok=ZY6WgDL9"
   },
   {
     "titulo": "LA CHIRICHOTA - Vuelven los clásicos",
@@ -157,7 +147,7 @@
     "categoria": "stand-up",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/stand-humoristico/la-chirichota-vuelven-los-clasicos",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/la-chirichota-vuelven-los-clasicos-1200x1200.jpg?itok=QjmW52FE"
   },
   {
     "titulo": "Noelia Pace. Presenta: Mediumnidad",
@@ -167,6 +157,6 @@
     "categoria": "otros",
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/evento/noelia-pace-presenta-mediumnidad-2",
     "fuente": "coliseo",
-    "imagen": ""
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/noelia-pace-presenta-mediumnidad-1200x1200.jpg?itok=pfTsKe4r"
   }
 ]

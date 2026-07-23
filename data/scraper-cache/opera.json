@@ -4,49 +4,129 @@
     "fecha": "2026-11-21 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "otros",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/benjamin-amadeo-en-el-teatro-opera-lp-21-11",
     "fuente": "opera",
-    "imagen": ""
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/BenjaAma_21Nov_1080x1350-scaled.jpg"
+  },
+  {
+    "titulo": "VIRUS",
+    "fecha": "2026-08-01 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/virus-en-el-teatro-opera-lp-01-08",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1920-2.jpg"
+  },
+  {
+    "titulo": "DANTE SPINETTA",
+    "fecha": "2026-08-07 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/dante-spinetta-en-el-teatro-opera-lp-07-08",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1920.jpg"
   },
   {
     "titulo": "SOFIA MORA",
     "fecha": "2026-09-04 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "otros",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/sofia-mora-en-el-teatro-opera-lp",
     "fuente": "opera",
-    "imagen": ""
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1920-4.jpg"
   },
   {
     "titulo": "FALTA Y RESTO",
     "fecha": "2026-08-18 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "otros",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/falta-y-resto-en-el-teatro-opera-lp",
     "fuente": "opera",
-    "imagen": ""
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/FALTA-Y-RESTO-Feed-1080x1440-18-Agosto-2026.jpg"
   },
   {
     "titulo": "LA CUMPARSITA",
     "fecha": "2026-08-16 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "otros",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/la-cumparsita-en-el-teatro-opera-lp-16-08",
     "fuente": "opera",
-    "imagen": ""
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/opera-2026-instagram-feed-1080-x-1440-px.jpg"
   },
   {
     "titulo": "CIELO RAZZO",
     "fecha": "2026-08-28 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "otros",
-    "url": "",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/cielo-razzo-en-el-teatro-opera-lp-28-08",
     "fuente": "opera",
-    "imagen": ""
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1920-5.jpg"
+  },
+  {
+    "titulo": "ATTITUDE – Tributo a Guns N’ Roses",
+    "fecha": "2026-07-24 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/attitude-tributo-a-guns-n-roses-en-el-teatro-opera-lp-24-07",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1440-1.jpg"
+  },
+  {
+    "titulo": "2 MINUTOS",
+    "fecha": "2026-08-22 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/2-minutos-en-el-teatro-opera-lp-2026-08-22",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1350.jpg"
+  },
+  {
+    "titulo": "MUNDO K-POP CAZADORAS DE DEMONIOS",
+    "fecha": "2026-07-26 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/mundo-k-pop-cazadoras-de-demonios-en-el-teatro-opera-lp",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/LA-PLATA-PROVINCIA-2026-1080-X-1080.jpg"
+  },
+  {
+    "titulo": "LOS PÉREZ GARCÍA",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/los-perez-garcia-en-el-teatro-opera-lp-08-08",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/1080-1080.jpg"
+  },
+  {
+    "titulo": "BHAVI",
+    "fecha": "2026-08-23 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/bhavi-en-el-teatro-opera-lp-23-08",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/1080x1080.jpg"
+  },
+  {
+    "titulo": "LOS TIPITOS",
+    "fecha": "2026-08-29 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/los-tipitos-en-el-teatro-opera-lp-2026-08-29",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/Tipitos-Opera-LP26-0221-Mobile-300x250-.jpg"
   }
 ]

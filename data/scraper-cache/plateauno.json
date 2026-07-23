@@ -1,45 +1,5 @@
 [
   {
-    "titulo": "PODER K POP.",
-    "fecha": "2026-07-20 15:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9889/poder-k-pop",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3291.jpeg"
-  },
-  {
-    "titulo": "AVENTURAS MINERAS .",
-    "fecha": "2026-07-20 17:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9890/aventuras-mineras",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3292.jpeg"
-  },
-  {
-    "titulo": "UNA FAMILIA TENEBROSA",
-    "fecha": "2026-07-21 17:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9871/una-familia-tenebrosa",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3279.jpeg"
-  },
-  {
-    "titulo": "PIÑON FIJO ES MI NOMBRE",
-    "fecha": "2026-07-22 16:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9782/pion-fijo-es-mi-nombre",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3227.jpeg"
-  },
-  {
     "titulo": "CAZADORAS DORADAS.",
     "fecha": "2026-07-23 14:30:00",
     "lugar": "Metro",
@@ -48,16 +8,6 @@
     "url": "https://www.plateaunotickets.com/obra/9875/cazadoras-doradas",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3281.jpeg"
-  },
-  {
-    "titulo": "JUGUETES EN ACCION",
-    "fecha": "2026-07-23 18:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9814/juguetes-en-accion",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3235.jpeg"
   },
   {
     "titulo": "SUPERCACHORROS 2026",

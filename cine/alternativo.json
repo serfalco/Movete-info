@@ -1,26 +1,80 @@
 [
   {
-    "titulo": "Una directora extraordinaria",
-    "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-21"
+    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-24"
   },
   {
-    "titulo": "The twilight zone III (La Dimensión Desconocida III)",
-    "hora": "20:30",
+    "titulo": "Habitaciones para turistas - Dir Adrian García Bogliano",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-24"
+  },
+  {
+    "titulo": "Las alas del deseo - Wim Wenders",
+    "hora": "23:55",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-24"
+  },
+  {
+    "titulo": "Crash",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-25"
+  },
+  {
+    "titulo": "Fuego - Dir Armando Bo",
+    "hora": "22:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-25"
+  },
+  {
+    "titulo": "Nazareno Cruz y El Lobo - Mes de Leonardo Favio",
+    "hora": "17:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-26"
+  },
+  {
+    "titulo": "Blade Runner",
+    "hora": "18:00",
+    "espacio": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
+    "fecha": "2026-07-26"
+  },
+  {
+    "titulo": "El atardecer de los grillos - Dir Gonzalo Almeida",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-26"
+  },
+  {
+    "titulo": "Las cosas de la vida - Dir. Claude Sautet Año: 1970",
+    "hora": "20:00",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-21"
+    "fecha": "2026-07-26"
   },
   {
-    "titulo": "Una directora extraordinaria",
-    "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-22"
-  },
-  {
-    "titulo": "Les Amants du Pont-Neuf (Leos Carax, 1991)",
+    "titulo": "2001: Odisea en el espacio",
     "hora": "20:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-22"
+    "fecha": "2026-07-26"
+  },
+  {
+    "titulo": "Las alas del deseo - Wim Wenders",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-07-26"
+  },
+  {
+    "titulo": "The twilight zone IV (La Dimensión Desconocida IV)",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-07-28"
+  },
+  {
+    "titulo": "Rapado (Martín Rejtman, 1992)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-07-29"
   }
 ]

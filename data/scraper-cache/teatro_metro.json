@@ -1,55 +1,5 @@
 [
   {
-    "titulo": "Poder Kpop",
-    "fecha": "2026-07-20 15:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Aventuras Mineras",
-    "fecha": "2026-07-20 17:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Una Familia Tenebrosa",
-    "fecha": "2026-07-21 17:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Aventuras Perrunas del K-Pop",
-    "fecha": "2026-07-21 15:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Piñon Fijo",
-    "fecha": "2026-07-22 16:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
     "titulo": "JUGUETES EN ACCION",
     "fecha": "2026-07-23 18:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -162,6 +112,26 @@
   {
     "titulo": "JUGUETES EN ACCION",
     "fecha": "2026-07-30 17:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "Viaje Jurásico",
+    "fecha": "2026-07-31 17:30:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "Supercachorros",
+    "fecha": "2026-07-31 15:00:00",
     "lugar": "Teatro Metro La Plata",
     "direccion": "Calle 4 entre 51 y 53, La Plata",
     "categoria": "teatro",

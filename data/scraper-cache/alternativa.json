@@ -17,17 +17,17 @@
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra15567-sapo-en-buenos-aires",
     "fuente": "alternativa",
-    "imagen": ""
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/21/000317921.jpg"
   },
   {
-    "titulo": "Greta y Gaspar",
-    "fecha": "2026-07-22 15:00:00",
-    "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
-    "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
+    "titulo": "Sapo en Buenos Aires",
+    "fecha": "2026-07-26 15:30:00",
+    "lugar": "TEATRO RED PIDO GANCHO",
+    "direccion": "Calle 3 N° 1172, entre 44 y 45, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra24515-greta-y-gaspar",
+    "url": "https://www.alternativateatral.com.ar/obra15567-sapo-en-buenos-aires",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/000075557.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/21/000317921.jpg"
   },
   {
     "titulo": "Amazonana",
@@ -61,7 +61,7 @@
   },
   {
     "titulo": "El Principito",
-    "fecha": "2026-07-21 15:00:00",
+    "fecha": "2026-07-30 15:00:00",
     "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
@@ -78,6 +78,26 @@
     "url": "https://publico.alternativateatral.com/entradas74360-murga-esa-te-la-debo?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/06/000302006.jpg"
+  },
+  {
+    "titulo": "Yuna soy yo",
+    "fecha": "2026-08-22 18:00:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas78122-yuna-soy-yo?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/69/000303069.jpg"
+  },
+  {
+    "titulo": "Con las manos atadas",
+    "fecha": "2026-08-08 18:00:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas83446-con-las-manos-atadas?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/64/000263764.jpg"
   },
   {
     "titulo": "MATCH- TEATRO DEPORTE Y HUMOR",
@@ -121,11 +141,11 @@
   },
   {
     "titulo": "EL ROBO, un policial metafísico",
-    "fecha": "2026-08-14 21:30:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
+    "fecha": "2026-08-14 19:00:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra89911-el-robo-un-policial-metafisico",
+    "url": "https://publico.alternativateatral.com/entradas89911-el-robo-un-policial-metafisico?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/54/000305254.jpg"
   },
@@ -195,7 +215,7 @@
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra98557-recuerdos-del-futuro-mi-abuela-es-una-super-modelo",
+    "url": "https://publico.alternativateatral.com/entradas98557-recuerdos-del-futuro-mi-abuela-es-una-super-modelo?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/24/000307724.jpg"
   },
@@ -211,7 +231,7 @@
   },
   {
     "titulo": "Pelota de goma",
-    "fecha": "2026-08-21 20:30:00",
+    "fecha": "2026-08-21 21:00:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
@@ -225,7 +245,7 @@
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra99436-la-gravedad-de-lo-incierto",
+    "url": "https://publico.alternativateatral.com/entradas99436-la-gravedad-de-lo-incierto?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/80/000310180.jpg"
   },
@@ -238,6 +258,16 @@
     "url": "https://publico.alternativateatral.com/entradas99437-tanguito-mio-un-musical-bien-guapito?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/82/000310182.jpg"
+  },
+  {
+    "titulo": "Residuos, una poética del espanto",
+    "fecha": "2026-08-09 20:00:00",
+    "lugar": "LA MERCERIA TEATRO",
+    "direccion": "Calle 1 Nº 210, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas100305-residuos-una-poetica-del-espanto?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/93/000312693.jpg"
   },
   {
     "titulo": "Laberinto Borges",
@@ -300,6 +330,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/70/000316070.jpg"
   },
   {
+    "titulo": "Poema criollo. Versos del subsuelo",
+    "fecha": "2026-08-14 21:00:00",
+    "lugar": "LA MERCERIA TEATRO",
+    "direccion": "Calle 1 Nº 210, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas101398-poema-criollo-versos-del-subsuelo?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/70/000316070.jpg"
+  },
+  {
     "titulo": "Bajo la Tormenta",
     "fecha": "2026-07-25 21:00:00",
     "lugar": "TEATRO ARMANDO DISCEPOLO",
@@ -311,7 +351,7 @@
   },
   {
     "titulo": "El hijo del superhéroe",
-    "fecha": "2026-07-20 17:00:00",
+    "fecha": "2026-07-23 15:00:00",
     "lugar": "TEATRO LA LECHUZA",
     "direccion": "Calle 58 e/ 10 y 11, La Plata",
     "categoria": "teatro",
@@ -451,12 +491,42 @@
   },
   {
     "titulo": "Laberinto Podestá, el último aplauso",
-    "fecha": "2026-07-20 18:00:00",
+    "fecha": "2026-07-27 18:00:00",
     "lugar": "TEATRO MUNICIPAL COLISEO PODESTÁ",
-    "direccion": "Calle 10 Nº 733, La Plata",
+    "direccion": "Calle 10 Nº 733, e/ 46 y 47, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra102053-laberinto-podesta-el-ultimo-aplauso",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/27/000317627.jpg"
+  },
+  {
+    "titulo": "Cruzar la noche. Un viaje del otro lado",
+    "fecha": "2026-07-28 15:30:00",
+    "lugar": "TEATRO RED PIDO GANCHO",
+    "direccion": "Calle 3 N° 1172, entre 44 y 45, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102113-cruzar-la-noche-un-viaje-del-otro-lado",
+    "fuente": "alternativa",
+    "imagen": ""
+  },
+  {
+    "titulo": "Cuadriláteros 6, teatro breve reunido",
+    "fecha": "2026-09-04 22:30:00",
+    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
+    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102155-cuadrilateros-6-teatro-breve-reunido",
+    "fuente": "alternativa",
+    "imagen": ""
+  },
+  {
+    "titulo": "Cuadriláteros 7, teatro breve reunido",
+    "fecha": "2026-09-05 22:30:00",
+    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
+    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102156-cuadrilateros-7-teatro-breve-reunido",
+    "fuente": "alternativa",
+    "imagen": ""
   }
 ]
