@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "CAZADORAS DORADAS.",
-    "fecha": "2026-07-23 14:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9875/cazadoras-doradas",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3281.jpeg"
-  },
-  {
     "titulo": "SUPERCACHORROS 2026",
     "fecha": "2026-07-24 18:00:00",
     "lugar": "Metro",
@@ -48,16 +38,6 @@
     "url": "https://www.plateaunotickets.com/obra/9897/mario-y-la-princesa",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3236.jpeg"
-  },
-  {
-    "titulo": "JUGUETES EN ACCION",
-    "fecha": "2026-07-26 17:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9898/juguetes-en-accion",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3235.jpeg"
   },
   {
     "titulo": "VIVA LAS BRUJAS",

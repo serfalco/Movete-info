@@ -171,7 +171,7 @@
   },
   {
     "titulo": "Arcade",
-    "fecha": "2026-07-23 18:00:00",
+    "fecha": "2026-07-25 16:00:00",
     "lugar": "TELON NEGRO TEATRO",
     "direccion": "13 e/ 32 y 33, La Plata",
     "categoria": "teatro",
@@ -351,7 +351,7 @@
   },
   {
     "titulo": "El hijo del superhéroe",
-    "fecha": "2026-07-23 15:00:00",
+    "fecha": "2026-07-24 15:00:00",
     "lugar": "TEATRO LA LECHUZA",
     "direccion": "Calle 58 e/ 10 y 11, La Plata",
     "categoria": "teatro",
@@ -361,7 +361,7 @@
   },
   {
     "titulo": "Chispa y Estela. La máquina de ser yo",
-    "fecha": "2026-07-23 16:00:00",
+    "fecha": "2026-07-24 16:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -460,16 +460,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000317838.jpg"
   },
   {
-    "titulo": "El picaro burlado",
-    "fecha": "2026-07-23 15:00:00",
-    "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
-    "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102034-el-picaro-burlado",
-    "fuente": "alternativa",
-    "imagen": ""
-  },
-  {
     "titulo": "Archipielago",
     "fecha": "2026-07-28 15:00:00",
     "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
@@ -515,9 +505,9 @@
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102155-cuadrilateros-6-teatro-breve-reunido",
+    "url": "https://publico.alternativateatral.com/entradas102155-cuadrilateros-6-teatro-breve-reunido?o=6",
     "fuente": "alternativa",
-    "imagen": ""
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/90/000317990.jpg"
   },
   {
     "titulo": "Cuadriláteros 7, teatro breve reunido",
@@ -525,8 +515,8 @@
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102156-cuadrilateros-7-teatro-breve-reunido",
+    "url": "https://publico.alternativateatral.com/entradas102156-cuadrilateros-7-teatro-breve-reunido?o=6",
     "fuente": "alternativa",
-    "imagen": ""
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/91/000317991.jpg"
   }
 ]
