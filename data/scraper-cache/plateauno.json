@@ -1,95 +1,5 @@
 [
   {
-    "titulo": "SUPERCACHORROS 2026",
-    "fecha": "2026-07-24 18:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9892/supercachorros-2026",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3294.jpeg"
-  },
-  {
-    "titulo": "EL EXPLORADOR.",
-    "fecha": "2026-07-25 15:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9864/el-explorador",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3275.jpeg"
-  },
-  {
-    "titulo": "VIAJE JURASICO .",
-    "fecha": "2026-07-25 18:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9894/viaje-jurasico",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3296.jpeg"
-  },
-  {
-    "titulo": "MARIO Y LA PRINCESA",
-    "fecha": "2026-07-26 15:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9897/mario-y-la-princesa",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3236.jpeg"
-  },
-  {
-    "titulo": "VIVA LAS BRUJAS",
-    "fecha": "2026-07-27 15:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9912/viva-las-brujas",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3307.jpeg"
-  },
-  {
-    "titulo": "BELLA Y EL REENCUENTRO CON...",
-    "fecha": "2026-07-27 17:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9911/bella-y-el-reencuentro-con",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3306.jpeg"
-  },
-  {
-    "titulo": "CAZADORAS DORADAS.",
-    "fecha": "2026-07-28 14:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9876/cazadoras-doradas",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3281.jpeg"
-  },
-  {
-    "titulo": "BRAINROTS",
-    "fecha": "2026-07-28 18:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9872/brainrots",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3280.jpeg"
-  },
-  {
-    "titulo": "CHINGALEPA",
-    "fecha": "2026-07-29 17:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9769/chingalepa",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3217.jpeg"
-  },
-  {
     "titulo": "JUGUETES EN ACCION",
     "fecha": "2026-07-30 17:00:00",
     "lugar": "Metro",
@@ -200,16 +110,6 @@
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3312.jpeg"
   },
   {
-    "titulo": "NEGOCIEMOS",
-    "fecha": "2026-09-26 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9950/negociemos",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3336.jpeg"
-  },
-  {
     "titulo": "LA BIBLIOTECA PERDIDA",
     "fecha": "2026-10-04 17:00:00",
     "lugar": "Metro",
@@ -231,7 +131,7 @@
   },
   {
     "titulo": "TANGO PARA TRES",
-    "fecha": "2026-10-18 21:00:00",
+    "fecha": "2026-10-18 19:00:00",
     "lugar": "Metro",
     "direccion": "",
     "categoria": "musica",

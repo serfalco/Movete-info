@@ -1,4 +1,28 @@
 {
+  "10 18 35 backrooms": null,
+  "13 55 16 05 18 15 el dia de la revelacion": null,
+  "14 10 16 20 spider man un nuevo dia": null,
+  "14 15 16 35 el diablo viste a la moda 2": null,
+  "14 30 16 45 19 backrooms": null,
+  "14 40 16 40 obsesion": null,
+  "15 minions y monstruos": null,
+  "16 05 moana": null,
+  "16 05 spider man un nuevo dia": null,
+  "16 10 obsesion": null,
+  "16 15 moana": null,
+  "16 20 toy story 5": null,
+  "16 55 19 50 spider man un nuevo dia": null,
+  "17 45 20 15 evil dead en llamas": null,
+  "18 50 spider man un nuevo dia": null,
+  "19 25 la odisea": null,
+  "20 50 la odisea": null,
+  "22 25 minions y monstruos": null,
+  "22 35 spider man un nuevo dia": null,
+  "22 scary movie terrorificamente incorrecta": null,
+  "22 toy story 5": null,
+  "23 obsesion": null,
+  "40 spider man un nuevo dia": null,
+  "45 moana": null,
   "amarga navidad": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/vkaujALtN1SZGr4M54selGTImVY.jpg",
@@ -261,6 +285,7 @@
     "trailer": "https://www.youtube.com/watch?v=1Wd2Awev2jk"
   },
   "jue 12 30 17 30 20 00 el diablo viste a la moda 2": null,
+  "jueves a viernes 21 30 minions y monstruos": null,
   "la odisea": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
@@ -445,6 +470,32 @@
     "trailer": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0"
   },
   "sia nostalgia por el presente": null,
+  "spider man un nuevo dia": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+    "director": "Destin Daniel Cretton",
+    "duracion": 144,
+    "elenco": [
+      "Tom Holland",
+      "Zendaya",
+      "Sadie Sink"
+    ],
+    "generos": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+    "score": 8.0,
+    "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+    "titulo": "Spider-Man: Brand New Day",
+    "titulo_original": "Spider-Man: Brand New Day",
+    "tmdb_id": 969681,
+    "trailer": "https://www.youtube.com/watch?v=o8EccyRIwQQ"
+  },
   "star wars the mandalorian grogu": {
     "anio": "2026",
     "duracion": 132,

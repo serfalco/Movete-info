@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-23"
+    "ultima_semana": "2026-07-30"
   },
   "454639": {
     "tmdb": {
@@ -1058,7 +1058,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-23"
+    "ultima_semana": "2026-07-30"
   },
   "1314481": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-23"
+    "ultima_semana": "2026-07-30"
   },
   "1108427": {
     "tmdb": {
@@ -2494,7 +2494,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-23"
+    "ultima_semana": "2026-07-30"
   },
   "1212763": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-23"
+    "ultima_semana": "2026-07-30"
   },
   "1666712": {
     "tmdb": {
@@ -3042,5 +3042,210 @@
       ]
     },
     "ultima_semana": "2026-07-16"
+  },
+  "969681": {
+    "tmdb": {
+      "tmdb_id": 969681,
+      "titulo": "Spider-Man: Brand New Day",
+      "titulo_original": "Spider-Man: Brand New Day",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-07-28",
+      "duracion": 144,
+      "generos": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "score": 7.9,
+      "votos": 166,
+      "certificacion": "PG-13",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+        "https://image.tmdb.org/t/p/w780/sYsaVy047cfGTLMfcRihee3ShnM.jpg",
+        "https://image.tmdb.org/t/p/w780/5glivQffWJkRJttJ5g5LW14kmeC.jpg",
+        "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "https://image.tmdb.org/t/p/w780/bPW6HcI0E1eklEle61LVQuD1Cwc.jpg",
+        "https://image.tmdb.org/t/p/w780/63JYqhefGrbVg0YqZ3xWqn0pwT2.jpg"
+      ],
+      "director": "Destin Daniel Cretton",
+      "guionistas": [
+        "Erik Sommers",
+        "Chris McKenna"
+      ],
+      "musica": "Michael Giacchino",
+      "elenco": [
+        {
+          "nombre": "Tom Holland",
+          "personaje": "Peter Parker / Spider-Man",
+          "foto": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+          "iniciales": "TH"
+        },
+        {
+          "nombre": "Zendaya",
+          "personaje": "MJ",
+          "foto": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+          "iniciales": "ZE"
+        },
+        {
+          "nombre": "Sadie Sink",
+          "personaje": "Jean Grey",
+          "foto": "https://image.tmdb.org/t/p/w185/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg",
+          "iniciales": "SS"
+        },
+        {
+          "nombre": "Jacob Batalon",
+          "personaje": "Ned Leeds",
+          "foto": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg",
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Jon Bernthal",
+          "personaje": "Frank Castle / Punisher",
+          "foto": "https://image.tmdb.org/t/p/w185/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Tramell Tillman",
+          "personaje": "Bill Metzger",
+          "foto": "https://image.tmdb.org/t/p/w185/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg",
+          "iniciales": "TT"
+        },
+        {
+          "nombre": "Michael Mando",
+          "personaje": "Mac Gargan",
+          "foto": "https://image.tmdb.org/t/p/w185/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg",
+          "iniciales": "MM"
+        },
+        {
+          "nombre": "Mark Ruffalo",
+          "personaje": "Bruce Banner / Hulk",
+          "foto": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg",
+          "iniciales": "MR"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Marvel Studios",
+        "Columbia Pictures",
+        "Pascal Pictures",
+        "TSG Entertainment II"
+      ],
+      "temas": [
+        "Mind control",
+        "New york city",
+        "Hero",
+        "Mutation",
+        "Secret identity",
+        "Superhero",
+        "Spider",
+        "Villain"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+      "teaser": "https://www.youtube.com/watch?v=5LcWLLEb0uw",
+      "imdb_id": "tt22084616",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Spider-Man (Vengadores) - Colección",
+        "partes": [
+          {
+            "tmdb_id": 315635,
+            "titulo": "Spider-Man: Homecoming",
+            "anio": "2017",
+            "poster": "https://image.tmdb.org/t/p/w342/bRl6C6FwzTndk0MBGZZ68nRFlw3.jpg",
+            "fecha": "2017-07-05"
+          },
+          {
+            "tmdb_id": 429617,
+            "titulo": "Spider-Man: Lejos de casa",
+            "anio": "2019",
+            "poster": "https://image.tmdb.org/t/p/w342/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+            "fecha": "2019-06-28"
+          },
+          {
+            "tmdb_id": 634649,
+            "titulo": "Spider-Man: No Way Home",
+            "anio": "2021",
+            "poster": "https://image.tmdb.org/t/p/w342/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
+            "fecha": "2021-12-15"
+          },
+          {
+            "tmdb_id": 969681,
+            "titulo": "Spider-Man: Brand New Day",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+            "fecha": "2026-07-28"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 18051,
+          "titulo": "Timecop 2: La decisión de Berlín",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/97bQ42IomfAUrdmJehTViajk8bf.jpg",
+          "score": 5.6
+        },
+        {
+          "tmdb_id": 634649,
+          "titulo": "Spider-Man: No Way Home",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
+          "score": 7.9
+        },
+        {
+          "tmdb_id": 18224,
+          "titulo": "Bionicle 3: La red de las sombras",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/qDnAGBnvEkita89yC8dVFfmKeUG.jpg",
+          "score": 5.938
+        },
+        {
+          "tmdb_id": 18239,
+          "titulo": "La saga Crepúsculo: Luna nueva",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/l5lF8VHTO5QKObAKE3Wp2QQfGZJ.jpg",
+          "score": 5.989
+        },
+        {
+          "tmdb_id": 18269,
+          "titulo": "La dama y el vagabundo 2: Las aventuras de Golfillo",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/wHVa5xmRD4r2RT4peQMSQqz1hNs.jpg",
+          "score": 6.3
+        },
+        {
+          "tmdb_id": 634898,
+          "titulo": "Capitán Kinesis",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/qcw0sTsGjbxxNfXGAvqpcLA4jgu.jpg",
+          "score": 5.0
+        },
+        {
+          "tmdb_id": 454640,
+          "titulo": "Angry Birds 2: La película",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/yIkmA2y50NYJkAYT9nZ5pcle9tP.jpg",
+          "score": 7.049
+        },
+        {
+          "tmdb_id": 17654,
+          "titulo": "District 9",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/eROypi6RFeXFsfqeUMtTTXmdyOY.jpg",
+          "score": 7.475
+        }
+      ]
+    },
+    "ultima_semana": "2026-07-30"
   }
 }

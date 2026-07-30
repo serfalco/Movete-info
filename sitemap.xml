@@ -4,9 +4,7 @@
   <url><loc>https://movete.info/cine/</loc></url>
   <url><loc>https://movete.info/cine/pelis/</loc></url>
   <url><loc>https://movete.info/en-vivo/</loc></url>
-  <url><loc>https://movete.info/en-vivo/a-plasticas/</loc></url>
   <url><loc>https://movete.info/en-vivo/danza/</loc></url>
-  <url><loc>https://movete.info/en-vivo/impro/</loc></url>
   <url><loc>https://movete.info/en-vivo/infantil/</loc></url>
   <url><loc>https://movete.info/en-vivo/lo-que-se-viene/</loc></url>
   <url><loc>https://movete.info/en-vivo/musica/</loc></url>
@@ -26,6 +24,7 @@
   <url><loc>https://movete.info/en-vivo/2026-07-09/</loc><lastmod>2026-07-09</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-07-16/</loc><lastmod>2026-07-16</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-07-23/</loc><lastmod>2026-07-23</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/2026-07-30/</loc><lastmod>2026-07-30</lastmod></url>
   <url><loc>https://movete.info/en-vivo/sala/area-chica/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/casa-hereje/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/casa-unclan/</loc></url>
@@ -35,6 +34,7 @@
   <url><loc>https://movete.info/en-vivo/sala/centro-de-arte-unlp/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/cine-club-proyecciones-terrestres/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/cine-ecoselect-espacio-incaa/</loc></url>
+  <url><loc>https://movete.info/en-vivo/sala/cine-select-espacio-incaa/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/ciudad-de-gatos/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/colibri-arte-y-cultura/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/comunidad-raices-fm-raices-rock/</loc></url>
@@ -48,6 +48,7 @@
   <url><loc>https://movete.info/en-vivo/sala/estadio-atenas/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/estadio-uno/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/galpon-de-la-grieta-y-biblioteca-popular-la-chicharra/</loc></url>
+  <url><loc>https://movete.info/en-vivo/sala/guajira-bar/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/hipodromo-de-la-plata/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/jardin-botanico-del-parque-saavedra/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/la-culturosa/</loc></url>

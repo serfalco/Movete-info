@@ -1,45 +1,5 @@
 [
   {
-    "titulo": "JACK DISTORTION",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "ATTITUDE - Tributo a Guns N' Ros ...",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "POLENTA",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "MUNDO K-POP CAZADORAS DE DEMONIOS",
-    "fecha": "2026-07-26 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "VIRUS",
     "fecha": "2026-08-01 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -230,6 +190,16 @@
     "imagen": ""
   },
   {
+    "titulo": "IÑAKI URLEZAGA - EL APLAUSO FINAL",
+    "fecha": "2026-09-13 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
     "titulo": "CONOCIENDO RUSIA",
     "fecha": "2026-10-03 21:00:00",
     "lugar": "Teatro Argentino La Plata",
@@ -310,17 +280,7 @@
     "imagen": ""
   },
   {
-    "titulo": "SKAY Y LOS FAKIRES",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "PASTILLAS DEL ABUELO",
+    "titulo": "LAS PASTILLAS DEL ABUELO",
     "fecha": "2026-09-12 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
@@ -360,8 +320,8 @@
     "imagen": ""
   },
   {
-    "titulo": "SKAY Y LOS FAKIRES",
-    "fecha": "2026-07-25 21:00:00",
+    "titulo": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
+    "fecha": "2026-12-05 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",
@@ -380,7 +340,7 @@
     "imagen": ""
   },
   {
-    "titulo": "PASTILLAS DEL ABUELO",
+    "titulo": "LAS PASTILLAS DEL ABUELO",
     "fecha": "2026-09-12 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",

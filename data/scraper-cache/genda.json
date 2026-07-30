@@ -1,2043 +1,33 @@
 [
   {
-    "titulo": "El cielo que vemos (c/ reserva)",
-    "fecha": "2026-07-24 14:00:00",
-    "lugar": "Facultad de Cs. Astronómicas y Geofísicas - Observatorio de La Plata",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-cielo-que-vemos-c-reserva-facultad-de-cs-astronomicas-y-geofisicas-observatorio-de-la-plata-20260706162420",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706162421.jpg"
-  },
-  {
-    "titulo": "Maricel Lazetz - Dibujando bajo las estrellas",
-    "fecha": "2026-07-24 14:15:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/maricel-lazetz-dibujando-bajo-las-estrellas-planetario-unlp-20260705021811",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705021812.jpg"
-  },
-  {
-    "titulo": "Teatro en movimiento",
-    "fecha": "2026-07-24 15:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/teatro-en-movimiento-teatro-argentino-centro-provincial-de-las-artes-20260720160542",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720160543.jpg"
-  },
-  {
-    "titulo": "Taller de Sobres y postales",
-    "fecha": "2026-07-24 15:00:00",
-    "lugar": "Museo de Arte Contemporáneo Latinoamericano MACLA",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/taller-de-sobres-y-postales-museo-de-arte-contemporaneo-latinoamericano-macla-20260720150055",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720150056.jpg"
-  },
-  {
-    "titulo": "Cine de vacaciones - Películas para toda la familia",
-    "fecha": "2026-07-24 15:00:00",
-    "lugar": "Centro Cultural Estación Provincial",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/cine-de-vacaciones-peliculas-para-toda-la-familia-centro-cultural-estacion-provincial-20260718201722",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260718201723.jpg"
-  },
-  {
-    "titulo": "Jack Distortion",
-    "fecha": "2026-07-24 15:00:00",
-    "lugar": "Teatro Opera",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/jack-distortion-teatro-opera-20260626224045",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260626224046.jpg"
-  },
-  {
-    "titulo": "Alicia y su mundo de ensueño",
-    "fecha": "2026-07-24 15:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/alicia-y-su-mundo-de-ensueno-espacio-doble-t-20260618222512",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
-  },
-  {
-    "titulo": "Cruzar la noche - Un viaje al otro lado",
-    "fecha": "2026-07-24 15:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/cruzar-la-noche-un-viaje-al-otro-lado-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714131418",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714131419.jpg"
-  },
-  {
-    "titulo": "Las k-pop",
-    "fecha": "2026-07-24 15:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/las-k-pop-teatro-rene-favaloro-20260629172419",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629172420.jpg"
-  },
-  {
-    "titulo": "El corazón del oceáno",
-    "fecha": "2026-07-24 15:00:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-corazon-del-oceano-teatro-y-museo-coliseo-podesta-20260716235154",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260716235155.jpg"
-  },
-  {
-    "titulo": "Los cuadernos de André Andazur",
-    "fecha": "2026-07-24 15:30:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/los-cuadernos-de-andre-andazur-viejo-almacen-el-obrero-cantina-del-obrero-20260704165625",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260704165626.jpg"
-  },
-  {
-    "titulo": "Belisario",
-    "fecha": "2026-07-24 15:45:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/belisario-planetario-unlp-20260705022431",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022432.jpg"
-  },
-  {
-    "titulo": "Zurilú y el misterio del reloj infinito",
-    "fecha": "2026-07-24 16:00:00",
-    "lugar": "Dynamo Teatro",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/zurilu-y-el-misterio-del-reloj-infinito-dynamo-teatro-20260705023758",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705023759.jpg"
-  },
-  {
-    "titulo": "La historia jamás contada de Cenicienta",
-    "fecha": "2026-07-24 16:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-historia-jamas-contada-de-cenicienta-escenario-40-20260706184444",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706184445.jpg"
-  },
-  {
-    "titulo": "Chispa y Estela - La máquina de ser yo",
-    "fecha": "2026-07-24 16:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/chispa-y-estela-la-maquina-de-ser-yo-teatro-abierto-20260710122733",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710122734.jpg"
-  },
-  {
-    "titulo": "Atrapados en el corazón de la tierra",
-    "fecha": "2026-07-24 16:00:00",
-    "lugar": "Facultad de Cs. Astronómicas y Geofísicas - Observatorio de La Plata",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/atrapados-en-el-corazon-de-la-tierra-facultad-de-cs-astronomicas-y-geofisicas-observatorio-de-la-plata-20260706162747",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706162748.jpg"
-  },
-  {
-    "titulo": "Cosas que pasan en el barrio",
-    "fecha": "2026-07-24 16:00:00",
-    "lugar": "Centro de Arte UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/cosas-que-pasan-en-el-barrio-centro-de-arte-unlp-20260714171340",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714171341.jpg"
-  },
-  {
-    "titulo": "Intensamente 2",
-    "fecha": "2026-07-24 16:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/intensamente-2-cine-ecoselect-espacio-incaa-20260720144956",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720144957.jpg"
-  },
-  {
-    "titulo": "Laura Migliorisi - Canciones en abrazos",
-    "fecha": "2026-07-24 16:30:00",
-    "lugar": "Casa Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/laura-migliorisi-canciones-en-abrazos-casa-metro-20260616012629",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260616012630.jpg"
-  },
-  {
-    "titulo": "Canciones para mirar - María Elena Walsh",
-    "fecha": "2026-07-24 16:30:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/canciones-para-mirar-maria-elena-walsh-teatro-de-camara-city-bell-20260720232713",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720232714.jpg"
-  },
-  {
-    "titulo": "Abanico de Colores",
-    "fecha": "2026-07-24 16:30:00",
+    "titulo": "Descubriendo los gigantes y los secretos antiguos de nuestra provincia",
+    "fecha": "2026-07-30 10:00:00",
     "lugar": "Teatro Argentino - Centro Provincial de las Artes",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/abanico-de-colores-teatro-argentino-centro-provincial-de-las-artes-20260721235207",
+    "url": "https://agendalaplata.ar/evento/descubriendo-los-gigantes-y-los-secretos-antiguos-de-nuestra-provincia-teatro-argentino-centro-provincial-de-las-artes-20260730013425",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721235208.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260730013426.jpg"
   },
   {
-    "titulo": "Los musicleta",
-    "fecha": "2026-07-24 16:30:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/los-musicleta-pasaje-dardo-rocha-20260718234833",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260718234834.jpg"
-  },
-  {
-    "titulo": "La aventura de Piopío",
-    "fecha": "2026-07-24 16:30:00",
-    "lugar": "Lázuli",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-aventura-de-piopio-lazuli-20260718224150",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260718224151.jpg"
-  },
-  {
-    "titulo": "Un paseo por el cielo",
-    "fecha": "2026-07-24 16:45:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-paseo-por-el-cielo-planetario-unlp-20260705022745",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022747.jpg"
-  },
-  {
-    "titulo": "Escuadrón al Rescate",
-    "fecha": "2026-07-24 17:00:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/escuadron-al-rescate-teatro-y-museo-coliseo-podesta-20260717163740",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260717163741.jpg"
-  },
-  {
-    "titulo": "Escribir bajo influencia",
-    "fecha": "2026-07-24 17:00:00",
-    "lugar": "Museo Almafuerte",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/escribir-bajo-influencia-museo-almafuerte-20260717173451",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260717173452.jpg"
-  },
-  {
-    "titulo": "Aurora y el bosque encantado",
-    "fecha": "2026-07-24 17:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/aurora-y-el-bosque-encantado-espacio-doble-t-20260617124412",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260617124413.jpg"
-  },
-  {
-    "titulo": "Juntada de dibujo",
-    "fecha": "2026-07-24 17:00:00",
-    "lugar": "La Culturosa",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/juntada-de-dibujo-la-culturosa-20260722195159",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722195200.jpg"
-  },
-  {
-    "titulo": "El gran y terrible mago de Oz",
-    "fecha": "2026-07-24 18:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-gran-y-terrible-mago-de-oz-escenario-40-20260706184531",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706184532.jpg"
-  },
-  {
-    "titulo": "Chispa y Estela - La máquina de ser yo",
-    "fecha": "2026-07-24 18:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/chispa-y-estela-la-maquina-de-ser-yo-teatro-abierto-20260624213700",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260624213701.jpg"
-  },
-  {
-    "titulo": "Super cachorros",
-    "fecha": "2026-07-24 18:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/super-cachorros-teatro-metro-20260706181533",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706181534.jpg"
-  },
-  {
-    "titulo": "Hacia las estrellas - Estreno",
-    "fecha": "2026-07-24 18:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hacia-las-estrellas-estreno-planetario-unlp-20260705022914",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022916.jpg"
-  },
-  {
-    "titulo": "Volver a casa - Visita guiada teatralizada",
-    "fecha": "2026-07-24 18:00:00",
-    "lugar": "Museo y archivo Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/volver-a-casa-visita-guiada-teatralizada-museo-y-archivo-dardo-rocha-20260720021000",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720021001.jpg"
-  },
-  {
-    "titulo": "Sintonía emergente - Triple show musical en vivo",
-    "fecha": "2026-07-24 18:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/sintonia-emergente-triple-show-musical-en-vivo-pasaje-dardo-rocha-20260722210317",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722210318.jpg"
-  },
-  {
-    "titulo": "Selva Almada - Una casa sola",
-    "fecha": "2026-07-24 18:30:00",
-    "lugar": "Rayuela",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/selva-almada-una-casa-sola-rayuela-20260720231131",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720231132.jpg"
-  },
-  {
-    "titulo": "Un instante en la penumbra",
-    "fecha": "2026-07-24 19:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-instante-en-la-penumbra-planetario-unlp-20260705023050",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705023051.jpg"
-  },
-  {
-    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
-    "fecha": "2026-07-24 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/emi-dir-ezequiel-erriquez-mena-cine-club-proyecciones-terrestres-20260707193756",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260707193758.jpg"
-  },
-  {
-    "titulo": "Encuentro con la música - Concierto Lírico",
-    "fecha": "2026-07-24 19:00:00",
-    "lugar": "La Peña de las Bellas Artes",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/encuentro-con-la-musica-concierto-lirico-la-pena-de-las-bellas-artes-20260720163246",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720163247.jpg"
-  },
-  {
-    "titulo": "FO Instantáneo",
-    "fecha": "2026-07-24 20:00:00",
-    "lugar": "Casa Hereje",
-    "direccion": "",
-    "categoria": "stand-up",
-    "url": "https://agendalaplata.ar/evento/fo-instantaneo-casa-hereje-20260705023401",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705023403.jpg"
-  },
-  {
-    "titulo": "Attitude - Tributo a Guns N' Roses",
-    "fecha": "2026-07-24 20:00:00",
-    "lugar": "Teatro Opera",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/attitude-tributo-a-guns-n-roses-teatro-opera-20260624221157",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260624221158.jpg"
-  },
-  {
-    "titulo": "La esquina suburbana",
-    "fecha": "2026-07-24 20:00:00",
-    "lugar": "Comunidad Raíces - FM Raíces Rock",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-esquina-suburbana-comunidad-raices-fm-raices-rock-20260722205553",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722205554.jpg"
-  },
-  {
-    "titulo": "Pepo San Martín - Ministerio del Interior",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "Mush Room",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/pepo-san-martin-ministerio-del-interior-mush-room-20260714165009",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714165010.jpg"
-  },
-  {
-    "titulo": "Mangxs y Rojobarcelo",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "La Bicicletería creación colectiva",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mangxs-y-rojobarcelo-la-bicicleteria-creacion-colectiva-20260713023012",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260713023014.jpg"
-  },
-  {
-    "titulo": "Reggaetón old school",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "Estadio UNO Jorge Luis Hirschi - Estudiantes de la Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/reggaeton-old-school-estadio-uno-jorge-luis-hirschi-estudiantes-de-la-plata-20260629175317",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629175318.jpg"
-  },
-  {
-    "titulo": "Teresa Parodi",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/teresa-parodi-teatro-argentino-centro-provincial-de-las-artes-20260626224356",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260626224357.jpg"
-  },
-  {
-    "titulo": "Luis Salinas",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/luis-salinas-casa-suiza-20260630194647",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260630194648.jpg"
-  },
-  {
-    "titulo": "Mixtion",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "La Caipo",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mixtion-la-caipo-20260722213604",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722213605.jpg"
-  },
-  {
-    "titulo": "Habitaciones para turistas - Dir Adrian García Bogliano",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/habitaciones-para-turistas-dir-adrian-garcia-bogliano-cine-club-proyecciones-terrestres-20260721011356",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721011357.jpg"
-  },
-  {
-    "titulo": "Músico en vivo - Match musicalizando improvisaciones",
-    "fecha": "2026-07-24 21:00:00",
-    "lugar": "Sala 420",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/musico-en-vivo-match-musicalizando-improvisaciones-sala-420-20260720015700",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720015701.jpg"
-  },
-  {
-    "titulo": "Ciclo Under World Music",
-    "fecha": "2026-07-24 23:00:00",
-    "lugar": "Casa Unclan",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/ciclo-under-world-music-cassa-unclan-20260601223317",
-    "fuente": "genda",
-    "imagen": ""
-  },
-  {
-    "titulo": "Fiesta incógnita",
-    "fecha": "2026-07-24 23:55:00",
-    "lugar": "Pura Vida",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/fiesta-incognita-pura-vida-20260721234556",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721234557.jpg"
-  },
-  {
-    "titulo": "Las alas del deseo - Wim Wenders",
-    "fecha": "2026-07-24 23:55:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/las-alas-del-deseo-wim-wenders-cine-club-proyecciones-terrestres-20260721011013",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721011014.jpg"
-  },
-  {
-    "titulo": "Flotante - Propuesta inmersiva y poética diseñada para la primera infancia",
-    "fecha": "2026-07-25 11:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/flotante-propuesta-inmersiva-y-poetica-disenada-para-la-primera-infancia-espacio-doble-t-20260722194514",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722194515.jpg"
-  },
-  {
-    "titulo": "Trash - Taller con materiales reciclados",
-    "fecha": "2026-07-25 13:55:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/trash-taller-con-materiales-reciclados-republica-de-los-ninos-20260720151708",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720151709.jpg"
-  },
-  {
-    "titulo": "Museo del automóvil y Ramos generales",
-    "fecha": "2026-07-25 14:00:00",
-    "lugar": "Museo del Automóvil y Ramos Generales \"Colección Rau\"",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/museo-del-automo-vil-y-ramos-generales-museo-del-automovil-y-ramos-generales-coleccion-rau-20260721233935",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721233936.jpg"
-  },
-  {
-    "titulo": "El rincón de Miso",
-    "fecha": "2026-07-25 14:00:00",
+    "titulo": "Laboratorio de cuentos",
+    "fecha": "2026-07-30 13:50:00",
     "lugar": "República de los Niños",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-rincon-de-miso-republica-de-los-ninos-20260720133636",
+    "url": "https://agendalaplata.ar/evento/laboratorio-de-cuentos-republica-de-los-ninos-20260724150740",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720133637.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260724150741.jpg"
   },
   {
-    "titulo": "Hoppers: operación castor",
-    "fecha": "2026-07-25 14:00:00",
-    "lugar": "Colibrí Arte y Cultura",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hoppers-operacion-castor-colibri-arte-y-cultura-20260722204923",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722204924.jpg"
-  },
-  {
-    "titulo": "Historias piratas",
-    "fecha": "2026-07-25 14:00:00",
-    "lugar": "Biblioteca Popular Del otro lado del árbol",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/historias-piratas-biblioteca-popular-del-otro-lado-del-arbol-20260722213105",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722213106.jpg"
-  },
-  {
-    "titulo": "Historias piratas",
-    "fecha": "2026-07-25 14:00:00",
-    "lugar": "Jardín Botánico del Parque Saavedra - Casa histórica Pedro Benoit",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/historias-piratas-jardin-botanico-del-parque-saavedra-casa-historica-pedro-benoit-biblioteca-del-otro-lado-del-arbol-20260714172353",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714172354.jpg"
-  },
-  {
-    "titulo": "Payaso Manotas",
-    "fecha": "2026-07-25 14:05:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/payaso-manotas-republica-de-los-ninos-20260720142729",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720142730.jpg"
-  },
-  {
-    "titulo": "Ilusiones escondidas",
-    "fecha": "2026-07-25 14:30:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/ilusiones-escondidas-escenario-40-20260706184620",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706184621.jpg"
-  },
-  {
-    "titulo": "El show de Pochoclo y Cia.",
-    "fecha": "2026-07-25 14:30:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-show-de-pochoclo-y-cia-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260720141256",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720141257.jpg"
-  },
-  {
-    "titulo": "Awkapichikeche - Encuentro de niñes rebeldes",
-    "fecha": "2026-07-25 15:00:00",
-    "lugar": "Olga Vázquez",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/awkapichikeche-encuentro-de-nines-rebeldes-olga-vazquez-20260720222718",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720222719.jpg"
-  },
-  {
-    "titulo": "Tercer encuentro de la escuela abierta del arroyo El Pescado",
-    "fecha": "2026-07-25 15:00:00",
-    "lugar": "Centro de Fomento de Ignacio Correas - Biblioteca el humedal",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/tercer-encuentro-de-la-escuela-abierta-del-arroyo-el-pescado-centro-de-fomento-de-ignacio-correas-biblioteca-el-humedal-20260722211505",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722211506.jpg"
-  },
-  {
-    "titulo": "Caminata guiada - República de los Niños",
-    "fecha": "2026-07-25 15:00:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/caminata-guiada-republica-de-los-ninos-republica-de-los-ninos-20260722192319",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722192320.jpg"
-  },
-  {
-    "titulo": "Explorador",
-    "fecha": "2026-07-25 15:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/explorador-teatro-metro-20260706181623",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706181624.jpg"
-  },
-  {
-    "titulo": "Alicia y su mundo de ensueño",
-    "fecha": "2026-07-25 15:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/alicia-y-su-mundo-de-ensueno-espacio-doble-t-20260618222512",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
-  },
-  {
-    "titulo": "Juguemos piola",
-    "fecha": "2026-07-25 15:00:00",
-    "lugar": "Centro Cultural Estación Provincial",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/juguemos-piola-centro-cultural-estacion-provincial-20260718201526",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260718201527.jpg"
-  },
-  {
-    "titulo": "Narración Oral - Destinado a adultos que quieran contar a infancias",
-    "fecha": "2026-07-25 15:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/narracion-oral-destinado-a-adultos-que-quieran-contar-a-infancias-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714132119",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714132120.jpg"
-  },
-  {
-    "titulo": "Las k-pop",
-    "fecha": "2026-07-25 15:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/las-k-pop-teatro-rene-favaloro-20260629172419",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629172420.jpg"
-  },
-  {
-    "titulo": "Belisario",
-    "fecha": "2026-07-25 15:45:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/belisario-planetario-unlp-20260705022431",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022432.jpg"
-  },
-  {
-    "titulo": "Zurilú y el misterio del reloj infinito",
-    "fecha": "2026-07-25 16:00:00",
-    "lugar": "Dynamo Teatro",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/zurilu-y-el-misterio-del-reloj-infinito-dynamo-teatro-20260705023758",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705023759.jpg"
-  },
-  {
-    "titulo": "Un Circo de La Gran 7",
-    "fecha": "2026-07-25 16:00:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-circo-de-la-gran-7-teatro-y-museo-coliseo-podesta-20260626222235",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260626222236.jpg"
-  },
-  {
-    "titulo": "Chispa y Estela - La máquina de ser yo",
-    "fecha": "2026-07-25 16:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/chispa-y-estela-la-maquina-de-ser-yo-teatro-abierto-20260710122733",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710122734.jpg"
-  },
-  {
-    "titulo": "Sapo en Buenos Aires",
-    "fecha": "2026-07-25 16:00:00",
-    "lugar": "Centro de Arte UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/sapo-en-buenos-aires-centro-de-arte-unlp-20260714171514",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714171515.jpg"
-  },
-  {
-    "titulo": "Red - Dir Domee Shi",
-    "fecha": "2026-07-25 16:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/red-dir-domee-shi-cine-club-proyecciones-terrestres-20260721011145",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721011146.jpg"
-  },
-  {
-    "titulo": "Hansel y Gretel en busca del pozo de los sueños",
-    "fecha": "2026-07-25 16:30:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hansel-y-gretel-en-busca-del-pozo-de-los-suenos-escenario-40-20260706184714",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706184715.jpg"
-  },
-  {
-    "titulo": "Hugo Figueras",
-    "fecha": "2026-07-25 16:30:00",
-    "lugar": "La Plata",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hugo-figueras-20260613190848",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260613190849.jpg"
-  },
-  {
-    "titulo": "La Cirquesta - Entre Olas",
-    "fecha": "2026-07-25 16:30:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-cirquesta-entre-olas-pasaje-dardo-rocha-20260720142539",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720171007.jpg"
-  },
-  {
-    "titulo": "Un paseo por el cielo",
-    "fecha": "2026-07-25 16:45:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-paseo-por-el-cielo-planetario-unlp-20260705022745",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022747.jpg"
-  },
-  {
-    "titulo": "Aurora y el bosque encantado",
-    "fecha": "2026-07-25 17:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/aurora-y-el-bosque-encantado-espacio-doble-t-20260617124412",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260617124413.jpg"
-  },
-  {
-    "titulo": "La historia sin fin",
-    "fecha": "2026-07-25 17:00:00",
-    "lugar": "Espacio Moliere",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-historia-sin-fin-espacio-moliere-20260713023757",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260713023758.jpg"
-  },
-  {
-    "titulo": "Canciones para mirar - Repertorio teatral y musical de María Elena Walsh",
-    "fecha": "2026-07-25 17:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/canciones-para-mirar-repertorio-teatral-y-musical-de-maria-elena-walsh-teatro-argentino-centro-provincial-de-las-artes-20260720222518",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720222519.jpg"
-  },
-  {
-    "titulo": "Chispa y Estela - La máquina de ser yo",
-    "fecha": "2026-07-25 18:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/chispa-y-estela-la-maquina-de-ser-yo-teatro-abierto-20260624213700",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260624213701.jpg"
-  },
-  {
-    "titulo": "Viaje Jurásico",
-    "fecha": "2026-07-25 18:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/viaje-jurasico-teatro-metro-20260706181703",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706181704.jpg"
-  },
-  {
-    "titulo": "Hacia las estrellas - Estreno",
-    "fecha": "2026-07-25 18:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hacia-las-estrellas-estreno-planetario-unlp-20260705022914",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022916.jpg"
-  },
-  {
-    "titulo": "Volver a casa - Visita guiada teatralizada",
-    "fecha": "2026-07-25 18:00:00",
-    "lugar": "Museo y archivo Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/volver-a-casa-visita-guiada-teatralizada-museo-y-archivo-dardo-rocha-20260720021000",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720021001.jpg"
-  },
-  {
-    "titulo": "Noah, en la ciudad de los invisibles",
-    "fecha": "2026-07-25 18:30:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/noah-en-la-ciudad-de-los-invisibles-escenario-40-20260706184802",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706184803.jpg"
-  },
-  {
-    "titulo": "Un instante en la penumbra",
-    "fecha": "2026-07-25 19:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-instante-en-la-penumbra-planetario-unlp-20260705023050",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705023051.jpg"
-  },
-  {
-    "titulo": "Crash",
-    "fecha": "2026-07-25 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/crash-cine-club-proyecciones-terrestres-20260710043912",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710043913.jpg"
-  },
-  {
-    "titulo": "Concierto de órgano y campanas",
-    "fecha": "2026-07-25 19:00:00",
-    "lugar": "Basílica del Sagrado Corazón de Jesús",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/concierto-de-organo-y-campanas-basilica-del-sagrado-corazon-de-jesus-20260720223118",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720223119.jpg"
-  },
-  {
-    "titulo": "Néstor en Bloque + La Champions Liga + Nico Mattioli + Supermerk2 + Karicia",
-    "fecha": "2026-07-25 20:00:00",
-    "lugar": "Estadio UNO Jorge Luis Hirschi - Estudiantes de la Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/nestor-en-bloque-la-champions-liga-nico-mattioli-supermerk2-karicia-estadio-uno-jorge-luis-hirschi-estudiantes-de-la-plata-20260629175048",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629175049.jpg"
-  },
-  {
-    "titulo": "El Polaco",
-    "fecha": "2026-07-25 20:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/el-polaco-hipodromo-de-la-plata-20260617224834",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260617224835.jpg"
-  },
-  {
-    "titulo": "Karaoke - Cantate ésta",
-    "fecha": "2026-07-25 20:00:00",
-    "lugar": "Marimacha",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/karaoke-cantate-esta-marimacha-20260722194210",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722194211.jpg"
-  },
-  {
-    "titulo": "El ejército negro",
-    "fecha": "2026-07-25 20:00:00",
-    "lugar": "Casa Unclan",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/el-ejercito-negro-casa-unclan-20260721005608",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721005609.jpg"
-  },
-  {
-    "titulo": "La Secta - 33 canciones",
-    "fecha": "2026-07-25 20:30:00",
-    "lugar": "Centro Cultural Estación Provincial",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-secta-33-canciones-centro-cultural-estacion-provincial-20260714164241",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714164242.jpg"
-  },
-  {
-    "titulo": "La señal, una cuestión de fé - Ciclo Pandora",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Casa Hereje",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/la-senal-una-cuestion-de-fe-ciclo-pandora-casa-hereje-20260710111450",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710111451.jpg"
-  },
-  {
-    "titulo": "La Peña Criolla",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Esquina América",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-pena-criolla-esquina-america-20260710043253",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710043254.jpg"
-  },
-  {
-    "titulo": "Luz al tiempo. Anecdotario genealógico de historias dispersas",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/luz-al-tiempo-anecdotario-genealogico-de-historias-dispersas-teatro-abierto-20260712230126",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260712230127.jpg"
-  },
-  {
-    "titulo": "Skay y los Fakires",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/skay-y-los-fakires-hipodromo-de-la-plata-20260601223651",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260601223652.jpg"
-  },
-  {
-    "titulo": "Polenta",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Teatro Opera",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/polenta-teatro-opera-20260627015422",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260627015423.jpg"
-  },
-  {
-    "titulo": "Los chicos de la Rosa",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Espacio Live",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/los-chicos-de-la-rosa-espacio-live-20260703145602",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260703145603.jpg"
-  },
-  {
-    "titulo": "Homenaje por el Sindicato y amigxs",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/homenaje-por-el-sindicato-y-amigxs-ciudad-de-gatos-20260705021150",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705021151.jpg"
-  },
-  {
-    "titulo": "Historias de un amor",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/historias-de-un-amor-espacio-doble-t-20260722210046",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722210047.jpg"
-  },
-  {
-    "titulo": "Silvina Garré",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Casa Metro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/silvina-garre-casa-metro-20260530002339",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260530002340.jpg"
-  },
-  {
-    "titulo": "Fuego - Dir Armando Bo",
-    "fecha": "2026-07-25 22:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/fuego-dir-armando-bo-cine-club-proyecciones-terrestres-20260721010653",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721010654.jpg"
-  },
-  {
-    "titulo": "Jinetes Cromados Fest",
-    "fecha": "2026-07-25 23:55:00",
-    "lugar": "Bye Henry Diagonal",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/jinetes-cromados-fest-bye-henry-diagonal-20260607053359",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260607053400.jpg"
-  },
-  {
-    "titulo": "La bipolar vol. IV",
-    "fecha": "2026-07-25 23:55:00",
-    "lugar": "Casa Unclan",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-bipolar-vol-iv-casa-unclan-20260701194814",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260701194815.jpg"
-  },
-  {
-    "titulo": "Flotante - Propuesta inmersiva y poética diseñada para la primera infancia",
-    "fecha": "2026-07-26 11:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/flotante-propuesta-inmersiva-y-poetica-disenada-para-la-primera-infancia-espacio-doble-t-20260722194514",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722194515.jpg"
-  },
-  {
-    "titulo": "Trash - Taller con materiales reciclados",
-    "fecha": "2026-07-26 13:55:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/trash-taller-con-materiales-reciclados-republica-de-los-ninos-20260720151708",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720151709.jpg"
-  },
-  {
-    "titulo": "Museo del automóvil y Ramos generales",
-    "fecha": "2026-07-26 14:00:00",
-    "lugar": "Museo del Automóvil y Ramos Generales \"Colección Rau\"",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/museo-del-automo-vil-y-ramos-generales-museo-del-automovil-y-ramos-generales-coleccion-rau-20260721233935",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721233936.jpg"
-  },
-  {
-    "titulo": "Juegos, lecturas infantiles y show de magia",
-    "fecha": "2026-07-26 14:00:00",
-    "lugar": "Centro de Fomento Social y Cultural Progresista de La Loma - Espacio Belgrano",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/juegos-lecturas-infantiles-y-show-de-magia-centro-de-fomento-social-y-cultural-progresista-de-la-loma-espacio-belgrano-20260721234348",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721234349.jpg"
-  },
-  {
-    "titulo": "La aventura de Piopío",
-    "fecha": "2026-07-26 14:30:00",
-    "lugar": "Lázuli",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-aventura-de-piopio-lazuli-20260718224150",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260718224151.jpg"
-  },
-  {
-    "titulo": "Kirikou y la hechicera - Dir Michel Ocelot",
-    "fecha": "2026-07-26 15:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/kirikou-y-la-hechicera-dir-michel-ocelot-cine-club-proyecciones-terrestres-20260721011251",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721011252.jpg"
-  },
-  {
-    "titulo": "Alicia y su mundo de ensueño",
-    "fecha": "2026-07-26 15:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/alicia-y-su-mundo-de-ensueno-espacio-doble-t-20260618222512",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
-  },
-  {
-    "titulo": "Juguemos piola",
-    "fecha": "2026-07-26 15:00:00",
-    "lugar": "Centro Cultural Estación Provincial",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/juguemos-piola-centro-cultural-estacion-provincial-20260718201526",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260718201527.jpg"
-  },
-  {
-    "titulo": "Mario y las Princesas",
-    "fecha": "2026-07-26 15:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/mario-y-las-princesas-teatro-metro-20260706181757",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706181758.jpg"
-  },
-  {
-    "titulo": "Plim Plim, Energía Musical Recargada",
-    "fecha": "2026-07-26 15:00:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/plim-plim-energia-musical-recargada-teatro-y-museo-coliseo-podesta-20260717163832",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260717163833.jpg"
-  },
-  {
-    "titulo": "Las k-pop",
-    "fecha": "2026-07-26 15:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/las-k-pop-teatro-rene-favaloro-20260629172419",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629172420.jpg"
-  },
-  {
-    "titulo": "El cadáver de la novia",
-    "fecha": "2026-07-26 15:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-cadaver-de-la-novia-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714132225",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714132226.jpg"
-  },
-  {
-    "titulo": "Nilocos",
-    "fecha": "2026-07-26 15:00:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/nilocos-republica-de-los-ninos-20260710232838",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710232840.jpg"
-  },
-  {
-    "titulo": "Bosque",
-    "fecha": "2026-07-26 15:30:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/bosque-viejo-almacen-el-obrero-cantina-del-obrero-20260704165712",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260704165713.jpg"
-  },
-  {
-    "titulo": "Belisario",
-    "fecha": "2026-07-26 15:45:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/belisario-planetario-unlp-20260705022431",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022432.jpg"
-  },
-  {
-    "titulo": "Zurilú y el misterio del reloj infinito",
-    "fecha": "2026-07-26 16:00:00",
-    "lugar": "Dynamo Teatro",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/zurilu-y-el-misterio-del-reloj-infinito-dynamo-teatro-20260705023758",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705023759.jpg"
-  },
-  {
-    "titulo": "Merienda literaria - Un espacio de escritura creativa",
-    "fecha": "2026-07-26 16:00:00",
-    "lugar": "Lázuli",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/merienda-literaria-un-espacio-de-escritura-creativa-lazuli-20260629164918",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629164919.jpg"
-  },
-  {
-    "titulo": "Chispa y Estela - La máquina de ser yo",
-    "fecha": "2026-07-26 16:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/chispa-y-estela-la-maquina-de-ser-yo-teatro-abierto-20260710122733",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710122734.jpg"
-  },
-  {
-    "titulo": "Taller de amuletos",
-    "fecha": "2026-07-26 16:00:00",
-    "lugar": "Centro de Arte UNLP",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/taller-de-amuletos-centro-de-arte-unlp-20260722194828",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722194829.jpg"
-  },
-  {
-    "titulo": "El Cascanueces",
-    "fecha": "2026-07-26 16:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/el-cascanueces-teatro-argentino-centro-provincial-de-las-artes-20260722212625",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722212626.jpg"
-  },
-  {
-    "titulo": "El bello durmiente",
-    "fecha": "2026-07-26 16:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-bello-durmiente-escenario-40-20260706184040",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720150323.jpg"
-  },
-  {
-    "titulo": "La tumba de las luciérnagas",
-    "fecha": "2026-07-26 16:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-tumba-de-las-luciernagas-cine-ecoselect-espacio-incaa-20260720145110",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720145111.jpg"
-  },
-  {
-    "titulo": "Vuelta Canela - Queridas canciones",
-    "fecha": "2026-07-26 16:30:00",
-    "lugar": "Casa Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/vuelta-canela-queridas-canciones-casa-metro-20260616012741",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260616012742.jpg"
-  },
-  {
-    "titulo": "La Cirquesta - Entre Olas",
-    "fecha": "2026-07-26 16:30:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-cirquesta-entre-olas-pasaje-dardo-rocha-20260720142539",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720171007.jpg"
-  },
-  {
-    "titulo": "Un paseo por el cielo",
-    "fecha": "2026-07-26 16:45:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-paseo-por-el-cielo-planetario-unlp-20260705022745",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022747.jpg"
-  },
-  {
-    "titulo": "Juguetes en Acción",
-    "fecha": "2026-07-26 17:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/juguetes-en-accion-teatro-metro-20260706181844",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706181854.jpg"
-  },
-  {
-    "titulo": "Nazareno Cruz y El Lobo - Mes de Leonardo Favio",
-    "fecha": "2026-07-26 17:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/nazareno-cruz-y-el-lobo-mes-de-leonardo-favio-cine-club-proyecciones-terrestres-20260704170321",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260704170322.jpg"
-  },
-  {
-    "titulo": "Aurora y el bosque encantado",
-    "fecha": "2026-07-26 17:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/aurora-y-el-bosque-encantado-espacio-doble-t-20260617124412",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260617124413.jpg"
-  },
-  {
-    "titulo": "Mundo K-Pop",
-    "fecha": "2026-07-26 17:00:00",
-    "lugar": "Teatro Opera",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/mundo-k-pop-teatro-opera-20260720142856",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720142857.jpg"
-  },
-  {
-    "titulo": "Canciones para mirar - Repertorio teatral y musical de María Elena Walsh",
-    "fecha": "2026-07-26 17:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/canciones-para-mirar-repertorio-teatral-y-musical-de-maria-elena-walsh-teatro-argentino-centro-provincial-de-las-artes-20260720222518",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720222519.jpg"
-  },
-  {
-    "titulo": "Chispa y Estela - La máquina de ser yo",
-    "fecha": "2026-07-26 18:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/chispa-y-estela-la-maquina-de-ser-yo-teatro-abierto-20260624213700",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260624213701.jpg"
-  },
-  {
-    "titulo": "Hacia las estrellas - Estreno",
-    "fecha": "2026-07-26 18:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hacia-las-estrellas-estreno-planetario-unlp-20260705022914",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022916.jpg"
-  },
-  {
-    "titulo": "Blade Runner",
-    "fecha": "2026-07-26 18:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/blade-runner-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714132457",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714132458.jpg"
-  },
-  {
-    "titulo": "Una nueva historia",
-    "fecha": "2026-07-26 18:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/una-nueva-historia-escenario-40-20260706184941",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706184942.jpg"
-  },
-  {
-    "titulo": "Greyville, nuevo country",
-    "fecha": "2026-07-26 18:00:00",
-    "lugar": "Casa Hereje",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/greyville-nuevo-country-casa-hereje-20260721005715",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721005716.jpg"
-  },
-  {
-    "titulo": "Un instante en la penumbra",
-    "fecha": "2026-07-26 19:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-instante-en-la-penumbra-planetario-unlp-20260705023050",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705023051.jpg"
-  },
-  {
-    "titulo": "El atardecer de los grillos - Dir Gonzalo Almeida",
-    "fecha": "2026-07-26 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-atardecer-de-los-grillos-dir-gonzalo-almeida-cine-club-proyecciones-terrestres-20260721010048",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721010049.jpg"
-  },
-  {
-    "titulo": "The Rocky Horror Picture Show",
-    "fecha": "2026-07-26 19:00:00",
-    "lugar": "La Culturosa",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/the-rocky-horror-picture-show-la-culturosa-20260718220204",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260718220205.jpg"
-  },
-  {
-    "titulo": "Las cosas de la vida - Dir. Claude Sautet Año: 1970",
-    "fecha": "2026-07-26 20:00:00",
+    "titulo": "Le leyenda de Hei",
+    "fecha": "2026-07-30 14:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/las-cosas-de-la-vida-dir-claude-sautet-ano-1970-cine-select-espacio-incaa-20260630193238",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260630193239.jpg"
-  },
-  {
-    "titulo": "2001: Odisea en el espacio",
-    "fecha": "2026-07-26 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/2001-odisea-en-el-espacio-cine-ecoselect-espacio-incaa-20260706175027",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706175028.jpg"
-  },
-  {
-    "titulo": "Lara Fichera trío - Jazz",
-    "fecha": "2026-07-26 20:00:00",
-    "lugar": "Desafinado Club",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/lara-fichera-trio-jazz-desafinado-club-20260710131323",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710131324.jpg"
-  },
-  {
-    "titulo": "Supercrisis + Jotta",
-    "fecha": "2026-07-26 20:00:00",
-    "lugar": "Blondie Cultural",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/supercrisis-jotta-blondie-cultural-20260721235520",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721235521.jpg"
-  },
-  {
-    "titulo": "Las alas del deseo - Wim Wenders",
-    "fecha": "2026-07-26 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/las-alas-del-deseo-wim-wenders-cine-club-proyecciones-terrestres-20260721011013",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721011014.jpg"
-  },
-  {
-    "titulo": "Caminata guiada - Joyas de Plaza Moreno",
-    "fecha": "2026-07-27 15:00:00",
-    "lugar": "Plaza Moreno",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/caminata-guiada-joyas-de-plaza-moreno-plaza-moreno-20260722192419",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722192420.jpg"
-  },
-  {
-    "titulo": "La Cirquesta - Entre Olas",
-    "fecha": "2026-07-27 15:00:00",
-    "lugar": "Crisoles La Plata -Centro Cultural y de Actividades Artísticas",
-    "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-cirquesta-entre-olas-crisoles-la-plata-centro-cultural-y-de-actividades-artisticas-20260722191721",
+    "url": "https://agendalaplata.ar/evento/le-leyenda-de-hei-cine-select-espacio-incaa-20260728014039",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722191722.jpg"
-  },
-  {
-    "titulo": "Narración de cuentos",
-    "fecha": "2026-07-27 15:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/narracion-de-cuentos-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714132555",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714132556.jpg"
-  },
-  {
-    "titulo": "Vivas las Brujas",
-    "fecha": "2026-07-27 15:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/vivas-las-brujas-teatro-metro-20260706181948",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706181949.jpg"
-  },
-  {
-    "titulo": "Las k-pop",
-    "fecha": "2026-07-27 15:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/las-k-pop-teatro-rene-favaloro-20260629172419",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629172420.jpg"
-  },
-  {
-    "titulo": "Sapo en Buenos Aires",
-    "fecha": "2026-07-27 15:30:00",
-    "lugar": "Teatro Red Pido Gancho",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/sapo-en-buenos-aires-teatro-red-pido-gancho-20260710115604",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710115605.jpg"
-  },
-  {
-    "titulo": "Club de Exploradores del Pasado",
-    "fecha": "2026-07-27 16:00:00",
-    "lugar": "Max Nordau",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/club-de-exploradores-del-pasado-max-nordau-20260706190016",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706190017.jpg"
-  },
-  {
-    "titulo": "Melocotón Pajarito",
-    "fecha": "2026-07-27 16:30:00",
-    "lugar": "Casa Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/melocoton-pajarito-casa-metro-20260616012831",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260616012832.jpg"
-  },
-  {
-    "titulo": "Canciones para mirar - María Elena Walsh",
-    "fecha": "2026-07-27 16:30:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/canciones-para-mirar-maria-elena-walsh-teatro-de-camara-city-bell-20260720232713",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720232714.jpg"
-  },
-  {
-    "titulo": "El Quirquinchito - Títeres",
-    "fecha": "2026-07-27 16:30:00",
-    "lugar": "Verde que te quiero Verde - Espacio de arte",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-quirquinchito-titeres-verde-que-te-quiero-verde-espacio-de-arte-20260718222450",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260718222451.jpg"
-  },
-  {
-    "titulo": "Bella y el reencuentro",
-    "fecha": "2026-07-27 17:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/bella-y-el-reencuentro-teatro-metro-20260706182041",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706182042.jpg"
-  },
-  {
-    "titulo": "Lunes de Folklore en la UNLP",
-    "fecha": "2026-07-27 18:30:00",
-    "lugar": "Universidad Nacional de La Plata - UNLP",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/lunes-de-folklore-en-la-unlp-universidad-nacional-de-la-plata-unlp-20260716232445",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260716232446.jpg"
-  },
-  {
-    "titulo": "Guitarreada y Payada - Clase de guitarra",
-    "fecha": "2026-07-28 11:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/guitarreada-y-payada-clase-de-guitarra-teatro-argentino-centro-provincial-de-las-artes-20260720160109",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720160111.jpg"
-  },
-  {
-    "titulo": "Trash - Taller con materiales reciclados",
-    "fecha": "2026-07-28 13:55:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/trash-taller-con-materiales-reciclados-republica-de-los-ninos-20260720151708",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720151709.jpg"
-  },
-  {
-    "titulo": "Nos visitan los bomberos - Exposición y funcionamiento de la autobomba",
-    "fecha": "2026-07-28 14:30:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/nos-visitan-los-bomberos-exposicion-y-funcionamiento-de-la-autobomba-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714125450",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714125451.jpg"
-  },
-  {
-    "titulo": "Cazadoras Doradas",
-    "fecha": "2026-07-28 14:30:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/cazadoras-doradas-teatro-metro-20260706182308",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706182309.jpg"
-  },
-  {
-    "titulo": "El universo de tu imaginacón - Solarians",
-    "fecha": "2026-07-28 14:30:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-universo-de-tu-imaginacon-solarians-planetario-unlp-20260705022310",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022311.jpg"
-  },
-  {
-    "titulo": "Taller de Banderines y amuletos",
-    "fecha": "2026-07-28 15:00:00",
-    "lugar": "Museo de Arte Contemporáneo Latinoamericano MACLA",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/taller-de-banderines-y-amuletos-museo-de-arte-contemporaneo-latinoamericano-macla-20260720150155",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720150156.jpg"
-  },
-  {
-    "titulo": "El circo de Enrico y Patineta",
-    "fecha": "2026-07-28 15:00:00",
-    "lugar": "CICOP - Asociación Sindical de Profesionales de la Salud de la Provincia de Buenos Aires",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-circo-de-enrico-y-patineta-cicop-asociacion-sindical-de-profesionales-de-la-salud-de-la-provincia-de-buenos-aires-20260722205303",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722205304.jpg"
-  },
-  {
-    "titulo": "La Cirquesta - Entre Olas",
-    "fecha": "2026-07-28 15:00:00",
-    "lugar": "Crisoles La Plata -Centro Cultural y de Actividades Artísticas",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-cirquesta-entre-olas-crisoles-la-plata-centro-cultural-y-de-actividades-artisticas-20260722191721",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722191722.jpg"
-  },
-  {
-    "titulo": "Canticuénticos",
-    "fecha": "2026-07-28 15:00:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/canticuenticos-teatro-y-museo-coliseo-podesta-20260515173450",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260515173451.jpg"
-  },
-  {
-    "titulo": "Archipiélago",
-    "fecha": "2026-07-28 15:00:00",
-    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/archipielago-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260710004931",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710004932.jpg"
-  },
-  {
-    "titulo": "Las k-pop",
-    "fecha": "2026-07-28 15:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/las-k-pop-teatro-rene-favaloro-20260629172419",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629172420.jpg"
-  },
-  {
-    "titulo": "Eco artistas x Vero Dillon",
-    "fecha": "2026-07-28 15:00:00",
-    "lugar": "Museo del Ladrillo",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/eco-artistas-x-vero-dillon-museo-del-ladrillo-20260713022401",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260713022402.jpg"
-  },
-  {
-    "titulo": "TerroBretas",
-    "fecha": "2026-07-28 15:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/terrobretas-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714132639",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714132640.jpg"
-  },
-  {
-    "titulo": "Folklore",
-    "fecha": "2026-07-28 15:05:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/folklore-teatro-argentino-centro-provincial-de-las-artes-20260720160807",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720160808.jpg"
-  },
-  {
-    "titulo": "Cruzar la noche - Un viaje al otro lado",
-    "fecha": "2026-07-28 15:30:00",
-    "lugar": "Teatro Red Pido Gancho",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/cruzar-la-noche-un-viaje-al-otro-lado-teatro-red-pido-gancho-20260710122128",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710122129.jpg"
-  },
-  {
-    "titulo": "Frankenweenie",
-    "fecha": "2026-07-28 16:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/frankenweenie-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714132317",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714132318.jpg"
-  },
-  {
-    "titulo": "Amazonana",
-    "fecha": "2026-07-28 16:00:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/amazonana-viejo-almacen-el-obrero-cantina-del-obrero-20260704165812",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260704165813.jpg"
-  },
-  {
-    "titulo": "Jugamos con Lupo",
-    "fecha": "2026-07-28 16:00:00",
-    "lugar": "Rayuela",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/jugamos-con-lupo-rayuela-20260716233305",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260716233306.jpg"
-  },
-  {
-    "titulo": "Taller Las ciudades invisibles",
-    "fecha": "2026-07-28 16:00:00",
-    "lugar": "Museo Almafuerte",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/taller-las-ciudades-invisibles-museo-almafuerte-20260720143047",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720143048.jpg"
-  },
-  {
-    "titulo": "El Cascanueces",
-    "fecha": "2026-07-28 16:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/el-cascanueces-teatro-argentino-centro-provincial-de-las-artes-20260722212625",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722212626.jpg"
-  },
-  {
-    "titulo": "Canciones para mirar - María Elena Walsh",
-    "fecha": "2026-07-28 16:30:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/canciones-para-mirar-maria-elena-walsh-teatro-de-camara-city-bell-20260720232713",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720232714.jpg"
-  },
-  {
-    "titulo": "Brainrot",
-    "fecha": "2026-07-28 18:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/brainrot-teatro-metro-20260706182354",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706182356.jpg"
-  },
-  {
-    "titulo": "Bye bye Brasil - Dir Carlos Diegues",
-    "fecha": "2026-07-28 18:30:00",
-    "lugar": "Galpón de La Grieta y Biblioteca Popular La Chicharra",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/bye-bye-brasil-dir-carlos-diegues-galpon-de-la-grieta-y-biblioteca-popular-la-chicharra-20260721005040",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721005041.jpg"
-  },
-  {
-    "titulo": "The twilight zone IV (La Dimensión Desconocida IV)",
-    "fecha": "2026-07-28 20:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/the-twilight-zone-iv-la-dimension-desconocida-iv-cine-select-espacio-incaa-20260704162040",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260704162041.jpg"
-  },
-  {
-    "titulo": "Trash - Taller con materiales reciclados",
-    "fecha": "2026-07-29 13:55:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/trash-taller-con-materiales-reciclados-republica-de-los-ninos-20260720151708",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720151709.jpg"
-  },
-  {
-    "titulo": "Lluvia de Borboletas - Teatro musical para bebés",
-    "fecha": "2026-07-29 14:00:00",
-    "lugar": "Casa Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/lluvia-de-borboletas-teatro-musical-para-bebes-casa-metro-20260620153420",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260620153421.jpg"
-  },
-  {
-    "titulo": "Hugo Figueras - Una ventana al universo",
-    "fecha": "2026-07-29 14:30:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hugo-figueras-una-ventana-al-universo-planetario-unlp-20260705022005",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705022006.jpg"
-  },
-  {
-    "titulo": "Caminata guiada - Centro Cultural y de la Memoria Islas Malvinas",
-    "fecha": "2026-07-29 15:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/caminata-guiada-centro-cultural-y-de-la-memoria-islas-malvinas-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260722192620",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722192621.jpg"
-  },
-  {
-    "titulo": "Sapo en Buenos Aires",
-    "fecha": "2026-07-29 15:00:00",
-    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/sapo-en-buenos-aires-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260710005032",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710005033.jpg"
-  },
-  {
-    "titulo": "Tarde de Juegos de Mesa",
-    "fecha": "2026-07-29 15:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/tarde-de-juegos-de-mesa-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714130828",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714130829.jpg"
-  },
-  {
-    "titulo": "Club de Exploradores del Pasado",
-    "fecha": "2026-07-29 16:00:00",
-    "lugar": "Max Nordau",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/club-de-exploradores-del-pasado-max-nordau-20260706190016",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706190017.jpg"
-  },
-  {
-    "titulo": "El Cascanueces",
-    "fecha": "2026-07-29 16:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/el-cascanueces-teatro-argentino-centro-provincial-de-las-artes-20260722212625",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722212626.jpg"
-  },
-  {
-    "titulo": "Canciones para mirar - María Elena Walsh",
-    "fecha": "2026-07-29 16:30:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/canciones-para-mirar-maria-elena-walsh-teatro-de-camara-city-bell-20260720232713",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720232714.jpg"
-  },
-  {
-    "titulo": "Don Risitas, teatro interactivo, juegos, bailes y dinámicas",
-    "fecha": "2026-07-29 16:30:00",
-    "lugar": "Lázuli",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/don-risitas-teatro-interactivo-juegos-bailes-y-dinamicas-lazuli-20260720144315",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720144316.jpg"
-  },
-  {
-    "titulo": "Meta Caramba - Sueño con canciones",
-    "fecha": "2026-07-29 17:00:00",
-    "lugar": "Casa Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/meta-caramba-sueno-con-canciones-casa-metro-20260620153540",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260620153541.jpg"
-  },
-  {
-    "titulo": "Chingarepa",
-    "fecha": "2026-07-29 17:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/chingarepa-teatro-metro-20260706183011",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706183013.jpg"
-  },
-  {
-    "titulo": "La historia jamás contada de Cenicienta",
-    "fecha": "2026-07-29 17:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-historia-jamas-contada-de-cenicienta-escenario-40-20260706184444",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706184445.jpg"
-  },
-  {
-    "titulo": "Canté pri! - Canciones para jugar",
-    "fecha": "2026-07-29 17:30:00",
-    "lugar": "Max Nordau",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/cante-pri-canciones-para-jugar-max-nordau-20260713022749",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260713022750.jpg"
-  },
-  {
-    "titulo": "Las Guardianas Kpop",
-    "fecha": "2026-07-29 17:30:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/las-guardianas-kpop-teatro-y-museo-coliseo-podesta-20260717163944",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260717163945.jpg"
-  },
-  {
-    "titulo": "Presentación del libro: Prospecto adjunto de Sol Mircovich",
-    "fecha": "2026-07-29 19:00:00",
-    "lugar": "Casa Hereje",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/presentacion-del-libro-prospecto-adjunto-de-sol-mircovich-casa-hereje-20260705024045",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705024046.jpg"
-  },
-  {
-    "titulo": "Rapado (Martín Rejtman, 1992)",
-    "fecha": "2026-07-29 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/rapado-martin-rejtman-1992-cine-ecoselect-espacio-incaa-20260629121255",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629121256.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260728014040.jpg"
   },
   {
     "titulo": "El universo de tu imaginacón - Solarians",
@@ -2050,84 +40,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260705022311.jpg"
   },
   {
-    "titulo": "Pérez y Compañía",
+    "titulo": "Fábrica de libros",
     "fecha": "2026-07-30 15:00:00",
-    "lugar": "Espacio Moliere",
+    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/perez-y-compania-espacio-moliere-20260720230717",
+    "url": "https://agendalaplata.ar/evento/fabrica-de-libros-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714131210",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720230719.jpg"
-  },
-  {
-    "titulo": "Guitarreada y Payada - Clase de guitarra",
-    "fecha": "2026-07-30 15:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/guitarreada-y-payada-clase-de-guitarra-teatro-argentino-centro-provincial-de-las-artes-20260720160109",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720160111.jpg"
-  },
-  {
-    "titulo": "Ciclo de Cine Infantil",
-    "fecha": "2026-07-30 15:00:00",
-    "lugar": "Coop Telefonica de Abasto",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/ciclo-de-cine-infantil-coop-telefonica-de-abasto-20260720162519",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720162520.jpg"
-  },
-  {
-    "titulo": "Festival títeres en Diagonal",
-    "fecha": "2026-07-30 15:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/festival-titeres-en-diagonal-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260720143702",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720143703.jpg"
-  },
-  {
-    "titulo": "Caminata guiada - Circuito Favaloro en Bus",
-    "fecha": "2026-07-30 15:00:00",
-    "lugar": "Municipalidad de La Plata",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/caminata-guiada-circuito-favaloro-en-bus-municipalidad-de-la-plata-20260722192752",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722192753.jpg"
-  },
-  {
-    "titulo": "Collar de palabras",
-    "fecha": "2026-07-30 15:00:00",
-    "lugar": "CICOP - Asociación Sindical de Profesionales de la Salud de la Provincia de Buenos Aires",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/collar-de-palabras-cicop-asociacion-sindical-de-profesionales-de-la-salud-de-la-provincia-de-buenos-aires-20260722205402",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722205403.jpg"
-  },
-  {
-    "titulo": "El Principito",
-    "fecha": "2026-07-30 15:00:00",
-    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-principito-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260710011901",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710011902.jpg"
-  },
-  {
-    "titulo": "Alicia y su mundo de ensueño",
-    "fecha": "2026-07-30 15:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/alicia-y-su-mundo-de-ensueno-espacio-doble-t-20260618222512",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260714131211.jpg"
   },
   {
     "titulo": "Exploradores en el museo",
@@ -2140,14 +60,24 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260713022153.jpg"
   },
   {
-    "titulo": "Fábrica de libros",
+    "titulo": "Las k-pop",
     "fecha": "2026-07-30 15:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
+    "lugar": "Teatro René Favaloro",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/fabrica-de-libros-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714131210",
+    "url": "https://agendalaplata.ar/evento/las-k-pop-teatro-rene-favaloro-20260629172419",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714131211.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260629172420.jpg"
+  },
+  {
+    "titulo": "El Principito",
+    "fecha": "2026-07-30 15:00:00",
+    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/el-principito-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260710011901",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260710011902.jpg"
   },
   {
     "titulo": "Rukuka circo",
@@ -2160,14 +90,74 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260718201855.jpg"
   },
   {
-    "titulo": "Las k-pop",
+    "titulo": "Alicia y su mundo de ensueño",
     "fecha": "2026-07-30 15:00:00",
-    "lugar": "Teatro René Favaloro",
+    "lugar": "Espacio Doble-T",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/las-k-pop-teatro-rene-favaloro-20260629172419",
+    "url": "https://agendalaplata.ar/evento/alicia-y-su-mundo-de-ensueno-espacio-doble-t-20260618222512",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629172420.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
+  },
+  {
+    "titulo": "Pérez y Compañía",
+    "fecha": "2026-07-30 15:00:00",
+    "lugar": "Espacio Moliere",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/perez-y-compania-espacio-moliere-20260720230717",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720230719.jpg"
+  },
+  {
+    "titulo": "Collar de palabras",
+    "fecha": "2026-07-30 15:00:00",
+    "lugar": "CICOP - Asociación Sindical de Profesionales de la Salud de la Provincia de Buenos Aires",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/collar-de-palabras-cicop-asociacion-sindical-de-profesionales-de-la-salud-de-la-provincia-de-buenos-aires-20260722205402",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260722205403.jpg"
+  },
+  {
+    "titulo": "Ciclo de Cine Infantil",
+    "fecha": "2026-07-30 15:00:00",
+    "lugar": "Coop Telefonica de Abasto",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/ciclo-de-cine-infantil-coop-telefonica-de-abasto-20260720162519",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720162520.jpg"
+  },
+  {
+    "titulo": "Guitarreada y Payada - Clase de guitarra",
+    "fecha": "2026-07-30 15:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/guitarreada-y-payada-clase-de-guitarra-teatro-argentino-centro-provincial-de-las-artes-20260720160109",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720160111.jpg"
+  },
+  {
+    "titulo": "Caminata guiada - Circuito Favaloro en Bus",
+    "fecha": "2026-07-30 15:00:00",
+    "lugar": "Municipalidad de La Plata",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/caminata-guiada-circuito-favaloro-en-bus-municipalidad-de-la-plata-20260722192752",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260722192753.jpg"
+  },
+  {
+    "titulo": "Festival títeres en Diagonal",
+    "fecha": "2026-07-30 15:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/festival-titeres-en-diagonal-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260720143702",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720143703.jpg"
   },
   {
     "titulo": "El gran y terrible mago de Oz",
@@ -2180,6 +170,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260706184532.jpg"
   },
   {
+    "titulo": "El Cascanueces",
+    "fecha": "2026-07-30 16:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/el-cascanueces-teatro-argentino-centro-provincial-de-las-artes-20260722212625",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260722212626.jpg"
+  },
+  {
+    "titulo": "Dibuja tu propia aventura",
+    "fecha": "2026-07-30 16:00:00",
+    "lugar": "República de los Niños",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/dibuja-tu-propia-aventura-republica-de-los-ninos-20260724150539",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260724150540.jpg"
+  },
+  {
     "titulo": "Taller de amuletos",
     "fecha": "2026-07-30 16:00:00",
     "lugar": "Centro de Arte UNLP",
@@ -2190,14 +200,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260722194829.jpg"
   },
   {
-    "titulo": "El Cascanueces",
-    "fecha": "2026-07-30 16:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "titulo": "Encanto",
+    "fecha": "2026-07-30 16:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/el-cascanueces-teatro-argentino-centro-provincial-de-las-artes-20260722212625",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/encanto-cine-select-espacio-incaa-20260728014302",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722212626.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260728014303.jpg"
   },
   {
     "titulo": "Canciones para mirar - María Elena Walsh",
@@ -2210,16 +220,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260720232714.jpg"
   },
   {
-    "titulo": "Juguetes en Acción",
-    "fecha": "2026-07-30 17:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/juguetes-en-accion-teatro-metro-20260706181844",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706181854.jpg"
-  },
-  {
     "titulo": "Aurora y el bosque encantado",
     "fecha": "2026-07-30 17:00:00",
     "lugar": "Espacio Doble-T",
@@ -2228,6 +228,16 @@
     "url": "https://agendalaplata.ar/evento/aurora-y-el-bosque-encantado-espacio-doble-t-20260617124412",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260617124413.jpg"
+  },
+  {
+    "titulo": "Juguetes en Acción",
+    "fecha": "2026-07-30 17:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/juguetes-en-accion-teatro-metro-20260706181844",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260706181854.jpg"
   },
   {
     "titulo": "Canté pri! - Canciones para jugar",
@@ -2250,14 +260,94 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260706184621.jpg"
   },
   {
-    "titulo": "The Matrix Dir. Hermanas Wachowski",
+    "titulo": "Un lugar en el mundo (Dir. Adolfo Aristarain)",
+    "fecha": "2026-07-30 18:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/un-lugar-en-el-mundo-dir-adolfo-aristarain-teatro-argentino-centro-provincial-de-las-artes-20260725161255",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725161256.jpg"
+  },
+  {
+    "titulo": "Juan Martín Maldacena “El significado del espacio-tiempo: agujeros negros y entrelazamiento cuántico”",
+    "fecha": "2026-07-30 18:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/juan-martin-maldacena-el-significado-del-espacio-tiempo-agujeros-negros-y-entrelazamiento-cuantico-planetario-unlp-20260729205601",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729205602.jpg"
+  },
+  {
+    "titulo": "Una directora extraordinaria",
+    "fecha": "2026-07-30 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/una-directora-extraordinaria-cine-select-espacio-incaa-20260729213552",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729213553.jpg"
+  },
+  {
+    "titulo": "Las Leonas en la recta final de su preparación para la Copa Mundial",
+    "fecha": "2026-07-30 19:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/las-leonas-en-la-recta-final-de-su-preparacion-para-la-copa-mundial-20260728020553",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728020554.jpg"
+  },
+  {
+    "titulo": "En el cine - Dir. Matías Szulanski",
+    "fecha": "2026-07-30 19:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/en-el-cine-dir-matias-szulanski-cine-club-proyecciones-terrestres-20260728032756",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728032757.jpg"
+  },
+  {
+    "titulo": "Cuando Harry conoció a Sally",
+    "fecha": "2026-07-30 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/cuando-harry-conocio-a-sally-desafinado-club-20260728022340",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728022342.jpg"
+  },
+  {
+    "titulo": "The Sadness (2021) Dir. Rob Jabbaz",
+    "fecha": "2026-07-30 20:00:00",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/the-sadness-2021-dir-rob-jabbaz-la-culturosa-20260728032444",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728032445.jpg"
+  },
+  {
+    "titulo": "The Matrix (1999) Dir. Lana y Lilly Wachowski",
     "fecha": "2026-07-30 20:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/the-matrix-dir-hermanas-wachowski-cine-select-espacio-incaa-20260629180651",
+    "url": "https://agendalaplata.ar/evento/the-matrix-1999-dir-lana-y-lilly-wachowski-cine-select-espacio-incaa-20260629180651",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260629180652.jpg"
+  },
+  {
+    "titulo": "Un cuento chino & Tiempo de Valientes",
+    "fecha": "2026-07-30 20:30:00",
+    "lugar": "Casa Trama",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/un-cuento-chino-tiempo-de-valientes-casa-trama-20260725144222",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260730015222.jpg"
   },
   {
     "titulo": "Twin Peaks: Fire Walk With Me — Dir. David Lynch EEUU, 1992",
@@ -2268,6 +358,26 @@
     "url": "https://agendalaplata.ar/evento/twin-peaks-fire-walk-with-me-dir-david-lynch-eeuu-1992-cine-club-proyecciones-terrestres-20260624215644",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260624215645.jpg"
+  },
+  {
+    "titulo": "Chaza Peña - Citrina Folk + Mario Panza + Federico Pecchia",
+    "fecha": "2026-07-30 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/chaza-pena-citrina-folk-mario-panza-federico-pecchia-guajira-bar-20260729202055",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729202056.jpg"
+  },
+  {
+    "titulo": "Laboratorio de cuentos",
+    "fecha": "2026-07-31 13:50:00",
+    "lugar": "República de los Niños",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/laboratorio-de-cuentos-republica-de-los-ninos-20260724150740",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260724150741.jpg"
   },
   {
     "titulo": "Payaso Manotas",
@@ -2290,14 +400,54 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260705021812.jpg"
   },
   {
-    "titulo": "Festival títeres en Diagonal",
-    "fecha": "2026-07-31 15:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "titulo": "La abeja Maya y el huevo dorado",
+    "fecha": "2026-07-31 14:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/festival-titeres-en-diagonal-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260720143702",
+    "url": "https://agendalaplata.ar/evento/la-abeja-maya-y-el-huevo-dorado-cine-select-espacio-incaa-20260728014520",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720143703.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260728014521.jpg"
+  },
+  {
+    "titulo": "Super cachorros",
+    "fecha": "2026-07-31 15:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/super-cachorros-teatro-metro-20260706181533",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260706181534.jpg"
+  },
+  {
+    "titulo": "Hablemos sobre Manga",
+    "fecha": "2026-07-31 15:00:00",
+    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/hablemos-sobre-manga-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714132743",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260714132745.jpg"
+  },
+  {
+    "titulo": "Las k-pop",
+    "fecha": "2026-07-31 15:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/las-k-pop-teatro-rene-favaloro-20260629172419",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260629172420.jpg"
+  },
+  {
+    "titulo": "El Bosque Encantado",
+    "fecha": "2026-07-31 15:00:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/el-bosque-encantado-teatro-y-museo-coliseo-podesta-20260717164051",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260717164052.jpg"
   },
   {
     "titulo": "Cine de vacaciones - Películas para toda la familia",
@@ -2320,44 +470,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
   },
   {
-    "titulo": "El Bosque Encantado",
+    "titulo": "Festival títeres en Diagonal",
     "fecha": "2026-07-31 15:00:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/el-bosque-encantado-teatro-y-museo-coliseo-podesta-20260717164051",
+    "url": "https://agendalaplata.ar/evento/festival-titeres-en-diagonal-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260720143702",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260717164052.jpg"
-  },
-  {
-    "titulo": "Las k-pop",
-    "fecha": "2026-07-31 15:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/las-k-pop-teatro-rene-favaloro-20260629172419",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260629172420.jpg"
-  },
-  {
-    "titulo": "Hablemos sobre Manga",
-    "fecha": "2026-07-31 15:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hablemos-sobre-manga-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714132743",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714132745.jpg"
-  },
-  {
-    "titulo": "Super cachorros",
-    "fecha": "2026-07-31 15:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/super-cachorros-teatro-metro-20260706181533",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706181534.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260720143703.jpg"
   },
   {
     "titulo": "Folklore",
@@ -2410,6 +530,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260722212626.jpg"
   },
   {
+    "titulo": "Dibuja tu propia aventura",
+    "fecha": "2026-07-31 16:00:00",
+    "lugar": "República de los Niños",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/dibuja-tu-propia-aventura-republica-de-los-ninos-20260724150539",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260724150540.jpg"
+  },
+  {
     "titulo": "Anda Calabaza",
     "fecha": "2026-07-31 16:30:00",
     "lugar": "Casa Metro",
@@ -2420,14 +550,24 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260620153703.jpg"
   },
   {
-    "titulo": "Canciones para mirar - María Elena Walsh",
+    "titulo": "La Odisea de Herácles",
     "fecha": "2026-07-31 16:30:00",
-    "lugar": "Teatro de Cámara City Bell",
+    "lugar": "Lázuli",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/canciones-para-mirar-maria-elena-walsh-teatro-de-camara-city-bell-20260720232713",
+    "url": "https://agendalaplata.ar/evento/la-odisea-de-heracles-lazuli-20260729141158",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720232714.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260729141159.jpg"
+  },
+  {
+    "titulo": "Wish, el poder de los deseos",
+    "fecha": "2026-07-31 16:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/wish-el-poder-de-los-deseos-cine-select-espacio-incaa-20260728014622",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728014623.jpg"
   },
   {
     "titulo": "La asombrosa aventura del Niño de las Estrellas",
@@ -2440,14 +580,34 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260718223034.jpg"
   },
   {
-    "titulo": "Viaje Jurásico",
-    "fecha": "2026-07-31 17:00:00",
-    "lugar": "Teatro Metro",
+    "titulo": "Canciones para mirar - María Elena Walsh",
+    "fecha": "2026-07-31 16:30:00",
+    "lugar": "Teatro de Cámara City Bell",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/viaje-jurasico-teatro-metro-20260706181703",
+    "url": "https://agendalaplata.ar/evento/canciones-para-mirar-maria-elena-walsh-teatro-de-camara-city-bell-20260720232713",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706181704.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260720232714.jpg"
+  },
+  {
+    "titulo": "Donde el arte sucede - Experiencia para personas con discapacidad",
+    "fecha": "2026-07-31 16:30:00",
+    "lugar": "Biblioteca Popular Alejo Iglesias",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/donde-el-arte-sucede-experiencia-para-personas-con-discapacidad-biblioteca-popular-alejo-iglesias-20260725011228",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725011229.jpg"
+  },
+  {
+    "titulo": "Cuentos Entiterados",
+    "fecha": "2026-07-31 16:35:00",
+    "lugar": "Biblioteca Popular Alejo Iglesias",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/cuentos-entiterados-biblioteca-popular-alejo-iglesias-20260725021301",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725021302.jpg"
   },
   {
     "titulo": "Aurora y el bosque encantado",
@@ -2460,6 +620,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260617124413.jpg"
   },
   {
+    "titulo": "Viaje Jurásico",
+    "fecha": "2026-07-31 17:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/viaje-jurasico-teatro-metro-20260706181703",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260706181704.jpg"
+  },
+  {
     "titulo": "Poetas del Tango",
     "fecha": "2026-07-31 17:00:00",
     "lugar": "Complejo Bibliotecario Municipal - Palacio López Merino",
@@ -2470,6 +640,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260720143834.jpg"
   },
   {
+    "titulo": "Poetas del tango - Concierto Didáctico",
+    "fecha": "2026-07-31 17:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/poetas-del-tango-concierto-didactico-teatro-argentino-centro-provincial-de-las-artes-20260729210012",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729210013.jpg"
+  },
+  {
     "titulo": "El bello durmiente",
     "fecha": "2026-07-31 18:00:00",
     "lugar": "Escenario 40",
@@ -2478,6 +658,56 @@
     "url": "https://agendalaplata.ar/evento/el-bello-durmiente-escenario-40-20260706184040",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260720150323.jpg"
+  },
+  {
+    "titulo": "Una directora extraordinaria",
+    "fecha": "2026-07-31 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/una-directora-extraordinaria-cine-select-espacio-incaa-20260729213552",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729213553.jpg"
+  },
+  {
+    "titulo": "La Última Curda",
+    "fecha": "2026-07-31 19:00:00",
+    "lugar": "Miraflores",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-ultima-curda-miraflores-20260725162015",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725162016.jpg"
+  },
+  {
+    "titulo": "La Sombra del Ángel - Dir Ramiro Peri",
+    "fecha": "2026-07-31 19:30:00",
+    "lugar": "El Galpón de fierro",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-sombra-del-angel-dir-ramiro-peri-el-galpon-de-fierro-20260729203239",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260730030411.jpg"
+  },
+  {
+    "titulo": "Funky Torinos",
+    "fecha": "2026-07-31 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/funky-torinos-desafinado-club-20260730013542",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260730013543.jpg"
+  },
+  {
+    "titulo": "En el cine - Dir. Matías Szulanski",
+    "fecha": "2026-07-31 20:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/en-el-cine-dir-matias-szulanski-cine-club-proyecciones-terrestres-20260728032756",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728032757.jpg"
   },
   {
     "titulo": "Fahrenheit 451",
@@ -2510,16 +740,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260714164242.jpg"
   },
   {
-    "titulo": "Fiesta Go-Go",
-    "fecha": "2026-07-31 21:00:00",
-    "lugar": "Casa popular Chicha Mariani",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/fiesta-go-go-casa-popular-chicha-mariani-20260708153348",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260708153349.jpg"
-  },
-  {
     "titulo": "Emma Shaka",
     "fecha": "2026-07-31 21:00:00",
     "lugar": "Blondie Cultural",
@@ -2550,6 +770,56 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260629181017.jpg"
   },
   {
+    "titulo": "Victoria Faverson - Ninastika - Pateo",
+    "fecha": "2026-07-31 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/victoria-faverson-ninastika-pateo-guajira-bar-20260729202203",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729202204.jpg"
+  },
+  {
+    "titulo": "Fiesta Go-Go",
+    "fecha": "2026-07-31 21:00:00",
+    "lugar": "Casa popular Chicha Mariani",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/fiesta-go-go-casa-popular-chicha-mariani-20260708153348",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260708153349.jpg"
+  },
+  {
+    "titulo": "Días perfectos - Wim Wenders",
+    "fecha": "2026-07-31 22:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/dias-perfectos-wim-wenders-cine-club-proyecciones-terrestres-20260728033052",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728033053.jpg"
+  },
+  {
+    "titulo": "2001: Odisea en el espacio",
+    "fecha": "2026-07-31 23:55:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/2001-odisea-en-el-espacio-cine-ecoselect-espacio-incaa-20260706175027",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260706175028.jpg"
+  },
+  {
+    "titulo": "Torneo potrerx",
+    "fecha": "2026-08-01 12:00:00",
+    "lugar": "Marimacha",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/torneo-potrerx-marimacha-20260725141650",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725141651.jpg"
+  },
+  {
     "titulo": "Los clásicos - Antón Chejov",
     "fecha": "2026-08-01 12:00:00",
     "lugar": "Casa Hereje",
@@ -2558,6 +828,26 @@
     "url": "https://agendalaplata.ar/evento/los-clasicos-anton-chejov-casa-hereje-20260703142706",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260703142707.jpg"
+  },
+  {
+    "titulo": "La veredita",
+    "fecha": "2026-08-01 13:00:00",
+    "lugar": "Antártica",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/la-veredita-antartica-20260729213331",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729213332.jpg"
+  },
+  {
+    "titulo": "Laboratorio de cuentos",
+    "fecha": "2026-08-01 13:50:00",
+    "lugar": "República de los Niños",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/laboratorio-de-cuentos-republica-de-los-ninos-20260724150740",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260724150741.jpg"
   },
   {
     "titulo": "Trash - Taller con materiales reciclados",
@@ -2580,6 +870,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260721233936.jpg"
   },
   {
+    "titulo": "Circo Adolfito",
+    "fecha": "2026-08-01 14:00:00",
+    "lugar": "Biblioteca Popular Del otro lado del árbol",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/circo-adolfito-biblioteca-popular-del-otro-lado-del-arbol-20260729132630",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729132631.jpg"
+  },
+  {
+    "titulo": "Susurros del corazón",
+    "fecha": "2026-08-01 14:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/susurros-del-corazon-cine-select-espacio-incaa-20260728014747",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728014748.jpg"
+  },
+  {
     "titulo": "Hansel y Gretel en busca del pozo de los sueños",
     "fecha": "2026-08-01 14:30:00",
     "lugar": "Escenario 40",
@@ -2590,54 +900,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260706184715.jpg"
   },
   {
-    "titulo": "Festival títeres en Diagonal",
+    "titulo": "Princesa de Hielo",
     "fecha": "2026-08-01 15:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "lugar": "Teatro Metro",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/festival-titeres-en-diagonal-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260720143702",
+    "url": "https://agendalaplata.ar/evento/princesa-de-hielo-teatro-metro-20260706183311",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720143703.jpg"
-  },
-  {
-    "titulo": "Don Risitas, teatro interactivo, juegos, bailes y dinámicas",
-    "fecha": "2026-08-01 15:00:00",
-    "lugar": "Lázuli",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/don-risitas-teatro-interactivo-juegos-bailes-y-dinamicas-lazuli-20260720144315",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720144316.jpg"
-  },
-  {
-    "titulo": "Caminata guiada - República de los Niños",
-    "fecha": "2026-08-01 15:00:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/caminata-guiada-republica-de-los-ninos-republica-de-los-ninos-20260722192319",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722192320.jpg"
-  },
-  {
-    "titulo": "Cuentos y canciones de Maria Elena Walsh",
-    "fecha": "2026-08-01 15:00:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/cuentos-y-canciones-de-maria-elena-walsh-teatro-y-museo-coliseo-podesta-20260615030232",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260615030233.jpg"
-  },
-  {
-    "titulo": "Alicia y su mundo de ensueño",
-    "fecha": "2026-08-01 15:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/alicia-y-su-mundo-de-ensueno-espacio-doble-t-20260618222512",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260706183312.jpg"
   },
   {
     "titulo": "Re-Conocernos Escritores - Encuentro de Lectura",
@@ -2660,14 +930,64 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260718201527.jpg"
   },
   {
-    "titulo": "Princesa de Hielo",
+    "titulo": "Alicia y su mundo de ensueño",
     "fecha": "2026-08-01 15:00:00",
-    "lugar": "Teatro Metro",
+    "lugar": "Espacio Doble-T",
     "direccion": "",
     "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/princesa-de-hielo-teatro-metro-20260706183311",
+    "url": "https://agendalaplata.ar/evento/alicia-y-su-mundo-de-ensueno-espacio-doble-t-20260618222512",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706183312.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
+  },
+  {
+    "titulo": "Cuentos y canciones de Maria Elena Walsh",
+    "fecha": "2026-08-01 15:00:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/cuentos-y-canciones-de-maria-elena-walsh-teatro-y-museo-coliseo-podesta-20260615030232",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260615030233.jpg"
+  },
+  {
+    "titulo": "El hijo del Super héroe",
+    "fecha": "2026-08-01 15:00:00",
+    "lugar": "La Lechuza Teatro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/el-hijo-del-super-heroe-la-lechuza-teatro-20260728032109",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728032110.jpg"
+  },
+  {
+    "titulo": "Caminata guiada - República de los Niños",
+    "fecha": "2026-08-01 15:00:00",
+    "lugar": "República de los Niños",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/caminata-guiada-republica-de-los-ninos-republica-de-los-ninos-20260722192319",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260722192320.jpg"
+  },
+  {
+    "titulo": "Festival títeres en Diagonal",
+    "fecha": "2026-08-01 15:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/festival-titeres-en-diagonal-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260720143702",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720143703.jpg"
+  },
+  {
+    "titulo": "Don Risitas, teatro interactivo, juegos, bailes y dinámicas",
+    "fecha": "2026-08-01 15:00:00",
+    "lugar": "Lázuli",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/don-risitas-teatro-interactivo-juegos-bailes-y-dinamicas-lazuli-20260720144315",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720144316.jpg"
   },
   {
     "titulo": "Spider-Man: A través del Spider-Verso - Dir. Bob Persichetti, Peter Ramsey, Rodney Rothman",
@@ -2680,6 +1000,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260722193224.jpg"
   },
   {
+    "titulo": "La Vetusta",
+    "fecha": "2026-08-01 15:30:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-vetusta-pasaje-dardo-rocha-20260728020147",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728020148.jpg"
+  },
+  {
     "titulo": "Los cuadernos de André Andrazur",
     "fecha": "2026-08-01 16:00:00",
     "lugar": "Centro de Arte UNLP",
@@ -2688,6 +1018,16 @@
     "url": "https://agendalaplata.ar/evento/los-cuadernos-de-andre-andrazur-centro-de-arte-unlp-20260714171147",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260714171148.jpg"
+  },
+  {
+    "titulo": "La tierra del fuego",
+    "fecha": "2026-08-01 16:00:00",
+    "lugar": "Galpón de La Grieta y Biblioteca Popular La Chicharra",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/la-tierra-del-fuego-galpon-de-la-grieta-y-biblioteca-popular-la-chicharra-20260721005258",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260721005259.jpg"
   },
   {
     "titulo": "El Cascanueces",
@@ -2700,14 +1040,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260722212626.jpg"
   },
   {
-    "titulo": "La tierra del fuego",
+    "titulo": "Dibuja tu propia aventura",
     "fecha": "2026-08-01 16:00:00",
-    "lugar": "Galpón de La Grieta y Biblioteca Popular La Chicharra",
+    "lugar": "República de los Niños",
     "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/la-tierra-del-fuego-galpon-de-la-grieta-y-biblioteca-popular-la-chicharra-20260721005258",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/dibuja-tu-propia-aventura-republica-de-los-ninos-20260724150539",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260721005259.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260724150540.jpg"
   },
   {
     "titulo": "Océano - Compañía D’ Zoquetes",
@@ -2728,6 +1068,26 @@
     "url": "https://agendalaplata.ar/evento/el-principito-un-viaje-hacia-mundos-desconocidos-escenario-40-20260706184339",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260706184340.jpg"
+  },
+  {
+    "titulo": "La odisea de Héracles",
+    "fecha": "2026-08-01 16:30:00",
+    "lugar": "Biblioteca Popular Alejo Iglesias",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-odisea-de-heracles-biblioteca-popular-alejo-iglesias-20260725021406",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725021407.jpg"
+  },
+  {
+    "titulo": "Jumanji",
+    "fecha": "2026-08-01 16:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/jumanji-cine-select-espacio-incaa-20260728014852",
+    "fuente": "genda",
+    "imagen": ""
   },
   {
     "titulo": "Aurora y el bosque encantado",
@@ -2780,6 +1140,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260722193515.jpg"
   },
   {
+    "titulo": "Una directora extraordinaria",
+    "fecha": "2026-08-01 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/una-directora-extraordinaria-cine-select-espacio-incaa-20260729213552",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729213553.jpg"
+  },
+  {
     "titulo": "El gran y terrible mago de Oz",
     "fecha": "2026-08-01 18:30:00",
     "lugar": "Escenario 40",
@@ -2798,6 +1168,26 @@
     "url": "https://agendalaplata.ar/evento/taller-de-candombe-adultos-centro-cultural-estacion-provincial-20260718201954",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260718201955.jpg"
+  },
+  {
+    "titulo": "Proyección en vivo de 5 cortos",
+    "fecha": "2026-08-01 19:00:00",
+    "lugar": "Telón Negro",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/proyeccion-en-vivo-de-5-cortos-telon-negro-20260729204540",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729204541.jpg"
+  },
+  {
+    "titulo": "Frane Rflakkkk",
+    "fecha": "2026-08-01 20:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/frane-rflakkkk-guajira-bar-20260729202303",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729202304.jpg"
   },
   {
     "titulo": "La Casa Que No Tenemos (Darío Sztajnszrajber y Soledad Barruti)",
@@ -2840,14 +1230,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260718223227.jpg"
   },
   {
-    "titulo": "Campi - Monólogos Argentinos",
+    "titulo": "Mr. Collins - Tributo a Phill Collins - Génesis",
     "fecha": "2026-08-01 21:00:00",
-    "lugar": "Teatro La Nonna",
+    "lugar": "Espacio Live",
     "direccion": "",
-    "categoria": "stand-up",
-    "url": "https://agendalaplata.ar/evento/campi-monologos-argentinos-teatro-la-nonna-20260710002842",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/mr-collins-tributo-a-phill-collins-genesis-espacio-live-20260710123017",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260710002843.jpg"
+    "imagen": ""
   },
   {
     "titulo": "Damaris",
@@ -2870,14 +1260,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260706175825.jpg"
   },
   {
-    "titulo": "Mr. Collins - Tributo a Phill Collins - Génesis",
+    "titulo": "Campi - Monólogos Argentinos",
     "fecha": "2026-08-01 21:00:00",
-    "lugar": "Espacio Live",
+    "lugar": "Teatro La Nonna",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mr-collins-tributo-a-phill-collins-genesis-espacio-live-20260710123017",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/campi-monologos-argentinos-teatro-la-nonna-20260710002842",
     "fuente": "genda",
-    "imagen": ""
+    "imagen": "https://agendalaplata.ar/_fotos/20260710002843.jpg"
   },
   {
     "titulo": "Virus",
@@ -2890,16 +1280,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260604034220.jpg"
   },
   {
-    "titulo": "Leo García - Las canciones que más te gustan",
-    "fecha": "2026-08-01 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/leo-garcia-las-canciones-que-mas-te-gustan-casa-suiza-20260526024815",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260526024816.jpg"
-  },
-  {
     "titulo": "Cruzando el charco",
     "fecha": "2026-08-01 21:00:00",
     "lugar": "Club Atenas",
@@ -2910,6 +1290,46 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260521224611.jpg"
   },
   {
+    "titulo": "Leo García - Las canciones que más te gustan",
+    "fecha": "2026-08-01 21:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/leo-garcia-las-canciones-que-mas-te-gustan-casa-suiza-20260526024815",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260526024816.jpg"
+  },
+  {
+    "titulo": "Anémonas. Un plan imperfecto",
+    "fecha": "2026-08-01 21:00:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/anemonas-un-plan-imperfecto-viejo-almacen-el-obrero-cantina-del-obrero-20260728025115",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728025116.jpg"
+  },
+  {
+    "titulo": "La sal de la tierra",
+    "fecha": "2026-08-01 22:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-sal-de-la-tierra-cine-club-proyecciones-terrestres-20260728032929",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728032930.jpg"
+  },
+  {
+    "titulo": "2001: Odisea en el espacio",
+    "fecha": "2026-08-01 23:55:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/2001-odisea-en-el-espacio-cine-ecoselect-espacio-incaa-20260706175027",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260706175028.jpg"
+  },
+  {
     "titulo": "Taller de candombe",
     "fecha": "2026-08-02 12:00:00",
     "lugar": "Centro Cultural Estación Provincial",
@@ -2918,6 +1338,26 @@
     "url": "https://agendalaplata.ar/evento/taller-de-candombe-centro-cultural-estacion-provincial-20260718202049",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260718202050.jpg"
+  },
+  {
+    "titulo": "La veredita",
+    "fecha": "2026-08-02 13:00:00",
+    "lugar": "Antártica",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/la-veredita-antartica-20260729213331",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729213332.jpg"
+  },
+  {
+    "titulo": "Laboratorio de cuentos",
+    "fecha": "2026-08-02 13:50:00",
+    "lugar": "República de los Niños",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/laboratorio-de-cuentos-republica-de-los-ninos-20260724150740",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260724150741.jpg"
   },
   {
     "titulo": "Trash - Taller con materiales reciclados",
@@ -2940,6 +1380,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260721233936.jpg"
   },
   {
+    "titulo": "Bambi",
+    "fecha": "2026-08-02 14:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/bambi-cine-select-espacio-incaa-20260728015024",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728015025.jpg"
+  },
+  {
     "titulo": "Guerreras Doradas",
     "fecha": "2026-08-02 14:30:00",
     "lugar": "Teatro Metro",
@@ -2948,26 +1398,6 @@
     "url": "https://agendalaplata.ar/evento/guerreras-doradas-teatro-metro-20260706181451",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260706181453.jpg"
-  },
-  {
-    "titulo": "Matilda - Dir Danny DeVito",
-    "fecha": "2026-08-02 15:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/matilda-dir-danny-devito-cine-club-proyecciones-terrestres-20260722193643",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260722193644.jpg"
-  },
-  {
-    "titulo": "Alicia y su mundo de ensueño",
-    "fecha": "2026-08-02 15:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/alicia-y-su-mundo-de-ensueno-espacio-doble-t-20260618222512",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
   },
   {
     "titulo": "Juguemos piola",
@@ -2980,6 +1410,46 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260718201527.jpg"
   },
   {
+    "titulo": "Alicia y su mundo de ensueño",
+    "fecha": "2026-08-02 15:00:00",
+    "lugar": "Espacio Doble-T",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/alicia-y-su-mundo-de-ensueno-espacio-doble-t-20260618222512",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260618222513.jpg"
+  },
+  {
+    "titulo": "Hugo Figueras sinfónico junto a la Orquesta Barrial y el Coro Juvenil de La Plata",
+    "fecha": "2026-08-02 15:00:00",
+    "lugar": "República de los Niños",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/hugo-figueras-sinfonico-junto-a-la-orquesta-barrial-y-el-coro-juvenil-de-la-plata-republica-de-los-ninos-20260730015719",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260730015720.jpg"
+  },
+  {
+    "titulo": "Matilda - Dir Danny DeVito",
+    "fecha": "2026-08-02 15:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/matilda-dir-danny-devito-cine-club-proyecciones-terrestres-20260722193643",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260722193644.jpg"
+  },
+  {
+    "titulo": "Todo lo que cabe en una maldita valija",
+    "fecha": "2026-08-02 15:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/todo-lo-que-cabe-en-una-maldita-valija-teatro-el-escape-20260728015810",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728015811.jpg"
+  },
+  {
     "titulo": "Jim y el durazno gigante",
     "fecha": "2026-08-02 15:00:00",
     "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
@@ -2987,7 +1457,7 @@
     "categoria": "infantil",
     "url": "https://agendalaplata.ar/evento/jim-y-el-durazno-gigante-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260714132403",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260714132404.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260728020227.jpg"
   },
   {
     "titulo": "Sapo en Buenos Aires",
@@ -3000,16 +1470,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260721005425.jpg"
   },
   {
-    "titulo": "Dúo Karma + Urraka",
-    "fecha": "2026-08-02 16:00:00",
-    "lugar": "Casa Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/duo-karma-urraka-casa-metro-20260620153855",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260620153856.jpg"
-  },
-  {
     "titulo": "Cosas que pasan en el barrio",
     "fecha": "2026-08-02 16:00:00",
     "lugar": "Centro de Arte UNLP",
@@ -3020,6 +1480,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260714171341.jpg"
   },
   {
+    "titulo": "Dúo Karma + Urraka",
+    "fecha": "2026-08-02 16:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/duo-karma-urraka-casa-metro-20260620153855",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260620153856.jpg"
+  },
+  {
     "titulo": "El bello durmiente",
     "fecha": "2026-08-02 16:00:00",
     "lugar": "Escenario 40",
@@ -3028,6 +1498,26 @@
     "url": "https://agendalaplata.ar/evento/el-bello-durmiente-escenario-40-20260706184040",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260720150323.jpg"
+  },
+  {
+    "titulo": "Dibuja tu propia aventura",
+    "fecha": "2026-08-02 16:00:00",
+    "lugar": "República de los Niños",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/dibuja-tu-propia-aventura-republica-de-los-ninos-20260724150539",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260724150540.jpg"
+  },
+  {
+    "titulo": "Telma, la unicornio",
+    "fecha": "2026-08-02 16:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/telma-la-unicornio-cine-select-espacio-incaa-20260728015133",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728015134.jpg"
   },
   {
     "titulo": "Emi - Dir Ezequiel Erriquez Mena",
@@ -3060,16 +1550,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260718224151.jpg"
   },
   {
-    "titulo": "Aladdin y el hechizo de la lámpara",
-    "fecha": "2026-08-02 18:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/aladdin-y-el-hechizo-de-la-lampara-escenario-40-20260706184139",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260706184140.jpg"
-  },
-  {
     "titulo": "Viaje Jurásico",
     "fecha": "2026-08-02 18:00:00",
     "lugar": "Teatro Metro",
@@ -3080,6 +1560,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260706181704.jpg"
   },
   {
+    "titulo": "Aladdin y el hechizo de la lámpara",
+    "fecha": "2026-08-02 18:00:00",
+    "lugar": "Escenario 40",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/aladdin-y-el-hechizo-de-la-lampara-escenario-40-20260706184139",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260706184140.jpg"
+  },
+  {
     "titulo": "Fiesta Pim Pau",
     "fecha": "2026-08-02 18:00:00",
     "lugar": "Teatro y Museo Coliseo Podestá",
@@ -3088,6 +1578,16 @@
     "url": "https://agendalaplata.ar/evento/fiesta-pim-pau-teatro-y-museo-coliseo-podesta-20260607235644",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260607235645.jpg"
+  },
+  {
+    "titulo": "Los árboles mueren de pie",
+    "fecha": "2026-08-02 18:30:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/los-arboles-mueren-de-pie-teatro-de-camara-city-bell-20260729163408",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729163409.jpg"
   },
   {
     "titulo": "¿Dónde estaré atrapado?",
@@ -3110,6 +1610,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260710132414.jpg"
   },
   {
+    "titulo": "Días perfectos - Wim Wenders",
+    "fecha": "2026-08-02 19:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/dias-perfectos-wim-wenders-cine-club-proyecciones-terrestres-20260728033052",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728033053.jpg"
+  },
+  {
     "titulo": "Entre Rejas",
     "fecha": "2026-08-02 20:30:00",
     "lugar": "Verde que te quiero Verde - Espacio de arte",
@@ -3120,6 +1630,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260718223227.jpg"
   },
   {
+    "titulo": "2001: Odisea en el espacio",
+    "fecha": "2026-08-02 21:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/2001-odisea-en-el-espacio-cine-ecoselect-espacio-incaa-20260706175027",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260706175028.jpg"
+  },
+  {
     "titulo": "Ya nunca me verás como me vieras - Presentación del libro de Guillermo Defranco",
     "fecha": "2026-08-05 19:00:00",
     "lugar": "Club Atlético y Fomento City Bell",
@@ -3128,5 +1648,525 @@
     "url": "https://agendalaplata.ar/evento/ya-nunca-me-veras-como-me-vieras-presentacion-del-libro-de-guillermo-defranco-club-atletico-y-fomento-city-bell-20260721004615",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260721004616.jpg"
+  },
+  {
+    "titulo": "Dona Flor e seus dois maridos (1976)",
+    "fecha": "2026-08-05 20:00:00",
+    "lugar": "Casa sesentaydos",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/dona-flor-e-seus-dois-maridos-1976-casa-sesentaydos-20260728033521",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728033522.jpg"
+  },
+  {
+    "titulo": "La guardia del humor",
+    "fecha": "2026-08-06 20:30:00",
+    "lugar": "Centro cultural Buena Vista",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/la-guardia-del-humor-centro-cultural-buena-vista-20260730030018",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260730030019.jpg"
+  },
+  {
+    "titulo": "Duo Ayala Valerio – Tangos y andares",
+    "fecha": "2026-08-06 21:00:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/duo-ayala-valerio-tangos-y-andares-viejo-almacen-el-obrero-cantina-del-obrero-20260728025645",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728025646.jpg"
+  },
+  {
+    "titulo": "Cortá la semana",
+    "fecha": "2026-08-06 23:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/corta-la-semana-teatro-rene-favaloro-20260728023017",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728023018.jpg"
+  },
+  {
+    "titulo": "Matias Iriarte",
+    "fecha": "2026-08-07 20:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/matias-iriarte-casa-suiza-20260728022850",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728022851.jpg"
+  },
+  {
+    "titulo": "Psicosex - Luz Migueles",
+    "fecha": "2026-08-07 20:00:00",
+    "lugar": "El Teatro BAR",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/psicosex-luz-migueles-el-teatro-bar-20260710123538",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260710123539.jpg"
+  },
+  {
+    "titulo": "Peña patria",
+    "fecha": "2026-08-07 20:00:00",
+    "lugar": "Comunidad Ferroviaria",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/pena-patria-comunidad-ferroviaria-20260610025003",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260710123328.jpg"
+  },
+  {
+    "titulo": "Amores chinos",
+    "fecha": "2026-08-07 20:30:00",
+    "lugar": "Teatro La Nonna",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/amores-chinos-teatro-la-nonna-20260626231620",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260626231621.jpg"
+  },
+  {
+    "titulo": "La chirichota",
+    "fecha": "2026-08-07 21:00:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-chirichota-teatro-y-museo-coliseo-podesta-20260604033810",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260604033811.jpg"
+  },
+  {
+    "titulo": "Mi Gran Casamiento Hebreo - Lea Bensasson",
+    "fecha": "2026-08-07 21:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/mi-gran-casamiento-hebreo-lea-bensasson-casa-metro-20260623005821",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260623005822.jpg"
+  },
+  {
+    "titulo": "Part Time Covers",
+    "fecha": "2026-08-07 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/part-time-covers-espacio-live-20260720144502",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720144503.jpg"
+  },
+  {
+    "titulo": "Dante Spinetta",
+    "fecha": "2026-08-07 21:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/dante-spinetta-teatro-opera-20260530005641",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260530005642.jpg"
+  },
+  {
+    "titulo": "LvRod",
+    "fecha": "2026-08-07 21:00:00",
+    "lugar": "Cletta",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/lvrod-cletta-20260726125732",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260726125858.jpg"
+  },
+  {
+    "titulo": "Perro Balkan + Vamo y vamo",
+    "fecha": "2026-08-07 21:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/perro-balkan-vamo-y-vamo-esquina-america-20260728015645",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728015646.jpg"
+  },
+  {
+    "titulo": "Gaspar Benegas",
+    "fecha": "2026-08-07 22:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/gaspar-benegas-guajira-bar-20260627020148",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260627020149.jpg"
+  },
+  {
+    "titulo": "Toch",
+    "fecha": "2026-08-07 22:30:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/toch-casa-metro-20260602225218",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260602225219.jpg"
+  },
+  {
+    "titulo": "Los Totora + Open Door",
+    "fecha": "2026-08-07 23:55:00",
+    "lugar": "Green Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/los-totora-open-door-green-bar-20260730014229",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260730014230.jpg"
+  },
+  {
+    "titulo": "LOSA - DJ SET - Full perreo cochino",
+    "fecha": "2026-08-07 23:55:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/losa-dj-set-full-perreo-cochino-ciudad-de-gatos-20260720230326",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720230327.jpg"
+  },
+  {
+    "titulo": "La Calurosa + Orquesta barrilete + El Lima arravillero",
+    "fecha": "2026-08-07 23:55:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-calurosa-orquesta-barrilete-el-lima-arravillero-casa-unclan-20260710123943",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260710123944.jpg"
+  },
+  {
+    "titulo": "Los clásicos - Antón Chejov",
+    "fecha": "2026-08-08 12:00:00",
+    "lugar": "Casa Hereje",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/los-clasicos-anton-chejov-casa-hereje-20260703142706",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260703142707.jpg"
+  },
+  {
+    "titulo": "Ballet Al Andalus - Gala de escuelas",
+    "fecha": "2026-08-08 17:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/ballet-al-andalus-gala-de-escuelas-teatro-de-camara-city-bell-20260627015138",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260627015139.jpg"
+  },
+  {
+    "titulo": "Ipa Day - Festival de las Ipas",
+    "fecha": "2026-08-08 18:00:00",
+    "lugar": "Ateneo Popular de Fútbol Tolosa",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/ipa-day-festival-de-las-ipas-ateneo-popular-de-futbol-tolosa-20260716234244",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260716234245.jpg"
+  },
+  {
+    "titulo": "Feria Vermutera",
+    "fecha": "2026-08-08 18:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/feria-vermutera-20260623022225",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260623022226.jpg"
+  },
+  {
+    "titulo": "Con las manos atadas",
+    "fecha": "2026-08-08 18:00:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/con-las-manos-atadas-teatro-espacio-44-20260726155413",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260726155420.jpg"
+  },
+  {
+    "titulo": "Ipa day platense 2026 - Los Charros",
+    "fecha": "2026-08-08 19:00:00",
+    "lugar": "Club Ateneo Popular - La unión Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/ipa-day-platense-2026-los-charros-club-ateneo-popular-la-union-bar-20260729203722",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729203723.jpg"
+  },
+  {
+    "titulo": "Javier Malosetti Full Band",
+    "fecha": "2026-08-08 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/javier-malosetti-full-band-desafinado-club-20260720161130",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720161131.jpg"
+  },
+  {
+    "titulo": "Noelia pace",
+    "fecha": "2026-08-08 20:00:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/noelia-pace-teatro-y-museo-coliseo-podesta-20260530005139",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260530005140.jpg"
+  },
+  {
+    "titulo": "Guarany x Guaraní - Homenaje de su hijo al gran artista popular argentino",
+    "fecha": "2026-08-08 20:30:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/guarany-x-guarani-homenaje-de-su-hijo-al-gran-artista-popular-argentino-pasaje-dardo-rocha-20260715152017",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260715152018.jpg"
+  },
+  {
+    "titulo": "Pedro Saborido - Felicidad + Terapia Peronística",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "CICOP - Asociación Sindical de Profesionales de la Salud de la Provincia de Buenos Aires",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/pedro-saborido-felicidad-terapia-peronistica-cicop-asociacion-sindical-de-profesionales-de-la-salud-de-la-provincia-de-buenos-aires-20260711052410",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260711052411.jpg"
+  },
+  {
+    "titulo": "Murga Esta te la debo",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Colibrí Arte y Cultura",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/murga-esta-te-la-debo-colibri-arte-y-cultura-20260713010622",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260713010623.jpg"
+  },
+  {
+    "titulo": "La leona (El amor de una madre nunca se rompe)",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Teatro Estudio",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-leona-el-amor-de-una-madre-nunca-se-rompe-teatro-estudio-20260707194414",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260707194415.jpg"
+  },
+  {
+    "titulo": "Segunda mano",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/segunda-mano-espacio-live-20260711050620",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260711050621.jpg"
+  },
+  {
+    "titulo": "Adriana Varela",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/adriana-varela-casa-metro-20260601223746",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260601223747.jpg"
+  },
+  {
+    "titulo": "Los Pérez García",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/los-perez-garcia-teatro-opera-20260511235154",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260511235155.jpg"
+  },
+  {
+    "titulo": "Kun, el príncipe del acordeón",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/kun-el-principe-del-acordeon-guajira-bar-20260729202411",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729202412.jpg"
+  },
+  {
+    "titulo": "Secretos de Familia",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/secretos-de-familia-dynamo-teatro-20260720154717",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720154718.jpg"
+  },
+  {
+    "titulo": "Perros de presa",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Pura Vida",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/perros-de-presa-pura-vida-20260722195521",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260722195522.jpg"
+  },
+  {
+    "titulo": "NAVE + el Ruido de las Nubes",
+    "fecha": "2026-08-08 21:00:00",
+    "lugar": "Centro Cultural Omar Favero",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/nave-el-ruido-de-las-nubes-centro-cultural-omar-favero-20260725160807",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725160808.jpg"
+  },
+  {
+    "titulo": "Gauchos of the Pampa - La Milenaria",
+    "fecha": "2026-08-08 21:05:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/gauchos-of-the-pampa-la-milenaria-casa-metro-20260720150823",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260720150824.jpg"
+  },
+  {
+    "titulo": "Esquina libertad",
+    "fecha": "2026-08-08 22:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/esquina-libertad-teatro-rene-favaloro-20260722211629",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260722211630.jpg"
+  },
+  {
+    "titulo": "ketanminas",
+    "fecha": "2026-08-08 23:55:00",
+    "lugar": "Comunidad Ferroviaria",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/ketanminas-comunidad-ferroviaria-20260729213124",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729213125.jpg"
+  },
+  {
+    "titulo": "Festival de Folklore - Los Tekis + Los Tabaleros",
+    "fecha": "2026-08-09 14:00:00",
+    "lugar": "Plaza Moreno",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/festival-de-folklore-los-tekis-los-tabaleros-plaza-moreno-20260715163442",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260715163443.jpg"
+  },
+  {
+    "titulo": "Festival Destello",
+    "fecha": "2026-08-09 15:00:00",
+    "lugar": "Club Aconcagua",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/festival-destello-club-aconcagua-20260714134200",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260714134201.jpg"
+  },
+  {
+    "titulo": "Al obrero desde la cuna",
+    "fecha": "2026-08-09 15:30:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/al-obrero-desde-la-cuna-viejo-almacen-el-obrero-cantina-del-obrero-20260728025542",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260728025543.jpg"
+  },
+  {
+    "titulo": "Fiesta Senegalesa",
+    "fecha": "2026-08-09 16:00:00",
+    "lugar": "Macá Cultura",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/fiesta-senegalesa-maca-cultura-20260725141357",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725141358.jpg"
+  },
+  {
+    "titulo": "Ahora es siempre todavia",
+    "fecha": "2026-08-09 19:30:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/ahora-es-siempre-todavia-teatro-espacio-44-20260730024518",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260730024519.jpg"
+  },
+  {
+    "titulo": "La mojigata",
+    "fecha": "2026-08-09 20:00:00",
+    "lugar": "Comunidad Ferroviaria",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-mojigata-comunidad-ferroviaria-20260710111835",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260710111836.jpg"
+  },
+  {
+    "titulo": "Muerdo - Volver a donde nacen las canciones",
+    "fecha": "2026-08-09 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/muerdo-volver-a-donde-nacen-las-canciones-ciudad-de-gatos-20260613191246",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260613191247.jpg"
+  },
+  {
+    "titulo": "Rap de barrio",
+    "fecha": "2026-08-09 21:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/rap-de-barrio-teatro-rene-favaloro-20260705025953",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260705025954.jpg"
+  },
+  {
+    "titulo": "Ensayo Abierto de Manijas + Monoblock, Jam de Ritmo con Señas",
+    "fecha": "2026-08-11 20:00:00",
+    "lugar": "El Conventillo Centro Cultural",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/ensayo-abierto-de-manijas-monoblock-jam-de-ritmo-con-senas-el-conventillo-centro-cultural-20260729210319",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260729210320.jpg"
+  },
+  {
+    "titulo": "La guarida del gusano blanco (1988) Dir. Ken Russell",
+    "fecha": "2026-08-11 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-guarida-del-gusano-blanco-1988-dir-ken-russell-cine-club-proyecciones-terrestres-20260730013656",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260730013657.jpg"
+  },
+  {
+    "titulo": "La EDTA Baila III",
+    "fecha": "2026-08-12 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/la-edta-baila-iii-pasaje-dardo-rocha-20260721234926",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260721234927.jpg"
   }
 ]

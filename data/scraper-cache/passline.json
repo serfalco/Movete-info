@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Los Chicos de la Rosa en Espacio Live",
-    "fecha": "2026-07-25 21:00:00",
-    "lugar": "Espacio Live La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/los-chicos-de-la-rosa-en-espacio-live",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/los-chicos-de-la-rosa-en-espacio-live-522695-rec.jpg"
-  },
-  {
     "titulo": "Fafo en Espacio Live, presentando Tren",
     "fecha": "2026-07-31 21:00:00",
     "lugar": "Espacio Live La Plata",
@@ -80,6 +70,16 @@
     "imagen": "https://www.passline.com/imagenes/eventos/zambayonny-acustico-y-completo-527061-rec.jpg"
   },
   {
+    "titulo": "Queen + Elton John, por Martin Babenco - Especial Freddie Mercury, 80 Años",
+    "fecha": "2026-09-04 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/queen-elton-john-por-martin-babenco-especial-freddie-mercury-80-anos",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/queen-elton-john-por-martin-babenco-especial-freddie-mercury-80-anos-538701-rec.jpg"
+  },
+  {
     "titulo": "Todo The Police, por The Police Station",
     "fecha": "2026-09-05 21:00:00",
     "lugar": "Espacio Live La Plata",
@@ -108,5 +108,15 @@
     "url": "https://www.passline.com/eventos/1000-horas-tributo-a-los-abuelos-en-espacio-live-la-plata",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/1000-horas-tributo-a-los-abuelos-en-espacio-live-la-plata-537220-rec.jpg"
+  },
+  {
+    "titulo": "La Magdalena, Noche Sabinera en Espacio Live La Plata",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/la-magdalena-noche-sabinera-en-espacio-live-la-plata",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/la-magdalena-noche-sabinera-en-espacio-live-la-plata-538704-rec.jpg"
   }
 ]

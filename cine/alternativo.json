@@ -1,80 +1,92 @@
 [
   {
-    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-24"
+    "titulo": "Una directora extraordinaria",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-07-31"
   },
   {
-    "titulo": "Habitaciones para turistas - Dir Adrian García Bogliano",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-24"
+    "titulo": "La Sombra del Ángel - Dir Ramiro Peri",
+    "hora": "19:30",
+    "espacio": "El Galpón de fierro",
+    "fecha": "2026-07-31"
   },
   {
-    "titulo": "Las alas del deseo - Wim Wenders",
-    "hora": "23:55",
+    "titulo": "En el cine - Dir. Matías Szulanski",
+    "hora": "20:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-24"
+    "fecha": "2026-07-31"
   },
   {
-    "titulo": "Crash",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-25"
+    "titulo": "Fahrenheit 451",
+    "hora": "20:00",
+    "espacio": "Espacio Moliere",
+    "fecha": "2026-07-31"
   },
   {
-    "titulo": "Fuego - Dir Armando Bo",
+    "titulo": "Días perfectos - Wim Wenders",
     "hora": "22:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-25"
-  },
-  {
-    "titulo": "Nazareno Cruz y El Lobo - Mes de Leonardo Favio",
-    "hora": "17:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-26"
-  },
-  {
-    "titulo": "Blade Runner",
-    "hora": "18:00",
-    "espacio": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "fecha": "2026-07-26"
-  },
-  {
-    "titulo": "El atardecer de los grillos - Dir Gonzalo Almeida",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-26"
-  },
-  {
-    "titulo": "Las cosas de la vida - Dir. Claude Sautet Año: 1970",
-    "hora": "20:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-26"
+    "fecha": "2026-07-31"
   },
   {
     "titulo": "2001: Odisea en el espacio",
-    "hora": "20:00",
+    "hora": "23:55",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-26"
+    "fecha": "2026-07-31"
   },
   {
-    "titulo": "Las alas del deseo - Wim Wenders",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-26"
-  },
-  {
-    "titulo": "The twilight zone IV (La Dimensión Desconocida IV)",
-    "hora": "20:30",
+    "titulo": "Una directora extraordinaria",
+    "hora": "18:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-28"
+    "fecha": "2026-08-01"
   },
   {
-    "titulo": "Rapado (Martín Rejtman, 1992)",
+    "titulo": "Proyección en vivo de 5 cortos",
+    "hora": "19:00",
+    "espacio": "Telón Negro",
+    "fecha": "2026-08-01"
+  },
+  {
+    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
     "hora": "20:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-08-01"
+  },
+  {
+    "titulo": "La sal de la tierra",
+    "hora": "22:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-08-01"
+  },
+  {
+    "titulo": "2001: Odisea en el espacio",
+    "hora": "23:55",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-29"
+    "fecha": "2026-08-01"
+  },
+  {
+    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
+    "hora": "17:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-08-02"
+  },
+  {
+    "titulo": "Días perfectos - Wim Wenders",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-08-02"
+  },
+  {
+    "titulo": "2001: Odisea en el espacio",
+    "hora": "21:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-08-02"
+  },
+  {
+    "titulo": "Dona Flor e seus dois maridos (1976)",
+    "hora": "20:00",
+    "espacio": "Casa sesentaydos",
+    "fecha": "2026-08-05"
   }
 ]
