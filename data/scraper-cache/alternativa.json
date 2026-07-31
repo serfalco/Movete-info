@@ -5,7 +5,7 @@
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra8510-trika-fopte",
+    "url": "https://publico.alternativateatral.com/entradas8510-trika-fopte?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/000016357.jpg"
   },
@@ -18,26 +18,6 @@
     "url": "https://www.alternativateatral.com.ar/obra41751-la-nona",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/26/000303026.jpg"
-  },
-  {
-    "titulo": "Perez y compañia",
-    "fecha": "2026-07-30 15:00:00",
-    "lugar": "ESPACIO MOLIERE CITYBELL",
-    "direccion": "Sarmiento (15 A) 826, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas66914-perez-y-compania?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/88/000317388.jpg"
-  },
-  {
-    "titulo": "El Principito",
-    "fecha": "2026-07-30 15:00:00",
-    "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
-    "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra70884-el-principito",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/53/000235653.jpg"
   },
   {
     "titulo": "Murga: Esa Te La Debo",
@@ -155,7 +135,7 @@
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra95563-alicia-o-como-narrar-el-olvido",
+    "url": "https://publico.alternativateatral.com/entradas95563-alicia-o-como-narrar-el-olvido?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/49/000299649.jpg"
   },
@@ -351,7 +331,7 @@
   },
   {
     "titulo": "El hijo del superhéroe",
-    "fecha": "2026-07-30 15:00:00",
+    "fecha": "2026-07-31 15:00:00",
     "lugar": "TEATRO LA LECHUZA",
     "direccion": "Calle 58 e/ 10 y 11, La Plata",
     "categoria": "teatro",
@@ -475,7 +455,7 @@
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102252-supercheria",
+    "url": "https://publico.alternativateatral.com/entradas102252-supercheria?o=6",
     "fuente": "alternativa",
     "imagen": ""
   },
@@ -498,5 +478,15 @@
     "url": "https://publico.alternativateatral.com/entradas102274-genesis-asi-somos?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/49/000318249.jpg"
+  },
+  {
+    "titulo": "Sofia Viola & El Nuevo Ají + invitadxs abre: La Montaña en el Viento",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "GUAJIRA BAR",
+    "direccion": "Calle 49 484, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102290-sofia-viola-el-nuevo-aji-invitadxs-abre-la-montana-en-el-viento",
+    "fuente": "alternativa",
+    "imagen": ""
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "JUGUETES EN ACCION",
-    "fecha": "2026-07-30 17:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9801/juguetes-en-accion",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3235.jpeg"
-  },
-  {
     "titulo": "SUPERCACHORROS 2026",
     "fecha": "2026-07-31 15:00:00",
     "lugar": "Metro",
@@ -78,6 +68,16 @@
     "url": "https://www.plateaunotickets.com/obra/9779/lightplay-trib-a-coldplay",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3226.jpeg"
+  },
+  {
+    "titulo": "ALEJANDRO LERNER CARA A CARA",
+    "fecha": "2026-09-10 21:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/9975/alejandro-lerner-cara-a-cara",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3353.jpeg"
   },
   {
     "titulo": "HILDA FEST 2026",
