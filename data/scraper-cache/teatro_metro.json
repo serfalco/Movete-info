@@ -1,45 +1,5 @@
 [
   {
-    "titulo": "Princesas de hielo",
-    "fecha": "2026-08-01 15:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "topo por el mundo",
-    "fecha": "2026-08-01 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Cazadoras Doradas",
-    "fecha": "2026-08-02 14:30:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Viaje Jurásico",
-    "fecha": "2026-08-02 18:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
     "titulo": "Candlelight",
     "fecha": "2026-08-07 19:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -52,6 +12,16 @@
   {
     "titulo": "LIGHTPLAY | TRIBUTO A COLDPLAY",
     "fecha": "2026-08-14 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "Es complicado",
+    "fecha": "2026-08-30 21:00:00",
     "lugar": "Teatro Metro La Plata",
     "direccion": "Calle 4 entre 51 y 53, La Plata",
     "categoria": "teatro",

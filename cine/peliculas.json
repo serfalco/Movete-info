@@ -157,6 +157,33 @@
     "tmdb_id": 44502,
     "trailer": ""
   },
+  "el dia d bajo presion": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+    "director": "Anthony Maras",
+    "duracion": 101,
+    "elenco": [
+      "Andrew Scott",
+      "Brendan Fraser",
+      "Kerry Condon"
+    ],
+    "generos": [
+      "Suspense",
+      "Historia",
+      "Bélica"
+    ],
+    "paises": [
+      "United Kingdom",
+      "France"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
+    "score": 7.741,
+    "sinopsis": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
+    "titulo": "Tiempo de victoria",
+    "titulo_original": "Pressure",
+    "tmdb_id": 1318413,
+    "trailer": "https://www.youtube.com/watch?v=AlB1rAHviO4"
+  },
   "el dia de la revelacion": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
@@ -232,6 +259,31 @@
     "tmdb_id": 1666712,
     "trailer": ""
   },
+  "engendro": {
+    "anio": "1977",
+    "backdrop": "https://image.tmdb.org/t/p/w780/UJZePu7YMnmj4B6d7ilmXMI0c5.jpg",
+    "director": "Donald Cammell",
+    "duracion": 95,
+    "elenco": [
+      "Julie Christie",
+      "Fritz Weaver",
+      "Gerrit Graham"
+    ],
+    "generos": [
+      "Terror",
+      "Ciencia ficción"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/tmu0cKX4w4X1jTuFGSFWVjyh13X.jpg",
+    "score": 5.9,
+    "sinopsis": "Susan Harris está sola en casa cuando, de repente, la puerta se cierra con llave, las ventanas se cierran de golpe y el teléfono deja de funcionar. Susan ha sido atrapada por un intruso… pero no se trata de un matón ordinario. No, el intruso es un ordenador llamado Proteus, un cerebro artificial que ha aprendido a razonar. Y a aterrorizar.",
+    "titulo": "Engendro mecánico",
+    "titulo_original": "Demon Seed",
+    "tmdb_id": 18775,
+    "trailer": ""
+  },
   "evil dead en llamas": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
@@ -286,6 +338,32 @@
   },
   "jue 12 30 17 30 20 00 el diablo viste a la moda 2": null,
   "jueves a viernes 21 30 minions y monstruos": null,
+  "la invitacion": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+    "director": "Olivia Wilde",
+    "duracion": 107,
+    "elenco": [
+      "Seth Rogen",
+      "Olivia Wilde",
+      "Penélope Cruz"
+    ],
+    "generos": [
+      "Drama",
+      "Comedia",
+      "Romance"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+    "score": 7.7,
+    "sinopsis": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+    "titulo": "La invitación",
+    "titulo_original": "The Invite",
+    "tmdb_id": 950028,
+    "trailer": ""
+  },
   "la odisea": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
@@ -364,6 +442,31 @@
     "titulo_original": "La Venue de l'avenir",
     "tmdb_id": 1235304,
     "trailer": ""
+  },
+  "los domingos": {
+    "anio": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jVwvhKpw6a7c7JmHhMykKAn7buQ.jpg",
+    "director": "Alauda Ruiz de Azúa",
+    "duracion": 112,
+    "elenco": [
+      "Blanca Soroa",
+      "Patricia López Arnaiz",
+      "Miguel Garcés"
+    ],
+    "generos": [
+      "Drama"
+    ],
+    "paises": [
+      "Spain",
+      "France"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/kwpDm6qtON8pLCSY0C8MltMofEE.jpg",
+    "score": 7.003,
+    "sinopsis": "Ainara es una joven idealista y brillante de 17 años que, a priori, ha de decidir qué carrera universitaria estudiará. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que está dispuesta a abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos.",
+    "titulo": "Los domingos",
+    "titulo_original": "Los domingos",
+    "tmdb_id": 1443576,
+    "trailer": "https://www.youtube.com/watch?v=yyLrtKGQ5KA"
   },
   "michael": {
     "anio": "2026",

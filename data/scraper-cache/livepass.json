@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "VIRUS",
-    "fecha": "2026-08-01 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "DANTE SPINETTA",
     "fecha": "2026-08-07 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -170,8 +160,28 @@
     "imagen": ""
   },
   {
+    "titulo": "DANCING MOOD",
+    "fecha": "2026-10-17 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
     "titulo": "ESCALANDRUM",
     "fecha": "2026-10-24 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "GIROS",
+    "fecha": "2026-11-13 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",

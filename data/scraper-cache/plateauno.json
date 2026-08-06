@@ -1,65 +1,5 @@
 [
   {
-    "titulo": "SUPERCACHORROS 2026",
-    "fecha": "2026-07-31 15:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9893/supercachorros-2026",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3294.jpeg"
-  },
-  {
-    "titulo": "VIAJE JURASICO .",
-    "fecha": "2026-07-31 17:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9895/viaje-jurasico",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3296.jpeg"
-  },
-  {
-    "titulo": "PRINCESAS DEL HIELO",
-    "fecha": "2026-08-01 15:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9891/princesas-del-hielo",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3293.jpeg"
-  },
-  {
-    "titulo": "UN TOPO POR EL MUNDO",
-    "fecha": "2026-08-01 20:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9918/un-topo-por-el-mundo",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3313.jpeg"
-  },
-  {
-    "titulo": "CAZADORAS DORADAS.",
-    "fecha": "2026-08-02 14:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9877/cazadoras-doradas",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3281.jpeg"
-  },
-  {
-    "titulo": "VIAJE JURASICO .",
-    "fecha": "2026-08-02 18:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9896/viaje-jurasico",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3296.jpeg"
-  },
-  {
     "titulo": "LIGHTPLAY TRIB A COLDPLAY",
     "fecha": "2026-08-14 21:00:00",
     "lugar": "Metro",
@@ -68,6 +8,16 @@
     "url": "https://www.plateaunotickets.com/obra/9779/lightplay-trib-a-coldplay",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3226.jpeg"
+  },
+  {
+    "titulo": "ES COMPLICADO..",
+    "fecha": "2026-08-30 19:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/9981/es-complicado",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3358.jpeg"
   },
   {
     "titulo": "ALEJANDRO LERNER CARA A CARA",
@@ -108,6 +58,16 @@
     "url": "https://www.plateaunotickets.com/obra/9917/el-escritor-de-todas-las",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3312.jpeg"
+  },
+  {
+    "titulo": "EL HOMBRE INESPERADO.",
+    "fecha": "2026-10-02 21:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/9984/el-hombre-inesperado",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3228.jpeg"
   },
   {
     "titulo": "LA BIBLIOTECA PERDIDA",

@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "Fafo en Espacio Live, presentando Tren",
-    "fecha": "2026-07-31 21:00:00",
-    "lugar": "Espacio Live La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/fafo-en-espacio-live-presentando-tren",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/fafo-en-espacio-live-presentando-tren-529050-rec.jpg"
-  },
-  {
-    "titulo": "Mr. Collins, Tributo a Phil Collins y Génesis",
-    "fecha": "2026-08-01 21:00:00",
-    "lugar": "Espacio Live La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/mr-collins-tributo-a-phil-collins-y-genesis",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/mr-collins-tributo-a-phil-collins-y-genesis-528997-rec.jpg"
-  },
-  {
     "titulo": "Part Time Covers, en Espacio Live La Plata",
     "fecha": "2026-08-07 21:00:00",
     "lugar": "Espacio Live la Plata",
@@ -58,6 +38,16 @@
     "url": "https://www.passline.com/eventos/gaby-castelli-en-vivo-presenta-sabor-a-gloria-canciones-de-gloria-estefan",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/gaby-castelli-en-vivo-con-sabor-a-gloria-canciones-de-gloria-estefan-517816-rec.jpg"
+  },
+  {
+    "titulo": "Malena Rossi, De la Cuna al Escenario",
+    "fecha": "2026-08-22 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/malena-rossi-de-la-cuna-al-escenario",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/malena-rossi-de-la-cuna-al-escenario-542218-rec.jpg"
   },
   {
     "titulo": "Zambayonny, Acústico y Completo",

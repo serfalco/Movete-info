@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-30"
+    "ultima_semana": "2026-08-06"
   },
   "454639": {
     "tmdb": {
@@ -712,7 +712,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-23"
+    "ultima_semana": "2026-08-06"
   },
   "1081003": {
     "tmdb": {
@@ -1058,7 +1058,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-30"
+    "ultima_semana": "2026-08-06"
   },
   "1314481": {
     "tmdb": {
@@ -1605,7 +1605,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-23"
+    "ultima_semana": "2026-08-06"
   },
   "1273221": {
     "tmdb": {
@@ -1822,7 +1822,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-23"
+    "ultima_semana": "2026-08-06"
   },
   "44502": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-30"
+    "ultima_semana": "2026-08-06"
   },
   "1108427": {
     "tmdb": {
@@ -2494,7 +2494,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-30"
+    "ultima_semana": "2026-08-06"
   },
   "1212763": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-30"
+    "ultima_semana": "2026-08-06"
   },
   "1666712": {
     "tmdb": {
@@ -3246,6 +3246,691 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-30"
+    "ultima_semana": "2026-08-06"
+  },
+  "18775": {
+    "tmdb": {
+      "tmdb_id": 18775,
+      "titulo": "Engendro mecánico",
+      "titulo_original": "Demon Seed",
+      "tagline": "La máquina quiere un hijo. Pero necesita una mujer",
+      "anio": "1977",
+      "estreno": "1977-04-07",
+      "duracion": 95,
+      "generos": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "score": 5.9,
+      "votos": 274,
+      "certificacion": "R",
+      "sinopsis": "Susan Harris está sola en casa cuando, de repente, la puerta se cierra con llave, las ventanas se cierran de golpe y el teléfono deja de funcionar. Susan ha sido atrapada por un intruso… pero no se trata de un matón ordinario. No, el intruso es un ordenador llamado Proteus, un cerebro artificial que ha aprendido a razonar. Y a aterrorizar.",
+      "poster": "https://image.tmdb.org/t/p/w342/tmu0cKX4w4X1jTuFGSFWVjyh13X.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/UJZePu7YMnmj4B6d7ilmXMI0c5.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/UJZePu7YMnmj4B6d7ilmXMI0c5.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/UJZePu7YMnmj4B6d7ilmXMI0c5.jpg",
+        "https://image.tmdb.org/t/p/w780/w3HwEVXjTlQCseVoLcNXSMBZFi7.jpg",
+        "https://image.tmdb.org/t/p/w780/7rTbAaVI1M3gbx5h9QENFy5H0aG.jpg",
+        "https://image.tmdb.org/t/p/w780/gZnYAzOakSL5QK519ixYKF2Qben.jpg",
+        "https://image.tmdb.org/t/p/w780/p6jk4rMLnmef6jqN95hb6w0nmi0.jpg",
+        "https://image.tmdb.org/t/p/w780/e7rSO2lRF4y7XGtwlpq1TfylqpE.jpg"
+      ],
+      "director": "Donald Cammell",
+      "guionistas": [
+        "Roger O. Hirson",
+        "Robert Jaffe"
+      ],
+      "musica": "Jerry Fielding",
+      "elenco": [
+        {
+          "nombre": "Julie Christie",
+          "personaje": "Susan Harris",
+          "foto": "https://image.tmdb.org/t/p/w185/o4yCBrDoUGSFGG02A1yMBRE36SF.jpg",
+          "iniciales": "JC"
+        },
+        {
+          "nombre": "Fritz Weaver",
+          "personaje": "Alex Harris",
+          "foto": "https://image.tmdb.org/t/p/w185/gjudPIeWyMJaxDvkRgx0HoTf2zG.jpg",
+          "iniciales": "FW"
+        },
+        {
+          "nombre": "Gerrit Graham",
+          "personaje": "Walter Gabler",
+          "foto": "https://image.tmdb.org/t/p/w185/itz1a5P3RxCt8BySFbMxKCQ5yeZ.jpg",
+          "iniciales": "GG"
+        },
+        {
+          "nombre": "Berry Kroeger",
+          "personaje": "Petrosian",
+          "foto": "https://image.tmdb.org/t/p/w185/egarsq9nJe61ligHIhOsrCSnd9d.jpg",
+          "iniciales": "BK"
+        },
+        {
+          "nombre": "Lisa Lu",
+          "personaje": "Soong Yen",
+          "foto": "https://image.tmdb.org/t/p/w185/8z1ZyQ8eRPpBU5wgSnmeajYPaXT.jpg",
+          "iniciales": "LL"
+        },
+        {
+          "nombre": "Larry J. Blake",
+          "personaje": "Cameron",
+          "foto": "https://image.tmdb.org/t/p/w185/b4dfz0xLUHJJJEPmAmAI2jrzXBj.jpg",
+          "iniciales": "LB"
+        },
+        {
+          "nombre": "John O'Leary",
+          "personaje": "Royce",
+          "foto": null,
+          "iniciales": "JO"
+        },
+        {
+          "nombre": "Alfred Dennis",
+          "personaje": "Mokri",
+          "foto": "https://image.tmdb.org/t/p/w185/m1pu0VnayenM9N6Beun0LS413X.jpg",
+          "iniciales": "AD"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Metro-Goldwyn-Mayer"
+      ],
+      "temas": [
+        "Man vs machine",
+        "Rape",
+        "Artificial intelligence (a.i.)",
+        "Computer",
+        "Technology",
+        "Held captive",
+        "Computer scientist",
+        "Confinement"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt0075931",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 283566,
+          "titulo": "Evangelion: 3.0+1.01 Thrice Upon a Time",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/2QiEVEePwGGwzCWaxrVR5B4LLnu.jpg",
+          "score": 8.2
+        },
+        {
+          "tmdb_id": 28067,
+          "titulo": "El buque maldito",
+          "anio": "1974",
+          "poster": "https://image.tmdb.org/t/p/w342/gGewrxJIhsZ0q6GET6plNUzRKCe.jpg",
+          "score": 4.917
+        },
+        {
+          "tmdb_id": 28230,
+          "titulo": "Serial Killer Massacre",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/k0ikkfEbFhpys54OOUJqmqmtkHd.jpg",
+          "score": 2.5
+        },
+        {
+          "tmdb_id": 28325,
+          "titulo": "Emanuelle alrededor del mundo",
+          "anio": "1977",
+          "poster": "https://image.tmdb.org/t/p/w342/Ad0kNLtoC4nq7NFAhY29zrqk0kV.jpg",
+          "score": 5.621
+        },
+        {
+          "tmdb_id": 28340,
+          "titulo": "El maníaco invisible",
+          "anio": "1990",
+          "poster": "https://image.tmdb.org/t/p/w342/222vdW3EfMXoQuLYEvAzxgt3EiM.jpg",
+          "score": 4.336
+        },
+        {
+          "tmdb_id": 644756,
+          "titulo": "e-Virus",
+          "anio": "2015",
+          "poster": "https://image.tmdb.org/t/p/w342/h9GRl2vYMvz2wR5QmIF4zXjs36M.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 27601,
+          "titulo": "El vengador tóxico IV: Ciudadano Toxie",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/dT9TjmI3ajlC37naax53DWvXsAF.jpg",
+          "score": 6.075
+        },
+        {
+          "tmdb_id": 463325,
+          "titulo": "Genesis: The Fall of Eden",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/tOgWvHRZGH9SdEG33ScuMSPtuK3.jpg",
+          "score": 3.6
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-06"
+  },
+  "1318413": {
+    "tmdb": {
+      "tmdb_id": 1318413,
+      "titulo": "Tiempo de victoria",
+      "titulo_original": "Pressure",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-05-25",
+      "duracion": 101,
+      "generos": [
+        "Suspense",
+        "Historia",
+        "Bélica"
+      ],
+      "score": 7.755,
+      "votos": 252,
+      "certificacion": "PG-13",
+      "sinopsis": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
+      "poster": "https://image.tmdb.org/t/p/w342/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+        "https://image.tmdb.org/t/p/w780/uvFzRbxRIhFr3Eyf0kwYgUESr8c.jpg",
+        "https://image.tmdb.org/t/p/w780/e7LV0eqqh9jEcLW1bI56lzn70zb.jpg",
+        "https://image.tmdb.org/t/p/w780/t0FnZbl47k4m638wBj7zVkPtwjk.jpg",
+        "https://image.tmdb.org/t/p/w780/hZnaXN9XJ0NZI99OJoW2B8PV8c5.jpg",
+        "https://image.tmdb.org/t/p/w780/nrcOGq5cmRNFGZ6JbPvfGr0G6wR.jpg"
+      ],
+      "director": "Anthony Maras",
+      "guionistas": [
+        "David Haig",
+        "Anthony Maras"
+      ],
+      "musica": "Volker Bertelmann",
+      "elenco": [
+        {
+          "nombre": "Andrew Scott",
+          "personaje": "James Stagg",
+          "foto": "https://image.tmdb.org/t/p/w185/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg",
+          "iniciales": "AS"
+        },
+        {
+          "nombre": "Brendan Fraser",
+          "personaje": "Dwight ‘Ike’ Eisenhower",
+          "foto": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg",
+          "iniciales": "BF"
+        },
+        {
+          "nombre": "Kerry Condon",
+          "personaje": "Kay Summersby",
+          "foto": "https://image.tmdb.org/t/p/w185/bLP627Ar30kSqy5ZIYVJioCprOH.jpg",
+          "iniciales": "KC"
+        },
+        {
+          "nombre": "Chris Messina",
+          "personaje": "Irving Krick",
+          "foto": "https://image.tmdb.org/t/p/w185/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg",
+          "iniciales": "CM"
+        },
+        {
+          "nombre": "Damian Lewis",
+          "personaje": "Bernard ‘Monty’ Montgomery",
+          "foto": "https://image.tmdb.org/t/p/w185/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg",
+          "iniciales": "DL"
+        },
+        {
+          "nombre": "Tamsin Topolski",
+          "personaje": "Liz Stagg",
+          "foto": "https://image.tmdb.org/t/p/w185/fsOY0Fe3KX8zseeaYjzOy5htLUl.jpg",
+          "iniciales": "TT"
+        },
+        {
+          "nombre": "Jojo Macari",
+          "personaje": "Andrew Carter",
+          "foto": "https://image.tmdb.org/t/p/w185/fYv8j4AA3wzJzqHPRXKBcLVH0cq.jpg",
+          "iniciales": "JM"
+        },
+        {
+          "nombre": "Con O'Neill",
+          "personaje": "Air Marshal Leigh-Mallory",
+          "foto": "https://image.tmdb.org/t/p/w185/7Fnj1dB9kStTuy29eEVK4IuOxWO.jpg",
+          "iniciales": "CO"
+        }
+      ],
+      "paises": [
+        "United Kingdom",
+        "France"
+      ],
+      "idiomas": [
+        "English",
+        "Deutsch"
+      ],
+      "productoras": [
+        "Working Title Films",
+        "StudioCanal UK",
+        "StudioCanal"
+      ],
+      "temas": [
+        "Weather forecast",
+        "World war ii",
+        "Metereologist",
+        "D-day",
+        "Historical drama",
+        "1940s",
+        "Extreme weather",
+        "Matter of fact"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=AlB1rAHviO4",
+      "teaser": "",
+      "imdb_id": "tt32547691",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 283495,
+          "titulo": "Večernja zvona",
+          "anio": "1986",
+          "poster": "https://image.tmdb.org/t/p/w342/514HgKJAYfY8q02nbXMxishTuJz.jpg",
+          "score": 5.5
+        },
+        {
+          "tmdb_id": 464014,
+          "titulo": "Escape to Danger",
+          "anio": "1943",
+          "poster": "https://image.tmdb.org/t/p/w342/2D71x43v2dK0dbVTm7vOHUOm1ru.jpg",
+          "score": 8.0
+        },
+        {
+          "tmdb_id": 464080,
+          "titulo": "School for Danger",
+          "anio": "1947",
+          "poster": "https://image.tmdb.org/t/p/w342/p7V7jsyK52lD18XygjaMPZx7D0N.jpg",
+          "score": 7.5
+        },
+        {
+          "tmdb_id": 1210184,
+          "titulo": "La batalla de Montecassino",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/5hY9R1YDtZGeU3A83jC8PMneXcT.jpg",
+          "score": 6.196
+        },
+        {
+          "tmdb_id": 28093,
+          "titulo": "Sangre, sudor y lágrimas",
+          "anio": "1942",
+          "poster": "https://image.tmdb.org/t/p/w342/ugzJ6916xnBPATBHaqTdKg0ihq6.jpg",
+          "score": 6.781
+        },
+        {
+          "tmdb_id": 28154,
+          "titulo": "Night Boat to Dublin",
+          "anio": "1946",
+          "poster": "https://image.tmdb.org/t/p/w342/8sBekz14lHZ9cOkWr7rIo67UzNO.jpg",
+          "score": 6.864
+        },
+        {
+          "tmdb_id": 1210466,
+          "titulo": "रजाकार",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/vJPDQqGxjdmWdF6GFfaofxjIG1v.jpg",
+          "score": 4.0
+        },
+        {
+          "tmdb_id": 28286,
+          "titulo": "Reunión en Francia",
+          "anio": "1942",
+          "poster": "https://image.tmdb.org/t/p/w342/25ARg4KpTxk0mTQSAx0WWgmEOqS.jpg",
+          "score": 6.4
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-06"
+  },
+  "950028": {
+    "tmdb": {
+      "tmdb_id": 950028,
+      "titulo": "La invitación",
+      "titulo_original": "The Invite",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-06-25",
+      "duracion": 107,
+      "generos": [
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "score": 7.72,
+      "votos": 118,
+      "certificacion": "R",
+      "sinopsis": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+        "https://image.tmdb.org/t/p/w780/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "https://image.tmdb.org/t/p/w780/25PFe4nByh8qc9YPZ79YcUhrLiS.jpg",
+        "https://image.tmdb.org/t/p/w780/1vqqEnesuTb8BqHvG85OLaSB8mY.jpg",
+        "https://image.tmdb.org/t/p/w780/5OnUwYqHyr70P0p5g1jqN7jAltA.jpg",
+        "https://image.tmdb.org/t/p/w780/lZ8Fntj0JFQut9eQV0vEaUTr7jP.jpg"
+      ],
+      "director": "Olivia Wilde",
+      "guionistas": [
+        "Rashida Jones",
+        "Will McCormack"
+      ],
+      "musica": "Devonté Hynes",
+      "elenco": [
+        {
+          "nombre": "Seth Rogen",
+          "personaje": "Joe",
+          "foto": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+          "iniciales": "SR"
+        },
+        {
+          "nombre": "Olivia Wilde",
+          "personaje": "Angela",
+          "foto": "https://image.tmdb.org/t/p/w185/eODi1QKamyVa41eSK2SjU20VAZS.jpg",
+          "iniciales": "OW"
+        },
+        {
+          "nombre": "Penélope Cruz",
+          "personaje": "Pina",
+          "foto": "https://image.tmdb.org/t/p/w185/n5SFgmvJSENQt8poE4qYacUnKOi.jpg",
+          "iniciales": "PC"
+        },
+        {
+          "nombre": "Edward Norton",
+          "personaje": "Hawk",
+          "foto": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+          "iniciales": "EN"
+        },
+        {
+          "nombre": "Skip Howland",
+          "personaje": "Doorman (uncredited)",
+          "foto": "https://image.tmdb.org/t/p/w185/mXgzTq5QFTcWDi5eJe2vFQnaZ47.jpg",
+          "iniciales": "SH"
+        },
+        {
+          "nombre": "Mel Powell",
+          "personaje": "Bartender (uncredited)",
+          "foto": "https://image.tmdb.org/t/p/w185/qu7T2uxliIK6TbCp1JAVY5rWPLl.jpg",
+          "iniciales": "MP"
+        },
+        {
+          "nombre": "Rachel Thurow",
+          "personaje": "Subway Goer (uncredited)",
+          "foto": "https://image.tmdb.org/t/p/w185/cmc9sL0MfauEeeyRPmMFvNDePhK.jpg",
+          "iniciales": "RT"
+        },
+        {
+          "nombre": "Mario Valdez",
+          "personaje": "Subway Goer (uncredited)",
+          "foto": "https://image.tmdb.org/t/p/w185/4CShBxkTX3OLYtHjuAkMbzgKI5y.jpg",
+          "iniciales": "MV"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Español",
+        "Français"
+      ],
+      "productoras": [
+        "Annapurna Pictures",
+        "FilmNation Entertainment",
+        "Permut Presentations"
+      ],
+      "temas": [
+        "Husband wife relationship",
+        "San francisco, california",
+        "Remake",
+        "Firefighter",
+        "Sexologist",
+        "Anxious",
+        "Neighbors"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt14173636",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 259722,
+          "titulo": "Three Hours",
+          "anio": "1927",
+          "poster": "https://image.tmdb.org/t/p/w342/5eDSYdotQe4qLPuyn9JklVWGUZb.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 216,
+          "titulo": "Todos nos llamamos Alí",
+          "anio": "1974",
+          "poster": "https://image.tmdb.org/t/p/w342/wXmccDfWRyCyV9vdQlJgzQnIIdu.jpg",
+          "score": 7.735
+        },
+        {
+          "tmdb_id": 150,
+          "titulo": "Límite: 48 horas",
+          "anio": "1982",
+          "poster": "https://image.tmdb.org/t/p/w342/cHE4O3MjvH8Pv3qXEYaRtKbTwdR.jpg",
+          "score": 6.68
+        },
+        {
+          "tmdb_id": 111,
+          "titulo": "El precio del poder",
+          "anio": "1983",
+          "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
+          "score": 8.154
+        },
+        {
+          "tmdb_id": 241,
+          "titulo": "Asesinos natos",
+          "anio": "1994",
+          "poster": "https://image.tmdb.org/t/p/w342/qMQVGb4LhYKvwQBORXL0cCmYmtd.jpg",
+          "score": 7.05
+        },
+        {
+          "tmdb_id": 320,
+          "titulo": "Insomnio",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/9DZURodSAFt093lD6xWxuU55vS5.jpg",
+          "score": 6.955
+        },
+        {
+          "tmdb_id": 247,
+          "titulo": "Atraco perfecto",
+          "anio": "1956",
+          "poster": "https://image.tmdb.org/t/p/w342/1NL92xMCQRK254IVSPkpsG0ErZG.jpg",
+          "score": 7.647
+        },
+        {
+          "tmdb_id": 254,
+          "titulo": "King Kong",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg",
+          "score": 6.895
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-06"
+  },
+  "1443576": {
+    "tmdb": {
+      "tmdb_id": 1443576,
+      "titulo": "Los domingos",
+      "titulo_original": "Los domingos",
+      "tagline": "",
+      "anio": "2025",
+      "estreno": "2025-10-17",
+      "duracion": 112,
+      "generos": [
+        "Drama"
+      ],
+      "score": 7.024,
+      "votos": 144,
+      "certificacion": "PG-13",
+      "sinopsis": "Ainara es una joven idealista y brillante de 17 años que, a priori, ha de decidir qué carrera universitaria estudiará. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que está dispuesta a abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos.",
+      "poster": "https://image.tmdb.org/t/p/w342/kwpDm6qtON8pLCSY0C8MltMofEE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jVwvhKpw6a7c7JmHhMykKAn7buQ.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/jVwvhKpw6a7c7JmHhMykKAn7buQ.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/jVwvhKpw6a7c7JmHhMykKAn7buQ.jpg",
+        "https://image.tmdb.org/t/p/w780/lTsAitgcr3kbhP9FTi4oulKQZkd.jpg",
+        "https://image.tmdb.org/t/p/w780/jgKix9qqZUkfNU92cBG08oLCxOj.jpg",
+        "https://image.tmdb.org/t/p/w780/mcdDxNPeYy2AQeDUJhihlNCH2Bq.jpg",
+        "https://image.tmdb.org/t/p/w780/2oqTu89OCk5unsKV1neMJP3Btor.jpg",
+        "https://image.tmdb.org/t/p/w780/8MAgruclPXzkdtEJCs4No6TaFvz.jpg"
+      ],
+      "director": "Alauda Ruiz de Azúa",
+      "guionistas": [
+        "Alauda Ruiz de Azúa"
+      ],
+      "musica": "David Cerrejón",
+      "elenco": [
+        {
+          "nombre": "Blanca Soroa",
+          "personaje": "Ainara",
+          "foto": "https://image.tmdb.org/t/p/w185/A0bupgpVbS0MRTA9fkgcLnHf8zV.jpg",
+          "iniciales": "BS"
+        },
+        {
+          "nombre": "Patricia López Arnaiz",
+          "personaje": "Maite",
+          "foto": "https://image.tmdb.org/t/p/w185/7fWsjnIi3xfxPzXExkwQMVUUusz.jpg",
+          "iniciales": "PA"
+        },
+        {
+          "nombre": "Miguel Garcés",
+          "personaje": "Iñaki",
+          "foto": "https://image.tmdb.org/t/p/w185/ki6tfBiG85CVKjNS0Er3SNcz5JU.jpg",
+          "iniciales": "MG"
+        },
+        {
+          "nombre": "Juan Minujín",
+          "personaje": "Pablo",
+          "foto": "https://image.tmdb.org/t/p/w185/mOtugfw1ahXJPCDg3kSLifCDyHd.jpg",
+          "iniciales": "JM"
+        },
+        {
+          "nombre": "Mabel Rivera",
+          "personaje": "María Dolores",
+          "foto": "https://image.tmdb.org/t/p/w185/qxz8C0UHfuGNTAQgMTuf40LbwWL.jpg",
+          "iniciales": "MR"
+        },
+        {
+          "nombre": "Nagore Aranburu",
+          "personaje": "Madre Priora",
+          "foto": "https://image.tmdb.org/t/p/w185/ibNfgTrEH7GXaHtPXm1GFO984f3.jpg",
+          "iniciales": "NA"
+        },
+        {
+          "nombre": "Irina Robledo Espinosa",
+          "personaje": "Nerea",
+          "foto": null,
+          "iniciales": "IE"
+        },
+        {
+          "nombre": "Nora Careaga Iglesias",
+          "personaje": "Eider",
+          "foto": null,
+          "iniciales": "NI"
+        }
+      ],
+      "paises": [
+        "Spain",
+        "France"
+      ],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [
+        "Encanta Films",
+        "Sayaka Producciones",
+        "Think Studio",
+        "Colosé Producciones",
+        "Le Pacte",
+        "Movistar Plus+",
+        "Buena Pinta Media"
+      ],
+      "temas": [
+        "Christianity",
+        "Family drama",
+        "Reflective"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=yyLrtKGQ5KA",
+      "teaser": "",
+      "imdb_id": "tt35513027",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 999861,
+          "titulo": "La vie d'avant",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/vM1YZvnreGqEkV0tFXAx9q2f6dq.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 259043,
+          "titulo": "Krisha",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/umZTjRJhY0WtoQrpZGxSPkXfbHD.jpg",
+          "score": 6.2
+        },
+        {
+          "tmdb_id": 460034,
+          "titulo": "ডুব",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/4SX4TXZ7E5KhWfktNJCAdTREKes.jpg",
+          "score": 5.8
+        },
+        {
+          "tmdb_id": 24192,
+          "titulo": "El evangelio según San Mateo",
+          "anio": "1965",
+          "poster": "https://image.tmdb.org/t/p/w342/dRGbPx5f8CdpMUD54YyfKzLeJLB.jpg",
+          "score": 7.4
+        },
+        {
+          "tmdb_id": 24248,
+          "titulo": "Barrabás",
+          "anio": "1961",
+          "poster": "https://image.tmdb.org/t/p/w342/ne2RioSca0PC2PDOVQTyArMqtfs.jpg",
+          "score": 6.863
+        },
+        {
+          "tmdb_id": 1207166,
+          "titulo": "Boy with Blue",
+          "anio": "2012",
+          "poster": "https://image.tmdb.org/t/p/w342/rXwG5hYWKEbXeYJwCWn6Yxv5djF.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 460571,
+          "titulo": "That Good Night",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/wVjiNoZIGgjBAIYgjD2XD2vYUzH.jpg",
+          "score": 6.9
+        },
+        {
+          "tmdb_id": 641683,
+          "titulo": "Azules Turquesas",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/yVmM9GzdIn8LflGbUlvNOgYyhCB.jpg",
+          "score": 7.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-06"
   }
 }
