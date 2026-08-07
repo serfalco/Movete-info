@@ -90,6 +90,16 @@
     "imagen": ""
   },
   {
+    "titulo": "Bajo Terapia",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas85141-bajo-terapia?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/41/000318641.jpg"
+  },
+  {
     "titulo": "EL ROBO, un policial metafísico",
     "fecha": "2026-08-14 19:00:00",
     "lugar": "ESPACIO 44",
@@ -170,6 +180,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/08/000301208.jpg"
   },
   {
+    "titulo": "Technophilia",
+    "fecha": "2026-09-06 19:30:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra96536-technophilia",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/84/000308984.jpg"
+  },
+  {
     "titulo": "La cantante calva",
     "fecha": "2026-08-15 21:00:00",
     "lugar": "LA MERCERIA TEATRO",
@@ -195,7 +215,7 @@
     "lugar": "LA MERCERIA TEATRO",
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra98660-yunta-de-bueyes",
+    "url": "https://publico.alternativateatral.com/entradas98660-yunta-de-bueyes?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/42/000308042.jpg"
   },
@@ -270,6 +290,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/93/000312693.jpg"
   },
   {
+    "titulo": "El puente azul",
+    "fecha": "2026-09-05 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra100397-el-puente-azul",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/03/000312903.jpg"
+  },
+  {
     "titulo": "Todas Somos YO?",
     "fecha": "2026-08-16 20:00:00",
     "lugar": "ESCENARIO-40",
@@ -290,6 +320,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/61/000313361.jpg"
   },
   {
+    "titulo": "Lluvia verde",
+    "fecha": "2026-08-27 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra100686-lluvia-verde",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/86/000314486.jpg"
+  },
+  {
     "titulo": "DORA. Ellos saben que sabe. Ella sabe que saben. Pero ella es Dora, la Administradora",
     "fecha": "2026-08-08 20:30:00",
     "lugar": "ESPACIO 44",
@@ -298,6 +338,16 @@
     "url": "https://publico.alternativateatral.com/entradas100866-dora-ellos-saben-que-sabe-ella-sabe-que-saben-pero-ella-es-dora-la-administradora?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/01/000314401.jpg"
+  },
+  {
+    "titulo": "Beguinas (ni esposas ni monjas)",
+    "fecha": "2026-09-26 20:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas100991-beguinas-ni-esposas-ni-monjas?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/73/000314673.jpg"
   },
   {
     "titulo": "Volcada",
@@ -360,6 +410,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/25/000316225.jpg"
   },
   {
+    "titulo": "Donde estaré atrapado",
+    "fecha": "2026-09-06 19:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas101592-donde-estare-atrapado?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/36/000316536.jpg"
+  },
+  {
     "titulo": "Terapia",
     "fecha": "2026-09-04 20:30:00",
     "lugar": "ESPACIO 44",
@@ -398,6 +458,16 @@
     "url": "https://publico.alternativateatral.com/entradas101879-cronopios-xi?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/21/000318521.jpg"
+  },
+  {
+    "titulo": "Todo lo que cabe en una valija",
+    "fecha": "2026-08-28 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas101900-todo-lo-que-cabe-en-una-valija?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/34/000317134.jpg"
   },
   {
     "titulo": "Vecinas, música y teatro",
@@ -490,18 +560,18 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/49/000318249.jpg"
   },
   {
-    "titulo": "Sofia Viola & El Nuevo Ají + invitadxs abre: La Montaña en el Viento",
+    "titulo": "Sofia Viola - 20 años Edición Deluxe - La Plata",
     "fecha": "2026-09-26 21:00:00",
     "lugar": "GUAJIRA BAR",
     "direccion": "Calle 49 484, La Plata",
     "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas102290-sofia-viola-el-nuevo-aji-invitadxs-abre-la-montana-en-el-viento?o=6",
+    "url": "https://publico.alternativateatral.com/entradas102290-sofia-viola-20-anos-edicion-deluxe-la-plata?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/95/000318595.jpg"
   },
   {
     "titulo": "Cuando los animales duerman",
-    "fecha": "2026-09-05 21:00:00",
+    "fecha": "2026-09-05 21:30:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -558,5 +628,25 @@
     "url": "https://publico.alternativateatral.com/entradas102386-asi-no-te-amara-jamas?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/88/000318588.jpg"
+  },
+  {
+    "titulo": "¡Ay, por Dios!",
+    "fecha": "2026-08-07 21:00:00",
+    "lugar": "DOBLE-T",
+    "direccion": "Calle 34 N º1618 entre 27 y 28, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrodoblet.com.ar/event/125276-ay-por-dios",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/39/000318639.jpg"
+  },
+  {
+    "titulo": "Lady Godiva la diva",
+    "fecha": "2026-10-11 20:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas102405-lady-godiva-la-diva?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/88/000318688.jpg"
   }
 ]

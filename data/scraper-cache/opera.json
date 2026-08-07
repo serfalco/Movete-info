@@ -10,16 +10,6 @@
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/BenjaAma_21Nov_1080x1350-scaled.jpg"
   },
   {
-    "titulo": "VIRUS",
-    "fecha": "2026-08-01 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/virus-en-el-teatro-opera-lp-01-08",
-    "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1920-2.jpg"
-  },
-  {
     "titulo": "DANTE SPINETTA",
     "fecha": "2026-08-07 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -78,6 +68,46 @@
     "url": "https://livepass.com.ar/events/2-minutos-en-el-teatro-opera-lp-2026-08-22",
     "fuente": "opera",
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1350.jpg"
+  },
+  {
+    "titulo": "KOINO YOKAN",
+    "fecha": "2026-08-15 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/koino-yokan-en-el-teatro-opera-lp-2026-08-15",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/07/KY_LaPlata_1080x1350_2-1.jpg"
+  },
+  {
+    "titulo": "FLORIAN – ACTOS DE GENTILEZA",
+    "fecha": "2026-08-27 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/florian-actos-de-gentileza-en-el-teatro-opera-lp",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/07/florian_graficas_PublicacionVertical-1080x1350-1-scaled.jpg"
+  },
+  {
+    "titulo": "GAUCHITO CLUB",
+    "fecha": "2026-10-09 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/gauchito-club-en-el-teatro-opera-lp-09-10",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/07/Artboard-1-copy-26.png"
+  },
+  {
+    "titulo": "LA CHANCHA MUDA",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/la-chancha-muda-en-el-teatro-opera-lp-26-09",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/07/Afiche-LA-PLATA_Muro-scaled.jpg"
   },
   {
     "titulo": "LOS PÉREZ GARCÍA",

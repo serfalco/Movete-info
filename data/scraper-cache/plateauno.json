@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "LIGHTPLAY TRIB A COLDPLAY",
-    "fecha": "2026-08-14 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9779/lightplay-trib-a-coldplay",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3226.jpeg"
-  },
-  {
     "titulo": "ES COMPLICADO..",
     "fecha": "2026-08-30 19:00:00",
     "lugar": "Metro",
@@ -38,6 +28,16 @@
     "url": "https://www.plateaunotickets.com/obra/9941/hilda-fest-2026",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3329.jpeg"
+  },
+  {
+    "titulo": "EMPIEZA CON D SIETE LETRAS",
+    "fecha": "2026-09-17 20:30:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/9998/empieza-con-d-siete-letras",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3197.jpeg"
   },
   {
     "titulo": "HISTORIAS INNECESARIAS",

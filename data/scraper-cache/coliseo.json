@@ -1,55 +1,5 @@
 [
   {
-    "titulo": "EL BOSQUE ENCANTADO",
-    "fecha": "2026-07-31 15:00:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "infantil",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/el-bosque-encantado",
-    "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/el-bosque-encantado-1200x1200.jpg?itok=9hC2BBYf"
-  },
-  {
-    "titulo": "SONICO RECARGADO",
-    "fecha": "2026-07-31 17:00:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "infantil",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/sonico-recargado-0",
-    "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/sonico-recargado-1200x1200.jpg?itok=iFaUTkgH"
-  },
-  {
-    "titulo": "LUCAS LAURIENTE STAND UP",
-    "fecha": "2026-07-31 21:00:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "stand-up",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/stand-humoristico/lucas-lauriente-stand",
-    "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/julio/lucas-lauriente-stand-1200x1200.jpg?itok=NUlCX5nz"
-  },
-  {
-    "titulo": "Cuentos y canciones de María Elena Walsh",
-    "fecha": "2026-08-01 15:00:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "infantil",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/cuentos-y-canciones-de-maria-elena-walsh",
-    "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/cuentos-y-canciones-de-maria-elena-walsh-1200x1200.jpg?itok=tcBOmp6G"
-  },
-  {
-    "titulo": "Fiesta PIM PAU",
-    "fecha": "2026-08-02 18:00:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "infantil",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/infantiles/fiesta-pim-pau",
-    "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/fiesta-pim-pau-1200x1200.jpg?itok=ZY6WgDL9"
-  },
-  {
     "titulo": "LA CHIRICHOTA - Vuelven los clásicos",
     "fecha": "2026-08-07 21:00:00",
     "lugar": "Teatro Coliseo Podestá",
