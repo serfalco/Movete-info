@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "454639": {
     "tmdb": {
@@ -712,7 +712,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "1081003": {
     "tmdb": {
@@ -1058,7 +1058,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "1314481": {
     "tmdb": {
@@ -1822,7 +1822,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "44502": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "1108427": {
     "tmdb": {
@@ -2494,7 +2494,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "1212763": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "18775": {
     "tmdb": {
@@ -3589,7 +3589,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "950028": {
     "tmdb": {
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-06"
+    "ultima_semana": "2026-08-13"
   },
   "1443576": {
     "tmdb": {
@@ -3932,5 +3932,820 @@
       ]
     },
     "ultima_semana": "2026-08-06"
+  },
+  "1363387": {
+    "tmdb": {
+      "tmdb_id": 1363387,
+      "titulo": "Insaciable",
+      "titulo_original": "Saccharine",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-05-22",
+      "duracion": 113,
+      "generos": [
+        "Terror"
+      ],
+      "score": 6.888,
+      "votos": 112,
+      "certificacion": "+16",
+      "sinopsis": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
+      "poster": "https://image.tmdb.org/t/p/w342/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
+        "https://image.tmdb.org/t/p/w780/5nLodTBYBC2uqRYRKIMZofY0D4I.jpg",
+        "https://image.tmdb.org/t/p/w780/m9y5Rut1k7UEudN0JLtqc5xgwrN.jpg",
+        "https://image.tmdb.org/t/p/w780/pKmCFMVftgJu5cYHBGUn7xQ11x7.jpg",
+        "https://image.tmdb.org/t/p/w780/ea1Jsmt6AVvwnFmk1KRby1sTHFu.jpg",
+        "https://image.tmdb.org/t/p/w780/lQTi2BPKi6CHWIi3gZb6ov1a6kT.jpg"
+      ],
+      "director": "Natalie Erika James",
+      "guionistas": [
+        "Natalie Erika James"
+      ],
+      "musica": "Hannah Peel",
+      "elenco": [
+        {
+          "nombre": "Midori Francis",
+          "personaje": "Hana",
+          "foto": "https://image.tmdb.org/t/p/w185/we9Z3uiLUi06NxKXYNpcexrYOJx.jpg",
+          "iniciales": "MF"
+        },
+        {
+          "nombre": "Danielle Macdonald",
+          "personaje": "Josie",
+          "foto": "https://image.tmdb.org/t/p/w185/pPaypOzZ4oldd7KJHvDEfPSynSi.jpg",
+          "iniciales": "DM"
+        },
+        {
+          "nombre": "Madeleine Madden",
+          "personaje": "Alanya",
+          "foto": "https://image.tmdb.org/t/p/w185/oOZ1EJeq2DHxNNLAkLEyYYOlqlM.jpg",
+          "iniciales": "MM"
+        },
+        {
+          "nombre": "Joseph Baldwin",
+          "personaje": "Ryan",
+          "foto": null,
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Robert Taylor",
+          "personaje": "Travis",
+          "foto": "https://image.tmdb.org/t/p/w185/wjeEGFarZNyvrqLL4W52eXnAnXe.jpg",
+          "iniciales": "RT"
+        },
+        {
+          "nombre": "Emily Milledge",
+          "personaje": "Georgie",
+          "foto": "https://image.tmdb.org/t/p/w185/zJDJkoW87uyU3sv3CYHbZv475jZ.jpg",
+          "iniciales": "EM"
+        },
+        {
+          "nombre": "Lisa Crittenden",
+          "personaje": "Helen",
+          "foto": "https://image.tmdb.org/t/p/w185/mV3Tnb4WjgQIFNU3UwUj6Vq9K3J.jpg",
+          "iniciales": "LC"
+        },
+        {
+          "nombre": "Lucy Goleby",
+          "personaje": "Lucy Childs",
+          "foto": null,
+          "iniciales": "LG"
+        }
+      ],
+      "paises": [
+        "Australia",
+        "Finland",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Carver Films",
+        "XYZ Films",
+        "Stan",
+        "Thrum Films",
+        "Screen Australia",
+        "IPR.VC",
+        "VicScreen",
+        "Maslow Entertainment"
+      ],
+      "temas": [
+        "Supernatural",
+        "Evil spirit",
+        "Mortician",
+        "Eating disorder",
+        "Supernatural horror",
+        "Psychological",
+        "Body horror",
+        "Psychological horror"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=WuLd6f3ylAI",
+      "teaser": "",
+      "imdb_id": "tt35050712",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 1381087,
+          "titulo": "Monitor",
+          "anio": "2027",
+          "poster": "https://image.tmdb.org/t/p/w342/4mNVblPF1tTRok3PINiQnZW7RMl.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1188738,
+          "titulo": "The Weedhacker Massacre",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/qnefxYvU364FtW4pK7VxD07X4qw.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 808037,
+          "titulo": "Rites",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/uqpRdoDq6X4oaFRRQBL9xjsF8ry.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 440444,
+          "titulo": "Piercing",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/1iDIFMzYxY25X25KDeARA6VoDl3.jpg",
+          "score": 5.688
+        },
+        {
+          "tmdb_id": 1188663,
+          "titulo": "Procura-se jovem menina para...",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/gFnzwQMsrdhBiYjiQFrFiX5GghK.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 259904,
+          "titulo": "Keramat",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/g0aWd2Nsbe7fdrsj9TjzitCF24a.jpg",
+          "score": 6.7
+        },
+        {
+          "tmdb_id": 1380861,
+          "titulo": "A Febre",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/fSjEqdSvrrd0uOAH5l7iIKb649c.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1389945,
+          "titulo": "A Final Exorcism",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/id26rgWfTevrfxzm0CMbNSiUgdc.jpg",
+          "score": 9.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-13"
+  },
+  "1185806": {
+    "tmdb": {
+      "tmdb_id": 1185806,
+      "titulo": "La Patrulla Canina: La dino película",
+      "titulo_original": "PAW Patrol: The Dino Movie",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-07-23",
+      "duracion": 88,
+      "generos": [
+        "Aventura",
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "score": 7.4,
+      "votos": 22,
+      "certificacion": "PG",
+      "sinopsis": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/sgIZiW15kFifR2y1SwAr6DyOZ8s.jpg",
+        "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+        "https://image.tmdb.org/t/p/w780/dSAGnA3OZs0cC3JQ0GLqQVndZON.jpg",
+        "https://image.tmdb.org/t/p/w780/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
+        "https://image.tmdb.org/t/p/w780/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
+        "https://image.tmdb.org/t/p/w780/rMfDaKeyNiHXkszNxB065dKagV6.jpg"
+      ],
+      "director": "Cal Brunker",
+      "guionistas": [
+        "Cal Brunker",
+        "Bob Barlen"
+      ],
+      "musica": "Pinar Toprak",
+      "elenco": [
+        {
+          "nombre": "Carter Young",
+          "personaje": "Marshall (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/ezkMRnYOjsYXrcwHEJ2JIDWTJJq.jpg",
+          "iniciales": "CY"
+        },
+        {
+          "nombre": "Hayden Chamberlen",
+          "personaje": "Rex (voice)",
+          "foto": null,
+          "iniciales": "HC"
+        },
+        {
+          "nombre": "Mckenna Grace",
+          "personaje": "Skye (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg",
+          "iniciales": "MG"
+        },
+        {
+          "nombre": "Rain Janjua",
+          "personaje": "Chase (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/39VLLyRP55v9ImeKT50EdCIrZ84.jpg",
+          "iniciales": "RJ"
+        },
+        {
+          "nombre": "Henry Bolan",
+          "personaje": "Ryder (voice)",
+          "foto": null,
+          "iniciales": "HB"
+        },
+        {
+          "nombre": "Lucien Duncan-Reid",
+          "personaje": "Rubble (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/sliCDt3gkMHXcXusq72PLLFTbHG.jpg",
+          "iniciales": "LD"
+        },
+        {
+          "nombre": "Nylan Parthipan",
+          "personaje": "Zuma (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/cwAUs4vWfZyn2cHNrGu9tC8W0yK.jpg",
+          "iniciales": "NP"
+        },
+        {
+          "nombre": "William Desrosiers",
+          "personaje": "Rocky (voice)",
+          "foto": null,
+          "iniciales": "WD"
+        }
+      ],
+      "paises": [
+        "Canada",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Spin Master",
+        "Nickelodeon Movies",
+        "Paramount Animation"
+      ],
+      "temas": [
+        "Sequel",
+        "Based on cartoon",
+        "Based on toy",
+        "Prehistory",
+        "Dinosaur",
+        "Dog",
+        "Corrupt mayor",
+        "Children's adventure"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
+      "teaser": "https://www.youtube.com/watch?v=mY1VlxdxFvY",
+      "imdb_id": "tt29356163",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "La Patrulla Canina - Colección",
+        "partes": [
+          {
+            "tmdb_id": 675445,
+            "titulo": "La Patrulla Canina: La película",
+            "anio": "2021",
+            "poster": "https://image.tmdb.org/t/p/w342/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg",
+            "fecha": "2021-08-09"
+          },
+          {
+            "tmdb_id": 893723,
+            "titulo": "La Patrulla Canina: La superpelícula",
+            "anio": "2023",
+            "poster": "https://image.tmdb.org/t/p/w342/74UljzdgFuYo0BqzuEO2s2azObe.jpg",
+            "fecha": "2023-09-21"
+          },
+          {
+            "tmdb_id": 1185806,
+            "titulo": "La Patrulla Canina: La dino película",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+            "fecha": "2026-07-23"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 89,
+          "titulo": "Indiana Jones y la última cruzada",
+          "anio": "1989",
+          "poster": "https://image.tmdb.org/t/p/w342/5h45gK147AAJpLLC7Cicr597urz.jpg",
+          "score": 7.854
+        },
+        {
+          "tmdb_id": 96,
+          "titulo": "Superdetective en Hollywood II",
+          "anio": "1987",
+          "poster": "https://image.tmdb.org/t/p/w342/19fU9cD8nBp3riUgKZi6nLSMO88.jpg",
+          "score": 6.531
+        },
+        {
+          "tmdb_id": 440271,
+          "titulo": "Yukon Manhunt",
+          "anio": "1951",
+          "poster": "https://image.tmdb.org/t/p/w342/bqVy4gjU4IxXl0w3jqrR6PEMuSR.jpg",
+          "score": 5.333
+        },
+        {
+          "tmdb_id": 35,
+          "titulo": "Los Simpson: La película",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/d9wHkwF9ttnNKuOoEIStve32jEk.jpg",
+          "score": 7.024
+        },
+        {
+          "tmdb_id": 58,
+          "titulo": "Piratas del Caribe: El cofre del hombre muerto",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+          "score": 7.388
+        },
+        {
+          "tmdb_id": 87,
+          "titulo": "Indiana Jones y el templo maldito",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+          "score": 7.309
+        },
+        {
+          "tmdb_id": 440535,
+          "titulo": "Приключения огуречика",
+          "anio": "1970",
+          "poster": "https://image.tmdb.org/t/p/w342/ljCC221Tgjr5aVJZYD9ZfcTAHKT.jpg",
+          "score": 8.0
+        },
+        {
+          "tmdb_id": 306,
+          "titulo": "Superdetective en Hollywood III",
+          "anio": "1994",
+          "poster": "https://image.tmdb.org/t/p/w342/szhFPC5FXN6YHGMqWuqaGR7EKk8.jpg",
+          "score": 5.9
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-13"
+  },
+  "1101383": {
+    "tmdb": {
+      "tmdb_id": 1101383,
+      "titulo": "El final de Oak Street",
+      "titulo_original": "The End of Oak Street",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-08-12",
+      "duracion": 100,
+      "generos": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ],
+      "score": 7.0,
+      "votos": 39,
+      "certificacion": "+13",
+      "sinopsis": "Un hombre de mediana edad se encuentra en un extraño campamento para dormir, compitiendo con excéntricos campistas. Busca a su amigo desaparecido y a una mítica bestia gris que guarda un tesoro escondido.",
+      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "https://image.tmdb.org/t/p/w780/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
+        "https://image.tmdb.org/t/p/w780/mNQ4OdN8ZtkScOT2WegaKASfYhT.jpg",
+        "https://image.tmdb.org/t/p/w780/dbtTfy7jp4U5mttWm890IGvXlgc.jpg",
+        "https://image.tmdb.org/t/p/w780/8d5QK7dDU0XdhSdHfnGal0eV9Y7.jpg",
+        "https://image.tmdb.org/t/p/w780/iRYtKVtNNUd3oIJgWuQ6NU57Btt.jpg"
+      ],
+      "director": "David Robert Mitchell",
+      "guionistas": [
+        "David Robert Mitchell"
+      ],
+      "musica": "Michael Giacchino",
+      "elenco": [
+        {
+          "nombre": "Anne Hathaway",
+          "personaje": "Denise Platt",
+          "foto": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+          "iniciales": "AH"
+        },
+        {
+          "nombre": "Ewan McGregor",
+          "personaje": "Greg Platt",
+          "foto": "https://image.tmdb.org/t/p/w185/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg",
+          "iniciales": "EM"
+        },
+        {
+          "nombre": "Christian Convery",
+          "personaje": "Brian Platt",
+          "foto": "https://image.tmdb.org/t/p/w185/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg",
+          "iniciales": "CC"
+        },
+        {
+          "nombre": "Maisy Stella",
+          "personaje": "Audrey Platt",
+          "foto": "https://image.tmdb.org/t/p/w185/3rBVjUtx6tRxzsLt2Rd6Kz9y59T.jpg",
+          "iniciales": "MS"
+        },
+        {
+          "nombre": "Jordan Alexa Davis",
+          "personaje": "Jeannette Christiansen",
+          "foto": "https://image.tmdb.org/t/p/w185/itz31u3sG9hAlwuFZ6FWz1KhY1R.jpg",
+          "iniciales": "JD"
+        },
+        {
+          "nombre": "P.J. Byrne",
+          "personaje": "Mel Jacobs",
+          "foto": "https://image.tmdb.org/t/p/w185/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg",
+          "iniciales": "PB"
+        },
+        {
+          "nombre": "Bethany Anne Lind",
+          "personaje": "Mary Bagrowski",
+          "foto": "https://image.tmdb.org/t/p/w185/d0FjeKbWYhbTzFSimCnC9K1Maza.jpg",
+          "iniciales": "BL"
+        },
+        {
+          "nombre": "Emily Kuroda",
+          "personaje": "Mrs. Valcour",
+          "foto": "https://image.tmdb.org/t/p/w185/yaZhAxSsElEaX0az2U6FUBN38ET.jpg",
+          "iniciales": "EK"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Deutsch"
+      ],
+      "productoras": [
+        "Warner Bros. Pictures",
+        "Domain Entertainment",
+        "Bad Robot",
+        "Jackson Pictures"
+      ],
+      "temas": [
+        "Family relationships",
+        "Survival",
+        "Dinosaur",
+        "Neighborhood",
+        "1980s",
+        "Survival adventure"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=pKtm-_iOivI",
+      "teaser": "https://www.youtube.com/watch?v=SESBdSGgg2k",
+      "imdb_id": "tt27165187",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 106,
+          "titulo": "Depredador",
+          "anio": "1987",
+          "poster": "https://image.tmdb.org/t/p/w342/spgPmu5bTk8N6KZXrIOBwfd3cNb.jpg",
+          "score": 7.574
+        },
+        {
+          "tmdb_id": 329,
+          "titulo": "Jurassic Park (Parque Jurásico)",
+          "anio": "1993",
+          "poster": "https://image.tmdb.org/t/p/w342/h831eszSFmEyr94WKcgscqPIRbh.jpg",
+          "score": 7.976
+        },
+        {
+          "tmdb_id": 331,
+          "titulo": "Jurassic Park III (Parque Jurásico III)",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg",
+          "score": 6.179
+        },
+        {
+          "tmdb_id": 1381202,
+          "titulo": "The Outer Threat",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/jspztckSybRKigzz5IFueP8qptV.jpg",
+          "score": 5.382
+        },
+        {
+          "tmdb_id": 1381273,
+          "titulo": "Paper Tiger",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 141,
+          "titulo": "Donnie Darko",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
+          "score": 7.76
+        },
+        {
+          "tmdb_id": 330,
+          "titulo": "El mundo perdido: Jurassic Park",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/80pXV9DEd81rBGqmlPBLbvr6h9a.jpg",
+          "score": 6.568
+        },
+        {
+          "tmdb_id": 819,
+          "titulo": "Sleepers",
+          "anio": "1996",
+          "poster": "https://image.tmdb.org/t/p/w342/e0bzX1pK2STzUAYXnretiU9gkiq.jpg",
+          "score": 7.597
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-13"
+  },
+  "1698443": {
+    "tmdb": {
+      "tmdb_id": 1698443,
+      "titulo": "Yo, narciso",
+      "titulo_original": "Yo, narciso",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-08-13",
+      "duracion": 0,
+      "generos": [
+        "Comedia",
+        "Romance"
+      ],
+      "score": 0.0,
+      "votos": 0,
+      "certificacion": "",
+      "sinopsis": "",
+      "poster": "https://image.tmdb.org/t/p/w342/wi487ichY7R5qSa1V0pFoetDPal.jpg",
+      "backdrop": null,
+      "hero": null,
+      "galeria": [],
+      "director": "Adrián Suar",
+      "guionistas": [
+        "Pablo Solarz",
+        "Adrián Suar"
+      ],
+      "musica": "",
+      "elenco": [
+        {
+          "nombre": "Adrián Suar",
+          "personaje": "Máximo Rey",
+          "foto": "https://image.tmdb.org/t/p/w185/a75QAiWiI4jJoGyYY2Tw6ELAkkA.jpg",
+          "iniciales": "AS"
+        },
+        {
+          "nombre": "Natalia Oreiro",
+          "personaje": "Rocío Flores",
+          "foto": "https://image.tmdb.org/t/p/w185/mPXbbWPifRNHoi9HFCUQI8FDKG.jpg",
+          "iniciales": "NO"
+        },
+        {
+          "nombre": "Julieta Zylberberg",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/5U0DhTO4N9Vg2c7QMGDcqrtcsW6.jpg",
+          "iniciales": "JZ"
+        },
+        {
+          "nombre": "Sofía Morandi",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/tOLYtjWsJSNBsVzxTj9XfVlHj5c.jpg",
+          "iniciales": "SM"
+        },
+        {
+          "nombre": "Mariano Saborido",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/pwnM7Durbn4uVZEohP7jvboFUKB.jpg",
+          "iniciales": "MS"
+        },
+        {
+          "nombre": "Camila Peralta",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/tmCYBZ8rCdLsK8hgjB1EBh83Cz8.jpg",
+          "iniciales": "CP"
+        },
+        {
+          "nombre": "Andy Chango",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "AC"
+        },
+        {
+          "nombre": "Patricia Viggiano",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "PV"
+        }
+      ],
+      "paises": [
+        "Argentina"
+      ],
+      "idiomas": [],
+      "productoras": [
+        "Preludio Producciones",
+        "Pampa Films",
+        "Gloriamundi Films",
+        "Tolmur",
+        "Gloriamundi Producciones"
+      ],
+      "temas": [],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt38573778",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-08-13"
+  },
+  "1240889": {
+    "tmdb": {
+      "tmdb_id": 1240889,
+      "titulo": "Adolescencia, sexo y muerte en campamento Miasma",
+      "titulo_original": "Teenage Sex and Death at Camp Miasma",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-08-06",
+      "duracion": 106,
+      "generos": [
+        "Comedia",
+        "Terror",
+        "Romance"
+      ],
+      "score": 7.2,
+      "votos": 13,
+      "certificacion": "+16",
+      "sinopsis": "",
+      "poster": "https://image.tmdb.org/t/p/w342/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+        "https://image.tmdb.org/t/p/w780/qIYpBVW114AShXorGvnEUZGgueS.jpg",
+        "https://image.tmdb.org/t/p/w780/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
+        "https://image.tmdb.org/t/p/w780/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
+        "https://image.tmdb.org/t/p/w780/ckzFq680gsZ9V2hmtC2tFs5cZAr.jpg",
+        "https://image.tmdb.org/t/p/w780/8I1HB7zyGJ4FB6Q2jkbrJExF5EI.jpg"
+      ],
+      "director": "Jane Schoenbrun",
+      "guionistas": [
+        "Jane Schoenbrun"
+      ],
+      "musica": "Alex G",
+      "elenco": [
+        {
+          "nombre": "Hannah Einbinder",
+          "personaje": "Kris",
+          "foto": "https://image.tmdb.org/t/p/w185/iWMeyJAghUYP3zxmOxzcYLU5G8Z.jpg",
+          "iniciales": "HE"
+        },
+        {
+          "nombre": "Gillian Anderson",
+          "personaje": "Billy",
+          "foto": "https://image.tmdb.org/t/p/w185/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg",
+          "iniciales": "GA"
+        },
+        {
+          "nombre": "Amanda Fix",
+          "personaje": "Young Billy",
+          "foto": "https://image.tmdb.org/t/p/w185/ju3aa2yJL4h5msWcbEryh7cjXOt.jpg",
+          "iniciales": "AF"
+        },
+        {
+          "nombre": "Arthur Conti",
+          "personaje": "Alex",
+          "foto": "https://image.tmdb.org/t/p/w185/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg",
+          "iniciales": "AC"
+        },
+        {
+          "nombre": "Eva Victor",
+          "personaje": "DJ Ella Giastic",
+          "foto": "https://image.tmdb.org/t/p/w185/nlEirkGOQPVUVgNzIqEJysnt70q.jpg",
+          "iniciales": "EV"
+        },
+        {
+          "nombre": "Zach Cherry",
+          "personaje": "Will",
+          "foto": "https://image.tmdb.org/t/p/w185/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg",
+          "iniciales": "ZC"
+        },
+        {
+          "nombre": "Sarah Sherman",
+          "personaje": "Kris' Agent",
+          "foto": "https://image.tmdb.org/t/p/w185/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg",
+          "iniciales": "SS"
+        },
+        {
+          "nombre": "Patrick Fischler",
+          "personaje": "Rudolph",
+          "foto": "https://image.tmdb.org/t/p/w185/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg",
+          "iniciales": "PF"
+        }
+      ],
+      "paises": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "MUBI",
+        "Plan B Entertainment"
+      ],
+      "temas": [
+        "Sexuality",
+        "Trauma",
+        "Casting",
+        "Loss of virginity",
+        "Remake",
+        "Lesbian relationship",
+        "Marijuana",
+        "Serial killer"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt35298123",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 440439,
+          "titulo": "Elder Island",
+          "anio": "2016",
+          "poster": "https://image.tmdb.org/t/p/w342/yqhh8WyGYbvs5ULbfXulINm3bkP.jpg",
+          "score": 3.444
+        },
+        {
+          "tmdb_id": 440424,
+          "titulo": "Freak Show",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/dGkKEnSe2uJit6IINShE9JHyGSt.jpg",
+          "score": 6.7
+        },
+        {
+          "tmdb_id": 212,
+          "titulo": "Arsénico por compasión",
+          "anio": "1944",
+          "poster": "https://image.tmdb.org/t/p/w342/t1RP1lzSB8UR4aWuZnCSYcLCIlX.jpg",
+          "score": 7.622
+        },
+        {
+          "tmdb_id": 142,
+          "titulo": "Brokeback Mountain (En terreno vedado)",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/kRgrTPM6uDiLBgASk8j3RBTE49d.jpg",
+          "score": 7.8
+        },
+        {
+          "tmdb_id": 145,
+          "titulo": "Rompiendo las olas",
+          "anio": "1996",
+          "poster": "https://image.tmdb.org/t/p/w342/hb7ksXgZrWuO4u4AIaJKz5aIh2e.jpg",
+          "score": 7.485
+        },
+        {
+          "tmdb_id": 260167,
+          "titulo": "Otra Historia de Amor",
+          "anio": "1986",
+          "poster": "https://image.tmdb.org/t/p/w342/mzCIMGuMNCrCUJOh2KLDzPNtUgF.jpg",
+          "score": 4.8
+        },
+        {
+          "tmdb_id": 808430,
+          "titulo": "The Male Gaze: Nocturnal Instincts",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/asPXx9CNSPqWTnkNwnecA4HUvzE.jpg",
+          "score": 4.286
+        },
+        {
+          "tmdb_id": 1558614,
+          "titulo": "Tomahawk Holler",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/1o0or8toaAxhD4Vu00LxiBR62Hk.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-13"
   }
 }

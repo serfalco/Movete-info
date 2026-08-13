@@ -10,16 +10,6 @@
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/BenjaAma_21Nov_1080x1350-scaled.jpg"
   },
   {
-    "titulo": "DANTE SPINETTA",
-    "fecha": "2026-08-07 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/dante-spinetta-en-el-teatro-opera-lp-07-08",
-    "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1920.jpg"
-  },
-  {
     "titulo": "SOFIA MORA",
     "fecha": "2026-09-04 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -110,14 +100,64 @@
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/07/Afiche-LA-PLATA_Muro-scaled.jpg"
   },
   {
-    "titulo": "LOS PÉREZ GARCÍA",
-    "fecha": "2026-08-08 21:00:00",
+    "titulo": "REY GARUFA",
+    "fecha": "2026-09-18 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
-    "url": "https://livepass.com.ar/events/los-perez-garcia-en-el-teatro-opera-lp-08-08",
+    "url": "https://livepass.com.ar/events/rey-garufa-en-el-teatro-opera-lp-18-09",
     "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/1080-1080.jpg"
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/08/x1350.jpg"
+  },
+  {
+    "titulo": "ROMPIENDO ESPEJOS – Tributo a Callejeros",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/rompiendo-espejos-tributo-a-callejeros-en-el-teatro-opera-lp",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/08/RE_63X10.png"
+  },
+  {
+    "titulo": "DANCING MOOD",
+    "fecha": "2026-10-17 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/dancing-mood-en-el-teatro-opera-lp-2026-10-17",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/08/1080x1350pix.jpg"
+  },
+  {
+    "titulo": "GIROS",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/giros-en-el-teatro-opera-lp-13-11",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/08/GIROS-1080X1440.jpg"
+  },
+  {
+    "titulo": "LUCHO SSJ",
+    "fecha": "2026-11-11 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/lucho-ssj-en-el-teatro-opera-lp-2026-11-20-20-00-00-0300",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/08/x1350-1.jpg"
+  },
+  {
+    "titulo": "BESTIA BEBÉ",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/bestia-bebe-en-el-teatro-opera-lp",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/08/BestiaBB_LP_graficas_x1350-1-scaled.jpg"
   },
   {
     "titulo": "BHAVI",
@@ -127,7 +167,7 @@
     "categoria": "musica",
     "url": "https://livepass.com.ar/events/bhavi-en-el-teatro-opera-lp-23-08",
     "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/1080x1080.jpg"
+    "imagen": ""
   },
   {
     "titulo": "LOS TIPITOS",

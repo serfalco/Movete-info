@@ -60,6 +60,16 @@
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3312.jpeg"
   },
   {
+    "titulo": "HOMENAJE SINFONICO A REDONDOS",
+    "fecha": "2026-09-27 20:30:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10008/homenaje-sinfonico-a-redondos",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3373.jpeg"
+  },
+  {
     "titulo": "EL HOMBRE INESPERADO.",
     "fecha": "2026-10-02 21:00:00",
     "lugar": "Metro",
@@ -88,6 +98,16 @@
     "url": "https://www.plateaunotickets.com/obra/9648/new-sensation-2026",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3128.jpeg"
+  },
+  {
+    "titulo": "IVAN NOBLE 2026",
+    "fecha": "2026-10-17 21:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10011/ivan-noble-2026",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3377.jpeg"
   },
   {
     "titulo": "TANGO PARA TRES",
@@ -128,15 +148,5 @@
     "url": "https://www.plateaunotickets.com/obra/9942/nico-de-tracy-purga",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3330.jpeg"
-  },
-  {
-    "titulo": "DOCTORA QUEEN 2026",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9905/doctora-queen-2026",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3301.jpeg"
   }
 ]

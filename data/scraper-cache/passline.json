@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "Part Time Covers, en Espacio Live La Plata",
-    "fecha": "2026-08-07 21:00:00",
-    "lugar": "Espacio Live la Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/part-time-covers-en-espacio-live-la-plata-533830",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/part-time-covers-en-espacio-live-la-plata-533830-rec.jpg"
-  },
-  {
-    "titulo": "Segunda Mano en Espacio Live La Plata!",
-    "fecha": "2026-08-08 21:00:00",
-    "lugar": "Espacio Live La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/segunda-mano-en-espacio-live-la-plata-533189",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/segunda-mano-en-espacio-live-la-plat-533189-rec.jpg"
-  },
-  {
     "titulo": "Noche Retro 80/90 - Fernando Maza DJ en Espacio Live La Plata!!",
     "fecha": "2026-08-14 21:00:00",
     "lugar": "Espacio Live La Plata",
@@ -128,5 +108,25 @@
     "url": "https://www.passline.com/eventos/la-magdalena-noche-sabinera-en-espacio-live-la-plata",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/la-magdalena-noche-sabinera-en-espacio-live-la-plata-538704-rec.jpg"
+  },
+  {
+    "titulo": "Super Secreto presenta, El Misterioso Crimen del Hotel Rosebud",
+    "fecha": "2026-10-09 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/super-secreto-presenta-el-misterioso-crimen-del-hotel-rosebud",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/super-secreto-presenta-el-misterioso-crimen-del-hotel-rosebud-544867-rec.jpg"
+  },
+  {
+    "titulo": "Pure Disco 20 Años, en Espacio Live",
+    "fecha": "2026-10-17 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/pure-disco-20-anos-en-espacio-live",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/pure-disco-20-anos-en-espacio-live-543641-rec.jpg"
   }
 ]

@@ -11,23 +11,13 @@
   },
   {
     "titulo": "La nona",
-    "fecha": "2026-08-08 21:00:00",
+    "fecha": "2026-08-15 21:00:00",
     "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra41751-la-nona",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/26/000303026.jpg"
-  },
-  {
-    "titulo": "Murga: Esa Te La Debo",
-    "fecha": "2026-08-08 21:00:00",
-    "lugar": "COLIBRI ARTE Y CULTURA",
-    "direccion": "Diagonal 77 # 444, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas74360-murga-esa-te-la-debo?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/06/000302006.jpg"
   },
   {
     "titulo": "Yuna soy yo",
@@ -40,18 +30,8 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/69/000303069.jpg"
   },
   {
-    "titulo": "Con las manos atadas",
-    "fecha": "2026-08-08 18:00:00",
-    "lugar": "ESPACIO 44",
-    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas83446-con-las-manos-atadas?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/64/000263764.jpg"
-  },
-  {
     "titulo": "MATCH- TEATRO DEPORTE Y HUMOR",
-    "fecha": "2026-08-07 21:00:00",
+    "fecha": "2026-08-21 21:00:00",
     "lugar": "SALA 420",
     "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
     "categoria": "impro",
@@ -81,7 +61,7 @@
   },
   {
     "titulo": "Sociedad Platense de Stand Up",
-    "fecha": "2026-08-07 21:30:00",
+    "fecha": "2026-08-14 21:30:00",
     "lugar": "TRES EMPANADAS COMEDIA",
     "direccion": "Calle 43 N°1349, La Plata",
     "categoria": "stand-up",
@@ -108,16 +88,6 @@
     "url": "https://publico.alternativateatral.com/entradas89911-el-robo-un-policial-metafisico?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/54/000305254.jpg"
-  },
-  {
-    "titulo": "Cuanto vale una heladera",
-    "fecha": "2026-08-09 20:00:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas94659-cuanto-vale-una-heladera?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/31/000318231.jpg"
   },
   {
     "titulo": "La casa de Bernarda Alba",
@@ -151,7 +121,7 @@
   },
   {
     "titulo": "Alicia (o como narrar el olvido)",
-    "fecha": "2026-08-23 19:00:00",
+    "fecha": "2026-08-23 20:00:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -161,7 +131,7 @@
   },
   {
     "titulo": "La leona (el amor de una madre nunca se rompe)",
-    "fecha": "2026-08-08 21:00:00",
+    "fecha": "2026-08-22 21:00:00",
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
@@ -185,9 +155,29 @@
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra96536-technophilia",
+    "url": "https://publico.alternativateatral.com/entradas96536-technophilia?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/84/000308984.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/48/000318848.jpg"
+  },
+  {
+    "titulo": "Biografías",
+    "fecha": "2026-08-29 21:30:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas97067-biografias?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/93/000318893.jpg"
+  },
+  {
+    "titulo": "Luces en el espejo",
+    "fecha": "2026-09-06 20:00:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas97467-luces-en-el-espejo?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/98/000318898.jpg"
   },
   {
     "titulo": "La cantante calva",
@@ -201,7 +191,7 @@
   },
   {
     "titulo": "Recuerdos del FUTURO: Mi abuela es una super modelo",
-    "fecha": "2026-08-08 21:00:00",
+    "fecha": "2026-08-15 21:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -241,7 +231,7 @@
   },
   {
     "titulo": "Tanguito mio, un musical bien guapito",
-    "fecha": "2026-08-09 16:30:00",
+    "fecha": "2026-08-16 16:30:00",
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
@@ -260,8 +250,18 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/22/000311022.jpg"
   },
   {
+    "titulo": "Cuando te mueras del todo",
+    "fecha": "2026-08-15 20:30:00",
+    "lugar": "TEATRO LA LECHUZA",
+    "direccion": "Calle 58 e/ 10 y 11, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas99899-cuando-te-mueras-del-todo?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/99/000311399.jpg"
+  },
+  {
     "titulo": "En la orilla",
-    "fecha": "2026-08-09 19:30:00",
+    "fecha": "2026-08-16 19:30:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
@@ -281,7 +281,7 @@
   },
   {
     "titulo": "Residuos, una poética del espanto",
-    "fecha": "2026-08-09 20:00:00",
+    "fecha": "2026-08-23 20:00:00",
     "lugar": "LA MERCERIA TEATRO",
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
@@ -295,7 +295,7 @@
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra100397-el-puente-azul",
+    "url": "https://publico.alternativateatral.com/entradas100397-el-puente-azul?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/03/000312903.jpg"
   },
@@ -321,17 +321,17 @@
   },
   {
     "titulo": "Lluvia verde",
-    "fecha": "2026-08-27 21:00:00",
+    "fecha": "2026-08-28 21:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra100686-lluvia-verde",
+    "url": "https://publico.alternativateatral.com/entradas100686-lluvia-verde?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/86/000314486.jpg"
   },
   {
     "titulo": "DORA. Ellos saben que sabe. Ella sabe que saben. Pero ella es Dora, la Administradora",
-    "fecha": "2026-08-08 20:30:00",
+    "fecha": "2026-08-15 20:30:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
@@ -351,7 +351,7 @@
   },
   {
     "titulo": "Volcada",
-    "fecha": "2026-08-09 18:00:00",
+    "fecha": "2026-08-16 18:00:00",
     "lugar": "ÁREA CHICA",
     "direccion": "Boulevard 83 403, La Plata",
     "categoria": "teatro",
@@ -360,34 +360,14 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/75/000315375.jpg"
   },
   {
-    "titulo": "Cronopios VII",
-    "fecha": "2026-08-07 21:30:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101288-cronopios-vii?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/71/000318571.jpg"
-  },
-  {
     "titulo": "La risa",
-    "fecha": "2026-08-08 21:00:00",
+    "fecha": "2026-08-15 21:00:00",
     "lugar": "TELON NEGRO TEATRO",
     "direccion": "13 e/ 32 y 33, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101374-la-risa?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/28/000315828.jpg"
-  },
-  {
-    "titulo": "Poema criollo. Versos del subsuelo",
-    "fecha": "2026-08-07 20:30:00",
-    "lugar": "ESPACIO 44",
-    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas101398-poema-criollo-versos-del-subsuelo?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/70/000316070.jpg"
   },
   {
     "titulo": "Poema criollo. Versos del subsuelo",
@@ -411,7 +391,7 @@
   },
   {
     "titulo": "Donde estaré atrapado",
-    "fecha": "2026-09-06 19:00:00",
+    "fecha": "2026-09-06 15:00:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
@@ -447,11 +427,11 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas101878-cronopios-x?o=6",
     "fuente": "alternativa",
-    "imagen": ""
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/92/000318892.jpg"
   },
   {
     "titulo": "Cronopios XI",
-    "fecha": "2026-08-08 21:30:00",
+    "fecha": "2026-08-28 21:30:00",
     "lugar": "ESCENARIO-40",
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
@@ -461,7 +441,7 @@
   },
   {
     "titulo": "Todo lo que cabe en una valija",
-    "fecha": "2026-08-28 21:00:00",
+    "fecha": "2026-08-29 20:30:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -471,7 +451,7 @@
   },
   {
     "titulo": "Vecinas, música y teatro",
-    "fecha": "2026-08-08 21:00:00",
+    "fecha": "2026-08-15 21:00:00",
     "lugar": "EL MEDIO ALJIBE",
     "direccion": "11 e/66 y 67, La Plata",
     "categoria": "musica",
@@ -491,7 +471,7 @@
   },
   {
     "titulo": "13 y martes",
-    "fecha": "2026-08-07 21:00:00",
+    "fecha": "2026-08-22 21:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -575,29 +555,9 @@
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102342-cuando-los-animales-duerman",
+    "url": "https://publico.alternativateatral.com/entradas102342-cuando-los-animales-duerman?o=6",
     "fuente": "alternativa",
-    "imagen": ""
-  },
-  {
-    "titulo": "Escenas I - Muestra de alumnos del taller de teatro",
-    "fecha": "2026-08-08 20:00:00",
-    "lugar": "TEATRO EL ESCAPE",
-    "direccion": "44 1443 entre 23 y 24, La Plata",
-    "categoria": "taller",
-    "url": "https://publico.alternativateatral.com/entradas102345-escenas-i-muestra-de-alumnos-del-taller-de-teatro?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/32/000318432.jpg"
-  },
-  {
-    "titulo": "Escenas II - Muestra de alumnos del taller de teatro",
-    "fecha": "2026-08-09 19:00:00",
-    "lugar": "TEATRO EL ESCAPE",
-    "direccion": "44 1443 entre 23 y 24, La Plata",
-    "categoria": "taller",
-    "url": "https://publico.alternativateatral.com/entradas102346-escenas-ii-muestra-de-alumnos-del-taller-de-teatro?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/33/000318433.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/18/000318818.jpg"
   },
   {
     "titulo": "Escenas III - Muestra de alumnos del taller de teatro",
@@ -631,9 +591,9 @@
   },
   {
     "titulo": "¡Ay, por Dios!",
-    "fecha": "2026-08-07 21:00:00",
+    "fecha": "2026-08-14 21:00:00",
     "lugar": "DOBLE-T",
-    "direccion": "Calle 34 N º1618 entre 27 y 28, La Plata",
+    "direccion": "Calle 23 N°565 entre 43 y 44, La Plata",
     "categoria": "teatro",
     "url": "https://www.teatrodoblet.com.ar/event/125276-ay-por-dios",
     "fuente": "alternativa",
@@ -648,5 +608,45 @@
     "url": "https://publico.alternativateatral.com/entradas102405-lady-godiva-la-diva?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/88/000318688.jpg"
+  },
+  {
+    "titulo": "Crimen y castigo",
+    "fecha": "2026-10-10 20:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas102437-crimen-y-castigo?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/26/000318726.jpg"
+  },
+  {
+    "titulo": "Si sucede conviene",
+    "fecha": "2026-09-04 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas102493-si-sucede-conviene?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/44/000318844.jpg"
+  },
+  {
+    "titulo": "Cronopios X cronopios 1",
+    "fecha": "2026-08-28 21:30:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas102525-cronopios-x-cronopios-1?o=6",
+    "fuente": "alternativa",
+    "imagen": ""
+  },
+  {
+    "titulo": "Cronopios X cronopios 2",
+    "fecha": "2026-10-30 20:00:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102526-cronopios-x-cronopios-2",
+    "fuente": "alternativa",
+    "imagen": ""
   }
 ]

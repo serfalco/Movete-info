@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "DANTE SPINETTA",
-    "fecha": "2026-08-07 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "LOS PÉREZ GARCÍA",
-    "fecha": "2026-08-08 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "JUANSE",
     "fecha": "2026-08-14 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -150,6 +130,16 @@
     "imagen": ""
   },
   {
+    "titulo": "ROMPIENDO ESPEJOS - Tributo a Callej ...",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
     "titulo": "LA CHANCHA MUDA",
     "fecha": "2026-09-26 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -162,6 +152,16 @@
   {
     "titulo": "GAUCHITO CLUB",
     "fecha": "2026-10-09 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "BESTIA BEBÉ",
+    "fecha": "2026-10-10 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
@@ -192,6 +192,16 @@
   {
     "titulo": "GIROS",
     "fecha": "2026-11-13 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "LUCHO SSJ",
+    "fecha": "2026-11-20 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
@@ -350,16 +360,6 @@
     "imagen": ""
   },
   {
-    "titulo": "Valeria Lynch",
-    "fecha": "2026-09-05 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "LAS PASTILLAS DEL ABUELO",
     "fecha": "2026-09-12 21:00:00",
     "lugar": "Hipódromo de La Plata",
@@ -402,6 +402,16 @@
   {
     "titulo": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
     "fecha": "2026-12-05 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Av. 44 y 115, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "Valeria Lynch",
+    "fecha": "2026-12-13 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",
