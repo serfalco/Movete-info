@@ -70,7 +70,7 @@
     "imagen": "https://www.passline.com/imagenes/eventos/bon-jovi-x-valentinos-en-espacio-live-529186-rec.jpg"
   },
   {
-    "titulo": "1000 Horas, Tributo a Los Abuelos en Espacio Live La Plata",
+    "titulo": "1000 Horas, Tributo a Los Abuelos en Espacio Live, Abre Version Animal, Homenaje a Soda Stereo",
     "fecha": "2026-09-12 21:00:00",
     "lugar": "Espacio Live La Plata",
     "direccion": "",
@@ -110,6 +110,16 @@
     "imagen": "https://www.passline.com/imagenes/eventos/la-magdalena-noche-sabinera-en-espacio-live-la-plata-538704-rec.jpg"
   },
   {
+    "titulo": "Mente en Blanco en Espacio Live; Abre Calcos, Tributo a Pappo",
+    "fecha": "2026-10-02 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/mente-en-blanco-en-espacio-live-abre-calcos-tributo-a-pappo",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/mente-en-blanco-en-espacio-live-abre-calcos-tributo-a-pappo-545314-rec.jpg"
+  },
+  {
     "titulo": "Super Secreto presenta, El Misterioso Crimen del Hotel Rosebud",
     "fecha": "2026-10-09 21:00:00",
     "lugar": "Espacio Live La Plata",
@@ -118,6 +128,16 @@
     "url": "https://www.passline.com/eventos/super-secreto-presenta-el-misterioso-crimen-del-hotel-rosebud",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/super-secreto-presenta-el-misterioso-crimen-del-hotel-rosebud-544867-rec.jpg"
+  },
+  {
+    "titulo": "Nico Martínez en Espacio Live; Abre Fede Macchi",
+    "fecha": "2026-10-16 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/nico-martinez-en-espacio-live-abre-fede-macchi",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/nico-martinez-en-espacio-live-abre-fede-macchi-545391-rec.jpg"
   },
   {
     "titulo": "Pure Disco 20 Años, en Espacio Live",
