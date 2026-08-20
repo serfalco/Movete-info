@@ -20,26 +20,6 @@
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1920-4.jpg"
   },
   {
-    "titulo": "FALTA Y RESTO",
-    "fecha": "2026-08-18 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/falta-y-resto-en-el-teatro-opera-lp",
-    "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/FALTA-Y-RESTO-Feed-1080x1440-18-Agosto-2026.jpg"
-  },
-  {
-    "titulo": "LA CUMPARSITA",
-    "fecha": "2026-08-16 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/la-cumparsita-en-el-teatro-opera-lp-16-08",
-    "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/opera-2026-instagram-feed-1080-x-1440-px.jpg"
-  },
-  {
     "titulo": "CIELO RAZZO",
     "fecha": "2026-08-28 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -60,14 +40,14 @@
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1350.jpg"
   },
   {
-    "titulo": "KOINO YOKAN",
-    "fecha": "2026-08-15 21:00:00",
+    "titulo": "ESCALANDRUM",
+    "fecha": "2026-10-24 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
-    "url": "https://livepass.com.ar/events/koino-yokan-en-el-teatro-opera-lp-2026-08-15",
+    "url": "https://livepass.com.ar/events/escalandrum-en-el-teatro-opera-lp",
     "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/07/KY_LaPlata_1080x1350_2-1.jpg"
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/07/Escalandrum_Graficaws_Desktop300x250-1.jpg"
   },
   {
     "titulo": "FLORIAN – ACTOS DE GENTILEZA",
@@ -167,7 +147,7 @@
     "categoria": "musica",
     "url": "https://livepass.com.ar/events/bhavi-en-el-teatro-opera-lp-23-08",
     "fuente": "opera",
-    "imagen": ""
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/1080x1350.jpg"
   },
   {
     "titulo": "LOS TIPITOS",

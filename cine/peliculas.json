@@ -289,6 +289,32 @@
     "tmdb_id": 1101383,
     "trailer": "https://www.youtube.com/watch?v=pKtm-_iOivI"
   },
+  "el gran falsificador": {
+    "anio": "2014",
+    "backdrop": "https://image.tmdb.org/t/p/w780/brb00GEHqtkDetey1nNSsOEvDq8.jpg",
+    "director": "Philip Martin",
+    "duracion": 92,
+    "elenco": [
+      "John Travolta",
+      "Christopher Plummer",
+      "Tye Sheridan"
+    ],
+    "generos": [
+      "Suspense",
+      "Crimen",
+      "Drama"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/b6o29UVbV3czrygLygVzcpXaMq.jpg",
+    "score": 5.809,
+    "sinopsis": "Liberado de la prisión para que pueda pasar tiempo con su moribundo hijo (Tye Sheridan, Barro), un experto falsificador de arte (John Travolta) es obligado a participar en un importante atraco a un museo, en este thriller dramático co-protagonizada por Christopher Plummer, Abigail Spencer y Jennifer Ehle.",
+    "titulo": "El falsificador",
+    "titulo_original": "The Forger",
+    "tmdb_id": 255157,
+    "trailer": ""
+  },
   "el partido": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
@@ -444,6 +470,57 @@
     "tmdb_id": 950028,
     "trailer": ""
   },
+  "la muerte de robin hood": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+    "director": "Michael Sarnoski",
+    "duracion": 123,
+    "elenco": [
+      "Hugh Jackman",
+      "Jodie Comer",
+      "Bill Skarsgård"
+    ],
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Acción"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+    "score": 6.276,
+    "sinopsis": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+    "titulo": "La muerte de Robin Hood",
+    "titulo_original": "The Death of Robin Hood",
+    "tmdb_id": 1284465,
+    "trailer": "https://www.youtube.com/watch?v=PJqvdmKERw8"
+  },
+  "la noche del demonio estan entre nosotros": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "director": "Jacob Chase",
+    "duracion": 106,
+    "elenco": [
+      "Amelia Eve",
+      "Island Austin",
+      "Lin Shaye"
+    ],
+    "generos": [
+      "Terror",
+      "Suspense"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+    "score": 5.8,
+    "sinopsis": "Sexta entrega de la franquicia \"Insidious\".",
+    "titulo": "Insidious: Fuera del más allá",
+    "titulo_original": "Insidious: Out of the Further",
+    "tmdb_id": 1291595,
+    "trailer": ""
+  },
   "la odisea": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
@@ -547,6 +624,32 @@
     "titulo_original": "Los domingos",
     "tmdb_id": 1443576,
     "trailer": "https://www.youtube.com/watch?v=yyLrtKGQ5KA"
+  },
+  "mi vecino totoro": {
+    "anio": "1988",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+    "director": "Hayao Miyazaki",
+    "duracion": 86,
+    "elenco": [
+      "Noriko Hidaka",
+      "坂本千夏",
+      "高木均"
+    ],
+    "generos": [
+      "Fantasía",
+      "Animación",
+      "Familia"
+    ],
+    "paises": [
+      "Japan"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/uu6RaEAfkIQaolf20axWaRU4h3w.jpg",
+    "score": 8.066,
+    "sinopsis": "Dos chicas jóvenes, Mei y Satsuki, se mudan a una nueva casa cerca del hospital en el que se encuentra su madre. En el patio junto a la casa, existe un gran árbol que es el hogar de tres Totoros, dioses de la selva. Poco después, reciben noticias desde el hospital de que su madre no puede venir a casa como había prometido, por lo que Mei (la más joven) se escapa para ir a visitarla. Satsuki tiene que recurrir a un Totoro para ayudar a encontrarla.",
+    "titulo": "Mi vecino Totoro",
+    "titulo_original": "となりのトトロ",
+    "tmdb_id": 8392,
+    "trailer": "https://www.youtube.com/watch?v=BjeBG8Xrci8"
   },
   "michael": {
     "anio": "2026",
@@ -803,6 +906,30 @@
     "titulo_original": "Toy Story 5",
     "tmdb_id": 1084244,
     "trailer": "https://www.youtube.com/watch?v=9_reo5Jl1OM"
+  },
+  "tu corazon sera destrozado": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mM4yzC7MmapcwfgrQx5EAFzKInm.jpg",
+    "director": "Михаил Вайнберг",
+    "duracion": 134,
+    "elenco": [
+      "Даниэль Вегас",
+      "Вероника Журавлёва",
+      "Иван Трушин"
+    ],
+    "generos": [
+      "Romance"
+    ],
+    "paises": [
+      "Russia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/siSnG1h8JKkuHgM0RuOWLcNxSbz.jpg",
+    "score": 7.1,
+    "sinopsis": "Polina, una estudiante de secundaria, encuentra un salvavidas inesperado frente al acoso que sufre en su nuevo instituto. Para frenar el bullying, sella un pacto con Bars, el cabecilla de los abusadores: él fingirá ser su novio y se convertirá en su protector, pero a cambio, ella tendrá que obedecerle en todo lo que él le pida.  Lo que empieza como un juego de supervivencia se complica cuando la química entre los dos se vuelve real. Sin embargo, su historia tiene los días contados: tanto sus familias como sus propios compañeros harán lo imposible por dinamitar una relación que nadie aprueba.",
+    "titulo": "Tu corazón se romperá",
+    "titulo_original": "Твоё сердце будет разбито",
+    "tmdb_id": 1523145,
+    "trailer": ""
   },
   "yo narciso": {
     "anio": "2026",

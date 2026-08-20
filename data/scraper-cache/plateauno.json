@@ -80,6 +80,16 @@
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3228.jpeg"
   },
   {
+    "titulo": "FEST DE LA MUSICA ITALIANA",
+    "fecha": "2026-10-03 21:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.plateaunotickets.com/obra/10020/fest-de-la-musica-italiana",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3384.jpeg"
+  },
+  {
     "titulo": "LA BIBLIOTECA PERDIDA",
     "fecha": "2026-10-04 17:00:00",
     "lugar": "Metro",
@@ -110,16 +120,6 @@
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3377.jpeg"
   },
   {
-    "titulo": "TANGO PARA TRES",
-    "fecha": "2026-10-18 19:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.plateaunotickets.com/obra/9704/tango-para-tres",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3167.jpeg"
-  },
-  {
     "titulo": "TE PIDO MIL DISCULPAS.",
     "fecha": "2026-10-24 21:00:00",
     "lugar": "Metro",
@@ -128,6 +128,16 @@
     "url": "https://www.plateaunotickets.com/obra/9819/te-pido-mil-disculpas",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3245.jpeg"
+  },
+  {
+    "titulo": "TANGO PARA TRES",
+    "fecha": "2026-10-25 20:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.plateaunotickets.com/obra/9704/tango-para-tres",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3167.jpeg"
   },
   {
     "titulo": "JULIAN BELLESE STAND UP COMEDY",
@@ -148,5 +158,25 @@
     "url": "https://www.plateaunotickets.com/obra/9942/nico-de-tracy-purga",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3330.jpeg"
+  },
+  {
+    "titulo": "DOCTORA QUEEN 2026",
+    "fecha": "2026-11-07 21:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10018/doctora-queen-2026",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3301.jpeg"
+  },
+  {
+    "titulo": "G Y T GUYOT Y TOTH",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10019/g-y-t-guyot-y-toth",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3383.jpeg"
   }
 ]

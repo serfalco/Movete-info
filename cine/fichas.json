@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "454639": {
     "tmdb": {
@@ -712,7 +712,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "1081003": {
     "tmdb": {
@@ -1058,7 +1058,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "1314481": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "1108427": {
     "tmdb": {
@@ -2494,7 +2494,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "1212763": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "18775": {
     "tmdb": {
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "1443576": {
     "tmdb": {
@@ -4306,7 +4306,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "1101383": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "1698443": {
     "tmdb": {
@@ -4575,7 +4575,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-08-13"
+    "ultima_semana": "2026-08-20"
   },
   "1240889": {
     "tmdb": {
@@ -4747,5 +4747,912 @@
       ]
     },
     "ultima_semana": "2026-08-13"
+  },
+  "1291595": {
+    "tmdb": {
+      "tmdb_id": 1291595,
+      "titulo": "Insidious: Fuera del más allá",
+      "titulo_original": "Insidious: Out of the Further",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-08-19",
+      "duracion": 106,
+      "generos": [
+        "Terror",
+        "Suspense"
+      ],
+      "score": 5.8,
+      "votos": 7,
+      "certificacion": "PG-13",
+      "sinopsis": "Sexta entrega de la franquicia \"Insidious\".",
+      "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/juday8QWmjKAfIx7jbOEHzhAt4T.jpg",
+        "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+        "https://image.tmdb.org/t/p/w780/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
+        "https://image.tmdb.org/t/p/w780/xktdBsGfPQWl4DG3QLXpOB1Xd8u.jpg",
+        "https://image.tmdb.org/t/p/w780/8ujQlfBsLwNDs1lHmGxDMYkUrRT.jpg",
+        "https://image.tmdb.org/t/p/w780/yoBvGHXCSsgI93ozbcvYAg1LPiy.jpg"
+      ],
+      "director": "Jacob Chase",
+      "guionistas": [
+        "Jacob Chase"
+      ],
+      "musica": "Joseph Bishara",
+      "elenco": [
+        {
+          "nombre": "Amelia Eve",
+          "personaje": "Gemma",
+          "foto": "https://image.tmdb.org/t/p/w185/tae6mUhWxNs82IVgWlarxPKbVL8.jpg",
+          "iniciales": "AE"
+        },
+        {
+          "nombre": "Island Austin",
+          "personaje": "Maya",
+          "foto": "https://image.tmdb.org/t/p/w185/663fMDrygvPYcV4L567iHVzEfXD.jpg",
+          "iniciales": "IA"
+        },
+        {
+          "nombre": "Lin Shaye",
+          "personaje": "Elise Rainier",
+          "foto": "https://image.tmdb.org/t/p/w185/aL87Za52elH81zMiXQn5C7AXAeg.jpg",
+          "iniciales": "LS"
+        },
+        {
+          "nombre": "Sam Spruell",
+          "personaje": "Cyrus",
+          "foto": "https://image.tmdb.org/t/p/w185/nTyK3HlqdlJZqjpwTVf4Xo5LkYw.jpg",
+          "iniciales": "SS"
+        },
+        {
+          "nombre": "Brandon Perea",
+          "personaje": "Nick",
+          "foto": "https://image.tmdb.org/t/p/w185/hEzljVgsho0Uwd8tg7AGB5Uy3Lr.jpg",
+          "iniciales": "BP"
+        },
+        {
+          "nombre": "Maisie Richardson-Sellers",
+          "personaje": "Clare",
+          "foto": "https://image.tmdb.org/t/p/w185/kYqqlIllubeg36H93RCNEzUSO5j.jpg",
+          "iniciales": "MR"
+        },
+        {
+          "nombre": "Joseph Lopez",
+          "personaje": "Lester",
+          "foto": "https://image.tmdb.org/t/p/w185/tmhwEUByCT6iXlxmJvpTsX97Css.jpg",
+          "iniciales": "JL"
+        },
+        {
+          "nombre": "Laura Gordon",
+          "personaje": "Ingrid",
+          "foto": "https://image.tmdb.org/t/p/w185/7Gro37r1iqm4Wiyf2QlvMPgSeza.jpg",
+          "iniciales": "LG"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Blumhouse Productions",
+        "Screen Gems",
+        "Stage 6 Films",
+        "Atomic Monster"
+      ],
+      "temas": [
+        "Supernatural",
+        "Haunted house",
+        "Stalker",
+        "Sequel",
+        "Evil spirit",
+        "Demon",
+        "Dentist",
+        "Other dimension"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt32393988",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Insidious - Colección",
+        "partes": [
+          {
+            "tmdb_id": 49018,
+            "titulo": "Insidious",
+            "anio": "2011",
+            "poster": "https://image.tmdb.org/t/p/w342/gIrBcrmtL2KEiydYKk8r94o1UGI.jpg",
+            "fecha": "2011-03-31"
+          },
+          {
+            "tmdb_id": 91586,
+            "titulo": "Insidious: Capítulo 2",
+            "anio": "2013",
+            "poster": "https://image.tmdb.org/t/p/w342/ybzJLYR0AbtFphcj6kMqe08Ak1F.jpg",
+            "fecha": "2013-09-12"
+          },
+          {
+            "tmdb_id": 280092,
+            "titulo": "Insidious: Capítulo 3",
+            "anio": "2015",
+            "poster": "https://image.tmdb.org/t/p/w342/yc8vkZgbaJjaZjEE1K1qMrDWiB5.jpg",
+            "fecha": "2015-05-28"
+          },
+          {
+            "tmdb_id": 406563,
+            "titulo": "Insidious: La última llave",
+            "anio": "2018",
+            "poster": "https://image.tmdb.org/t/p/w342/d5l0baYosvDH4HCEc6O7h1QgAp9.jpg",
+            "fecha": "2018-01-03"
+          },
+          {
+            "tmdb_id": 614479,
+            "titulo": "Insidious: La puerta roja",
+            "anio": "2023",
+            "poster": "https://image.tmdb.org/t/p/w342/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg",
+            "fecha": "2023-07-05"
+          },
+          {
+            "tmdb_id": 1291595,
+            "titulo": "Insidious: Fuera del más allá",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+            "fecha": "2026-08-19"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 1006575,
+          "titulo": "Journey to Hell",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/dsTW64m8FBAN9hnM0HeUrlP8UKs.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 1386179,
+          "titulo": "Songko",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/6uIFX9Y7zXZTQTshGfe5jueA94l.jpg",
+          "score": 6.0
+        },
+        {
+          "tmdb_id": 1386252,
+          "titulo": "Apostando con el diablo",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/capEXuKzwUVkys6HiMso8T5T1dI.jpg",
+          "score": 9.0
+        },
+        {
+          "tmdb_id": 261932,
+          "titulo": "地獄",
+          "anio": "1979",
+          "poster": "https://image.tmdb.org/t/p/w342/tZ7tPqJ7lUZ38Knxz0WN0ORjDQK.jpg",
+          "score": 6.917
+        },
+        {
+          "tmdb_id": 442062,
+          "titulo": "Pesadillas 2: Noche de Halloween",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/pPCgjYPQGWdIBRL05N6PVZOeOZL.jpg",
+          "score": 6.1
+        },
+        {
+          "tmdb_id": 811086,
+          "titulo": "黄龍の村",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/1CbG99YqpbzprGviIWskPzpGdGk.jpg",
+          "score": 5.864
+        },
+        {
+          "tmdb_id": 1250,
+          "titulo": "Ghost Rider. El motorista fantasma",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/5GHGotbrKQOj1z39hmOUHh8pYjP.jpg",
+          "score": 5.616
+        },
+        {
+          "tmdb_id": 1359,
+          "titulo": "American Psycho",
+          "anio": "2000",
+          "poster": "https://image.tmdb.org/t/p/w342/ySPCri7VfAjbLLkMKs7Zjn6Njco.jpg",
+          "score": 7.402
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-20"
+  },
+  "8392": {
+    "tmdb": {
+      "tmdb_id": 8392,
+      "titulo": "Mi vecino Totoro",
+      "titulo_original": "となりのトトロ",
+      "tagline": "Estas extrañas criaturas aún existen en Japón. Probablemente...",
+      "anio": "1988",
+      "estreno": "1988-04-16",
+      "duracion": 86,
+      "generos": [
+        "Fantasía",
+        "Animación",
+        "Familia"
+      ],
+      "score": 8.066,
+      "votos": 8992,
+      "certificacion": "G",
+      "sinopsis": "Dos chicas jóvenes, Mei y Satsuki, se mudan a una nueva casa cerca del hospital en el que se encuentra su madre. En el patio junto a la casa, existe un gran árbol que es el hogar de tres Totoros, dioses de la selva. Poco después, reciben noticias desde el hospital de que su madre no puede venir a casa como había prometido, por lo que Mei (la más joven) se escapa para ir a visitarla. Satsuki tiene que recurrir a un Totoro para ayudar a encontrarla.",
+      "poster": "https://image.tmdb.org/t/p/w342/uu6RaEAfkIQaolf20axWaRU4h3w.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+        "https://image.tmdb.org/t/p/w780/95ozIP0A2fKaAXxwDxUEVn74Iux.jpg",
+        "https://image.tmdb.org/t/p/w780/fxYazFVeOCHpHwuqGuiqcCTw162.jpg",
+        "https://image.tmdb.org/t/p/w780/yg87at336m5vDvmu79pbmlt6giN.jpg",
+        "https://image.tmdb.org/t/p/w780/2kOpEq6mYjrDXnTMorGh5342qaW.jpg",
+        "https://image.tmdb.org/t/p/w780/nWpL5IeV5z0OCcyIgmLIsADODhE.jpg"
+      ],
+      "director": "Hayao Miyazaki",
+      "guionistas": [
+        "Hayao Miyazaki"
+      ],
+      "musica": "久石譲",
+      "elenco": [
+        {
+          "nombre": "Noriko Hidaka",
+          "personaje": "Satsuki Kusakabe (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/43OuwsjqGf7JxpFpUvB75OdDDXQ.jpg",
+          "iniciales": "NH"
+        },
+        {
+          "nombre": "坂本千夏",
+          "personaje": "Mei Kusakabe (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/lIIwnLmcgGpifpRflBq0kLW9EpK.jpg",
+          "iniciales": "坂本"
+        },
+        {
+          "nombre": "高木均",
+          "personaje": "Totoro (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/lQWkgAGIdJ3Q93xI95ke6LZfzHW.jpg",
+          "iniciales": "高木"
+        },
+        {
+          "nombre": "糸井重里",
+          "personaje": "Tatsuo Kusakabe (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/2V17CMIcxb6JEHT5Qp3FKdlHUoE.jpg",
+          "iniciales": "糸井"
+        },
+        {
+          "nombre": "Sumi Shimamoto",
+          "personaje": "Yasuko Kusakabe (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/iKIDv2VFpAgzJ0uMQi7pzcMHB9i.jpg",
+          "iniciales": "SS"
+        },
+        {
+          "nombre": "Tanie Kitabayashi",
+          "personaje": "Granny (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/vGG6ErgXfrZuRsVfDP3Po3XReST.jpg",
+          "iniciales": "TK"
+        },
+        {
+          "nombre": "雨笠利幸",
+          "personaje": "Kanta Ogaki (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/7DK21dlVcsltO92rcTq5BpZ2J7j.jpg",
+          "iniciales": "雨笠"
+        },
+        {
+          "nombre": "丸山優子",
+          "personaje": "Kanta's Mother (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/fmzNKKcuVpdT2xfdlpk8PAI5kSX.jpg",
+          "iniciales": "丸山"
+        }
+      ],
+      "paises": [
+        "Japan"
+      ],
+      "idiomas": [
+        "日本語"
+      ],
+      "productoras": [
+        "Studio Ghibli",
+        "Nibariki",
+        "Tokuma Shoten"
+      ],
+      "temas": [
+        "Mother",
+        "Sibling relationship",
+        "Village",
+        "Leave",
+        "Rural area",
+        "Hospital",
+        "New neighbor",
+        "New home"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=BjeBG8Xrci8",
+      "teaser": "",
+      "imdb_id": "tt0096283",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 812306,
+          "titulo": "装甲騎兵ボトムズ 孤影再び",
+          "anio": "2011",
+          "poster": "https://image.tmdb.org/t/p/w342/y5hjfdBOvdKwDpocBHl6eDojcrY.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 624097,
+          "titulo": "Lacandón. El origen de los aluxes",
+          "anio": "2015",
+          "poster": "https://image.tmdb.org/t/p/w342/a4JaiWEgw9Kpq9xqDMRoraUXKG6.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 811948,
+          "titulo": "Demon Slayer: Kimetsu no Yaiba: The Hashira Meeting Arc",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/dDclNO4vWBDGBMyamtd1ZAQMISI.jpg",
+          "score": 7.032
+        },
+        {
+          "tmdb_id": 1193662,
+          "titulo": "銀魂オンシアター2D バラガキ篇",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/2yCdbXGIRjyK6hQdYm3dJJjfBK0.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 1193666,
+          "titulo": "ETERNITY MEMORIES",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/fjTwXdJQQHdau8wYhygumdYBQ6j.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 2062,
+          "titulo": "Ratatouille",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg",
+          "score": 7.846
+        },
+        {
+          "tmdb_id": 262549,
+          "titulo": "Donald Duck's Christmas Favourites",
+          "anio": "2012",
+          "poster": "https://image.tmdb.org/t/p/w342/wd1mpVo5MP7PlVe0CWuF8bMVScL.jpg",
+          "score": 7.667
+        },
+        {
+          "tmdb_id": 1997,
+          "titulo": "Dos hermanos",
+          "anio": "2004",
+          "poster": "https://image.tmdb.org/t/p/w342/re9fSYWtJwV7hG8NIwznt2IFnQZ.jpg",
+          "score": 7.137
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-20"
+  },
+  "1284465": {
+    "tmdb": {
+      "tmdb_id": 1284465,
+      "titulo": "La muerte de Robin Hood",
+      "titulo_original": "The Death of Robin Hood",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-06-18",
+      "duracion": 123,
+      "generos": [
+        "Aventura",
+        "Drama",
+        "Acción"
+      ],
+      "score": 6.276,
+      "votos": 228,
+      "certificacion": "R",
+      "sinopsis": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "poster": "https://image.tmdb.org/t/p/w342/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+        "https://image.tmdb.org/t/p/w780/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
+        "https://image.tmdb.org/t/p/w780/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
+        "https://image.tmdb.org/t/p/w780/ugOolHi7NNSoSclURMEcuMAIAl7.jpg",
+        "https://image.tmdb.org/t/p/w780/yw8FhuMvhJSy4zotEuCyk5bZ230.jpg",
+        "https://image.tmdb.org/t/p/w780/5FJsyRUuLsyt2lZrDHbqFE4tJXN.jpg"
+      ],
+      "director": "Michael Sarnoski",
+      "guionistas": [
+        "Michael Sarnoski"
+      ],
+      "musica": "Jim Ghedi",
+      "elenco": [
+        {
+          "nombre": "Hugh Jackman",
+          "personaje": "Robin Hood",
+          "foto": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg",
+          "iniciales": "HJ"
+        },
+        {
+          "nombre": "Jodie Comer",
+          "personaje": "Sister Brigid",
+          "foto": "https://image.tmdb.org/t/p/w185/AfsBpnfw0E2h8NZK4zkFcOjYlEb.jpg",
+          "iniciales": "JC"
+        },
+        {
+          "nombre": "Bill Skarsgård",
+          "personaje": "Little John",
+          "foto": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg",
+          "iniciales": "BS"
+        },
+        {
+          "nombre": "Murray Bartlett",
+          "personaje": "The Leper",
+          "foto": "https://image.tmdb.org/t/p/w185/eN20zfcRB2F51bmUbTK9byQCpb9.jpg",
+          "iniciales": "MB"
+        },
+        {
+          "nombre": "Noah Jupe",
+          "personaje": "Arthur / Godwyn",
+          "foto": "https://image.tmdb.org/t/p/w185/cBhJisZrIsZzamiUCVjOZODcqOK.jpg",
+          "iniciales": "NJ"
+        },
+        {
+          "nombre": "Jade Croot",
+          "personaje": "Wainwright",
+          "foto": "https://image.tmdb.org/t/p/w185/j4DuuFPDdnEcDWFWCyBUuhhHkxg.jpg",
+          "iniciales": "JC"
+        },
+        {
+          "nombre": "Faith Delaney",
+          "personaje": "Little Margaret",
+          "foto": "https://image.tmdb.org/t/p/w185/jIKjTzr4dCoybQgNhyREahh9Aym.jpg",
+          "iniciales": "FD"
+        },
+        {
+          "nombre": "Tabitha Smyth",
+          "personaje": "Sarah",
+          "foto": "https://image.tmdb.org/t/p/w185/uREVbfIi4rD2W29zWbtzNqIhP4u.jpg",
+          "iniciales": "TS"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Lyrical Media",
+        "Ryder Picture Company"
+      ],
+      "temas": [
+        "Robin hood",
+        "Based on myths, legends or folklore",
+        "Grim",
+        "Salvation",
+        "Grimdark"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=PJqvdmKERw8",
+      "teaser": "",
+      "imdb_id": "tt32273171",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 3131,
+          "titulo": "Gangs of New York",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/gB7aaHAT1yEj49beaII6pudpode.jpg",
+          "score": 7.32
+        },
+        {
+          "tmdb_id": 10323,
+          "titulo": "Furia de titanes",
+          "anio": "1981",
+          "poster": "https://image.tmdb.org/t/p/w342/vYiLMNIuSjRdm9CC858n93TCO5x.jpg",
+          "score": 6.927
+        },
+        {
+          "tmdb_id": 10234,
+          "titulo": "Funny Games",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/xdqXXacYzPwVAS4AvZz87u23wyW.jpg",
+          "score": 7.306
+        },
+        {
+          "tmdb_id": 1393334,
+          "titulo": "Legenda Kelam Malin Kundang",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/ilWfpRRUtSlR5VVHawysKqVeyUL.jpg",
+          "score": 6.417
+        },
+        {
+          "tmdb_id": 1199294,
+          "titulo": "Robin and the Hoods",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/q1JPhGLjsUnq3TREmP2jzWswc6m.jpg",
+          "score": 3.2
+        },
+        {
+          "tmdb_id": 272805,
+          "titulo": "Oedipus Rex",
+          "anio": "1957",
+          "poster": "https://image.tmdb.org/t/p/w342/cBoXJL0yQv8ReKoFk04uyB4XfsT.jpg",
+          "score": 6.05
+        },
+        {
+          "tmdb_id": 452507,
+          "titulo": "1922",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/1wj8hLGHAP9goBvvJ45TIK2RjsA.jpg",
+          "score": 5.947
+        },
+        {
+          "tmdb_id": 1201590,
+          "titulo": "Loco Ghosts",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/3oxD5m0AS2Ifj0dBpKHPkZTrTi3.jpg",
+          "score": 8.5
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-20"
+  },
+  "255157": {
+    "tmdb": {
+      "tmdb_id": 255157,
+      "titulo": "El falsificador",
+      "titulo_original": "The Forger",
+      "tagline": "Nunca es demasiado tarde para un último golpe.",
+      "anio": "2014",
+      "estreno": "2014-09-10",
+      "duracion": 92,
+      "generos": [
+        "Suspense",
+        "Crimen",
+        "Drama"
+      ],
+      "score": 5.809,
+      "votos": 403,
+      "certificacion": "R",
+      "sinopsis": "Liberado de la prisión para que pueda pasar tiempo con su moribundo hijo (Tye Sheridan, Barro), un experto falsificador de arte (John Travolta) es obligado a participar en un importante atraco a un museo, en este thriller dramático co-protagonizada por Christopher Plummer, Abigail Spencer y Jennifer Ehle.",
+      "poster": "https://image.tmdb.org/t/p/w342/b6o29UVbV3czrygLygVzcpXaMq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/brb00GEHqtkDetey1nNSsOEvDq8.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/brb00GEHqtkDetey1nNSsOEvDq8.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/rUo5zA1F2U1YghDvGxgtqzPXhT6.jpg",
+        "https://image.tmdb.org/t/p/w780/brb00GEHqtkDetey1nNSsOEvDq8.jpg",
+        "https://image.tmdb.org/t/p/w780/pvekngeqxqwyy5dhvIFK8QztXXe.jpg",
+        "https://image.tmdb.org/t/p/w780/1rUoGPxKAo5ChrUPtcMKh8xIDq.jpg",
+        "https://image.tmdb.org/t/p/w780/rZ7JjFQuxReZMjWLRBUPK6EzK1j.jpg",
+        "https://image.tmdb.org/t/p/w780/3uhiilHEN5BC1pm8rsxhlMSXd6F.jpg"
+      ],
+      "director": "Philip Martin",
+      "guionistas": [
+        "Richard D'Ovidio"
+      ],
+      "musica": "Rob Cairns",
+      "elenco": [
+        {
+          "nombre": "John Travolta",
+          "personaje": "Raymond Cutter",
+          "foto": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg",
+          "iniciales": "JT"
+        },
+        {
+          "nombre": "Christopher Plummer",
+          "personaje": "Joseph Cutter",
+          "foto": "https://image.tmdb.org/t/p/w185/u0YBwss0ebEUp8sjRtQKnK2wZdR.jpg",
+          "iniciales": "CP"
+        },
+        {
+          "nombre": "Tye Sheridan",
+          "personaje": "Will Cutter",
+          "foto": "https://image.tmdb.org/t/p/w185/d5ZS2fjqC98cIGkhEGX0fRYhku4.jpg",
+          "iniciales": "TS"
+        },
+        {
+          "nombre": "Abigail Spencer",
+          "personaje": "DEA Agent Catherine Paisley",
+          "foto": "https://image.tmdb.org/t/p/w185/uf96FDHVoFMwoiP5He4SPLCmwri.jpg",
+          "iniciales": "AS"
+        },
+        {
+          "nombre": "Marcus Thomas",
+          "personaje": "Carl",
+          "foto": "https://image.tmdb.org/t/p/w185/wpsm5roIsSqaOX9ApIJqCxDAqgD.jpg",
+          "iniciales": "MT"
+        },
+        {
+          "nombre": "Travis Aaron Wade",
+          "personaje": "Detective Devlin",
+          "foto": "https://image.tmdb.org/t/p/w185/cizv0GEeiXMSUADPAlssfqUmbfm.jpg",
+          "iniciales": "TW"
+        },
+        {
+          "nombre": "Lyndon Smith",
+          "personaje": "Melanie",
+          "foto": "https://image.tmdb.org/t/p/w185/rGuDBD6bevBGBEwICbaqsBtopHz.jpg",
+          "iniciales": "LS"
+        },
+        {
+          "nombre": "Anson Mount",
+          "personaje": "Tommy Keegan",
+          "foto": "https://image.tmdb.org/t/p/w185/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg",
+          "iniciales": "AM"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "The Solution",
+        "Freedom Media",
+        "Code Entertainment",
+        "Siren Digital - Hollywood"
+      ],
+      "temas": [
+        "Organized crime",
+        "Family drama",
+        "Theft",
+        "Second chance",
+        "Art theft",
+        "Law enforcement",
+        "Police surveillance",
+        "Crime syndicate"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt2376218",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 1386128,
+          "titulo": "La fianza",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/3CknYu11R1wZslUQ07G1hNcPUUJ.jpg",
+          "score": 5.5
+        },
+        {
+          "tmdb_id": 261793,
+          "titulo": "அந்த நாள்",
+          "anio": "1954",
+          "poster": "https://image.tmdb.org/t/p/w342/udRWICwrJZVyQqXDSbrC47fbZ88.jpg",
+          "score": 6.333
+        },
+        {
+          "tmdb_id": 1422,
+          "titulo": "Infiltrados",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/hf0Hgw1snmBwinkHYLCxGIs6DgO.jpg",
+          "score": 8.159
+        },
+        {
+          "tmdb_id": 1537,
+          "titulo": "Al límite de la verdad",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/xYFryu4D7UrYmB7Vqk3CPWgC87K.jpg",
+          "score": 6.281
+        },
+        {
+          "tmdb_id": 1018,
+          "titulo": "Mulholland Drive",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/kLpwkbimTwTbsYixCO3eAdNCQJ8.jpg",
+          "score": 7.798
+        },
+        {
+          "tmdb_id": 1248,
+          "titulo": "Hannibal, el origen del mal",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/AfIIQ5lMbqpCa3UQCwHVieLRpyE.jpg",
+          "score": 6.268
+        },
+        {
+          "tmdb_id": 1402,
+          "titulo": "En busca de la felicidad",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/qF6JFr6IdfNep0x6yw3i7S8avAb.jpg",
+          "score": 7.884
+        },
+        {
+          "tmdb_id": 1192934,
+          "titulo": "The Wedding Weekend",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/lfqwtwCnUft1DYSONsgfeKoaxDR.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-20"
+  },
+  "1523145": {
+    "tmdb": {
+      "tmdb_id": 1523145,
+      "titulo": "Tu corazón se romperá",
+      "titulo_original": "Твоё сердце будет разбито",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-03-26",
+      "duracion": 134,
+      "generos": [
+        "Romance"
+      ],
+      "score": 7.1,
+      "votos": 121,
+      "certificacion": "",
+      "sinopsis": "Polina, una estudiante de secundaria, encuentra un salvavidas inesperado frente al acoso que sufre en su nuevo instituto. Para frenar el bullying, sella un pacto con Bars, el cabecilla de los abusadores: él fingirá ser su novio y se convertirá en su protector, pero a cambio, ella tendrá que obedecerle en todo lo que él le pida.  Lo que empieza como un juego de supervivencia se complica cuando la química entre los dos se vuelve real. Sin embargo, su historia tiene los días contados: tanto sus familias como sus propios compañeros harán lo imposible por dinamitar una relación que nadie aprueba.",
+      "poster": "https://image.tmdb.org/t/p/w342/siSnG1h8JKkuHgM0RuOWLcNxSbz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mM4yzC7MmapcwfgrQx5EAFzKInm.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/mM4yzC7MmapcwfgrQx5EAFzKInm.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/mM4yzC7MmapcwfgrQx5EAFzKInm.jpg",
+        "https://image.tmdb.org/t/p/w780/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
+        "https://image.tmdb.org/t/p/w780/w6JTYu1CyHEEwaVn8Ywa9GmNtkd.jpg",
+        "https://image.tmdb.org/t/p/w780/87Cmhn16C0zwq0XWIZ5vsOcfrXw.jpg",
+        "https://image.tmdb.org/t/p/w780/4a0finKZoU07G9JIFfqAwNYEC1B.jpg",
+        "https://image.tmdb.org/t/p/w780/bFTiWyyOYWkbEGye38GoVZXPbQz.jpg"
+      ],
+      "director": "Михаил Вайнберг",
+      "guionistas": [],
+      "musica": "Gregory Levchenko",
+      "elenco": [
+        {
+          "nombre": "Даниэль Вегас",
+          "personaje": "Барс",
+          "foto": "https://image.tmdb.org/t/p/w185/t9AFZX1rpTt59npITX2GY3JgySd.jpg",
+          "iniciales": "ДВ"
+        },
+        {
+          "nombre": "Вероника Журавлёва",
+          "personaje": "Полина",
+          "foto": "https://image.tmdb.org/t/p/w185/bvlry6DeiYkm0onAZhonlpl4J7.jpg",
+          "iniciales": "ВЖ"
+        },
+        {
+          "nombre": "Иван Трушин",
+          "personaje": "Лэйм",
+          "foto": "https://image.tmdb.org/t/p/w185/8DWSEUJnxlr7kTP0O8iOSnsqbcs.jpg",
+          "iniciales": "ИТ"
+        },
+        {
+          "nombre": "Максим Сапрыкин",
+          "personaje": "Леха",
+          "foto": "https://image.tmdb.org/t/p/w185/u6c2wEvtqhXHyYRqd2LXKsyHr5a.jpg",
+          "iniciales": "МС"
+        },
+        {
+          "nombre": "Аля Майер",
+          "personaje": "Дилара",
+          "foto": null,
+          "iniciales": "АМ"
+        },
+        {
+          "nombre": "Евгения Лоза",
+          "personaje": "мама Полины",
+          "foto": "https://image.tmdb.org/t/p/w185/ruLILWf9x0gxg8o9W9Yj9LCI0us.jpg",
+          "iniciales": "ЕЛ"
+        },
+        {
+          "nombre": "Павел Кузьмин",
+          "personaje": "отчим Полины",
+          "foto": "https://image.tmdb.org/t/p/w185/uIIS1FLF4zMxR0Sj53a4wc9tGU6.jpg",
+          "iniciales": "ПК"
+        },
+        {
+          "nombre": "Александра Тихонова",
+          "personaje": "Саша",
+          "foto": "https://image.tmdb.org/t/p/w185/iZL6tYLqs5uhvqE4SM7GwJHxUz3.jpg",
+          "iniciales": "АТ"
+        }
+      ],
+      "paises": [
+        "Russia"
+      ],
+      "idiomas": [
+        "Pусский"
+      ],
+      "productoras": [
+        "All Media A Start Company",
+        "START Studio",
+        "Sverdlovsk Film Studio",
+        "Yellow, Black & White",
+        "Premier Studios"
+      ],
+      "temas": [
+        "Based on novel or book"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt38190257",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Хулиган и новенькая (Диология)",
+        "partes": [
+          {
+            "tmdb_id": 1523145,
+            "titulo": "Tu corazón se romperá",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/siSnG1h8JKkuHgM0RuOWLcNxSbz.jpg",
+            "fecha": "2026-03-26"
+          },
+          {
+            "tmdb_id": 1717252,
+            "titulo": "По осколкам твоего сердца",
+            "anio": "2027",
+            "poster": "https://image.tmdb.org/t/p/w342/b6U9B7KVfiWQqZzl54CIb4Q3xEW.jpg",
+            "fecha": "2027-10-14"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 1907,
+          "titulo": "La playa",
+          "anio": "2000",
+          "poster": "https://image.tmdb.org/t/p/w342/w6KtlEcZDPwpg4gC5cMhchC8FC6.jpg",
+          "score": 6.484
+        },
+        {
+          "tmdb_id": 442987,
+          "titulo": "僕らのごはんは明日で待ってる",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/mvlf8drQekYlNuH3ZMtwU3omcM6.jpg",
+          "score": 5.95
+        },
+        {
+          "tmdb_id": 1937,
+          "titulo": "Buenos días, tristeza",
+          "anio": "1958",
+          "poster": "https://image.tmdb.org/t/p/w342/iRTRpPZ10x3fEb4dmwuysVk4JRT.jpg",
+          "score": 6.7
+        },
+        {
+          "tmdb_id": 3469,
+          "titulo": "Lejos del mundanal ruido",
+          "anio": "1967",
+          "poster": "https://image.tmdb.org/t/p/w342/4DqdvQSlWUpP888CqPcA5rqhNkq.jpg",
+          "score": 6.9
+        },
+        {
+          "tmdb_id": 3476,
+          "titulo": "Lo importante es amar",
+          "anio": "1975",
+          "poster": "https://image.tmdb.org/t/p/w342/tuQfv4Noox115qQ9ByuF99T6bUg.jpg",
+          "score": 7.015
+        },
+        {
+          "tmdb_id": 3598,
+          "titulo": "Horizontes perdidos",
+          "anio": "1937",
+          "poster": "https://image.tmdb.org/t/p/w342/3rFrcPcyfXXcwG2WE9KoMvc0TpQ.jpg",
+          "score": 6.948
+        },
+        {
+          "tmdb_id": 3635,
+          "titulo": "La joven de la perla",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/milHDb4L8eyOZoPnrXpVmwglEd9.jpg",
+          "score": 6.641
+        },
+        {
+          "tmdb_id": 3573,
+          "titulo": "Emma",
+          "anio": "1996",
+          "poster": "https://image.tmdb.org/t/p/w342/aqHbWqRLFgYOCIUtQ3HIO86XMP6.jpg",
+          "score": 6.609
+        }
+      ]
+    },
+    "ultima_semana": "2026-08-20"
   }
 }
