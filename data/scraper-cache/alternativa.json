@@ -201,6 +201,16 @@
   },
   {
     "titulo": "El principio de Arquímedes",
+    "fecha": "2026-09-06 18:00:00",
+    "lugar": "TEATRO DE CÁMARA DE CITY BELL",
+    "direccion": "Diagonal Urquiza e/ 462 y 464, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra96046-el-principio-de-arquimedes",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/89/000300489.jpg"
+  },
+  {
+    "titulo": "El principio de Arquímedes",
     "fecha": "2026-10-02 21:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
@@ -678,5 +688,15 @@
     "url": "https://publico.alternativateatral.com/entradas102638-escorial?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/04/000319304.jpg"
+  },
+  {
+    "titulo": "Ciclo de obras cortas El Escape - Septiembre",
+    "fecha": "2026-09-04 20:30:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102660-ciclo-de-obras-cortas-el-escape-septiembre",
+    "fuente": "alternativa",
+    "imagen": ""
   }
 ]
