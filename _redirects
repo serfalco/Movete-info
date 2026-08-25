@@ -1,0 +1,17 @@
+# Redirecciones de Cloudflare para movete.info
+# Formato: origen  destino  codigo
+#
+# OJO: el sitio corre en Cloudflare Workers (static assets), no en Pages.
+# Workers solo acepta URLs RELATIVAS aca. Una linea con https:// hace fallar
+# el deploy entero con "Invalid _redirects configuration: Only relative URLs
+# are allowed [code: 100324]".
+#
+# Por eso el redirect de www.movete.info al apex NO puede vivir en este
+# archivo: va como Redirect Rule a nivel de zona en el panel de Cloudflare
+# (Rules -> Redirect Rules).
+
+# --- Herencia de WordPress --------------------------------------------
+# Estas URLs siguen en el indice de Google y hoy devuelven 404. Mandarlas a
+# la seccion equivalente recupera las visitas y las senales de esos enlaces.
+/evento/*    /en-vivo/   301
+/eventos/*   /en-vivo/   301
