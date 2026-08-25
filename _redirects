@@ -1,0 +1,12 @@
+# Redirecciones de Cloudflare para movete.info
+# Formato: origen  destino  codigo
+
+# --- Dominio canonico -------------------------------------------------
+# www servia el sitio completo con 200, o sea dos hosts publicando lo mismo.
+https://www.movete.info/*   https://movete.info/:splat   301
+
+# --- Herencia de WordPress --------------------------------------------
+# Estas URLs siguen en el indice de Google y hoy devuelven 404. Mandarlas a
+# la seccion equivalente recupera las visitas y las senales de esos enlaces.
+/evento/*    /en-vivo/   301
+/eventos/*   /en-vivo/   301
