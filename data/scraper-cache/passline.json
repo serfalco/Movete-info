@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Malena Rossi, De la Cuna al Escenario",
-    "fecha": "2026-08-22 21:00:00",
-    "lugar": "Espacio Live La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/malena-rossi-de-la-cuna-al-escenario",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/malena-rossi-de-la-cuna-al-escenario-542218-rec.jpg"
-  },
-  {
     "titulo": "Zambayonny, Acústico y Completo",
     "fecha": "2026-08-28 21:00:00",
     "lugar": "Espacio Live La Plata",
@@ -128,5 +118,15 @@
     "url": "https://www.passline.com/eventos/pure-disco-20-anos-en-espacio-live",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/pure-disco-20-anos-en-espacio-live-543641-rec.jpg"
+  },
+  {
+    "titulo": "Todo Heroes del Silencio & Bunbury, x Ave Rapaz en Espacio Live",
+    "fecha": "2026-10-24 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/todo-heroes-del-silencio-bunbury-x-ave-rapaz-en-espacio-live",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/todo-heroes-del-silencio-bunbury-x-ave-rapaz-en-espacio-live-549090-rec.jpg"
   }
 ]
