@@ -100,6 +100,16 @@
     "imagen": "https://www.passline.com/imagenes/eventos/super-secreto-presenta-el-misterioso-crimen-del-hotel-rosebud-544867-rec.jpg"
   },
   {
+    "titulo": "LA LA LA, 40 Años, en Espacio Live",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/la-la-la-40-anos-en-espacio-live",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/la-la-la-40-anos-en-espacio-live-549981-rec.jpg"
+  },
+  {
     "titulo": "Nico Martínez en Espacio Live; Abre Fede Macchi",
     "fecha": "2026-10-16 21:00:00",
     "lugar": "Espacio Live La Plata",
@@ -128,5 +138,15 @@
     "url": "https://www.passline.com/eventos/todo-heroes-del-silencio-bunbury-x-ave-rapaz-en-espacio-live",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/todo-heroes-del-silencio-bunbury-x-ave-rapaz-en-espacio-live-549090-rec.jpg"
+  },
+  {
+    "titulo": "PULSE; Pink Floyd Selections, en Espacio Live",
+    "fecha": "2026-10-31 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/pulse-pink-floyd-selections-en-espacio-live",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/pulse-pink-floyd-selections-en-espacio-live-549997-rec.jpg"
   }
 ]

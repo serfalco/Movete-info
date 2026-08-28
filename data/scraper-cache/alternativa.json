@@ -320,14 +320,14 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/93/000315293.jpg"
   },
   {
-    "titulo": "DORA. Ellos saben que sabe. Ella sabe que saben. Pero ella es Dora, la Administradora",
+    "titulo": "DORA",
     "fecha": "2026-09-04 21:00:00",
     "lugar": "LA MERCERIA TEATRO",
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra100866-dora-ellos-saben-que-sabe-ella-sabe-que-saben-pero-ella-es-dora-la-administradora",
+    "url": "https://publico.alternativateatral.com/entradas100866-dora?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/01/000314401.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/75/000319875.jpg"
   },
   {
     "titulo": "Beguinas (ni esposas ni monjas)",
@@ -435,7 +435,7 @@
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas102155-cuadrilateros-6-teatro-breve-reunido?o=6",
+    "url": "https://www.alternativateatral.com.ar/obra102155-cuadrilateros-6-teatro-breve-reunido",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/90/000317990.jpg"
   },
@@ -591,7 +591,7 @@
   },
   {
     "titulo": "CARYL CHESSMAN (El asesino de la luz roja)",
-    "fecha": "2026-09-11 21:30:00",
+    "fecha": "2026-09-11 22:00:00",
     "lugar": "ESCENARIO-40",
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
@@ -615,9 +615,9 @@
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102660-ciclo-de-obras-cortas-el-escape-septiembre",
+    "url": "https://publico.alternativateatral.com/entradas102660-ciclo-de-obras-cortas-el-escape-septiembre?o=6",
     "fuente": "alternativa",
-    "imagen": ""
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/67/000319867.jpg"
   },
   {
     "titulo": "Patsía: mis diálogos con él",
@@ -626,6 +626,16 @@
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas102765-patsia-mis-dialogos-con-el?o=6",
+    "fuente": "alternativa",
+    "imagen": ""
+  },
+  {
+    "titulo": "Cuando la esperanza no alcanza",
+    "fecha": "2026-10-09 21:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102818-cuando-la-esperanza-no-alcanza",
     "fuente": "alternativa",
     "imagen": ""
   }

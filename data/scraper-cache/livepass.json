@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "FLORIAN - ACTOS DE GENTILEZA",
-    "fecha": "2026-08-27 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "CIELO RAZZO",
     "fecha": "2026-08-28 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -100,6 +90,16 @@
     "imagen": ""
   },
   {
+    "titulo": "FIESTA PLOP: Homenaje a Moria Casan ...",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
     "titulo": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE ...",
     "fecha": "2026-10-03 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -122,6 +122,16 @@
   {
     "titulo": "BESTIA BEBÉ",
     "fecha": "2026-10-10 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "TAREA FINA",
+    "fecha": "2026-10-16 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
@@ -352,6 +362,16 @@
   {
     "titulo": "Pimpinela",
     "fecha": "2026-10-03 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Av. 44 y 115, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "LA KONGA",
+    "fecha": "2026-10-23 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",
