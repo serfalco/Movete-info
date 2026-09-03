@@ -1,22 +1,52 @@
 [
   {
-    "titulo": "LA CHIRICHOTA - Vuelven los clásicos",
-    "fecha": "2026-08-07 21:00:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "stand-up",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/stand-humoristico/la-chirichota-vuelven-los-clasicos",
-    "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/la-chirichota-vuelven-los-clasicos-1200x1200.jpg?itok=QjmW52FE"
-  },
-  {
-    "titulo": "Noelia Pace. Presenta: Mediumnidad",
-    "fecha": "2026-08-08 20:00:00",
+    "titulo": "EL TELÓN BAJA POR UN TIEMPO: COMIENZA LA SEGUNDA ETAPA DE PUESTA EN VALOR DEL COLISEO PODESTÁ",
+    "fecha": "2026-11-01 20:00:00",
     "lugar": "Teatro Coliseo Podestá",
     "direccion": "Calle 10 entre 46 y 47, La Plata",
     "categoria": "otros",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/evento/noelia-pace-presenta-mediumnidad-2",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/evento/el-telon-baja-por-un-tiempo-comienza-la-segunda-etapa-de-puesta-en-valor-del",
     "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/noelia-pace-presenta-mediumnidad-1200x1200.jpg?itok=pfTsKe4r"
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/el-telon-baja-por-un-tiempo-comienza-la-segunda-etapa-de-puesta-en-valor-del-coliseo-podesta_0.jpg?itok=-KUK9gY9"
+  },
+  {
+    "titulo": "GABRIEL ROLÓN \"PALABRA PLENA",
+    "fecha": "2026-11-05 21:30:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "otros",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/evento/gabriel-rolon-palabra-plena-4",
+    "fuente": "coliseo",
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/gabriel-rolon-palabra-plena-1200x1200.jpg?itok=uRV9U4oz"
+  },
+  {
+    "titulo": "LAS HIJAS",
+    "fecha": "2026-11-07 20:00:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "otros",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/las-hijas",
+    "fuente": "coliseo",
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/las-hijas-1200x1200.jpg?itok=6I6fbu79"
+  },
+  {
+    "titulo": "CONNIE BALLARINI STAND UP",
+    "fecha": "2026-11-14 20:00:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "stand-up",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/stand-humoristico/connie-ballarini-stand-0",
+    "fuente": "coliseo",
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/connie-ballarini-stand-1200x1200.jpg?itok=a-kINdFh"
+  },
+  {
+    "titulo": "Bla Bla & Cía. presenta MODELO VIVO MUERTO",
+    "fecha": "2026-11-29 20:30:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "teatro",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/comedia/bla-bla-cia-presenta-modelo-vivo-muerto",
+    "fuente": "coliseo",
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/bla-bla-cia-presenta-modelo-vivo-muerto-1200x1200.jpg?itok=3_kYAK68"
   }
 ]

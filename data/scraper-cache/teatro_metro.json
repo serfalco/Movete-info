@@ -1,7 +1,97 @@
 [
   {
-    "titulo": "Es complicado",
-    "fecha": "2026-08-30 19:00:00",
+    "titulo": "Sutottos | Feliz día",
+    "fecha": "2026-09-06 18:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "Alejandro Lerner",
+    "fecha": "2026-09-10 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "Hildafest",
+    "fecha": "2026-09-13 20:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "HILDA FEST 2026",
+    "fecha": "2026-09-13 20:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "EMPIEZA CON D",
+    "fecha": "2026-09-17 20:30:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "Raly Barrionuevo",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "Historias Innecesarias En Vivo.",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "Baglietto Vitale",
+    "fecha": "2026-09-22 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "EL ESCRITOR DE TODAS LAS COSAS",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "",
+    "fuente": "teatro-metro",
+    "imagen": ""
+  },
+  {
+    "titulo": "HOMENAJE SINFONICO A LOS REDONDOS",
+    "fecha": "2026-09-27 20:30:00",
     "lugar": "Teatro Metro La Plata",
     "direccion": "Calle 4 entre 51 y 53, La Plata",
     "categoria": "teatro",

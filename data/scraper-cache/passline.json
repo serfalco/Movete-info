@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Zambayonny, Acústico y Completo",
-    "fecha": "2026-08-28 21:00:00",
-    "lugar": "Espacio Live La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/zambayonny-acustico-y-completo",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/zambayonny-acustico-y-completo-527061-rec.jpg"
-  },
-  {
     "titulo": "Queen + Elton John, por Martin Babenco - Especial Freddie Mercury, 80 Años",
     "fecha": "2026-09-04 21:00:00",
     "lugar": "Espacio Live La Plata",
@@ -128,6 +118,16 @@
     "url": "https://www.passline.com/eventos/pure-disco-20-anos-en-espacio-live",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/pure-disco-20-anos-en-espacio-live-543641-rec.jpg"
+  },
+  {
+    "titulo": "Todo Led Zeppelin x Physical Graffiti en Espacio Live",
+    "fecha": "2026-10-23 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/todo-led-zeppelin-x-physical-graffiti-en-espacio-live",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/todo-led-zeppelin-x-physical-graffiti-en-espacio-live-552657-rec.jpg"
   },
   {
     "titulo": "Todo Heroes del Silencio & Bunbury, x Ave Rapaz en Espacio Live",

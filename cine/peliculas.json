@@ -156,6 +156,7 @@
     "tmdb_id": 1669841,
     "trailer": ""
   },
+  "coyote contra acme": null,
   "el afinador": {
     "anio": "2005",
     "backdrop": "https://image.tmdb.org/t/p/w780/q5Dw0lwoyyPOFzHGqx28TXsYCNc.jpg",
@@ -444,6 +445,32 @@
   },
   "jue 12 30 17 30 20 00 el diablo viste a la moda 2": null,
   "jueves a viernes 21 30 minions y monstruos": null,
+  "la guerra de los ultimos": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+    "director": "Ridley Scott",
+    "duracion": 119,
+    "elenco": [
+      "Jacob Elordi",
+      "Margaret Qualley",
+      "Josh Brolin"
+    ],
+    "generos": [
+      "Ciencia ficción",
+      "Aventura",
+      "Suspense"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+    "score": 6.7,
+    "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+    "titulo": "La constelación del perro",
+    "titulo_original": "The Dog Stars",
+    "tmdb_id": 1384216,
+    "trailer": "https://www.youtube.com/watch?v=a8qEBr7eYmc"
+  },
   "la invitacion": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
@@ -759,6 +786,33 @@
     "tmdb_id": 1185806,
     "trailer": "https://www.youtube.com/watch?v=N-jJORZ3TF4"
   },
+  "pepita la pistolera": {
+    "anio": "2026",
+    "backdrop": null,
+    "director": "Lucía Puenzo",
+    "duracion": 106,
+    "elenco": [
+      "Luisana Lopilato",
+      "Claudio Tolcachir",
+      "Alberto Ajaka"
+    ],
+    "generos": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "paises": [
+      "Argentina",
+      "Spain"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/zal7nVJ0otaSPUeI3kEAeQCTNE7.jpg",
+    "score": 0.0,
+    "sinopsis": "",
+    "titulo": "Pepita la pistolera",
+    "titulo_original": "Pepita la pistolera",
+    "tmdb_id": 1634739,
+    "trailer": ""
+  },
   "scary movie terrorificamente incorrecta": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
@@ -784,6 +838,26 @@
     "trailer": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0"
   },
   "sia nostalgia por el presente": null,
+  "solo por una noche": {
+    "anio": "",
+    "backdrop": null,
+    "director": "Leonardo Marín Núñez",
+    "duracion": 22,
+    "elenco": [
+      "Emma Yesica Duvali"
+    ],
+    "generos": [],
+    "paises": [
+      "Mexico"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/eYrFjBcRk2zD7Tx6qnduoUhWdCq.jpg",
+    "score": 0.0,
+    "sinopsis": "",
+    "titulo": "Sólo por una noche: Yesica Duvali",
+    "titulo_original": "Sólo por una noche: Yesica Duvali",
+    "tmdb_id": 1273495,
+    "trailer": ""
+  },
   "spider man un nuevo dia": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
@@ -880,6 +954,33 @@
     "tmdb_id": 1081003,
     "trailer": "https://www.youtube.com/watch?v=rjT2Naumaoo"
   },
+  "terminator 2 el juicio final": {
+    "anio": "1991",
+    "backdrop": "https://image.tmdb.org/t/p/w780/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+    "director": "James Cameron",
+    "duracion": 137,
+    "elenco": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "generos": [
+      "Acción",
+      "Suspense",
+      "Ciencia ficción"
+    ],
+    "paises": [
+      "France",
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+    "score": 8.168,
+    "sinopsis": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
+    "titulo": "Terminator 2: El juicio final",
+    "titulo_original": "Terminator 2: Judgment Day",
+    "tmdb_id": 280,
+    "trailer": "https://www.youtube.com/watch?v=VQd38bFMoIg"
+  },
   "toy story 5": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
@@ -954,6 +1055,28 @@
     "titulo": "Yo, narciso",
     "titulo_original": "Yo, narciso",
     "tmdb_id": 1698443,
+    "trailer": ""
+  },
+  "zona cero": {
+    "anio": "2009",
+    "backdrop": null,
+    "director": "Joel Novoa",
+    "duracion": 12,
+    "elenco": [
+      "Erich Wildpret",
+      "Paula Gámez",
+      "Manuel Trotta"
+    ],
+    "generos": [],
+    "paises": [
+      "Venezuela"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/zu33jWoMKzG7Q5xrcTHDunvRdNi.jpg",
+    "score": 0.0,
+    "sinopsis": "",
+    "titulo": "Zona Cero",
+    "titulo_original": "Zona Cero",
+    "tmdb_id": 1300109,
     "trailer": ""
   }
 }

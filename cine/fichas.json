@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-03"
   },
   "454639": {
     "tmdb": {
@@ -712,7 +712,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-03"
   },
   "1081003": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-20"
+    "ultima_semana": "2026-09-03"
   },
   "1108427": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-03"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-03"
   },
   "18775": {
     "tmdb": {
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-03"
   },
   "1443576": {
     "tmdb": {
@@ -4306,7 +4306,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-03"
   },
   "1101383": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-03"
   },
   "1698443": {
     "tmdb": {
@@ -4575,7 +4575,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-03"
   },
   "1240889": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-03"
   },
   "8392": {
     "tmdb": {
@@ -5654,5 +5654,674 @@
       ]
     },
     "ultima_semana": "2026-08-27"
+  },
+  "1634739": {
+    "tmdb": {
+      "tmdb_id": 1634739,
+      "titulo": "Pepita la pistolera",
+      "titulo_original": "Pepita la pistolera",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-09-03",
+      "duracion": 106,
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "score": 0.0,
+      "votos": 0,
+      "certificacion": "+16",
+      "sinopsis": "",
+      "poster": "https://image.tmdb.org/t/p/w342/zal7nVJ0otaSPUeI3kEAeQCTNE7.jpg",
+      "backdrop": null,
+      "hero": null,
+      "galeria": [],
+      "director": "Lucía Puenzo",
+      "guionistas": [
+        "Lucía Puenzo",
+        "Andrés Gelós",
+        "Tatiana Merenuk"
+      ],
+      "musica": "Andrés Goldstein, Daniel Tarrab",
+      "elenco": [
+        {
+          "nombre": "Luisana Lopilato",
+          "personaje": "Margarita Di Tullio",
+          "foto": "https://image.tmdb.org/t/p/w185/xTyDD8k7oAbvRRhJo2E4PmH8iUj.jpg",
+          "iniciales": "LL"
+        },
+        {
+          "nombre": "Claudio Tolcachir",
+          "personaje": "Germán",
+          "foto": "https://image.tmdb.org/t/p/w185/pOABKE4QwOzO4bnC3XcQ93AnQRR.jpg",
+          "iniciales": "CT"
+        },
+        {
+          "nombre": "Alberto Ajaka",
+          "personaje": "Cuervo",
+          "foto": "https://image.tmdb.org/t/p/w185/9oXv8WaA1aOptEfOZgvruaPCfr9.jpg",
+          "iniciales": "AA"
+        },
+        {
+          "nombre": "Charo López",
+          "personaje": "Nemeca",
+          "foto": "https://image.tmdb.org/t/p/w185/6lm5xn8gtYiKenNuXK81gPNkfXe.jpg",
+          "iniciales": "CL"
+        },
+        {
+          "nombre": "Marcelo Subiotto",
+          "personaje": "Perkins",
+          "foto": "https://image.tmdb.org/t/p/w185/zOkp6fSyduND420qmlYnhSJw3n4.jpg",
+          "iniciales": "MS"
+        },
+        {
+          "nombre": "Camila Peralta",
+          "personaje": "Vicky",
+          "foto": "https://image.tmdb.org/t/p/w185/tmCYBZ8rCdLsK8hgjB1EBh83Cz8.jpg",
+          "iniciales": "CP"
+        },
+        {
+          "nombre": "Esteban Bigliardi",
+          "personaje": "Américo",
+          "foto": "https://image.tmdb.org/t/p/w185/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
+          "iniciales": "EB"
+        },
+        {
+          "nombre": "Gustavo Bassani",
+          "personaje": "El Tarta",
+          "foto": "https://image.tmdb.org/t/p/w185/eaav24CnP1050WNZIHxtk4wi73v.jpg",
+          "iniciales": "GB"
+        }
+      ],
+      "paises": [
+        "Argentina",
+        "Spain"
+      ],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [
+        "Zeppelin Studio",
+        "Historias Cinematográficas",
+        "Pampa Films",
+        "Life Is One",
+        "The Remake",
+        "Film Factory"
+      ],
+      "temas": [
+        "Based on true story",
+        "Serial killer",
+        "Motherhood",
+        "Neo-noir",
+        "1980s",
+        "Systemic corruption"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt29943166",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 23223,
+          "titulo": "Normal Life",
+          "anio": "1996",
+          "poster": "https://image.tmdb.org/t/p/w342/keQ3yXWkPN1tmKt45bFBtGVokSG.jpg",
+          "score": 5.958
+        },
+        {
+          "tmdb_id": 284457,
+          "titulo": "Twin Peaks: Las piezas desaparecidas",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/xQevnHeRxlQTfXQ5RxXJE4PnVUO.jpg",
+          "score": 7.216
+        },
+        {
+          "tmdb_id": 23381,
+          "titulo": "పోకిరి",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/rQ8NH5f3CxRrmqZWMZNYPwLmjDS.jpg",
+          "score": 7.592
+        },
+        {
+          "tmdb_id": 838484,
+          "titulo": "Elige o muere",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/ydUhcaO8MFrlakuAdNBxmjVBEcq.jpg",
+          "score": 5.241
+        },
+        {
+          "tmdb_id": 22638,
+          "titulo": "Enrique V",
+          "anio": "1944",
+          "poster": "https://image.tmdb.org/t/p/w342/2jogXpl5YZUJx8DFPsKW4c14ifv.jpg",
+          "score": 6.7
+        },
+        {
+          "tmdb_id": 22954,
+          "titulo": "Invictus",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/gWW20yeF5t6ZHn3gCjidLuWtQMU.jpg",
+          "score": 7.179
+        },
+        {
+          "tmdb_id": 1414703,
+          "titulo": "Sampai Titik Terakhirmu",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/j00IVwVFJfYx2sVywMXCCuYBGaJ.jpg",
+          "score": 8.0
+        },
+        {
+          "tmdb_id": 22824,
+          "titulo": "La cuarta fase",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/2tpTnb6o1LVRn2IDwn7fr6qn27I.jpg",
+          "score": 6.383
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-03"
+  },
+  "1384216": {
+    "tmdb": {
+      "tmdb_id": 1384216,
+      "titulo": "La constelación del perro",
+      "titulo_original": "The Dog Stars",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-08-26",
+      "duracion": 119,
+      "generos": [
+        "Ciencia ficción",
+        "Aventura",
+        "Suspense"
+      ],
+      "score": 6.7,
+      "votos": 170,
+      "certificacion": "+16",
+      "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+      "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+        "https://image.tmdb.org/t/p/w780/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
+        "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+        "https://image.tmdb.org/t/p/w780/srbk1HHT6eKjguGVOJVSHFA691R.jpg",
+        "https://image.tmdb.org/t/p/w780/rxuSFjiINfMk62a9aQ9Itbn4gVj.jpg",
+        "https://image.tmdb.org/t/p/w780/zBOKwwuhgRQKGL9x1bc1RtiYpZI.jpg"
+      ],
+      "director": "Ridley Scott",
+      "guionistas": [
+        "Mark L. Smith"
+      ],
+      "musica": "Harry Gregson-Williams",
+      "elenco": [
+        {
+          "nombre": "Jacob Elordi",
+          "personaje": "Hig",
+          "foto": "https://image.tmdb.org/t/p/w185/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg",
+          "iniciales": "JE"
+        },
+        {
+          "nombre": "Margaret Qualley",
+          "personaje": "Cima",
+          "foto": "https://image.tmdb.org/t/p/w185/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg",
+          "iniciales": "MQ"
+        },
+        {
+          "nombre": "Josh Brolin",
+          "personaje": "Bangley",
+          "foto": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Guy Pearce",
+          "personaje": "Pops",
+          "foto": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg",
+          "iniciales": "GP"
+        },
+        {
+          "nombre": "Allison Janney",
+          "personaje": "Darlene",
+          "foto": "https://image.tmdb.org/t/p/w185/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg",
+          "iniciales": "AJ"
+        },
+        {
+          "nombre": "Benedict Wong",
+          "personaje": "Aaron",
+          "foto": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg",
+          "iniciales": "BW"
+        },
+        {
+          "nombre": "Ewen Bremner",
+          "personaje": "Crossbow Hunter",
+          "foto": "https://image.tmdb.org/t/p/w185/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg",
+          "iniciales": "EB"
+        },
+        {
+          "nombre": "James Craze",
+          "personaje": "Logan",
+          "foto": "https://image.tmdb.org/t/p/w185/stLoQ1f6H7h2qS27AkogQZhNJVG.jpg",
+          "iniciales": "JC"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "20th Century Studios",
+        "Scott Free Productions"
+      ],
+      "temas": [
+        "Based on novel or book",
+        "Dystopia",
+        "Denver, colorado",
+        "Pilot",
+        "Colorado",
+        "Grief",
+        "Pandemic",
+        "Detached"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=a8qEBr7eYmc",
+      "teaser": "",
+      "imdb_id": "tt21285562",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 23143,
+          "titulo": "Jamaica Inn",
+          "anio": "1983",
+          "poster": "https://image.tmdb.org/t/p/w342/a1rrgX7HJHM728FIPYAkEIaoJMN.jpg",
+          "score": 4.0
+        },
+        {
+          "tmdb_id": 23155,
+          "titulo": "El jardín de los pecadores: Paradigma paradoja (Paradoja espiral)",
+          "anio": "2008",
+          "poster": "https://image.tmdb.org/t/p/w342/9X2TAouSGy4xijSZIrS60TRRJ0S.jpg",
+          "score": 7.644
+        },
+        {
+          "tmdb_id": 23168,
+          "titulo": "The Town: Ciudad de ladrones",
+          "anio": "2010",
+          "poster": "https://image.tmdb.org/t/p/w342/4VLzLzGr78AOnAUPv6iCcMNoFDB.jpg",
+          "score": 7.225
+        },
+        {
+          "tmdb_id": 23452,
+          "titulo": "Gurren Lagann: Las luces en el cielo son estrellas",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/28mU2qCSqYlqnNNHsfYD4Wg3A6y.jpg",
+          "score": 7.919
+        },
+        {
+          "tmdb_id": 22509,
+          "titulo": "La aritmética del diablo",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/2QBXokkFDYOKLPAKk6FQO9gd6YS.jpg",
+          "score": 6.842
+        },
+        {
+          "tmdb_id": 22584,
+          "titulo": "Tener y no tener",
+          "anio": "1945",
+          "poster": "https://image.tmdb.org/t/p/w342/fJwEC7BXCWNlqNlovZXImLRhpSI.jpg",
+          "score": 7.5
+        },
+        {
+          "tmdb_id": 283921,
+          "titulo": "Corazón de león (Flecha negra)",
+          "anio": "1948",
+          "poster": "https://image.tmdb.org/t/p/w342/ujph2H2fN3Kx0ixHOEf23SoKxiT.jpg",
+          "score": 5.538
+        },
+        {
+          "tmdb_id": 1591440,
+          "titulo": "Istanti nel tempo",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/xnRnOrtOF4BtUZDF2YlElPzcdp1.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-03"
+  },
+  "1273495": {
+    "tmdb": {
+      "tmdb_id": 1273495,
+      "titulo": "Sólo por una noche: Yesica Duvali",
+      "titulo_original": "Sólo por una noche: Yesica Duvali",
+      "tagline": "",
+      "anio": "",
+      "estreno": "",
+      "duracion": 22,
+      "generos": [],
+      "score": 0.0,
+      "votos": 0,
+      "certificacion": "",
+      "sinopsis": "",
+      "poster": "https://image.tmdb.org/t/p/w342/eYrFjBcRk2zD7Tx6qnduoUhWdCq.jpg",
+      "backdrop": null,
+      "hero": null,
+      "galeria": [],
+      "director": "Leonardo Marín Núñez",
+      "guionistas": [],
+      "musica": "",
+      "elenco": [
+        {
+          "nombre": "Emma Yesica Duvali",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "ED"
+        }
+      ],
+      "paises": [
+        "Mexico"
+      ],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [
+        "SAE Institute"
+      ],
+      "temas": [],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-09-03"
+  },
+  "280": {
+    "tmdb": {
+      "tmdb_id": 280,
+      "titulo": "Terminator 2: El juicio final",
+      "titulo_original": "Terminator 2: Judgment Day",
+      "tagline": "No es nada personal.",
+      "anio": "1991",
+      "estreno": "1991-07-03",
+      "duracion": 137,
+      "generos": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "score": 8.168,
+      "votos": 14767,
+      "certificacion": "+16",
+      "sinopsis": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
+      "poster": "https://image.tmdb.org/t/p/w342/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+        "https://image.tmdb.org/t/p/w780/8MksSPtPvqcSDruLdpibPmTP7LY.jpg",
+        "https://image.tmdb.org/t/p/w780/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+        "https://image.tmdb.org/t/p/w780/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+        "https://image.tmdb.org/t/p/w780/ztBeLd2UCbUATJ1cXwwHev3G3xX.jpg",
+        "https://image.tmdb.org/t/p/w780/umaoScaCsfl9g2dyrXrvMPp59Q7.jpg"
+      ],
+      "director": "James Cameron",
+      "guionistas": [
+        "William Wisher",
+        "James Cameron"
+      ],
+      "musica": "Brad Fiedel",
+      "elenco": [
+        {
+          "nombre": "Arnold Schwarzenegger",
+          "personaje": "The Terminator",
+          "foto": "https://image.tmdb.org/t/p/w185/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg",
+          "iniciales": "AS"
+        },
+        {
+          "nombre": "Linda Hamilton",
+          "personaje": "Sarah Connor",
+          "foto": "https://image.tmdb.org/t/p/w185/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg",
+          "iniciales": "LH"
+        },
+        {
+          "nombre": "Edward Furlong",
+          "personaje": "John Connor",
+          "foto": "https://image.tmdb.org/t/p/w185/e221dMIBgb6Lk092GIkHB9ohQF1.jpg",
+          "iniciales": "EF"
+        },
+        {
+          "nombre": "Robert Patrick",
+          "personaje": "T-1000",
+          "foto": "https://image.tmdb.org/t/p/w185/qRv2Es9rZoloullTbzss3I5j1Mp.jpg",
+          "iniciales": "RP"
+        },
+        {
+          "nombre": "Earl Boen",
+          "personaje": "Dr. Silberman",
+          "foto": "https://image.tmdb.org/t/p/w185/nRAlyqkAA84gCTDwjFR77avdfHK.jpg",
+          "iniciales": "EB"
+        },
+        {
+          "nombre": "Joe Morton",
+          "personaje": "Miles Dyson",
+          "foto": "https://image.tmdb.org/t/p/w185/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg",
+          "iniciales": "JM"
+        },
+        {
+          "nombre": "S. Epatha Merkerson",
+          "personaje": "Tarissa Dyson",
+          "foto": "https://image.tmdb.org/t/p/w185/pXCmHxrWzlv1kPZSxJXFM45QgOP.jpg",
+          "iniciales": "SM"
+        },
+        {
+          "nombre": "Castulo Guerra",
+          "personaje": "Enrique Salceda",
+          "foto": "https://image.tmdb.org/t/p/w185/nYZihE7w1baKehLmDQb0eKEqYqF.jpg",
+          "iniciales": "CG"
+        }
+      ],
+      "paises": [
+        "France",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Español"
+      ],
+      "productoras": [
+        "Carolco Pictures",
+        "Pacific Western",
+        "Lightstorm Entertainment",
+        "Le Studio Canal+"
+      ],
+      "temas": [
+        "Man vs machine",
+        "Artificial intelligence (a.i.)",
+        "Cyborg",
+        "Shotgun",
+        "Dystopia",
+        "Moral ambiguity",
+        "Post-apocalyptic future",
+        "Villain"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=VQd38bFMoIg",
+      "teaser": "",
+      "imdb_id": "tt0103064",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Terminator - Colección",
+        "partes": [
+          {
+            "tmdb_id": 218,
+            "titulo": "Terminator",
+            "anio": "1984",
+            "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+            "fecha": "1984-10-26"
+          },
+          {
+            "tmdb_id": 280,
+            "titulo": "Terminator 2: El juicio final",
+            "anio": "1991",
+            "poster": "https://image.tmdb.org/t/p/w342/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+            "fecha": "1991-07-03"
+          },
+          {
+            "tmdb_id": 296,
+            "titulo": "Terminator 3: La rebelión de las máquinas",
+            "anio": "2003",
+            "poster": "https://image.tmdb.org/t/p/w342/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg",
+            "fecha": "2003-07-02"
+          },
+          {
+            "tmdb_id": 534,
+            "titulo": "Terminator Salvation",
+            "anio": "2009",
+            "poster": "https://image.tmdb.org/t/p/w342/qPORLTWsJrqB27xXCkJRMjMl7fk.jpg",
+            "fecha": "2009-05-20"
+          },
+          {
+            "tmdb_id": 87101,
+            "titulo": "Terminator Génesis",
+            "anio": "2015",
+            "poster": "https://image.tmdb.org/t/p/w342/vky6H7mCBjSsg1GMGJtJpGUeVS1.jpg",
+            "fecha": "2015-06-23"
+          },
+          {
+            "tmdb_id": 290859,
+            "titulo": "Terminator: Destino oscuro",
+            "anio": "2019",
+            "poster": "https://image.tmdb.org/t/p/w342/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg",
+            "fecha": "2019-10-23"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 1570218,
+          "titulo": "SF忍者 サイバートリップ",
+          "anio": "2008",
+          "poster": "https://image.tmdb.org/t/p/w342/p2nmVDSJZdZ3ZSWf9CqEplMp1Xe.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1391149,
+          "titulo": "Waktu Maghrib 2",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/iD0iWNrqlfffm81BKP5IGzrMofq.jpg",
+          "score": 6.438
+        },
+        {
+          "tmdb_id": 1391153,
+          "titulo": "Kitab Sijjin & Illiyyin",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/6WTcQ95kWMLBi4HtxopXUW3QIsE.jpg",
+          "score": 7.6
+        },
+        {
+          "tmdb_id": 414,
+          "titulo": "Batman Forever",
+          "anio": "1995",
+          "poster": "https://image.tmdb.org/t/p/w342/wg6BN76E9iIEtiawMJnCecY0zgY.jpg",
+          "score": 5.459
+        },
+        {
+          "tmdb_id": 415,
+          "titulo": "Batman y Robin",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/gJAvyXHdIjeKHS07Dlim7LETBEK.jpg",
+          "score": 4.393
+        },
+        {
+          "tmdb_id": 1197285,
+          "titulo": "Cookie Logic",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/zMqFLpyH7REU4lV3rAu9u8BhQFU.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 431,
+          "titulo": "Cube",
+          "anio": "1998",
+          "poster": "https://image.tmdb.org/t/p/w342/ngM6WtSC1bzcST3QzbCiDYsxo7E.jpg",
+          "score": 6.828
+        },
+        {
+          "tmdb_id": 440,
+          "titulo": "Alien contra predator II",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg",
+          "score": 5.159
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-03"
+  },
+  "1300109": {
+    "tmdb": {
+      "tmdb_id": 1300109,
+      "titulo": "Zona Cero",
+      "titulo_original": "Zona Cero",
+      "tagline": "",
+      "anio": "2009",
+      "estreno": "2009-07-16",
+      "duracion": 12,
+      "generos": [],
+      "score": 0.0,
+      "votos": 0,
+      "certificacion": "",
+      "sinopsis": "",
+      "poster": "https://image.tmdb.org/t/p/w342/zu33jWoMKzG7Q5xrcTHDunvRdNi.jpg",
+      "backdrop": null,
+      "hero": null,
+      "galeria": [],
+      "director": "Joel Novoa",
+      "guionistas": [
+        "Joel Novoa"
+      ],
+      "musica": "",
+      "elenco": [
+        {
+          "nombre": "Erich Wildpret",
+          "personaje": "Roman",
+          "foto": "https://image.tmdb.org/t/p/w185/GIGdxiDUoKyNvXvYGYbjg0p0x1.jpg",
+          "iniciales": "EW"
+        },
+        {
+          "nombre": "Paula Gámez",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "PG"
+        },
+        {
+          "nombre": "Manuel Trotta",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "MT"
+        }
+      ],
+      "paises": [
+        "Venezuela"
+      ],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [
+        "Centro Nacional Autónomo de Cinematografía"
+      ],
+      "temas": [],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt1560782",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-09-03"
   }
 }

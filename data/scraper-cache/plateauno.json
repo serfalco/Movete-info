@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "ES COMPLICADO..",
-    "fecha": "2026-08-30 19:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9981/es-complicado",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3358.jpeg"
-  },
-  {
     "titulo": "ALEJANDRO LERNER CARA A CARA",
     "fecha": "2026-09-10 21:00:00",
     "lugar": "Metro",
@@ -148,6 +138,16 @@
     "url": "https://www.plateaunotickets.com/obra/9955/julian-bellese-stand-up-comedy",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3342.jpeg"
+  },
+  {
+    "titulo": "PEQUEÑO PEZ...",
+    "fecha": "2026-11-01 17:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10036/pequeo-pez",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3391.jpeg"
   },
   {
     "titulo": "NICO DE TRACY PURGA..",

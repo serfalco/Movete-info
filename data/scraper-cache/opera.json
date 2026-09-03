@@ -20,16 +20,6 @@
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1920-4.jpg"
   },
   {
-    "titulo": "CIELO RAZZO",
-    "fecha": "2026-08-28 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/cielo-razzo-en-el-teatro-opera-lp-28-08",
-    "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/06/1080x1920-5.jpg"
-  },
-  {
     "titulo": "ESCALANDRUM",
     "fecha": "2026-10-24 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -118,15 +108,5 @@
     "url": "https://livepass.com.ar/events/bestia-bebe-en-el-teatro-opera-lp",
     "fuente": "opera",
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/08/BestiaBB_LP_graficas_x1350-1-scaled.jpg"
-  },
-  {
-    "titulo": "LOS TIPITOS",
-    "fecha": "2026-08-29 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/los-tipitos-en-el-teatro-opera-lp-2026-08-29",
-    "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/05/Tipitos-Opera-LP26-0221-Mobile-300x250-.jpg"
   }
 ]
