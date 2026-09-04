@@ -1,16 +1,18 @@
 {
-  "fecha": "2026-09-03",
+  "fecha": "2026-09-04",
   "total": 129,
   "por_fuente": {
     "genda": 0,
     "livepass": 41,
-    "alternativa": 48,
-    "teatro_metro": 10,
+    "alternativa": 50,
+    "teatro_metro": 8,
     "coliseo": 5,
     "opera": 11,
     "eventbrite": 0,
     "plateauno": 18,
     "passline": 15,
-    "teatrobar": 0
+    "teatrobar": 0,
+    "eldia": 0,
+    "_0221": 0
   }
 }

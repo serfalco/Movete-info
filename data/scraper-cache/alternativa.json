@@ -80,6 +80,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/61/000285661.jpg"
   },
   {
+    "titulo": "Santa mesa",
+    "fecha": "2026-09-18 20:00:00",
+    "lugar": "TACEC - TEATRO ARGENTINO CENTRO DE EXPERIMENTACIÓN Y CREACIÓN",
+    "direccion": "Calle 9 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas93113-santa-mesa?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/43/000291743.jpg"
+  },
+  {
     "titulo": "Chau Misterix",
     "fecha": "2026-09-27 20:00:00",
     "lugar": "TEATRO ABIERTO",
@@ -417,7 +427,7 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas102660-ciclo-de-obras-cortas-el-escape-septiembre?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/67/000319867.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/87/000320187.jpg"
   },
   {
     "titulo": "Patsía: mis diálogos con él",
@@ -478,5 +488,15 @@
     "url": "https://publico.alternativateatral.com/entradas102876-epifania?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/30/000320130.jpg"
+  },
+  {
+    "titulo": "Criminal",
+    "fecha": "2026-09-27 19:30:00",
+    "lugar": "TELON NEGRO TEATRO",
+    "direccion": "13 e/ 32 y 33, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas102913-criminal?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/10/000320210.jpg"
   }
 ]
