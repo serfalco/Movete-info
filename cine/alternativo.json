@@ -1,92 +1,128 @@
 [
   {
-    "titulo": "Una directora extraordinaria",
-    "hora": "18:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-07-31"
-  },
-  {
-    "titulo": "La Sombra del Ángel - Dir Ramiro Peri",
-    "hora": "19:30",
-    "espacio": "El Galpón de fierro",
-    "fecha": "2026-07-31"
-  },
-  {
-    "titulo": "En el cine - Dir. Matías Szulanski",
-    "hora": "20:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-31"
-  },
-  {
-    "titulo": "Fahrenheit 451",
-    "hora": "20:00",
-    "espacio": "Espacio Moliere",
-    "fecha": "2026-07-31"
-  },
-  {
-    "titulo": "Días perfectos - Wim Wenders",
-    "hora": "22:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-07-31"
-  },
-  {
-    "titulo": "2001: Odisea en el espacio",
-    "hora": "23:55",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-07-31"
-  },
-  {
-    "titulo": "Una directora extraordinaria",
-    "hora": "18:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-08-01"
-  },
-  {
-    "titulo": "Proyección en vivo de 5 cortos",
+    "titulo": "Nuestra Tierra (Dir. Lucrecia Martel)",
     "hora": "19:00",
-    "espacio": "Telón Negro",
-    "fecha": "2026-08-01"
-  },
-  {
-    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
-    "hora": "20:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-08-01"
+    "fecha": "2026-09-11"
   },
   {
-    "titulo": "La sal de la tierra",
+    "titulo": "Les yeux sans visage [Los ojos sin rostro] (Georges Franju, 1960)",
+    "hora": "19:00",
+    "espacio": "Espacio Satélite",
+    "fecha": "2026-09-11"
+  },
+  {
+    "titulo": "Sacco & Vanzetti (Dir. Giuliano Montaldo)",
+    "hora": "19:00",
+    "espacio": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
+    "fecha": "2026-09-11"
+  },
+  {
+    "titulo": "Trenes rigurosamente vigilados (Dir. Jirí Menzel, 1966)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-09-11"
+  },
+  {
+    "titulo": "El desvelo - Jai Yia (Dirección: Flor Cárdenas)",
     "hora": "22:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-08-01"
+    "fecha": "2026-09-11"
   },
   {
-    "titulo": "2001: Odisea en el espacio",
+    "titulo": "La tierra explota, el tiempo se acaba",
+    "hora": "20:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-12"
+  },
+  {
+    "titulo": "Delta. cuando el río se revuelve, la mierda sale a flote",
+    "hora": "20:00",
+    "espacio": "Pasaje Dardo Rocha",
+    "fecha": "2026-09-12"
+  },
+  {
+    "titulo": "Almost human (Dir Umberto Lenzi - 1974)",
+    "hora": "22:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-12"
+  },
+  {
+    "titulo": "News from Home (Dir. Chantal Akerman - 1977)",
     "hora": "23:55",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-08-01"
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-12"
   },
   {
-    "titulo": "Emi - Dir Ezequiel Erriquez Mena",
+    "titulo": "La tierra explota, el tiempo se acaba",
     "hora": "17:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-08-02"
+    "fecha": "2026-09-13"
   },
   {
-    "titulo": "Días perfectos - Wim Wenders",
+    "titulo": "Barry Lyndon (Dir. Stanley Kubrick)",
+    "hora": "18:00",
+    "espacio": "Teatro de Cámara City Bell",
+    "fecha": "2026-09-13"
+  },
+  {
+    "titulo": "La sonámbula, recuerdos del futuro (Dir Fernando Spiner)",
     "hora": "19:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-08-02"
+    "fecha": "2026-09-13"
   },
   {
-    "titulo": "2001: Odisea en el espacio",
-    "hora": "21:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-08-02"
-  },
-  {
-    "titulo": "Dona Flor e seus dois maridos (1976)",
+    "titulo": "Los edukadores",
     "hora": "20:00",
-    "espacio": "Casa sesentaydos",
-    "fecha": "2026-08-05"
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-09-13"
+  },
+  {
+    "titulo": "El insulto (Dir Ziad Doueiri)",
+    "hora": "20:00",
+    "espacio": "Espacio Beirut",
+    "fecha": "2026-09-13"
+  },
+  {
+    "titulo": "La Ciénaga (Dir. Lucrecia Martel)",
+    "hora": "20:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-13"
+  },
+  {
+    "titulo": "News from Home (Dir. Chantal Akerman - 1977)",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-13"
+  },
+  {
+    "titulo": "Del Este (Dir. Chantal Akerman - 1993)",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-14"
+  },
+  {
+    "titulo": "La Cautiva (Dir. Chantal Akerman - 2000)",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-15"
+  },
+  {
+    "titulo": "Del Este (Dir. Chantal Akerman - 1993)",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-16"
+  },
+  {
+    "titulo": "La Naranja Mecánica (Dir. Stanley Kubrick)",
+    "hora": "20:00",
+    "espacio": "La Maga Club De Arte",
+    "fecha": "2026-09-16"
+  },
+  {
+    "titulo": "All About Eve (Eva al desnudo Dir. Joseph L. Mankiewicz - 1950)",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-16"
   }
 ]

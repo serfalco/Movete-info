@@ -1,17 +1,7 @@
 [
   {
-    "titulo": "SOFIA MORA",
-    "fecha": "2026-09-04 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "JAURIA + LUCHO AL ATTAQUE",
-    "fecha": "2026-09-05 21:00:00",
+    "titulo": "CARMEN SÁNCHEZ VIAMONTE",
+    "fecha": "2026-11-07 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
@@ -140,8 +130,28 @@
     "imagen": ""
   },
   {
+    "titulo": "CARMEN SÁNCHEZ VIAMONTE",
+    "fecha": "2026-11-07 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
     "titulo": "GIROS",
     "fecha": "2026-11-13 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "ESQUINA LIBERTAD - Tributo a Los Pio ...",
+    "fecha": "2026-11-14 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
@@ -252,6 +262,16 @@
   {
     "titulo": "NANUTRIA - OPINIONES VARIAS - STAND ...",
     "fecha": "2026-11-07 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "Valeria Lynch",
+    "fecha": "2026-12-13 21:00:00",
     "lugar": "Teatro Argentino La Plata",
     "direccion": "Av. 51 entre 9 y 10, La Plata",
     "categoria": "musica",
@@ -392,16 +412,6 @@
   {
     "titulo": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
     "fecha": "2026-12-05 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "Valeria Lynch",
-    "fecha": "2026-12-13 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",

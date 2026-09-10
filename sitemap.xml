@@ -4,9 +4,15 @@
   <url><loc>https://movete.info/cine/</loc></url>
   <url><loc>https://movete.info/cine/pelis/</loc></url>
   <url><loc>https://movete.info/en-vivo/</loc></url>
+  <url><loc>https://movete.info/en-vivo/a-plasticas/</loc></url>
+  <url><loc>https://movete.info/en-vivo/danza/</loc></url>
+  <url><loc>https://movete.info/en-vivo/impro/</loc></url>
+  <url><loc>https://movete.info/en-vivo/infantil/</loc></url>
   <url><loc>https://movete.info/en-vivo/lo-que-se-viene/</loc></url>
   <url><loc>https://movete.info/en-vivo/musica/</loc></url>
+  <url><loc>https://movete.info/en-vivo/otros/</loc></url>
   <url><loc>https://movete.info/en-vivo/stand-up/</loc></url>
+  <url><loc>https://movete.info/en-vivo/taller/</loc></url>
   <url><loc>https://movete.info/en-vivo/teatro/</loc></url>
   <url><loc>https://movete.info/cine/2026-06-18/</loc><lastmod>2026-06-18</lastmod></url>
   <url><loc>https://movete.info/cine/2026-06-25/</loc><lastmod>2026-06-25</lastmod></url>
@@ -32,8 +38,10 @@
   <url><loc>https://movete.info/en-vivo/2026-08-20/</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-08-27/</loc><lastmod>2026-08-27</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-09-03/</loc><lastmod>2026-09-03</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/2026-09-10/</loc><lastmod>2026-09-10</lastmod></url>
   <url><loc>https://movete.info/en-vivo/sala/area-chica/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/casa-hereje/</loc></url>
+  <url><loc>https://movete.info/en-vivo/sala/casa-pulsar/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/casa-unclan/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/centro-cultural-islas-malvinas/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/centro-cultural-pasaje-dardo-rocha/</loc></url>
@@ -50,10 +58,13 @@
   <url><loc>https://movete.info/en-vivo/sala/escenario-40/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/espacio-44/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/espacio-live/</loc></url>
+  <url><loc>https://movete.info/en-vivo/sala/espacio-medusa/</loc></url>
+  <url><loc>https://movete.info/en-vivo/sala/espacio-satelite/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/espacio-sudaka/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/esquina-america/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/estadio-atenas/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/estadio-uno/</loc></url>
+  <url><loc>https://movete.info/en-vivo/sala/estudio-71/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/galpon-de-la-grieta-y-biblioteca-popular-la-chicharra/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/guajira-bar/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/hipodromo-de-la-plata/</loc></url>
@@ -72,6 +83,7 @@
   <url><loc>https://movete.info/en-vivo/sala/teatro-abierto/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-argentino-de-la-plata/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-armando-discepolo/</loc></url>
+  <url><loc>https://movete.info/en-vivo/sala/teatro-bar-cultural-la-ferreteria/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-coliseo-podesta/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-de-camara-de-city-bell/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-el-escape/</loc></url>

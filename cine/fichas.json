@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "454639": {
     "tmdb": {
@@ -712,7 +712,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1081003": {
     "tmdb": {
@@ -1058,7 +1058,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-20"
+    "ultima_semana": "2026-09-10"
   },
   "1314481": {
     "tmdb": {
@@ -1246,7 +1246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-07-23"
+    "ultima_semana": "2026-09-10"
   },
   "936075": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1108427": {
     "tmdb": {
@@ -2494,7 +2494,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-08-27"
+    "ultima_semana": "2026-09-10"
   },
   "1212763": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "18775": {
     "tmdb": {
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1443576": {
     "tmdb": {
@@ -4306,7 +4306,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1101383": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1698443": {
     "tmdb": {
@@ -4575,7 +4575,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1240889": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "8392": {
     "tmdb": {
@@ -5821,7 +5821,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1384216": {
     "tmdb": {
@@ -5991,7 +5991,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1273495": {
     "tmdb": {
@@ -6039,7 +6039,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "280": {
     "tmdb": {
@@ -6260,7 +6260,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
   },
   "1300109": {
     "tmdb": {
@@ -6322,6 +6322,830 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-03"
+    "ultima_semana": "2026-09-10"
+  },
+  "1477712": {
+    "tmdb": {
+      "tmdb_id": 1477712,
+      "titulo": "Dulce sabor a Muerte",
+      "titulo_original": "Ice Cream Man",
+      "tagline": "Todos gritamos.",
+      "anio": "2026",
+      "estreno": "2026-08-03",
+      "duracion": 86,
+      "generos": [
+        "Terror",
+        "Comedia"
+      ],
+      "score": 4.444,
+      "votos": 54,
+      "certificacion": "+16",
+      "sinopsis": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
+      "poster": "https://image.tmdb.org/t/p/w342/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+        "https://image.tmdb.org/t/p/w780/giekwhdwa8SFtfPi0mOn5uvkXJ0.jpg",
+        "https://image.tmdb.org/t/p/w780/vcR1Wihux5AzUcFXApQEmXNLpKg.jpg",
+        "https://image.tmdb.org/t/p/w780/yVnhi77S17Mk9pKx2wq6FKMF5hn.jpg",
+        "https://image.tmdb.org/t/p/w780/wvIqjDBEcdqcRMFUsvmzPzYjBU4.jpg",
+        "https://image.tmdb.org/t/p/w780/fq2AuM8grV6a0IYzB21VR9g87Bs.jpg"
+      ],
+      "director": "Eli Roth",
+      "guionistas": [
+        "Eli Roth",
+        "Noah Belson"
+      ],
+      "musica": "Brandon Roberts",
+      "elenco": [
+        {
+          "nombre": "Ari Millen",
+          "personaje": "The Ice Cream Man / Jonathan Smiley",
+          "foto": "https://image.tmdb.org/t/p/w185/x2hFdgnrJ1er0VpteRcqTr8aWTT.jpg",
+          "iniciales": "AM"
+        },
+        {
+          "nombre": "Charlie Zeltzer",
+          "personaje": "Jared",
+          "foto": "https://image.tmdb.org/t/p/w185/ytbrQ4R1iiRD3I0qdAddVfgooD7.jpg",
+          "iniciales": "CZ"
+        },
+        {
+          "nombre": "Kole Parks",
+          "personaje": "Benji",
+          "foto": "https://image.tmdb.org/t/p/w185/aDfVA0VYWtaFyzKrc6xyoBV0Gcd.jpg",
+          "iniciales": "KP"
+        },
+        {
+          "nombre": "Shiloh O’Reilly",
+          "personaje": "Tommy",
+          "foto": "https://image.tmdb.org/t/p/w185/ogT1ycS4CoOassN1GeCaS7qVcgO.jpg",
+          "iniciales": "SO"
+        },
+        {
+          "nombre": "Kiori Mirza Waldman",
+          "personaje": "Mia",
+          "foto": null,
+          "iniciales": "KW"
+        },
+        {
+          "nombre": "Sarah Abbott",
+          "personaje": "Lizzie",
+          "foto": "https://image.tmdb.org/t/p/w185/riLNrHSQNFL2jgT3IRhIYOiBCXG.jpg",
+          "iniciales": "SA"
+        },
+        {
+          "nombre": "Benjamin Byron Davis",
+          "personaje": "The Priest",
+          "foto": "https://image.tmdb.org/t/p/w185/5WHDh9l9Ylsbf5ZKt3nQ4FRweUi.jpg",
+          "iniciales": "BD"
+        },
+        {
+          "nombre": "Karen Cliche",
+          "personaje": "Alison",
+          "foto": "https://image.tmdb.org/t/p/w185/fVXdJyDRVDo7C5tTHauDm9zDvi9.jpg",
+          "iniciales": "KC"
+        }
+      ],
+      "paises": [
+        "United States of America",
+        "Canada",
+        "United Kingdom",
+        "France",
+        "Japan"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "The Horror Section",
+        "Media Capital Technologies",
+        "Head Gear Films",
+        "Mass Appeal",
+        "Metrol Technology",
+        "dentsu",
+        "Sixth Dimension"
+      ],
+      "temas": [
+        "Gore",
+        "Murder",
+        "Serial killer",
+        "Summer",
+        "Massacre",
+        "Ice cream",
+        "Ice cream man",
+        "Aftercreditsstinger"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=zYC5iij2DTg",
+      "teaser": "",
+      "imdb_id": "tt36893729",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 1579168,
+          "titulo": "Our Effed Up World",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/xJ2JAEJR76oj2YmVJh2CMWrgYbS.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 9077,
+          "titulo": "Tarántula",
+          "anio": "1955",
+          "poster": "https://image.tmdb.org/t/p/w342/7s4eGfl5MtKdxn407VBZHzTwutu.jpg",
+          "score": 6.487
+        },
+        {
+          "tmdb_id": 9272,
+          "titulo": "El buen hijo",
+          "anio": "1993",
+          "poster": "https://image.tmdb.org/t/p/w342/fmk3e6I3t8q7xYHWyw0MDzd98oM.jpg",
+          "score": 6.8
+        },
+        {
+          "tmdb_id": 9275,
+          "titulo": "Smoochy",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/d0AKKjou9K7rUlCEHWtiXljMfvM.jpg",
+          "score": 5.93
+        },
+        {
+          "tmdb_id": 9279,
+          "titulo": "Un padre en apuros",
+          "anio": "1996",
+          "poster": "https://image.tmdb.org/t/p/w342/ajuYAcn5LDxXE7yoDISTsL0BCuy.jpg",
+          "score": 6.065
+        },
+        {
+          "tmdb_id": 9282,
+          "titulo": "11:14 - Destino fatal",
+          "anio": "2004",
+          "poster": "https://image.tmdb.org/t/p/w342/sI4eDNt4aH7AEyKKDGFnWvm55DO.jpg",
+          "score": 6.805
+        },
+        {
+          "tmdb_id": 1579212,
+          "titulo": "The Visitors",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/mtF65hzz7nx9UE70EKjBpKpTWaN.jpg",
+          "score": 2.0
+        },
+        {
+          "tmdb_id": 1400971,
+          "titulo": "Head",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/zC2Pxv5AXoMQhagV98UokdirU0J.jpg",
+          "score": 8.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-10"
+  },
+  "1447853": {
+    "tmdb": {
+      "tmdb_id": 1447853,
+      "titulo": "Oasis: Don't Look Back in Anger",
+      "titulo_original": "Oasis: Don't Look Back in Anger",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-09-09",
+      "duracion": 123,
+      "generos": [
+        "Documental",
+        "Música"
+      ],
+      "score": 6.75,
+      "votos": 4,
+      "certificacion": "ATP",
+      "sinopsis": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
+      "poster": "https://image.tmdb.org/t/p/w342/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+        "https://image.tmdb.org/t/p/w780/fPZYqjurczOLgk2jdRPvXdGhqvT.jpg",
+        "https://image.tmdb.org/t/p/w780/foOJL3qyrBfkRjSdNLmIq9qfgOI.jpg",
+        "https://image.tmdb.org/t/p/w780/2SRZXkNGfyQBDqRoKDcDkCSqpKP.jpg",
+        "https://image.tmdb.org/t/p/w780/2WlfEvFGJBlKKCD9XFChcI9F6Ks.jpg",
+        "https://image.tmdb.org/t/p/w780/zeYpy1aVwU8SUA11Xamu9N0YgYN.jpg"
+      ],
+      "director": "Dylan Southern",
+      "guionistas": [
+        "Steven Knight"
+      ],
+      "musica": "",
+      "elenco": [
+        {
+          "nombre": "Liam Gallagher",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/4lE3FR6ToSBSU5186W1hmP04QJv.jpg",
+          "iniciales": "LG"
+        },
+        {
+          "nombre": "Noel Gallagher",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/aBFYsStheYLMxlmyugFBgEEa7dA.jpg",
+          "iniciales": "NG"
+        },
+        {
+          "nombre": "Paul Arthurs",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/afjM0Ve9Bjh8RdKD5K38u4yDxaZ.jpg",
+          "iniciales": "PA"
+        },
+        {
+          "nombre": "Gem Archer",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/auXwK7uyGxbAhWt6rNi0PZK4kd6.jpg",
+          "iniciales": "GA"
+        },
+        {
+          "nombre": "Andy Bell",
+          "personaje": "Self",
+          "foto": null,
+          "iniciales": "AB"
+        },
+        {
+          "nombre": "Joey Waronker",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/wQjXgt6kE5GwzvaBARaHx5SJteF.jpg",
+          "iniciales": "JW"
+        },
+        {
+          "nombre": "Christian Madden",
+          "personaje": "Self",
+          "foto": null,
+          "iniciales": "CM"
+        },
+        {
+          "nombre": "Anaïs Gallagher",
+          "personaje": "Self",
+          "foto": "https://image.tmdb.org/t/p/w185/ot21wcL5OEsTvv3TzatPwoeSTyu.jpg",
+          "iniciales": "AG"
+        }
+      ],
+      "paises": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Português",
+        "한국어/조선말",
+        "Italiano",
+        "Español",
+        "日本語"
+      ],
+      "productoras": [
+        "Magna Studios",
+        "Sony Music Vision",
+        "Sony Music Entertainment UK"
+      ],
+      "temas": [
+        "Music documentary"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt36152310",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 823554,
+          "titulo": "Adam Jacobs - Behind the Curtain",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/yQsKKlAxRLDhMBr1rGjYJkG0apF.jpg",
+          "score": 9.0
+        },
+        {
+          "tmdb_id": 1205041,
+          "titulo": "Faustina - Música Para Viver",
+          "anio": "",
+          "poster": "https://image.tmdb.org/t/p/w342/q3CfEapt0PRL1xzHkOivmB0U6b0.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 1400784,
+          "titulo": "Selena y Los Dinos",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/m1GyfEvcsFrvJq1e9vxpx8vpYWn.jpg",
+          "score": 8.956
+        },
+        {
+          "tmdb_id": 1019250,
+          "titulo": "Hard Rock Treasures",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/iaAKqrB2Wi2EmuIEXDtJReHzZQA.jpg",
+          "score": 9.0
+        },
+        {
+          "tmdb_id": 1576517,
+          "titulo": "Funny How The Stars Align: A SCUMLABS Documentary",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/xD95QgXfjGjP9B3SFIInM2ke7ra.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1576370,
+          "titulo": "東方神起 20th Anniversary Film『IDENTITY』",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/AmkunFWhOuZfBZY48Z9l43y0Ifw.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 628851,
+          "titulo": "Estación Polar",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/r3OgPDmNsNkdqzRysoeaC8EjgQu.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1397394,
+          "titulo": "The Big Show",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/4dkENXze8TvQphRuZjOHt9PtiRK.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-10"
+  },
+  "188834": {
+    "tmdb": {
+      "tmdb_id": 188834,
+      "titulo": "Código de venganza",
+      "titulo_original": "Hitters",
+      "tagline": "",
+      "anio": "2002",
+      "estreno": "2002-12-01",
+      "duracion": 88,
+      "generos": [
+        "Acción",
+        "Crimen"
+      ],
+      "score": 3.3,
+      "votos": 6,
+      "certificacion": "",
+      "sinopsis": "Un respetado hombre de negocios se ve atrapado en mitad de una guerra entre dos familias rivales del crimen organizado. Tendrá que elegir entre ser fiel a la tradición familiar o ser fiel a sí mismo.",
+      "poster": "https://image.tmdb.org/t/p/w342/qplSfNUwaQJ4RwT2NNjNEFIdhQK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hgbmiB48M4GSDINTyqTvg7KbmMt.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/hgbmiB48M4GSDINTyqTvg7KbmMt.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/hgbmiB48M4GSDINTyqTvg7KbmMt.jpg"
+      ],
+      "director": "Eric Weston",
+      "guionistas": [
+        "Eric Weston"
+      ],
+      "musica": "",
+      "elenco": [
+        {
+          "nombre": "Robert Davi",
+          "personaje": "Nick",
+          "foto": "https://image.tmdb.org/t/p/w185/yizOUAKs59CwKM6pU30gIP9gTup.jpg",
+          "iniciales": "RD"
+        },
+        {
+          "nombre": "Costas Mandylor",
+          "personaje": "Tony",
+          "foto": "https://image.tmdb.org/t/p/w185/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg",
+          "iniciales": "CM"
+        },
+        {
+          "nombre": "Joey DePinto",
+          "personaje": "Vince",
+          "foto": null,
+          "iniciales": "JD"
+        },
+        {
+          "nombre": "Richard C. Sarafian",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/5r4AFht3ecnl4V2w8KvfmV7A4yB.jpg",
+          "iniciales": "RS"
+        },
+        {
+          "nombre": "Frank Stallone Jr.",
+          "personaje": "Spilotri",
+          "foto": "https://image.tmdb.org/t/p/w185/kuohZkcSd7g7TdEHbR4UVKPfwDU.jpg",
+          "iniciales": "FJ"
+        },
+        {
+          "nombre": "Frank D'Amico",
+          "personaje": "Tommy Crapisi",
+          "foto": null,
+          "iniciales": "FD"
+        },
+        {
+          "nombre": "Louis Mandylor",
+          "personaje": "Detective Monroy",
+          "foto": "https://image.tmdb.org/t/p/w185/skvNBR83wxjbFj6XuLxWAhCZTmh.jpg",
+          "iniciales": "LM"
+        },
+        {
+          "nombre": "Craig Vincent",
+          "personaje": "Joey Crapisi",
+          "foto": null,
+          "iniciales": "CV"
+        }
+      ],
+      "paises": [],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [],
+      "temas": [],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt0311284",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-09-10"
+  },
+  "565581": {
+    "tmdb": {
+      "tmdb_id": 565581,
+      "titulo": "La Negociación",
+      "titulo_original": "La Negociación",
+      "tagline": "Hacer la paz es más difícil que hacer la guerra.",
+      "anio": "2018",
+      "estreno": "2018-11-29",
+      "duracion": 89,
+      "generos": [
+        "Documental"
+      ],
+      "score": 8.0,
+      "votos": 1,
+      "certificacion": "",
+      "sinopsis": "Esta es la historia de las negociaciones entre el gobierno colombiano y la guerrilla de las FARC-EP, el movimiento guerrillero más antiguo del hemisferio occidental. Nos muestra que hacer la paz es más difícil que hacer la guerra. Los colombianos se encuentran en una encrucijada: ¿continuará la violencia o prevalecerá la paz?",
+      "poster": "https://image.tmdb.org/t/p/w342/lvQUXWPLirKDVOXSbsWycyRnEO0.jpg",
+      "backdrop": null,
+      "hero": null,
+      "galeria": [],
+      "director": "Margarita Martínez Escallón",
+      "guionistas": [],
+      "musica": "",
+      "elenco": [],
+      "paises": [],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [],
+      "temas": [
+        "Paz",
+        "Farc-ep"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=aRqznWxbPSo",
+      "teaser": "",
+      "imdb_id": "tt9042690",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 283937,
+          "titulo": "Gamín",
+          "anio": "1977",
+          "poster": "https://image.tmdb.org/t/p/w342/z4MXJ1e0Q9WXIqcp9KuFbaoCQE3.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 660354,
+          "titulo": "Colombia fue nuestra",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/4hBWAQLqKtecQZTmyN6U7ocsSD2.jpg",
+          "score": 7.5
+        },
+        {
+          "tmdb_id": 652679,
+          "titulo": "Suspensión",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/xmw18Wlu4SNLs4o9qbvOte1DdPt.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 487246,
+          "titulo": "Como crece la sombra cuando el sol declina",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/1vbz8MCLlKebHwh7LSlOk08pnKJ.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 674587,
+          "titulo": "Colombia rumbo al mundial",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/yXi5EaObh3etHzvVQWZccSbqLA8.jpg",
+          "score": 5.0
+        },
+        {
+          "tmdb_id": 679762,
+          "titulo": "La Sinfónica de los Andes",
+          "anio": "2020",
+          "poster": "https://image.tmdb.org/t/p/w342/65J44KYlC9FY8MyEJZFdcYlLDCQ.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 708783,
+          "titulo": "Sumercé",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/aPL8v6OagugnS2jquPmYc0LBhWd.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 684739,
+          "titulo": "Un Asunto De Tierras",
+          "anio": "2015",
+          "poster": "https://image.tmdb.org/t/p/w342/oBm2AFEnCCGvozbRCPZvYLdASk0.jpg",
+          "score": 8.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-10"
+  },
+  "1302904": {
+    "tmdb": {
+      "tmdb_id": 1302904,
+      "titulo": "Prácticamente magia 2",
+      "titulo_original": "Practical Magic 2",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-09-09",
+      "duracion": 130,
+      "generos": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "score": 6.5,
+      "votos": 12,
+      "certificacion": "ATP",
+      "sinopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+        "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+        "https://image.tmdb.org/t/p/w780/eHVFhyO2YkJPzvrMv2TmVhjPAUJ.jpg",
+        "https://image.tmdb.org/t/p/w780/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
+        "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
+        "https://image.tmdb.org/t/p/w780/2SGyCHovlBDoLcFbvYSbKmXRzIU.jpg"
+      ],
+      "director": "Susanne Bier",
+      "guionistas": [
+        "Akiva Goldsman",
+        "Georgia Pritchett"
+      ],
+      "musica": "Rupert Gregson Williams",
+      "elenco": [
+        {
+          "nombre": "Sandra Bullock",
+          "personaje": "Sally Owens",
+          "foto": "https://image.tmdb.org/t/p/w185/4rfjISL3Flx16jfiusXoHbpt87X.jpg",
+          "iniciales": "SB"
+        },
+        {
+          "nombre": "Nicole Kidman",
+          "personaje": "Gillian Owens",
+          "foto": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
+          "iniciales": "NK"
+        },
+        {
+          "nombre": "Joey King",
+          "personaje": "Kylie Owens",
+          "foto": "https://image.tmdb.org/t/p/w185/94c69mPYSK9jFsAEu0OKB7Qs684.jpg",
+          "iniciales": "JK"
+        },
+        {
+          "nombre": "Maisie Williams",
+          "personaje": "Antonia Owens",
+          "foto": "https://image.tmdb.org/t/p/w185/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg",
+          "iniciales": "MW"
+        },
+        {
+          "nombre": "Xolo Maridueña",
+          "personaje": "Gideon",
+          "foto": "https://image.tmdb.org/t/p/w185/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg",
+          "iniciales": "XM"
+        },
+        {
+          "nombre": "Lee Pace",
+          "personaje": "Ian Wright",
+          "foto": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg",
+          "iniciales": "LP"
+        },
+        {
+          "nombre": "Dianne Wiest",
+          "personaje": "Aunt Jet",
+          "foto": "https://image.tmdb.org/t/p/w185/p9mfzY68FtEbedOMNB5X4eBShhx.jpg",
+          "iniciales": "DW"
+        },
+        {
+          "nombre": "Stockard Channing",
+          "personaje": "Aunt Frances",
+          "foto": "https://image.tmdb.org/t/p/w185/qAYBGvapAnnhpoZuYFyoqetncs5.jpg",
+          "iniciales": "SC"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Di Novi Pictures",
+        "Warner Bros. Pictures",
+        "Blossom Films",
+        "Fortis Films",
+        "Domain Entertainment",
+        "Alcon Entertainment"
+      ],
+      "temas": [
+        "Witch",
+        "Based on novel or book",
+        "Magic",
+        "Family relationships",
+        "Sequel",
+        "Family",
+        "Legacy"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=UOmntM7mHI8",
+      "teaser": "https://www.youtube.com/watch?v=gWfNjvha74k",
+      "imdb_id": "tt32588798",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Practical Magic Collection",
+        "partes": [
+          {
+            "tmdb_id": 6435,
+            "titulo": "Prácticamente magia",
+            "anio": "1998",
+            "poster": "https://image.tmdb.org/t/p/w342/5HIg6WEojB5HSEIKES8oyN3chLk.jpg",
+            "fecha": "1998-10-16"
+          },
+          {
+            "tmdb_id": 1302904,
+            "titulo": "Prácticamente magia 2",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+            "fecha": "2026-09-09"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 8494,
+          "titulo": "Este muerto está muy vivo 2",
+          "anio": "1993",
+          "poster": "https://image.tmdb.org/t/p/w342/9dgnViNrC15QQMyl7u7fJhP1MA6.jpg",
+          "score": 5.1
+        },
+        {
+          "tmdb_id": 268531,
+          "titulo": "Capitán Calzoncillos: Su Primer Peliculón",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/9VAARpurKQHcYw4hTCwFZ0ns1fQ.jpg",
+          "score": 6.303
+        },
+        {
+          "tmdb_id": 1204754,
+          "titulo": "The Princess Knight",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/t5v6UMvRJNRdiKT58t4EJ1UEdU6.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 449176,
+          "titulo": "Con amor, Simon",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/eQGCjxKFdSHBekdSc4BGK1V2VZ6.jpg",
+          "score": 7.961
+        },
+        {
+          "tmdb_id": 8739,
+          "titulo": "Noch ein Wort und ich heirate dich!",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/duqpkSGdqFK2Qgd076uvAxjitHu.jpg",
+          "score": 3.833
+        },
+        {
+          "tmdb_id": 8776,
+          "titulo": "¡Bienvenido, Sr. Comandante!",
+          "anio": "1969",
+          "poster": "https://image.tmdb.org/t/p/w342/oSjxEkgwITSdpi7lIIIpxZ546g9.jpg",
+          "score": 6.9
+        },
+        {
+          "tmdb_id": 8816,
+          "titulo": "Mi vida como un perro",
+          "anio": "1985",
+          "poster": "https://image.tmdb.org/t/p/w342/j8uBTcatgRCwuP0fwv2aCqiT2C7.jpg",
+          "score": 7.242
+        },
+        {
+          "tmdb_id": 8827,
+          "titulo": "13,99 euros",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/6vQicKmMVdeoF5OF4YLtZQQSIck.jpg",
+          "score": 6.681
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-10"
+  },
+  "1187326": {
+    "tmdb": {
+      "tmdb_id": 1187326,
+      "titulo": "Tadeo Jones y La Lámpara Maravillosa",
+      "titulo_original": "Tadeo Jones y La Lámpara Maravillosa",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-08-26",
+      "duracion": 94,
+      "generos": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "score": 6.556,
+      "votos": 9,
+      "certificacion": "ATP",
+      "sinopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
+        "https://image.tmdb.org/t/p/w780/37HRdXTVrb8SOvrESimxdYzwefc.jpg",
+        "https://image.tmdb.org/t/p/w780/kJEPVYOcUWuuQpJfQV1M0TEd9If.jpg",
+        "https://image.tmdb.org/t/p/w780/7fAcrKaLUegGUsH9zj7VyITsGXA.jpg",
+        "https://image.tmdb.org/t/p/w780/dg6Ml6ocB6yvVdXCTabRUaGHDY0.jpg",
+        "https://image.tmdb.org/t/p/w780/7bXBeHGucot6Va1nVjzSqVEzc0E.jpg"
+      ],
+      "director": "Enrique Gato",
+      "guionistas": [
+        "Josep Gatell",
+        "Manuel Burque"
+      ],
+      "musica": "",
+      "elenco": [
+        {
+          "nombre": "Óscar Barberán",
+          "personaje": "Tadeo Jones (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/3Knf7YGrqS8sfXNPo7k15TIJe92.jpg",
+          "iniciales": "ÓB"
+        },
+        {
+          "nombre": "Michelle Jenner",
+          "personaje": "Sara Lavrof (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/g3JyHqwBcV7g1ds3dHtWkDXyXqb.jpg",
+          "iniciales": "MJ"
+        },
+        {
+          "nombre": "Luis Posada",
+          "personaje": "Momia (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/tTqHaQkpTbUDg4hPBHRoR4cJiFN.jpg",
+          "iniciales": "LP"
+        },
+        {
+          "nombre": "Joseph Balderrama",
+          "personaje": "Mummy / Tupac (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/8BwRFsXzWD25dPih6IePcRD3EjT.jpg",
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Trevor White",
+          "personaje": "Tad (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/hqSsJnshRL3rydOrE2coMXRWufP.jpg",
+          "iniciales": "TW"
+        }
+      ],
+      "paises": [
+        "Spain"
+      ],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [
+        "Mediaset España",
+        "Ikiru Films",
+        "Anangu Grup",
+        "Lightbox Animation Studios",
+        "Telecinco Cinema",
+        "Tadeo Films",
+        "Movistar Plus"
+      ],
+      "temas": [],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt36164852",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-09-10"
   }
 }

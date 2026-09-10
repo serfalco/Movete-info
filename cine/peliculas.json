@@ -156,6 +156,29 @@
     "tmdb_id": 1669841,
     "trailer": ""
   },
+  "codigo venganza": {
+    "anio": "2002",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hgbmiB48M4GSDINTyqTvg7KbmMt.jpg",
+    "director": "Eric Weston",
+    "duracion": 88,
+    "elenco": [
+      "Robert Davi",
+      "Costas Mandylor",
+      "Joey DePinto"
+    ],
+    "generos": [
+      "Acción",
+      "Crimen"
+    ],
+    "paises": [],
+    "poster": "https://image.tmdb.org/t/p/w342/qplSfNUwaQJ4RwT2NNjNEFIdhQK.jpg",
+    "score": 3.3,
+    "sinopsis": "Un respetado hombre de negocios se ve atrapado en mitad de una guerra entre dos familias rivales del crimen organizado. Tendrá que elegir entre ser fiel a la tradición familiar o ser fiel a sí mismo.",
+    "titulo": "Código de venganza",
+    "titulo_original": "Hitters",
+    "tmdb_id": 188834,
+    "trailer": ""
+  },
   "coyote contra acme": null,
   "el afinador": {
     "anio": "2005",
@@ -316,6 +339,35 @@
     "tmdb_id": 255157,
     "trailer": ""
   },
+  "el heladero": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+    "director": "Eli Roth",
+    "duracion": 86,
+    "elenco": [
+      "Ari Millen",
+      "Charlie Zeltzer",
+      "Kole Parks"
+    ],
+    "generos": [
+      "Terror",
+      "Comedia"
+    ],
+    "paises": [
+      "United States of America",
+      "Canada",
+      "United Kingdom",
+      "France",
+      "Japan"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
+    "score": 4.444,
+    "sinopsis": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
+    "titulo": "Dulce sabor a Muerte",
+    "titulo_original": "Ice Cream Man",
+    "tmdb_id": 1477712,
+    "trailer": "https://www.youtube.com/watch?v=zYC5iij2DTg"
+  },
   "el partido": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
@@ -391,6 +443,32 @@
     "trailer": "https://www.youtube.com/watch?v=xs9rmpoEzNs"
   },
   "evil dead en llamas 23 10 minions y monstruos": null,
+  "hechizo de amor la magia continua": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "director": "Susanne Bier",
+    "duracion": 130,
+    "elenco": [
+      "Sandra Bullock",
+      "Nicole Kidman",
+      "Joey King"
+    ],
+    "generos": [
+      "Romance",
+      "Fantasía",
+      "Comedia"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+    "score": 6.5,
+    "sinopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+    "titulo": "Prácticamente magia 2",
+    "titulo_original": "Practical Magic 2",
+    "tmdb_id": 1302904,
+    "trailer": "https://www.youtube.com/watch?v=UOmntM7mHI8"
+  },
   "insaciable": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
@@ -522,6 +600,24 @@
     "titulo_original": "The Death of Robin Hood",
     "tmdb_id": 1284465,
     "trailer": "https://www.youtube.com/watch?v=PJqvdmKERw8"
+  },
+  "la negociacion": {
+    "anio": "2018",
+    "backdrop": null,
+    "director": "Margarita Martínez Escallón",
+    "duracion": 89,
+    "elenco": [],
+    "generos": [
+      "Documental"
+    ],
+    "paises": [],
+    "poster": "https://image.tmdb.org/t/p/w342/lvQUXWPLirKDVOXSbsWycyRnEO0.jpg",
+    "score": 8.0,
+    "sinopsis": "Esta es la historia de las negociaciones entre el gobierno colombiano y la guerrilla de las FARC-EP, el movimiento guerrillero más antiguo del hemisferio occidental. Nos muestra que hacer la paz es más difícil que hacer la guerra. Los colombianos se encuentran en una encrucijada: ¿continuará la violencia o prevalecerá la paz?",
+    "titulo": "La Negociación",
+    "titulo_original": "La Negociación",
+    "tmdb_id": 565581,
+    "trailer": "https://www.youtube.com/watch?v=aRqznWxbPSo"
   },
   "la noche del demonio estan entre nosotros": {
     "anio": "2026",
@@ -730,6 +826,32 @@
     "titulo_original": "Moana",
     "tmdb_id": 1108427,
     "trailer": "https://www.youtube.com/watch?v=hAGDSmLpjFM"
+  },
+  "oasis don t look back in anger": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+    "director": "Dylan Southern",
+    "duracion": 123,
+    "elenco": [
+      "Liam Gallagher",
+      "Noel Gallagher",
+      "Paul Arthurs"
+    ],
+    "generos": [
+      "Documental",
+      "Música"
+    ],
+    "paises": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+    "score": 7.4,
+    "sinopsis": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
+    "titulo": "Oasis: Don't Look Back in Anger",
+    "titulo_original": "Oasis: Don't Look Back in Anger",
+    "tmdb_id": 1447853,
+    "trailer": ""
   },
   "obsesion": {
     "anio": "2026",
@@ -954,6 +1076,32 @@
     "tmdb_id": 1081003,
     "trailer": "https://www.youtube.com/watch?v=rjT2Naumaoo"
   },
+  "tadeo jones y la lampara maravillosa": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
+    "director": "Enrique Gato",
+    "duracion": 94,
+    "elenco": [
+      "Óscar Barberán",
+      "Michelle Jenner",
+      "Luis Posada"
+    ],
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "paises": [
+      "Spain"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+    "score": 6.556,
+    "sinopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+    "titulo": "Tadeo Jones y La Lámpara Maravillosa",
+    "titulo_original": "Tadeo Jones y La Lámpara Maravillosa",
+    "tmdb_id": 1187326,
+    "trailer": ""
+  },
   "terminator 2 el juicio final": {
     "anio": "1991",
     "backdrop": "https://image.tmdb.org/t/p/w780/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
@@ -1032,6 +1180,7 @@
     "tmdb_id": 1523145,
     "trailer": ""
   },
+  "una quinta en portugal": null,
   "yo narciso": {
     "anio": "2026",
     "backdrop": null,

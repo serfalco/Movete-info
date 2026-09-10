@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "Queen + Elton John, por Martin Babenco - Especial Freddie Mercury, 80 Años",
-    "fecha": "2026-09-04 21:00:00",
-    "lugar": "Espacio Live La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/queen-elton-john-por-martin-babenco-especial-freddie-mercury-80-anos",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/queen-elton-john-por-martin-babenco-especial-freddie-mercury-80-anos-538701-rec.jpg"
-  },
-  {
-    "titulo": "Todo The Police, por The Police Station",
-    "fecha": "2026-09-05 21:00:00",
-    "lugar": "Espacio Live La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/todo-the-police-por-the-police-station",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/todo-the-police-por-the-police-station-528975-rec.jpg"
-  },
-  {
     "titulo": "Bon Jovi x Valentinos, en Espacio Live!",
     "fecha": "2026-09-11 21:00:00",
     "lugar": "Espacio Live La Plata",
@@ -138,6 +118,16 @@
     "url": "https://www.passline.com/eventos/todo-heroes-del-silencio-bunbury-x-ave-rapaz-en-espacio-live",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/todo-heroes-del-silencio-bunbury-x-ave-rapaz-en-espacio-live-549090-rec.jpg"
+  },
+  {
+    "titulo": "Soda Stereo por Fuerza Stereo",
+    "fecha": "2026-10-30 21:00:00",
+    "lugar": "Espacio Live La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/soda-stereo-por-fuerza-stereo",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/soda-stereo-por-fuerza-stereo-553745-rec.jpg"
   },
   {
     "titulo": "PULSE; Pink Floyd Selections, en Espacio Live",
