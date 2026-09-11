@@ -330,6 +330,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/55/000316755.jpg"
   },
   {
+    "titulo": "Todo lo que cabe en una valija",
+    "fecha": "2026-09-18 21:30:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas101900-todo-lo-que-cabe-en-una-valija?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/34/000317134.jpg"
+  },
+  {
     "titulo": "El Andador",
     "fecha": "2026-09-18 20:30:00",
     "lugar": "TEATRO EL ESCAPE",
@@ -565,7 +575,7 @@
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102936-el-factor-daiquiri",
+    "url": "https://publico.alternativateatral.com/entradas102936-el-factor-daiquiri?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/94/000320494.jpg"
   },
