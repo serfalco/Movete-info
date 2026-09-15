@@ -49,11 +49,14 @@ jobs:
 
       # El viernes el scraper corre con es_viernes=True, asi que ademas de las
       # fuentes base suma El Dia y 0221 (que recien hoy publicaron su agenda).
-      - name: Generar eventos.json (incluye El Dia + 0221)
+      - name: Generar eventos.json
+        id: scraper (incluye El Dia + 0221)
         working-directory: movete-scraper
         env:
           SALIDA_JSON: ../movete-espectaculos/eventos.json
           MOVETE_CACHE_DIR: ../Movete-info/data/scraper-cache
+          # Si una fuente troncal se cae, main.py deja el aviso aca.
+          MOVETE_ALERTA: ${{ github.workspace }}/_alerta.txt
           # Fuerza El Dia + 0221 aunque se corra a mano un dia que no sea viernes.
           # (Requiere el cambio en main.py del scraper; si no esta, se ignora sin romper.)
           FORZAR_PERIODISTICAS: "1"
@@ -75,3 +78,18 @@ jobs:
           git add .
           git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Actualizar En Vivo del viernes (El Dia + 0221)"
           git push
+
+      - name: Avisar si la cartelera salio incompleta
+        # Va ULTIMO y a proposito: la edicion ya se publico. Este paso solo
+        # pone la corrida en rojo, que es lo unico que hace que GitHub mande
+        # un mail. Un ::warning:: queda enterrado en la pestana Actions y
+        # nadie lo ve: asi pasamos dos semanas (27/08 y 03/09 de 2026)
+        # publicando media cartelera sin enterarnos.
+        if: always() && steps.scraper.outcome == 'success'
+        run: |
+          if [ -f "$GITHUB_WORKSPACE/_alerta.txt" ]; then
+            echo "::error::$(head -1 "$GITHUB_WORKSPACE/_alerta.txt")"
+            cat "$GITHUB_WORKSPACE/_alerta.txt"
+            exit 1
+          fi
+          echo "Cartelera completa: ninguna fuente troncal se cayo."
