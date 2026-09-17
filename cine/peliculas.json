@@ -209,6 +209,33 @@
     "tmdb_id": 44502,
     "trailer": ""
   },
+  "el arbol magico": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+    "director": "Ben Gregor",
+    "duracion": 110,
+    "elenco": [
+      "Billie Gadsdon",
+      "Nicola Coughlan",
+      "Delilah Bennett-Cardy"
+    ],
+    "generos": [
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "paises": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/q2UkPRN4Nv4JJLLz1c564MyuqLB.jpg",
+    "score": 6.243,
+    "sinopsis": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+    "titulo": "El árbol muy muy lejano",
+    "titulo_original": "The Magic Faraway Tree",
+    "tmdb_id": 1140521,
+    "trailer": "https://www.youtube.com/watch?v=qsrMA7Eovaw"
+  },
   "el dia d bajo presion": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
@@ -880,6 +907,34 @@
     "trailer": "https://www.youtube.com/watch?v=5MBu6Xhuj38"
   },
   "obsesion 12 14 10 18 30 obsesion": null,
+  "one piece la pelicula": {
+    "anio": "2000",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+    "director": "志水淳児",
+    "duracion": 51,
+    "elenco": [
+      "Mayumi Tanaka",
+      "Kazuya Nakai",
+      "Akemi Okamura"
+    ],
+    "generos": [
+      "Acción",
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Fantasía"
+    ],
+    "paises": [
+      "Japan"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/g8Gaj5qlM0S0NTZSP05ETs7aFst.jpg",
+    "score": 7.052,
+    "sinopsis": "Luffy y sus compañeros recataran a Tobio de la guarida de un pirata. Más tarde mientras prosiguen su viaje, decidiran ir a la isla dorada donde vivirán una gran aventura.",
+    "titulo": "One Piece: La película",
+    "titulo_original": "ワンピース",
+    "tmdb_id": 19576,
+    "trailer": ""
+  },
   "paw patrol la dino pelicula": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
@@ -934,6 +989,33 @@
     "titulo_original": "Pepita la pistolera",
     "tmdb_id": 1634739,
     "trailer": ""
+  },
+  "resident evil noche cero": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+    "director": "Zach Cregger",
+    "duracion": 93,
+    "elenco": [
+      "Austin Abrams",
+      "Zach Cherry",
+      "Kali Reis"
+    ],
+    "generos": [
+      "Terror",
+      "Ciencia ficción"
+    ],
+    "paises": [
+      "United States of America",
+      "Germany",
+      "France"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+    "score": 8.1,
+    "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+    "titulo": "Resident Evil",
+    "titulo_original": "Resident Evil",
+    "tmdb_id": 1423191,
+    "trailer": "https://www.youtube.com/watch?v=d6oszs7f5aI"
   },
   "scary movie terrorificamente incorrecta": {
     "anio": "2026",
@@ -1155,6 +1237,32 @@
     "titulo_original": "Toy Story 5",
     "tmdb_id": 1084244,
     "trailer": "https://www.youtube.com/watch?v=9_reo5Jl1OM"
+  },
+  "tres adioses": {
+    "anio": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
+    "director": "Isabel Coixet",
+    "duracion": 120,
+    "elenco": [
+      "Alba Rohrwacher",
+      "Elio Germano",
+      "Francesco Carril"
+    ],
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "paises": [
+      "Italy",
+      "Spain"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/ooJChz3CumTevKFMd6fTETcmIm.jpg",
+    "score": 7.1,
+    "sinopsis": "Marta y Antonio son una pareja que se separa tras lo que parece una discusión trivial. Marta (Alba Rohrwacher) reacciona a la ruptura encerrándose en sí misma. El único síntoma que no puede ignorar es su repentina falta de apetito. Mientras, Antonio (Elio Germano), un chef al alza, no consigue olvidarla a pesar de haber sido él quien terminó la relación.",
+    "titulo": "Tres adioses",
+    "titulo_original": "Tre ciotole",
+    "tmdb_id": 1433339,
+    "trailer": "https://www.youtube.com/watch?v=xOkvUm3dz5s"
   },
   "tu corazon sera destrozado": {
     "anio": "2026",

@@ -1,975 +1,5 @@
 [
   {
-    "titulo": "Tiempo de Borges (por Silvia Hopenhayn)",
-    "fecha": "2026-09-11 18:30:00",
-    "lugar": "Rayuela",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/tiempo-de-borges-por-silvia-hopenhayn-rayuela-20260825144025",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260825144026.jpg"
-  },
-  {
-    "titulo": "Sacco & Vanzetti (Dir. Giuliano Montaldo)",
-    "fecha": "2026-09-11 19:00:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/sacco-vanzetti-dir-giuliano-montaldo-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260910142351",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910142352.jpg"
-  },
-  {
-    "titulo": "Nuestra Tierra (Dir. Lucrecia Martel)",
-    "fecha": "2026-09-11 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/nuestra-tierra-dir-lucrecia-martel-cine-club-proyecciones-terrestres-20260907212557",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907212558.jpg"
-  },
-  {
-    "titulo": "Les yeux sans visage [Los ojos sin rostro] (Georges Franju, 1960)",
-    "fecha": "2026-09-11 19:00:00",
-    "lugar": "Espacio Satélite",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/les-yeux-sans-visage-los-ojos-sin-rostro-georges-franju-1960-espacio-satelite-20260905153901",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260905153902.jpg"
-  },
-  {
-    "titulo": "Marttein - Andy Chango",
-    "fecha": "2026-09-11 20:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "stand-up",
-    "url": "https://agendalaplata.ar/evento/marttein-andy-chango-ciudad-de-gatos-20260815003953",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260815003954.jpg"
-  },
-  {
-    "titulo": "Sarao: Samba - Funk - Jazz",
-    "fecha": "2026-09-11 20:00:00",
-    "lugar": "Desafinado Club",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/sarao-samba-funk-jazz-desafinado-club-20260905221931",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260905221932.jpg"
-  },
-  {
-    "titulo": "El Diego Extremo",
-    "fecha": "2026-09-11 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/el-diego-extremo-pasaje-dardo-rocha-20260906233035",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260906233036.jpg"
-  },
-  {
-    "titulo": "Trenes rigurosamente vigilados (Dir. Jirí Menzel, 1966)",
-    "fecha": "2026-09-11 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/trenes-rigurosamente-vigilados-dir-jiri-menzel-1966-cine-ecoselect-espacio-incaa-20260910000352",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910000353.jpg"
-  },
-  {
-    "titulo": "El almacén de los ecos",
-    "fecha": "2026-09-11 20:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/el-almacen-de-los-ecos-teatro-abierto-20260831192910",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831192911.jpg"
-  },
-  {
-    "titulo": "Shine + Mela",
-    "fecha": "2026-09-11 20:00:00",
-    "lugar": "Blondie Cultural",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/shine-mela-blondie-cultural-20260813192355",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260813192356.jpg"
-  },
-  {
-    "titulo": "Liga de improvisadores",
-    "fecha": "2026-09-11 20:30:00",
-    "lugar": "Espacio Sudaka",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/liga-de-improvisadores-espacio-sudaka-20260908235530",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260908235531.jpg"
-  },
-  {
-    "titulo": "Cata de vinos: homenaje a Evita en copa",
-    "fecha": "2026-09-11 20:30:00",
-    "lugar": "Comunidad Ferroviaria",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/cata-de-vinos-homenaje-a-evita-en-copa-comunidad-ferroviaria-20260818142751",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260818142752.jpg"
-  },
-  {
-    "titulo": "Ciclo de obras cortas",
-    "fecha": "2026-09-11 20:30:00",
-    "lugar": "Teatro El Escape",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/ciclo-de-obras-cortas-teatro-el-escape-20260830161330",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907211542.jpg"
-  },
-  {
-    "titulo": "Motoneta + Daro Valz + Nancy",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "La Macacha Casa Cultural",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/motoneta-daro-valz-nancy-la-macacha-casa-cultural-20260910031545",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910031546.jpg"
-  },
-  {
-    "titulo": "Trentitres + Voltage",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Guajira Bar",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/trentitres-voltage-guajira-bar-20260910023020",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910023021.jpg"
-  },
-  {
-    "titulo": "Karaoke",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Lázuli",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/karaoke-lazuli-20260911140615",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260911140616.jpg"
-  },
-  {
-    "titulo": "Madera mineral",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Azulunala",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/madera-mineral-azulunala-20260910031809",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910031810.jpg"
-  },
-  {
-    "titulo": "Peña la Negra Quiroga",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Esquina América",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/pena-la-negra-quiroga-esquina-america-20260905161044",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260905161045.jpg"
-  },
-  {
-    "titulo": "Amor, vida & rock",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Distrito de Arte y Cultura",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/amor-vida-rock-distrito-de-arte-y-cultura-20260905215516",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260905215517.jpg"
-  },
-  {
-    "titulo": "Pez",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/pez-casa-suiza-20260805211831",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260805211832.jpg"
-  },
-  {
-    "titulo": "Trucha",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/trucha-ciudad-de-gatos-20260808131333",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260808131334.jpg"
-  },
-  {
-    "titulo": "Soy tu angel",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Teatro La Nonna",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/soy-tu-angel-teatro-la-nonna-20260803000908",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260803000909.jpg"
-  },
-  {
-    "titulo": "Fauna postal",
-    "fecha": "2026-09-11 21:30:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/fauna-postal-viejo-almacen-el-obrero-cantina-del-obrero-20260825200857",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260825200858.jpg"
-  },
-  {
-    "titulo": "El desvelo - Jai Yia (Dirección: Flor Cárdenas)",
-    "fecha": "2026-09-11 22:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-desvelo-jai-yia-direccion-flor-cardenas-cine-club-proyecciones-terrestres-20260907213836",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907213837.jpg"
-  },
-  {
-    "titulo": "Audiostoners - Tributo a Audioslave y Soundgarden - Homenaje a Chris Cornell",
-    "fecha": "2026-09-11 23:55:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/audiostoners-tributo-a-audioslave-y-soundgarden-homenaje-a-chris-cornell-teatro-rene-favaloro-20260828213644",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260828213645.jpg"
-  },
-  {
-    "titulo": "Taller de poesía y cerámica",
-    "fecha": "2026-09-12 10:30:00",
-    "lugar": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/taller-de-poesia-y-ceramica-biblioteca-popular-mafalda-y-libertad-de-arturo-segui-20260831202104",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831202106.jpg"
-  },
-  {
-    "titulo": "Feria la violeta - Feria de emprendedores",
-    "fecha": "2026-09-12 13:00:00",
-    "lugar": "La Salamanca Centro de Cultura y Peña",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/feria-la-violeta-feria-de-emprendedores-la-salamanca-centro-de-cultura-y-pena-20260910032334",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910032335.jpg"
-  },
-  {
-    "titulo": "Krea Feria de Emprendedores",
-    "fecha": "2026-09-12 14:30:00",
-    "lugar": "El Tiatrito",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/krea-feria-de-emprendedores-el-tiatrito-20260905115429",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260905115430.jpg"
-  },
-  {
-    "titulo": "Flotante",
-    "fecha": "2026-09-12 15:30:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/flotante-espacio-doble-t-20260827023100",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260827023101.jpg"
-  },
-  {
-    "titulo": "Día de las infancias",
-    "fecha": "2026-09-12 16:15:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/dia-de-las-infancias-pasaje-dardo-rocha-20260824235348",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260824235349.jpg"
-  },
-  {
-    "titulo": "Atardeceres: música electrónica y gastronomía",
-    "fecha": "2026-09-12 17:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/atardeceres-musica-electronica-y-gastronomia-planetario-unlp-20260821180200",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260821180201.jpg"
-  },
-  {
-    "titulo": "Esto Va De Hongos + Caminata fungi + Taller de micelio en grano",
-    "fecha": "2026-09-12 18:00:00",
-    "lugar": "La Compostera",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/esto-va-de-hongos-caminata-fungi-taller-de-micelio-en-grano-la-compostera-20260831190321",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831190322.jpg"
-  },
-  {
-    "titulo": "Cuarteto de cuerdas",
-    "fecha": "2026-09-12 18:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/cuarteto-de-cuerdas-teatro-argentino-centro-provincial-de-las-artes-20260910024343",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910024344.jpg"
-  },
-  {
-    "titulo": "Muestra Talleres de la Peña",
-    "fecha": "2026-09-12 19:00:00",
-    "lugar": "La Peña de las Bellas Artes",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/muestra-talleres-de-la-pena-la-pena-de-las-bellas-artes-20260907211210",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907211211.jpg"
-  },
-  {
-    "titulo": "Un hombre peligroso",
-    "fecha": "2026-09-12 19:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/un-hombre-peligroso-teatro-argentino-centro-provincial-de-las-artes-20260831132610",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831132612.jpg"
-  },
-  {
-    "titulo": "Inéditas colección + Jam de escenas",
-    "fecha": "2026-09-12 19:00:00",
-    "lugar": "Lázuli",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/ineditas-coleccion-jam-de-escenas-lazuli-20260831200343",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831200344.jpg"
-  },
-  {
-    "titulo": "Cantate ésta - Karaoke",
-    "fecha": "2026-09-12 20:00:00",
-    "lugar": "Marimacha",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/cantate-esta-karaoke-marimacha-20260911140246",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260911140247.jpg"
-  },
-  {
-    "titulo": "Autos robados",
-    "fecha": "2026-09-12 20:00:00",
-    "lugar": "Teatro Opera",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/autos-robados-teatro-opera-20260818214622",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260818214623.jpg"
-  },
-  {
-    "titulo": "Delta. cuando el río se revuelve, la mierda sale a flote",
-    "fecha": "2026-09-12 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/delta-cuando-el-rio-se-revuelve-la-mierda-sale-a-flote-pasaje-dardo-rocha-20260905223205",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260905223206.jpg"
-  },
-  {
-    "titulo": "Cumbiolga",
-    "fecha": "2026-09-12 20:00:00",
-    "lugar": "Olga Vázquez",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/cumbiolga-olga-vazquez-20260906234408",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260906234409.jpg"
-  },
-  {
-    "titulo": "Hojas por el barrio - Rey bruja - Quilmes verano",
-    "fecha": "2026-09-12 20:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/hojas-por-el-barrio-rey-bruja-quilmes-verano-ciudad-de-gatos-20260825195949",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260825195950.jpg"
-  },
-  {
-    "titulo": "Potestad",
-    "fecha": "2026-09-12 20:00:00",
-    "lugar": "Espacio Rebelión - Casa socialista",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/potestad-espacio-rebelion-casa-socialista-20260907205406",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907205407.jpg"
-  },
-  {
-    "titulo": "La tierra explota, el tiempo se acaba",
-    "fecha": "2026-09-12 20:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-tierra-explota-el-tiempo-se-acaba-cine-club-proyecciones-terrestres-20260907212934",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907212935.jpg"
-  },
-  {
-    "titulo": "Oeisis - Tributo a Oasis",
-    "fecha": "2026-09-12 20:00:00",
-    "lugar": "Guajira Bar",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/oeisis-tributo-a-oasis-guajira-bar-20260718234408",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260718234409.jpg"
-  },
-  {
-    "titulo": "2013, Odisea Intemporal Rioplatense",
-    "fecha": "2026-09-12 20:30:00",
-    "lugar": "El Medio Aljibe",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/2013-odisea-intemporal-rioplatense-el-medio-aljibe-20260909235355",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260909235356.jpg"
-  },
-  {
-    "titulo": "Roda sudaka – Roda abierta",
-    "fecha": "2026-09-12 20:30:00",
-    "lugar": "Espacio Sudaka",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/roda-sudaka-roda-abierta-espacio-sudaka-20260911142049",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260911142050.jpg"
-  },
-  {
-    "titulo": "Ennio feria de vinos",
-    "fecha": "2026-09-12 20:30:00",
-    "lugar": "Ennio tienda de vinos",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/ennio-feria-de-vinos-ennio-tienda-de-vinos-20260907204348",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907204349.jpg"
-  },
-  {
-    "titulo": "Así no te amará jamás",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Teatro El Escape",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/asi-no-te-amara-jamas-teatro-el-escape-20260904115612",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260904115613.jpg"
-  },
-  {
-    "titulo": "Alorsa Eterno",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/alorsa-eterno-espacio-doble-t-20260908182028",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260908182029.jpg"
-  },
-  {
-    "titulo": "Bondi funk",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Amorfatti",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/bondi-funk-amorfatti-20260910032206",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910032207.jpg"
-  },
-  {
-    "titulo": "Criado por lobos - Pablo Agustin",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "El Teatro BAR",
-    "direccion": "",
-    "categoria": "stand-up",
-    "url": "https://agendalaplata.ar/evento/criado-por-lobos-pablo-agustin-el-teatro-bar-20260910031953",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910031954.jpg"
-  },
-  {
-    "titulo": "Pyracantes",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "La Plata",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/pyracantes-20260910031354",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910031355.jpg"
-  },
-  {
-    "titulo": "Vacío",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Área Chica",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/vacio-area-chica-20260910031113",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910031114.jpg"
-  },
-  {
-    "titulo": "Varieté tiene que salir",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "La Gran Siete - Arte y Cultura",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/variete-tiene-que-salir-la-gran-siete-arte-y-cultura-20260908132831",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260908132832.jpg"
-  },
-  {
-    "titulo": "1000 Horas, Tributo a Los Abuelos en Espacio",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Espacio Live",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/1000-horas-tributo-a-los-abuelos-en-espacio-espacio-live-20260803001222",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260803001223.jpg"
-  },
-  {
-    "titulo": "Bomba de Boleros",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "La Plata",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/bomba-de-boleros-20260801170555",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260801170556.jpg"
-  },
-  {
-    "titulo": "Grandes guitarristas del Rock",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Teatro Bar Cultural La Ferretería",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/grandes-guitarristas-del-rock-teatro-bar-cultural-la-ferreteria-20260829193824",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260829193825.jpg"
-  },
-  {
-    "titulo": "Pandora",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Casa Hereje",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/pandora-casa-hereje-20260831001930",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831001931.jpg"
-  },
-  {
-    "titulo": "Gustavo Santaolalla",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/gustavo-santaolalla-teatro-argentino-centro-provincial-de-las-artes-20260609034410",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260609034411.jpg"
-  },
-  {
-    "titulo": "Las Pastillas del Abuelo",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/las-pastillas-del-abuelo-hipodromo-de-la-plata-20260602230448",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260602230449.jpg"
-  },
-  {
-    "titulo": "El Robo",
-    "fecha": "2026-09-12 21:30:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/el-robo-escenario-40-20260906234933",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260906234934.jpg"
-  },
-  {
-    "titulo": "Cuando los animales duerman",
-    "fecha": "2026-09-12 21:30:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/cuando-los-animales-duerman-viejo-almacen-el-obrero-cantina-del-obrero-20260825201004",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260825201005.jpg"
-  },
-  {
-    "titulo": "La gravedad de lo incierto",
-    "fecha": "2026-09-12 21:30:00",
-    "lugar": "Teatro Estudio",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/la-gravedad-de-lo-incierto-teatro-estudio-20260725003959",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260725004000.jpg"
-  },
-  {
-    "titulo": "Almost human (Dir Umberto Lenzi - 1974)",
-    "fecha": "2026-09-12 22:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/almost-human-dir-umberto-lenzi-1974-cine-club-proyecciones-terrestres-20260907213653",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907213654.jpg"
-  },
-  {
-    "titulo": "Escenas de medianoche",
-    "fecha": "2026-09-12 23:30:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/escenas-de-medianoche-viejo-almacen-el-obrero-cantina-del-obrero-20260910024909",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910024910.jpg"
-  },
-  {
-    "titulo": "Llevatelo 87 - Tributo Piojoso",
-    "fecha": "2026-09-12 23:55:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/llevatelo-87-tributo-piojoso-teatro-rene-favaloro-20260907201227",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907201228.jpg"
-  },
-  {
-    "titulo": "News from Home (Dir. Chantal Akerman - 1977)",
-    "fecha": "2026-09-12 23:55:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/news-from-home-dir-chantal-akerman-1977-cine-club-proyecciones-terrestres-20260901004516",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260901004517.jpg"
-  },
-  {
-    "titulo": "Peque Feria",
-    "fecha": "2026-09-13 14:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/peque-feria-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260831123639",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831123640.jpg"
-  },
-  {
-    "titulo": "Expo feria Destello",
-    "fecha": "2026-09-13 14:30:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/expo-feria-destello-planetario-unlp-20260813194146",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260813194147.jpg"
-  },
-  {
-    "titulo": "Arte Nómade",
-    "fecha": "2026-09-13 15:00:00",
-    "lugar": "Comunidad Ferroviaria",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/arte-nomade-comunidad-ferroviaria-20260815200002",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260815200046.jpg"
-  },
-  {
-    "titulo": "Al Obrero desde la cuna",
-    "fecha": "2026-09-13 15:30:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/al-obrero-desde-la-cuna-viejo-almacen-el-obrero-cantina-del-obrero-20260825201351",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260825201352.jpg"
-  },
-  {
-    "titulo": "Back To Fun",
-    "fecha": "2026-09-13 16:00:00",
-    "lugar": "Espacio Medusa",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/back-to-fun-espacio-medusa-20260910030845",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910030846.jpg"
-  },
-  {
-    "titulo": "La tierra explota, el tiempo se acaba",
-    "fecha": "2026-09-13 17:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-tierra-explota-el-tiempo-se-acaba-cine-club-proyecciones-terrestres-20260907212934",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907212935.jpg"
-  },
-  {
-    "titulo": "La asombrosa aventura del niño de las estrellas",
-    "fecha": "2026-09-13 17:30:00",
-    "lugar": "Teatro Red Pido Gancho",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/la-asombrosa-aventura-del-nino-de-las-estrellas-teatro-red-pido-gancho-20260829132054",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260829132113.jpg"
-  },
-  {
-    "titulo": "Un hombre peligroso",
-    "fecha": "2026-09-13 18:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/un-hombre-peligroso-teatro-argentino-centro-provincial-de-las-artes-20260831132610",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831132612.jpg"
-  },
-  {
-    "titulo": "Festival de Arte Federal - Edición Sur Argentino",
-    "fecha": "2026-09-13 18:00:00",
-    "lugar": "Estudio 71",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/festival-de-arte-federal-edicion-sur-argentino-estudio-71-20260907211337",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907211338.jpg"
-  },
-  {
-    "titulo": "Barry Lyndon (Dir. Stanley Kubrick)",
-    "fecha": "2026-09-13 18:00:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/barry-lyndon-dir-stanley-kubrick-teatro-de-camara-city-bell-20260910142526",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910142527.jpg"
-  },
-  {
-    "titulo": "La sonámbula, recuerdos del futuro (Dir Fernando Spiner)",
-    "fecha": "2026-09-13 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-sonambula-recuerdos-del-futuro-dir-fernando-spiner-cine-club-proyecciones-terrestres-20260905145719",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260905145720.jpg"
-  },
-  {
-    "titulo": "TeaTrO EsPonTánEo",
-    "fecha": "2026-09-13 19:00:00",
-    "lugar": "La Plata",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/teatro-espontaneo-20260910002404",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910002405.jpg"
-  },
-  {
-    "titulo": "Contra el amor",
-    "fecha": "2026-09-13 19:30:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/contra-el-amor-viejo-almacen-el-obrero-cantina-del-obrero-20260825201254",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260825201255.jpg"
-  },
-  {
-    "titulo": "El insulto (Dir Ziad Doueiri)",
-    "fecha": "2026-09-13 20:00:00",
-    "lugar": "Espacio Beirut",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-insulto-dir-ziad-doueiri-espacio-beirut-20260824142431",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260824142432.jpg"
-  },
-  {
-    "titulo": "Empoederadas",
-    "fecha": "2026-09-13 20:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/empoederadas-escenario-40-20260911140422",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260911140423.jpg"
-  },
-  {
-    "titulo": "No te vayas con amor o sin él - de Norman Briski",
-    "fecha": "2026-09-13 20:00:00",
-    "lugar": "Teatro Espacio 44",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/no-te-vayas-con-amor-o-sin-el-de-norman-briski-teatro-espacio-44-20260822220657",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260822220658.jpg"
-  },
-  {
-    "titulo": "Los edukadores",
-    "fecha": "2026-09-13 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/los-edukadores-cine-ecoselect-espacio-incaa-20260906235122",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260906235123.jpg"
-  },
-  {
-    "titulo": "La Ciénaga (Dir. Lucrecia Martel)",
-    "fecha": "2026-09-13 20:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-cienaga-dir-lucrecia-martel-cine-select-espacio-incaa-20260909163610",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260909163612.jpg"
-  },
-  {
-    "titulo": "Hilda fest",
-    "fecha": "2026-09-13 20:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/hilda-fest-teatro-metro-20260801150750",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260801150751.jpg"
-  },
-  {
-    "titulo": "News from Home (Dir. Chantal Akerman - 1977)",
-    "fecha": "2026-09-13 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/news-from-home-dir-chantal-akerman-1977-cine-club-proyecciones-terrestres-20260901004516",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260901004517.jpg"
-  },
-  {
-    "titulo": "Iñaki Urlezaga - El aplauso final",
-    "fecha": "2026-09-13 21:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/inaki-urlezaga-el-aplauso-final-teatro-argentino-centro-provincial-de-las-artes-20260711051128",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260711051129.jpg"
-  },
-  {
-    "titulo": "Del Este (Dir. Chantal Akerman - 1993)",
-    "fecha": "2026-09-14 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/del-este-dir-chantal-akerman-1993-cine-club-proyecciones-terrestres-20260901004847",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260901004905.jpg"
-  },
-  {
-    "titulo": "La Cautiva (Dir. Chantal Akerman - 2000)",
-    "fecha": "2026-09-15 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-cautiva-dir-chantal-akerman-2000-cine-club-proyecciones-terrestres-20260901005113",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260901005114.jpg"
-  },
-  {
-    "titulo": "Ensayo Abierto de Manijas + Monoblock",
-    "fecha": "2026-09-15 20:00:00",
-    "lugar": "El Conventillo Centro Cultural",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/ensayo-abierto-de-manijas-monoblock-el-conventillo-centro-cultural-20260905152524",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260905152525.jpg"
-  },
-  {
-    "titulo": "Teatro x la Identidad",
-    "fecha": "2026-09-16 16:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/teatro-x-la-identidad-pasaje-dardo-rocha-20260904115209",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260904115210.jpg"
-  },
-  {
-    "titulo": "Del Este (Dir. Chantal Akerman - 1993)",
-    "fecha": "2026-09-16 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/del-este-dir-chantal-akerman-1993-cine-club-proyecciones-terrestres-20260901004847",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260901004905.jpg"
-  },
-  {
-    "titulo": "La Naranja Mecánica (Dir. Stanley Kubrick)",
-    "fecha": "2026-09-16 20:00:00",
-    "lugar": "La Maga Club De Arte",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-naranja-mecanica-dir-stanley-kubrick-la-maga-club-de-arte-20260910142650",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910142651.jpg"
-  },
-  {
-    "titulo": "Teatro x la Identidad",
-    "fecha": "2026-09-16 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/teatro-x-la-identidad-pasaje-dardo-rocha-20260910022312",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910022313.jpg"
-  },
-  {
-    "titulo": "All About Eve (Eva al desnudo Dir. Joseph L. Mankiewicz - 1950)",
-    "fecha": "2026-09-16 20:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/all-about-eve-eva-al-desnudo-dir-joseph-l-mankiewicz-1950-cine-select-espacio-incaa-20260831130314",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831130315.jpg"
-  },
-  {
-    "titulo": "Teatro x la Identidad",
-    "fecha": "2026-09-17 16:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/teatro-x-la-identidad-pasaje-dardo-rocha-20260904115209",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260904115210.jpg"
-  },
-  {
     "titulo": "Donn. Instrumento de Dios",
     "fecha": "2026-09-17 16:00:00",
     "lugar": "Centro de Arte UNLP",
@@ -980,6 +10,46 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260819141956.jpg"
   },
   {
+    "titulo": "Teatro x la Identidad",
+    "fecha": "2026-09-17 16:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/teatro-x-la-identidad-pasaje-dardo-rocha-20260904115209",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260904115210.jpg"
+  },
+  {
+    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
+    "fecha": "2026-09-17 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/los-caminantes-de-la-calle-dir-juan-martin-hsu-cine-ecoselect-espacio-incaa-20260916235905",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916235906.jpg"
+  },
+  {
+    "titulo": "Artaud (1973), Pescado Rabioso",
+    "fecha": "2026-09-17 18:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/artaud-1973-pescado-rabioso-planetario-unlp-20260913165832",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913165833.jpg"
+  },
+  {
+    "titulo": "Corazón de manzana",
+    "fecha": "2026-09-17 18:00:00",
+    "lugar": "Copia Club",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/corazon-de-manzana-copia-club-20260916233232",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916233233.jpg"
+  },
+  {
     "titulo": "La Cautiva (Dir. Chantal Akerman - 2000)",
     "fecha": "2026-09-17 19:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
@@ -988,6 +58,86 @@
     "url": "https://agendalaplata.ar/evento/la-cautiva-dir-chantal-akerman-2000-cine-club-proyecciones-terrestres-20260901005113",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260901005114.jpg"
+  },
+  {
+    "titulo": "La banda del club de los corazones solitarios del sargento Pepper",
+    "fecha": "2026-09-17 19:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-banda-del-club-de-los-corazones-solitarios-del-sargento-pepper-planetario-unlp-20260913170044",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913170045.jpg"
+  },
+  {
+    "titulo": "Padaleada Nocturna - Paseo Mitre - Gorina",
+    "fecha": "2026-09-17 20:00:00",
+    "lugar": "Plaza Moreno",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/padaleada-nocturna-paseo-mitre-gorina-plaza-moreno-20260916234101",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916234102.jpg"
+  },
+  {
+    "titulo": "Terciopelo azul (Dir. David Lynch)",
+    "fecha": "2026-09-17 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/terciopelo-azul-dir-david-lynch-cine-ecoselect-espacio-incaa-20260917000210",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260917000211.jpg"
+  },
+  {
+    "titulo": "Noche de cuerdas - Vení a mirar, atar o ser atadx",
+    "fecha": "2026-09-17 20:00:00",
+    "lugar": "Espacio Beirut",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/noche-de-cuerdas-veni-a-mirar-atar-o-ser-atadx-espacio-beirut-20260916200900",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916200901.jpg"
+  },
+  {
+    "titulo": "Paisaje + Septi9mbre + Markyeomen + Un fuego impulsado por el viento",
+    "fecha": "2026-09-17 20:00:00",
+    "lugar": "Blondie Cultural",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/paisaje-septi9mbre-markyeomen-un-fuego-impulsado-por-el-viento-blondie-cultural-20260914165433",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914165434.jpg"
+  },
+  {
+    "titulo": "Electrocardiograma (Dir. Valentina Camus)",
+    "fecha": "2026-09-17 20:30:00",
+    "lugar": "Marimacha",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/electrocardiograma-dir-valentina-camus-marimacha-20260915214000",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915214001.jpg"
+  },
+  {
+    "titulo": "Contraband (1980) Dir. Lucio Fulci",
+    "fecha": "2026-09-17 20:30:00",
+    "lugar": "El Medio Aljibe",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/contraband-1980-dir-lucio-fulci-el-medio-aljibe-20260915122837",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915122838.jpg"
+  },
+  {
+    "titulo": "Cumbia Club",
+    "fecha": "2026-09-17 20:30:00",
+    "lugar": "Espacio Doble-T",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/cumbia-club-espacio-doble-t-20260914000336",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914000337.jpg"
   },
   {
     "titulo": "Drácula de Bram Stoker (Dir. Francis Ford Coppola)",
@@ -1020,6 +170,46 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260827012952.jpg"
   },
   {
+    "titulo": "Lare 2000 – Rodrigo, viaje en el tiempo",
+    "fecha": "2026-09-17 21:00:00",
+    "lugar": "Hipico Music Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/lare-2000-rodrigo-viaje-en-el-tiempo-hipico-music-bar-20260915123325",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915123326.jpg"
+  },
+  {
+    "titulo": "Festejamos la primavera en casa",
+    "fecha": "2026-09-17 21:00:00",
+    "lugar": "Pura Vida",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/festejamos-la-primavera-en-casa-pura-vida-20260915212207",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915212208.jpg"
+  },
+  {
+    "titulo": "Jam de Jazz - Especial de Swing",
+    "fecha": "2026-09-17 21:00:00",
+    "lugar": "Estudio 71",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/jam-de-jazz-especial-de-swing-estudio-71-20260914000526",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914000527.jpg"
+  },
+  {
+    "titulo": "Jueves Primitvos - Ramiro Sagasti",
+    "fecha": "2026-09-17 21:00:00",
+    "lugar": "Jardín Primitivo",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/jueves-primitvos-ramiro-sagasti-jardin-primitivo-20260915213309",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915213310.jpg"
+  },
+  {
     "titulo": "Joaco Burgos",
     "fecha": "2026-09-17 21:00:00",
     "lugar": "Ciudad de Gatos",
@@ -1028,6 +218,26 @@
     "url": "https://agendalaplata.ar/evento/joaco-burgos-ciudad-de-gatos-20260718221119",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260718221121.jpg"
+  },
+  {
+    "titulo": "Amar a mares",
+    "fecha": "2026-09-17 21:30:00",
+    "lugar": "Escenario 40",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/amar-a-mares-escenario-40-20260913163454",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913163455.jpg"
+  },
+  {
+    "titulo": "Bingo en la biblio",
+    "fecha": "2026-09-17 22:30:00",
+    "lugar": "Biblioteca Popular Alejo Iglesias",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/bingo-en-la-biblio-biblioteca-popular-alejo-iglesias-20260917011311",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260917011312.jpg"
   },
   {
     "titulo": "Teatro x la Identidad",
@@ -1040,14 +250,34 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260904115210.jpg"
   },
   {
-    "titulo": "Greatest Hits 80S",
-    "fecha": "2026-09-18 20:00:00",
-    "lugar": "Casa Suiza",
+    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
+    "fecha": "2026-09-18 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/los-caminantes-de-la-calle-dir-juan-martin-hsu-cine-ecoselect-espacio-incaa-20260916235905",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916235906.jpg"
+  },
+  {
+    "titulo": "Expansión Apolo - Club de Baile",
+    "fecha": "2026-09-18 19:00:00",
+    "lugar": "Tatana Café y Vermú",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/greatest-hits-80s-casa-suiza-20260905143012",
+    "url": "https://agendalaplata.ar/evento/expansion-apolo-club-de-baile-tatana-cafe-y-vermu-20260914165203",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260905143013.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260914165204.jpg"
+  },
+  {
+    "titulo": "Bleu - Tres colores: Azul (Dir. Krzysztof Kieślowski)",
+    "fecha": "2026-09-18 19:30:00",
+    "lugar": "Compás",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/bleu-tres-colores-azul-dir-krzysztof-kie-lowski-compas-20260914001138",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914001139.jpg"
   },
   {
     "titulo": "Soy Cuba (Dir. Mikhail Kalatozov)",
@@ -1060,6 +290,56 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260910001925.jpg"
   },
   {
+    "titulo": "Greatest Hits 80S",
+    "fecha": "2026-09-18 20:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/greatest-hits-80s-casa-suiza-20260905143012",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260905143013.jpg"
+  },
+  {
+    "titulo": "Santa Mesa",
+    "fecha": "2026-09-18 20:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/santa-mesa-teatro-argentino-centro-provincial-de-las-artes-20260914233816",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914233817.jpg"
+  },
+  {
+    "titulo": "Peña del Pulqui",
+    "fecha": "2026-09-18 20:00:00",
+    "lugar": "El Pulki",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/pena-del-pulqui-el-pulki-20260915003006",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915003007.jpg"
+  },
+  {
+    "titulo": "Negro Pires + Detonador + Insalubres + Un Par + Espiritus errantes",
+    "fecha": "2026-09-18 20:00:00",
+    "lugar": "Comunidad Raíces - FM Raíces Rock",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/negro-pires-detonador-insalubres-un-par-espiritus-errantes-comunidad-raices-fm-raices-rock-20260916194137",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916194138.jpg"
+  },
+  {
+    "titulo": "Cumbión Sudaka",
+    "fecha": "2026-09-18 20:30:00",
+    "lugar": "Espacio Sudaka",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/cumbion-sudaka-espacio-sudaka-20260914160524",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914160525.jpg"
+  },
+  {
     "titulo": "El Andador",
     "fecha": "2026-09-18 20:30:00",
     "lugar": "Teatro El Escape",
@@ -1068,26 +348,6 @@
     "url": "https://agendalaplata.ar/evento/el-andador-teatro-el-escape-20260803013902",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260803013903.jpg"
-  },
-  {
-    "titulo": "Bajo Terapia",
-    "fecha": "2026-09-18 21:00:00",
-    "lugar": "Teatro El Escape",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/bajo-terapia-teatro-el-escape-20260902021219",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260902021220.jpg"
-  },
-  {
-    "titulo": "Sobredosis de soda",
-    "fecha": "2026-09-18 21:00:00",
-    "lugar": "El Teatro BAR",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/sobredosis-de-soda-el-teatro-bar-20260807015216",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260807015217.jpg"
   },
   {
     "titulo": "Puede el Psicoanálisis conversar con la Inteligencia Artificial?",
@@ -1100,6 +360,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260810214330.jpg"
   },
   {
+    "titulo": "Bajo Terapia",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/bajo-terapia-teatro-el-escape-20260902021219",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260902021220.jpg"
+  },
+  {
     "titulo": "Rey Garufa",
     "fecha": "2026-09-18 21:00:00",
     "lugar": "Teatro Opera",
@@ -1108,6 +378,96 @@
     "url": "https://agendalaplata.ar/evento/rey-garufa-teatro-opera-20260810214636",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260810214637.jpg"
+  },
+  {
+    "titulo": "Sobredosis de soda",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "El Teatro BAR",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/sobredosis-de-soda-el-teatro-bar-20260807015216",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260807015217.jpg"
+  },
+  {
+    "titulo": "Varsovia varuna",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "Miraflores",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/varsovia-varuna-miraflores-20260913164805",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913164806.jpg"
+  },
+  {
+    "titulo": "MATCH clásico",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/match-clasico-sala-420-20260917004613",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260917004614.jpg"
+  },
+  {
+    "titulo": "Papa's Shake",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "Estudio 71",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/papa-s-shake-estudio-71-20260916201503",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916201504.jpg"
+  },
+  {
+    "titulo": "Altos rayos negros + Boca marfil + Gregorio y la multitud",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "La Bicicletería creación colectiva",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/altos-rayos-negros-boca-marfil-gregorio-y-la-multitud-la-bicicleteria-creacion-colectiva-20260915213016",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915213017.jpg"
+  },
+  {
+    "titulo": "Joachi - Piano en vivo",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "Vaga - Saboy y Onda de Barrio",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/joachi-piano-en-vivo-vaga-saboy-y-onda-de-barrio-20260916192643",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916192645.jpg"
+  },
+  {
+    "titulo": "Noche de jazz en vivo",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "Wine Bar Concreto",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/noche-de-jazz-en-vivo-wine-bar-concreto-20260915212600",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915212601.jpg"
+  },
+  {
+    "titulo": "Degustación de vino + Menú por pasos",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "La Terraza Bodegon",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/degustacion-de-vino-menu-por-pasos-la-terraza-bodegon-20260916195443",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916195444.jpg"
+  },
+  {
+    "titulo": "Festejamos la primavera en casa",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "Pura Vida",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/festejamos-la-primavera-en-casa-pura-vida-20260915212207",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915212208.jpg"
   },
   {
     "titulo": "Raly Barrionuevo",
@@ -1120,16 +480,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260605005538.jpg"
   },
   {
-    "titulo": "Fauna postal",
-    "fecha": "2026-09-18 21:30:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/fauna-postal-viejo-almacen-el-obrero-cantina-del-obrero-20260825200857",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260825200858.jpg"
-  },
-  {
     "titulo": "Todo lo que cabe en una valija - Ciclo de obras cortas",
     "fecha": "2026-09-18 21:30:00",
     "lugar": "Escenario 40",
@@ -1138,6 +488,16 @@
     "url": "https://agendalaplata.ar/evento/todo-lo-que-cabe-en-una-valija-ciclo-de-obras-cortas-escenario-40-20260911141340",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260911141341.jpg"
+  },
+  {
+    "titulo": "Fauna postal",
+    "fecha": "2026-09-18 21:30:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/fauna-postal-viejo-almacen-el-obrero-cantina-del-obrero-20260825200857",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260825200858.jpg"
   },
   {
     "titulo": "Una China por demás",
@@ -1172,12 +532,42 @@
   {
     "titulo": "5° Feria Nacional -| 10° Feria Provincial de Semillas y Festival de la Biodiversidad",
     "fecha": "2026-09-19 10:00:00",
-    "lugar": "Pereyra Iraola - Parque de la Ancianidad",
+    "lugar": "Pereyra Iraola - Parque de la Ancianidad - Casco Santa Rosa",
     "direccion": "",
     "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/5-feria-nacional-10-feria-provincial-de-semillas-y-festival-de-la-biodiversidad-pereyra-iraola-parque-de-la-ancianidad-20260831200931",
+    "url": "https://agendalaplata.ar/evento/5-feria-nacional-10-feria-provincial-de-semillas-y-festival-de-la-biodiversidad-pereyra-iraola-parque-de-la-ancianidad-casco-santa-rosa-20260831200931",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260831200932.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260912224739.jpg"
+  },
+  {
+    "titulo": "Club de lecturas forenses",
+    "fecha": "2026-09-19 10:30:00",
+    "lugar": "Espacio Cultural La Hormiguera",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/club-de-lecturas-forenses-espacio-cultural-la-hormiguera-20260915003204",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915003205.jpg"
+  },
+  {
+    "titulo": "Caravana cuga",
+    "fecha": "2026-09-19 11:00:00",
+    "lugar": "Plaza Azcuénaga",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/caravana-cuga-plaza-azcuenaga-20260916200733",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916200734.jpg"
+  },
+  {
+    "titulo": "Escena joven - Exposición de arte y plataforma multicultural",
+    "fecha": "2026-09-19 13:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/escena-joven-exposicion-de-arte-y-plataforma-multicultural-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260912230954",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916195915.jpg"
   },
   {
     "titulo": "Conservación y restauración de libros",
@@ -1190,6 +580,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260824220216.jpg"
   },
   {
+    "titulo": "Feria a beneficio de animales rescatados",
+    "fecha": "2026-09-19 14:00:00",
+    "lugar": "Centro de Fomento Social y Cultural Progresista de La Loma - Espacio Belgrano",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/feria-a-beneficio-de-animales-rescatados-centro-de-fomento-social-y-cultural-progresista-de-la-loma-espacio-belgrano-20260915212324",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915212325.jpg"
+  },
+  {
+    "titulo": "Vinos & Pilchas & Discos",
+    "fecha": "2026-09-19 14:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/vinos-pilchas-discos-20260917010140",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260917011044.jpg"
+  },
+  {
     "titulo": "Una feria colectiva",
     "fecha": "2026-09-19 15:00:00",
     "lugar": "Calle UNO, Casa de Cultura",
@@ -1198,6 +608,26 @@
     "url": "https://agendalaplata.ar/evento/una-feria-colectiva-calle-uno-casa-de-cultura-20260905115918",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260905115919.jpg"
+  },
+  {
+    "titulo": "Oficina de Asuntos poéticos por Beverly Hells",
+    "fecha": "2026-09-19 16:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/oficina-de-asuntos-poeticos-por-beverly-hells-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260916200038",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916200039.jpg"
+  },
+  {
+    "titulo": "Ruda cumple 4 años",
+    "fecha": "2026-09-19 16:00:00",
+    "lugar": "RUDA Red Ultrapotente de Amistad",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/ruda-cumple-4-anos-ruda-red-ultrapotente-de-amistad-20260914155931",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914155932.jpg"
   },
   {
     "titulo": "Taller Intensivo de Improvisación Teatral",
@@ -1220,6 +650,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260904115210.jpg"
   },
   {
+    "titulo": "Mesa gráfica por “Pliego” - Serigrafía y arte impreso",
+    "fecha": "2026-09-19 17:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/mesa-grafica-por-pliego-serigrafia-y-arte-impreso-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260916200230",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916200231.jpg"
+  },
+  {
+    "titulo": "Alla guerra d’amor - Concierto de Música italiana (S. XVII)",
+    "fecha": "2026-09-19 18:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/alla-guerra-d-amor-concierto-de-musica-italiana-s-xvii-teatro-argentino-centro-provincial-de-las-artes-20260914233959",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915122723.jpg"
+  },
+  {
     "titulo": "Festicletta: Hotel Rwanda + Jeito Da Bahía + Chelo Fontana",
     "fecha": "2026-09-19 19:00:00",
     "lugar": "Cletta",
@@ -1230,14 +680,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260905221639.jpg"
   },
   {
-    "titulo": "Pelo punk? + Cassette",
-    "fecha": "2026-09-19 20:00:00",
-    "lugar": "La Macacha Casa Cultural",
+    "titulo": "Los visionadores + Delito de corrupción",
+    "fecha": "2026-09-19 19:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/pelo-punk-cassette-la-macacha-casa-cultural-20260911133813",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/los-visionadores-delito-de-corrupcion-cine-club-proyecciones-terrestres-20260914160333",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260911133814.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260914160334.jpg"
   },
   {
     "titulo": "Tango en París",
@@ -1250,6 +700,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260829134147.jpg"
   },
   {
+    "titulo": "Vinocio",
+    "fecha": "2026-09-19 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/vinocio-ciudad-de-gatos-20260907204458",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260907204459.jpg"
+  },
+  {
+    "titulo": "Pelo punk? + Cassette",
+    "fecha": "2026-09-19 20:00:00",
+    "lugar": "La Macacha Casa Cultural",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/pelo-punk-cassette-la-macacha-casa-cultural-20260911133813",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260911133814.jpg"
+  },
+  {
     "titulo": "Héctor Grimberg presenta: “Los cuentos de Casciari”",
     "fecha": "2026-09-19 20:00:00",
     "lugar": "Casa Hereje",
@@ -1260,14 +730,54 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260905161244.jpg"
   },
   {
-    "titulo": "Vinocio",
+    "titulo": "Del rio",
     "fecha": "2026-09-19 20:00:00",
-    "lugar": "Ciudad de Gatos",
+    "lugar": "Estudio 71",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/vinocio-ciudad-de-gatos-20260907204458",
+    "url": "https://agendalaplata.ar/evento/del-rio-estudio-71-20260913170941",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260907204459.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260913170942.jpg"
+  },
+  {
+    "titulo": "¡Ay, por DIOS!",
+    "fecha": "2026-09-19 20:00:00",
+    "lugar": "Telón Negro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/ay-por-dios-telon-negro-20260914001342",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914001403.jpg"
+  },
+  {
+    "titulo": "Carmina Burana de Carl Orff",
+    "fecha": "2026-09-19 20:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/carmina-burana-de-carl-orff-teatro-argentino-centro-provincial-de-las-artes-20260914164534",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914164535.jpg"
+  },
+  {
+    "titulo": "Ciencia Ficción en la Unión Soviética",
+    "fecha": "2026-09-19 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/ciencia-ficcion-en-la-union-sovietica-cine-select-espacio-incaa-20260913171101",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913171102.jpg"
+  },
+  {
+    "titulo": "Bailó toda la noche, tomó agua fría y se murió",
+    "fecha": "2026-09-19 20:30:00",
+    "lugar": "Centro de Arte UNLP",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/bailo-toda-la-noche-tomo-agua-fria-y-se-murio-centro-de-arte-unlp-20260914162747",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914162748.jpg"
   },
   {
     "titulo": "Así no te amará jamás",
@@ -1280,6 +790,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260904115613.jpg"
   },
   {
+    "titulo": "Metamorfia",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/metamorfia-espacio-live-20260813143259",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260813143300.jpg"
+  },
+  {
     "titulo": "Canciones de cisterna",
     "fecha": "2026-09-19 21:00:00",
     "lugar": "Espacio Doble-T",
@@ -1288,16 +808,6 @@
     "url": "https://agendalaplata.ar/evento/canciones-de-cisterna-espacio-doble-t-20260905134309",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260905134310.jpg"
-  },
-  {
-    "titulo": "Etiqueta Negra",
-    "fecha": "2026-09-19 21:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/etiqueta-negra-teatro-rene-favaloro-20260725161824",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260725161825.jpg"
   },
   {
     "titulo": "Peligrosos gorriones",
@@ -1310,16 +820,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260821185751.jpg"
   },
   {
-    "titulo": "Metamorfia",
-    "fecha": "2026-09-19 21:00:00",
-    "lugar": "Espacio Live",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/metamorfia-espacio-live-20260813143259",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260813143300.jpg"
-  },
-  {
     "titulo": "Historias innecesarias - Damián Kuc",
     "fecha": "2026-09-19 21:00:00",
     "lugar": "Teatro Metro",
@@ -1328,6 +828,66 @@
     "url": "https://agendalaplata.ar/evento/historias-innecesarias-damian-kuc-teatro-metro-20260802174755",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260802174756.jpg"
+  },
+  {
+    "titulo": "Etiqueta Negra",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/etiqueta-negra-teatro-rene-favaloro-20260725161824",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725161825.jpg"
+  },
+  {
+    "titulo": "Tortulias cumbieras",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "Marimacha",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/tortulias-cumbieras-marimacha-20260916232102",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916232103.jpg"
+  },
+  {
+    "titulo": "Pequeña trinchera de palabras - Teatro x la identidad",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "Espacio Memoria ex Comisaría 5ta",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/pequena-trinchera-de-palabras-teatro-x-la-identidad-espacio-memoria-ex-comisaria-5ta-20260916235216",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916235217.jpg"
+  },
+  {
+    "titulo": "Club del litoral - Día del Chamamé",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "Espacio Cultural La Hormiguera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/club-del-litoral-dia-del-chamame-espacio-cultural-la-hormiguera-20260913160417",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913160418.jpg"
+  },
+  {
+    "titulo": "Almaflama dúo",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "La Salamanca Centro de Cultura y Peña",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/almaflama-duo-la-salamanca-centro-de-cultura-y-pena-20260915212020",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915212021.jpg"
+  },
+  {
+    "titulo": "Festejamos la primavera en casa",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "Pura Vida",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/festejamos-la-primavera-en-casa-pura-vida-20260915212207",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915212208.jpg"
   },
   {
     "titulo": "Diego Torres",
@@ -1380,6 +940,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260725004000.jpg"
   },
   {
+    "titulo": "Humor Astuto",
+    "fecha": "2026-09-19 21:45:00",
+    "lugar": "Lázuli",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/humor-astuto-lazuli-20260913160726",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913160727.jpg"
+  },
+  {
     "titulo": "Amores como el nuestro",
     "fecha": "2026-09-19 22:00:00",
     "lugar": "Comunidad Ferroviaria",
@@ -1400,14 +970,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260906233158.jpg"
   },
   {
-    "titulo": "Feria del Libro Psicoanalítico",
-    "fecha": "2026-09-20 10:00:00",
-    "lugar": "Pasaje Dardo Rocha",
+    "titulo": "Fiesta de los '80 - Vinilos",
+    "fecha": "2026-09-19 23:30:00",
+    "lugar": "Teatro Bar Cultural La Ferretería",
     "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/feria-del-libro-psicoanalitico-pasaje-dardo-rocha-20260817221720",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/fiesta-de-los-80-vinilos-teatro-bar-cultural-la-ferreteria-20260916235553",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260817221721.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260916235554.jpg"
   },
   {
     "titulo": "Taller de poesía y cerámica",
@@ -1420,6 +990,86 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260831202106.jpg"
   },
   {
+    "titulo": "Feria del Libro Psicoanalítico",
+    "fecha": "2026-09-20 10:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/feria-del-libro-psicoanalitico-pasaje-dardo-rocha-20260817221720",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260817221721.jpg"
+  },
+  {
+    "titulo": "Caravana cuga",
+    "fecha": "2026-09-20 11:00:00",
+    "lugar": "Plaza Azcuénaga",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/caravana-cuga-plaza-azcuenaga-20260916200733",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916200734.jpg"
+  },
+  {
+    "titulo": "Fiesta en el barrio primaveral",
+    "fecha": "2026-09-20 12:00:00",
+    "lugar": "La Bicicletería creación colectiva",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/fiesta-en-el-barrio-primaveral-la-bicicleteria-creacion-colectiva-20260916194310",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916194312.jpg"
+  },
+  {
+    "titulo": "Cabalgata de día",
+    "fecha": "2026-09-20 12:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/cabalgata-de-dia-20260916201335",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916201336.jpg"
+  },
+  {
+    "titulo": "Peña Cunumí",
+    "fecha": "2026-09-20 12:30:00",
+    "lugar": "Cunumí Espacio Cultural",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/pena-cunumi-cunumi-espacio-cultural-20260913173137",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913173138.jpg"
+  },
+  {
+    "titulo": "Escena joven - Exposición de arte y plataforma multicultural",
+    "fecha": "2026-09-20 13:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/escena-joven-exposicion-de-arte-y-plataforma-multicultural-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260912230954",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916195915.jpg"
+  },
+  {
+    "titulo": "Mesa gráfica por “Pliego” - Serigrafía y arte impreso",
+    "fecha": "2026-09-20 14:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/mesa-grafica-por-pliego-serigrafia-y-arte-impreso-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260916200230",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916200231.jpg"
+  },
+  {
+    "titulo": "Oficina de Asuntos poéticos por Beverly Hells",
+    "fecha": "2026-09-20 16:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/oficina-de-asuntos-poeticos-por-beverly-hells-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20260916200038",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916200039.jpg"
+  },
+  {
     "titulo": "Teatro x la Identidad",
     "fecha": "2026-09-20 16:00:00",
     "lugar": "Pasaje Dardo Rocha",
@@ -1430,6 +1080,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260904115210.jpg"
   },
   {
+    "titulo": "Taller de danza candombe",
+    "fecha": "2026-09-20 17:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/taller-de-danza-candombe-20260912000301",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260912000302.jpg"
+  },
+  {
     "titulo": "Expo de arte y proyección de Alicia (Dir. Jan Švankmajer)",
     "fecha": "2026-09-20 17:00:00",
     "lugar": "Compás",
@@ -1438,6 +1098,16 @@
     "url": "https://agendalaplata.ar/evento/expo-de-arte-y-proyeccion-de-alicia-dir-jan-vankmajer-compas-20260911141158",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260911141159.jpg"
+  },
+  {
+    "titulo": "Carmina Burana de Carl Orff",
+    "fecha": "2026-09-20 17:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/carmina-burana-de-carl-orff-teatro-argentino-centro-provincial-de-las-artes-20260914164534",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914164535.jpg"
   },
   {
     "titulo": "La solterona y el ladrón",
@@ -1458,6 +1128,16 @@
     "url": "https://agendalaplata.ar/evento/rock-en-casa-pulsar-casa-pulsar-20260809104930",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260809104931.jpg"
+  },
+  {
+    "titulo": "Bingo Musical - Edición Cachengue",
+    "fecha": "2026-09-20 19:00:00",
+    "lugar": "El Chaperio - Bodegón",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/bingo-musical-edicion-cachengue-el-chaperio-bodegon-20260916231736",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916231737.jpg"
   },
   {
     "titulo": "Contra el amor",
@@ -1490,6 +1170,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260909163803.jpg"
   },
   {
+    "titulo": "Poética de la multitud",
+    "fecha": "2026-09-20 20:00:00",
+    "lugar": "Comunidad Ferroviaria",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/poetica-de-la-multitud-comunidad-ferroviaria-20260912221159",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260912221200.jpg"
+  },
+  {
     "titulo": "Desperatio - Compañía de Danza Ser Humano",
     "fecha": "2026-09-20 20:30:00",
     "lugar": "Espacio Doble-T",
@@ -1498,6 +1188,16 @@
     "url": "https://agendalaplata.ar/evento/desperatio-compania-de-danza-ser-humano-espacio-doble-t-20260824215407",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260824215408.jpg"
+  },
+  {
+    "titulo": "Bukenval",
+    "fecha": "2026-09-20 21:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/bukenval-dynamo-teatro-20260916233758",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916233759.jpg"
   },
   {
     "titulo": "No Home Movie (Dir. Chantal Akerman - 2015)",
@@ -1510,24 +1210,24 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260901005316.jpg"
   },
   {
-    "titulo": "Born in flames (Dir. Lizzie Borden)",
+    "titulo": "Pedro Saborido y Lucas Finocchi",
+    "fecha": "2026-09-22 20:00:00",
+    "lugar": "Miraflores",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/pedro-saborido-y-lucas-finocchi-miraflores-20260912225455",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260912225456.jpg"
+  },
+  {
+    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
     "fecha": "2026-09-22 20:00:00",
     "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/born-in-flames-dir-lizzie-borden-cine-ecoselect-espacio-incaa-20260910002054",
+    "url": "https://agendalaplata.ar/evento/los-caminantes-de-la-calle-dir-juan-martin-hsu-cine-ecoselect-espacio-incaa-20260916235905",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260910002055.jpg"
-  },
-  {
-    "titulo": "La gente detrás de las paredes (Dir. Wes Craven - 1991)",
-    "fecha": "2026-09-22 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-gente-detras-de-las-paredes-dir-wes-craven-1991-cine-club-proyecciones-terrestres-20260911132546",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260911132547.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260916235906.jpg"
   },
   {
     "titulo": "Bodas de Coral - Baglietto + Vitale",
@@ -1540,6 +1240,46 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260808134644.jpg"
   },
   {
+    "titulo": "La gente detrás de las paredes (Dir. Wes Craven - 1991)",
+    "fecha": "2026-09-22 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-gente-detras-de-las-paredes-dir-wes-craven-1991-cine-club-proyecciones-terrestres-20260911132546",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260911132547.jpg"
+  },
+  {
+    "titulo": "We are making (Dir. Mark Fisher)",
+    "fecha": "2026-09-23 18:00:00",
+    "lugar": "Nacional Cafe",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/we-are-making-dir-mark-fisher-nacional-cafe-20260915123800",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915123801.jpg"
+  },
+  {
+    "titulo": "Mostra - Encuentro de gráfica artística contemporánea",
+    "fecha": "2026-09-23 18:00:00",
+    "lugar": "Facultad de Bellas Artes - UNLP (Sede Central)",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/mostra-encuentro-de-grafica-artistica-contemporanea-facultad-de-bellas-artes-unlp-sede-central-20260916194622",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916194623.jpg"
+  },
+  {
+    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
+    "fecha": "2026-09-23 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/los-caminantes-de-la-calle-dir-juan-martin-hsu-cine-ecoselect-espacio-incaa-20260916235905",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916235906.jpg"
+  },
+  {
     "titulo": "No Home Movie (Dir. Chantal Akerman - 2015)",
     "fecha": "2026-09-23 19:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
@@ -1550,6 +1290,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260901005316.jpg"
   },
   {
+    "titulo": "Todas las canciones hablan de mí (Dir. Jonás Trueba)",
+    "fecha": "2026-09-23 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/todas-las-canciones-hablan-de-mi-dir-jonas-trueba-cine-ecoselect-espacio-incaa-20260917000406",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260917000407.jpg"
+  },
+  {
+    "titulo": "Mery Granados",
+    "fecha": "2026-09-23 20:30:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/mery-granados-casa-metro-20260917011437",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260917011438.jpg"
+  },
+  {
     "titulo": "The Duellists (Dir. Ridley Scott - 1977)",
     "fecha": "2026-09-23 20:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -1558,6 +1318,36 @@
     "url": "https://agendalaplata.ar/evento/the-duellists-dir-ridley-scott-1977-cine-select-espacio-incaa-20260831130441",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260831130442.jpg"
+  },
+  {
+    "titulo": "Canciones Argentinas",
+    "fecha": "2026-09-24 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/canciones-argentinas-desafinado-club-20260912224951",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260912224952.jpg"
+  },
+  {
+    "titulo": "Rxnde Akozta - Rap cubano",
+    "fecha": "2026-09-24 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/rxnde-akozta-rap-cubano-ciudad-de-gatos-20260914163827",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914163828.jpg"
+  },
+  {
+    "titulo": "Aún no lo sabemos - Poemas teatrales",
+    "fecha": "2026-09-24 20:30:00",
+    "lugar": "Casa Hereje",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/aun-no-lo-sabemos-poemas-teatrales-casa-hereje-20260914231118",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914231119.jpg"
   },
   {
     "titulo": "Dj demonio",
@@ -1578,5 +1368,1095 @@
     "url": "https://agendalaplata.ar/evento/aballay-el-hombre-sin-miedo-dir-fernando-spiner-2010-cine-club-proyecciones-terrestres-20260905145841",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260905145842.jpg"
+  },
+  {
+    "titulo": "Antes del atardecer (Dir. Richard Linklater - 2004)",
+    "fecha": "2026-09-24 21:00:00",
+    "lugar": "Logia café",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/antes-del-atardecer-dir-richard-linklater-2004-logia-cafe-20260916235339",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916235340.jpg"
+  },
+  {
+    "titulo": "La Kermesse",
+    "fecha": "2026-09-25 19:00:00",
+    "lugar": "Club Atenas",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-kermesse-club-atenas-20260808132914",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260808132915.jpg"
+  },
+  {
+    "titulo": "La piel que habito (Pedro Almodóvar, 2011)",
+    "fecha": "2026-09-25 19:00:00",
+    "lugar": "Espacio Satélite",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-piel-que-habito-pedro-almodovar-2011-espacio-satelite-20260905154004",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260905154005.jpg"
+  },
+  {
+    "titulo": "Huadao, el camino de las flores - Exposición de escultura floral",
+    "fecha": "2026-09-25 19:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/huadao-el-camino-de-las-flores-exposicion-de-escultura-floral-teatro-de-camara-city-bell-20260905153328",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260905153329.jpg"
+  },
+  {
+    "titulo": "El almacén de los ecos",
+    "fecha": "2026-09-25 20:00:00",
+    "lugar": "Teatro Abierto",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/el-almacen-de-los-ecos-teatro-abierto-20260831192910",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260831192911.jpg"
+  },
+  {
+    "titulo": "Noche Beatle de cine y música",
+    "fecha": "2026-09-25 20:00:00",
+    "lugar": "La Maga Club De Arte",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/noche-beatle-de-cine-y-musica-la-maga-club-de-arte-20260910024510",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260910024511.jpg"
+  },
+  {
+    "titulo": "Getz & Gilberto",
+    "fecha": "2026-09-25 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/getz-gilberto-desafinado-club-20260914162922",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914162923.jpg"
+  },
+  {
+    "titulo": "Juan Falú",
+    "fecha": "2026-09-25 20:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/juan-falu-casa-metro-20260610032746",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260625125931.jpg"
+  },
+  {
+    "titulo": "Todo este maldito suelo está gritando",
+    "fecha": "2026-09-25 20:30:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/todo-este-maldito-suelo-esta-gritando-teatro-espacio-44-20260827233809",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260827233810.jpg"
+  },
+  {
+    "titulo": "Mora y los metegoles + Máze",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/mora-y-los-metegoles-maze-ciudad-de-gatos-20260907201116",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260907201117.jpg"
+  },
+  {
+    "titulo": "Alcalina + Tinta Bruja",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/alcalina-tinta-bruja-esquina-america-20260906234834",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260906234835.jpg"
+  },
+  {
+    "titulo": "El escrito de todas las cosas - Darío Grandinetti",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/el-escrito-de-todas-las-cosas-dario-grandinetti-teatro-metro-20260803002026",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260803002027.jpg"
+  },
+  {
+    "titulo": "Rompiendo Espejos",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/rompiendo-espejos-teatro-opera-20260824233919",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260824233920.jpg"
+  },
+  {
+    "titulo": "Poema criollo",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/poema-criollo-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260917011155",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260917011156.jpg"
+  },
+  {
+    "titulo": "Intermezzo, experiencia social",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Art Cocina Café",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/intermezzo-experiencia-social-art-cocina-cafe-20260913164555",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913164556.jpg"
+  },
+  {
+    "titulo": "Fauna postal",
+    "fecha": "2026-09-25 21:30:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/fauna-postal-viejo-almacen-el-obrero-cantina-del-obrero-20260825200857",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260825200858.jpg"
+  },
+  {
+    "titulo": "No Home Movie (Dir. Chantal Akerman - 2015)",
+    "fecha": "2026-09-25 22:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/no-home-movie-dir-chantal-akerman-2015-cine-club-proyecciones-terrestres-20260901005315",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260901005316.jpg"
+  },
+  {
+    "titulo": "La voz en la comedia - Fernando Sanjiao",
+    "fecha": "2026-09-26 10:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/la-voz-en-la-comedia-fernando-sanjiao-pasaje-dardo-rocha-20260821190649",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260821190650.jpg"
+  },
+  {
+    "titulo": "Conservación y restauración de libros",
+    "fecha": "2026-09-26 14:00:00",
+    "lugar": "Teatro UNLP y Biblioteca Popular Teatral de La Plata \"Alberto Mediza\"",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/conservacion-y-restauracion-de-libros-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20260824220215",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260824220216.jpg"
+  },
+  {
+    "titulo": "Toy SOS",
+    "fecha": "2026-09-26 16:00:00",
+    "lugar": "Centro Cultural Los Hornos - Julio López",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/toy-sos-centro-cultural-los-hornos-julio-lopez-20260913170221",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913170222.jpg"
+  },
+  {
+    "titulo": "The Jazz Room: Un Viaje al Corazón de Nueva Orleans",
+    "fecha": "2026-09-26 18:00:00",
+    "lugar": "Espacio Doble-T",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/the-jazz-room-un-viaje-al-corazon-de-nueva-orleans-espacio-doble-t-20260526224520",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260526224521.jpg"
+  },
+  {
+    "titulo": "Party Monster",
+    "fecha": "2026-09-26 18:00:00",
+    "lugar": "Olga Vázquez",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/party-monster-olga-vazquez-20260818142951",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260818142952.jpg"
+  },
+  {
+    "titulo": "Luna llena en el Río",
+    "fecha": "2026-09-26 19:00:00",
+    "lugar": "La Bicicletería creación colectiva",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/luna-llena-en-el-rio-la-bicicleteria-creacion-colectiva-20260911141840",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260911141841.jpg"
+  },
+  {
+    "titulo": "Sindicato Argentino de boleros con una invitada de lujo: Luisa Kuliok",
+    "fecha": "2026-09-26 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/sindicato-argentino-de-boleros-con-una-invitada-de-lujo-luisa-kuliok-desafinado-club-20260829132554",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260829132555.jpg"
+  },
+  {
+    "titulo": "Johnny Corncob",
+    "fecha": "2026-09-26 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/johnny-corncob-cine-select-espacio-incaa-20260913171152",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913171153.jpg"
+  },
+  {
+    "titulo": "El acompañamiento",
+    "fecha": "2026-09-26 20:30:00",
+    "lugar": "Casa Hereje",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/el-acompanamiento-casa-hereje-20260911141955",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260911141956.jpg"
+  },
+  {
+    "titulo": "Cata Vinos del Mundo",
+    "fecha": "2026-09-26 20:30:00",
+    "lugar": "Casa Thinku",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/cata-vinos-del-mundo-casa-thinku-20260912222229",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260912222230.jpg"
+  },
+  {
+    "titulo": "2013, Odisea Intemporal Rioplatense",
+    "fecha": "2026-09-26 20:30:00",
+    "lugar": "El Medio Aljibe",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/2013-odisea-intemporal-rioplatense-el-medio-aljibe-20260909235355",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260909235356.jpg"
+  },
+  {
+    "titulo": "Noche Misteriosa y mágica",
+    "fecha": "2026-09-26 20:30:00",
+    "lugar": "Don Cipriano",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/noche-misteriosa-y-magica-don-cipriano-20260825195047",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260825195048.jpg"
+  },
+  {
+    "titulo": "Mustafunk + Recreo Uruguayo",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/mustafunk-recreo-uruguayo-ciudad-de-gatos-20260813141310",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260813141311.jpg"
+  },
+  {
+    "titulo": "Sofia Viola - 20 Años DELUXE",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/sofia-viola-20-anos-deluxe-guajira-bar-20260806131815",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260806131816.jpg"
+  },
+  {
+    "titulo": "La Magdalena - homenaje Joaquín Sabina",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-magdalena-homenaje-joaquin-sabina-espacio-live-20260818143614",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260818143615.jpg"
+  },
+  {
+    "titulo": "Los Mirlos + Los Charros",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/los-mirlos-los-charros-casa-metro-20260730150504",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260730150505.jpg"
+  },
+  {
+    "titulo": "Damas Gratis",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Retro disco",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/damas-gratis-retro-disco-20260824215826",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260824215827.jpg"
+  },
+  {
+    "titulo": "Los amantes de la casa azul",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "La Lechuza Teatro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/los-amantes-de-la-casa-azul-la-lechuza-teatro-20260821191141",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260821191142.jpg"
+  },
+  {
+    "titulo": "Caída Libre",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "La Filial Espacio Cultural",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/caida-libre-la-filial-espacio-cultural-20260916201733",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916201734.jpg"
+  },
+  {
+    "titulo": "Peña el bailarín eterno - Homenaje a Antu",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/pena-el-bailarin-eterno-homenaje-a-antu-esquina-america-20260916200427",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916200428.jpg"
+  },
+  {
+    "titulo": "Desinteligencia Artificial",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "El Teatro BAR",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/desinteligencia-artificial-el-teatro-bar-20260604033139",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260604033140.jpg"
+  },
+  {
+    "titulo": "La chancha muda",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-chancha-muda-teatro-opera-20260618223807",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260618223808.jpg"
+  },
+  {
+    "titulo": "Cuando los animales duerman",
+    "fecha": "2026-09-26 21:30:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/cuando-los-animales-duerman-viejo-almacen-el-obrero-cantina-del-obrero-20260825201004",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260825201005.jpg"
+  },
+  {
+    "titulo": "La gravedad de lo incierto",
+    "fecha": "2026-09-26 21:30:00",
+    "lugar": "Teatro Estudio",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-gravedad-de-lo-incierto-teatro-estudio-20260725003959",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725004000.jpg"
+  },
+  {
+    "titulo": "Fiesta plop - homenaje a Moria Casán",
+    "fecha": "2026-09-26 23:55:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/fiesta-plop-homenaje-a-moria-casan-teatro-opera-20260830162034",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260830162035.jpg"
+  },
+  {
+    "titulo": "Aballay, el hombre sin miedo (Dir. Fernando Spiner - 2010)",
+    "fecha": "2026-09-27 17:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/aballay-el-hombre-sin-miedo-dir-fernando-spiner-2010-cine-club-proyecciones-terrestres-20260905145841",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260905145842.jpg"
+  },
+  {
+    "titulo": "Exposición de obras",
+    "fecha": "2026-09-27 18:00:00",
+    "lugar": "Casa Otilia (Otilia Burgers)",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/exposicion-de-obras-casa-otilia-otilia-burgers-20260905152315",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260905152316.jpg"
+  },
+  {
+    "titulo": "Contra el amor",
+    "fecha": "2026-09-27 19:30:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/contra-el-amor-viejo-almacen-el-obrero-cantina-del-obrero-20260825201254",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260825201255.jpg"
+  },
+  {
+    "titulo": "Cuadrilateros 6",
+    "fecha": "2026-09-27 20:00:00",
+    "lugar": "Teatro Estudio",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/cuadrilateros-6-teatro-estudio-20260831183246",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260831183247.jpg"
+  },
+  {
+    "titulo": "No te vayas con amor o sin él - de Norman Briski",
+    "fecha": "2026-09-27 20:00:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/no-te-vayas-con-amor-o-sin-el-de-norman-briski-teatro-espacio-44-20260822220657",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260822220658.jpg"
+  },
+  {
+    "titulo": "La mujer sin cabeza (Dir. Lucrecia Martel)",
+    "fecha": "2026-09-27 20:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-mujer-sin-cabeza-dir-lucrecia-martel-cine-select-espacio-incaa-20260909163934",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260909163935.jpg"
+  },
+  {
+    "titulo": "Akira 30 aniversario",
+    "fecha": "2026-09-27 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/akira-30-aniversario-cine-ecoselect-espacio-incaa-20260906235220",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260906235221.jpg"
+  },
+  {
+    "titulo": "Poética de la multitud",
+    "fecha": "2026-09-27 20:00:00",
+    "lugar": "Comunidad Ferroviaria",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/poetica-de-la-multitud-comunidad-ferroviaria-20260912221159",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260912221200.jpg"
+  },
+  {
+    "titulo": "Homenaje sinfónico a Los Redondos",
+    "fecha": "2026-09-27 20:30:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/homenaje-sinfonico-a-los-redondos-teatro-metro-20260908152941",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260908152942.jpg"
+  },
+  {
+    "titulo": "Fiumiccino acústico",
+    "fecha": "2026-09-27 20:30:00",
+    "lugar": "Espacio Doble-T",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/fiumiccino-acustico-espacio-doble-t-20260907210729",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260907210730.jpg"
+  },
+  {
+    "titulo": "Paraná Berreta",
+    "fecha": "2026-09-30 20:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/parana-berreta-casa-suiza-20260905142812",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260905142813.jpg"
+  },
+  {
+    "titulo": "Heaat (Dir. Michael Mann - 1995)",
+    "fecha": "2026-09-30 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/heaat-dir-michael-mann-1995-cine-select-espacio-incaa-20260831130617",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260831130618.jpg"
+  },
+  {
+    "titulo": "Charla internacional de Inteligencia Artificial en la ciudad",
+    "fecha": "2026-10-01 10:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/charla-internacional-de-inteligencia-artificial-en-la-ciudad-pasaje-dardo-rocha-20260529010205",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260529010206.jpg"
+  },
+  {
+    "titulo": "Gritos en el planetario - Evil Dead",
+    "fecha": "2026-10-01 19:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/gritos-en-el-planetario-evil-dead-planetario-unlp-20260909001138",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260909001139.jpg"
+  },
+  {
+    "titulo": "Pedro Aznar & Fran Evangelista",
+    "fecha": "2026-10-01 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/pedro-aznar-fran-evangelista-desafinado-club-20260916193928",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916193929.jpg"
+  },
+  {
+    "titulo": "Dyango",
+    "fecha": "2026-10-01 20:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/dyango-teatro-argentino-centro-provincial-de-las-artes-20260627015728",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260628164945.jpg"
+  },
+  {
+    "titulo": "Leonardo amuedo & daniel maza",
+    "fecha": "2026-10-01 21:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/leonardo-amuedo-daniel-maza-casa-metro-20260822220426",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260822220427.jpg"
+  },
+  {
+    "titulo": "Charla internacional de Inteligencia Artificial en la ciudad",
+    "fecha": "2026-10-02 10:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/charla-internacional-de-inteligencia-artificial-en-la-ciudad-pasaje-dardo-rocha-20260529010205",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260529010206.jpg"
+  },
+  {
+    "titulo": "Festival reggae",
+    "fecha": "2026-10-02 20:00:00",
+    "lugar": "Centro Cultural Omar Favero",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/festival-reggae-centro-cultural-omar-favero-20260825141543",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260825141544.jpg"
+  },
+  {
+    "titulo": "Emanero - Todo por un beso",
+    "fecha": "2026-10-02 20:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/emanero-todo-por-un-beso-teatro-argentino-centro-provincial-de-las-artes-20260417233333",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260417233334.jpg"
+  },
+  {
+    "titulo": "El hombre inesperado",
+    "fecha": "2026-10-02 21:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/el-hombre-inesperado-teatro-metro-20260908153511",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260908153512.jpg"
+  },
+  {
+    "titulo": "2013 Odisea intemporal Rioplatense",
+    "fecha": "2026-10-02 21:00:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/2013-odisea-intemporal-rioplatense-teatro-espacio-44-20260909235732",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260909235733.jpg"
+  },
+  {
+    "titulo": "Pequeño bambi",
+    "fecha": "2026-10-02 21:00:00",
+    "lugar": "Marimacha",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/pequeno-bambi-marimacha-20260915122631",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260915122632.jpg"
+  },
+  {
+    "titulo": "La Bioferia: el festival de sustentabilidad más grande de Latinoamérica",
+    "fecha": "2026-10-03 10:00:00",
+    "lugar": "Camping Municipal",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/la-bioferia-el-festival-de-sustentabilidad-mas-grande-de-latinoamerica-camping-municipal-20260731175839",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260731175944.jpg"
+  },
+  {
+    "titulo": "2o Edición del Festival de Whisky",
+    "fecha": "2026-10-03 19:00:00",
+    "lugar": "Salón Colonial Lozano",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/2o-edicion-del-festival-de-whisky-salon-colonial-lozano-20260905215036",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260905215037.jpg"
+  },
+  {
+    "titulo": "Klezmer por la vida y la paz entre los pueblos",
+    "fecha": "2026-10-03 20:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/klezmer-por-la-vida-y-la-paz-entre-los-pueblos-teatro-opera-20260821185957",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260821185958.jpg"
+  },
+  {
+    "titulo": "Playa nudista - Las excursiones de halley - Ciudad pantano",
+    "fecha": "2026-10-03 20:00:00",
+    "lugar": "Blondie Cultural",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/playa-nudista-las-excursiones-de-halley-ciudad-pantano-blondie-cultural-20260825195704",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260825195705.jpg"
+  },
+  {
+    "titulo": "Conociendo Rusia",
+    "fecha": "2026-10-03 20:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/conociendo-rusia-teatro-argentino-centro-provincial-de-las-artes-20260501224118",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260501224119.jpg"
+  },
+  {
+    "titulo": "Club Candombe",
+    "fecha": "2026-10-03 20:30:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/club-candombe-pasaje-dardo-rocha-20260914231808",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914231809.jpg"
+  },
+  {
+    "titulo": "Hilda Lizarazu",
+    "fecha": "2026-10-03 21:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/hilda-lizarazu-casa-suiza-20260905142535",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260908182754.jpg"
+  },
+  {
+    "titulo": "Gabo y comedia",
+    "fecha": "2026-10-03 21:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/gabo-y-comedia-casa-metro-20260821191526",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260821191527.jpg"
+  },
+  {
+    "titulo": "Festival de la Música Italiana",
+    "fecha": "2026-10-03 21:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/festival-de-la-musica-italiana-teatro-metro-20260908153749",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260908153750.jpg"
+  },
+  {
+    "titulo": "Pimpinela",
+    "fecha": "2026-10-03 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/pimpinela-hipodromo-de-la-plata-20260415121944",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260415121945.jpg"
+  },
+  {
+    "titulo": "La gravedad de lo incierto",
+    "fecha": "2026-10-03 21:30:00",
+    "lugar": "Teatro Estudio",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-gravedad-de-lo-incierto-teatro-estudio-20260725003959",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260725004000.jpg"
+  },
+  {
+    "titulo": "La Bioferia: el festival de sustentabilidad más grande de Latinoamérica",
+    "fecha": "2026-10-04 10:00:00",
+    "lugar": "Camping Municipal",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/la-bioferia-el-festival-de-sustentabilidad-mas-grande-de-latinoamerica-camping-municipal-20260731175839",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260731175944.jpg"
+  },
+  {
+    "titulo": "Pokeween - Pokemon Fest",
+    "fecha": "2026-10-04 14:00:00",
+    "lugar": "Club Ateneo Popular - La unión Bar",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/pokeween-pokemon-fest-club-ateneo-popular-la-union-bar-20260911141528",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260911141529.jpg"
+  },
+  {
+    "titulo": "Torneos Zeppelin - Torneos de rompacabezas",
+    "fecha": "2026-10-04 14:30:00",
+    "lugar": "Centro Gallego de la Plata",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/torneos-zeppelin-torneos-de-rompacabezas-centro-gallego-de-la-plata-20260908134617",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260908134618.jpg"
+  },
+  {
+    "titulo": "La biblioteca perdida",
+    "fecha": "2026-10-04 17:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/la-biblioteca-perdida-teatro-metro-20260908173216",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260908173217.jpg"
+  },
+  {
+    "titulo": "La dramaturgia en la pantalla - Con Mauricio Kartun y Romina Paula (4° edición del FICPBA)",
+    "fecha": "2026-10-04 18:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-dramaturgia-en-la-pantalla-con-mauricio-kartun-y-romina-paula-4-edicion-del-ficpba-teatro-argentino-centro-provincial-de-las-artes-20260629123302",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260629123303.jpg"
+  },
+  {
+    "titulo": "Película Belén. Escribir y filmar los feminismos - Con Ana Correa y Leticia Cristi",
+    "fecha": "2026-10-05 19:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/pelicula-belen-escribir-y-filmar-los-feminismos-con-ana-correa-y-leticia-cristi-teatro-argentino-centro-provincial-de-las-artes-20260629124043",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260629124044.jpg"
+  },
+  {
+    "titulo": "Gritos en el planetario - Evil Dead",
+    "fecha": "2026-10-08 19:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/gritos-en-el-planetario-evil-dead-planetario-unlp-20260909001138",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260909001139.jpg"
+  },
+  {
+    "titulo": "Arquitecturas del caos",
+    "fecha": "2026-10-08 19:00:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/arquitecturas-del-caos-casa-unclan-20260911133145",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260911133146.jpg"
+  },
+  {
+    "titulo": "Camerata Rosario presenta \"las 8 estaciones\" - Vivaldi y Piazzolla",
+    "fecha": "2026-10-08 20:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/camerata-rosario-presenta-las-8-estaciones-vivaldi-y-piazzolla-teatro-metro-20260704161512",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260704161513.jpg"
+  },
+  {
+    "titulo": "2013 Odisea intemporal Rioplatense",
+    "fecha": "2026-10-09 21:00:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/2013-odisea-intemporal-rioplatense-teatro-espacio-44-20260909235732",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260909235733.jpg"
+  },
+  {
+    "titulo": "Gauchito club",
+    "fecha": "2026-10-09 21:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/gauchito-club-teatro-opera-20260718201248",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260718201250.jpg"
+  },
+  {
+    "titulo": "Amo(r)",
+    "fecha": "2026-10-09 22:00:00",
+    "lugar": "Casa Hereje",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/amo-r-casa-hereje-20260913170406",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913170407.jpg"
+  },
+  {
+    "titulo": "Encuentro federal de gráfica",
+    "fecha": "2026-10-10 14:00:00",
+    "lugar": "Club Aconcagua",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/encuentro-federal-de-grafica-club-aconcagua-20260629172714",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260629172715.jpg"
+  },
+  {
+    "titulo": "Boom boom Kid el gaucho loco",
+    "fecha": "2026-10-10 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/boom-boom-kid-el-gaucho-loco-ciudad-de-gatos-20260911133010",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260911133011.jpg"
+  },
+  {
+    "titulo": "Q’lokura",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Estadio UNO Jorge Luis Hirschi - Estudiantes de la Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/q-lokura-estadio-uno-jorge-luis-hirschi-estudiantes-de-la-plata-20260909164039",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260909164103.jpg"
+  },
+  {
+    "titulo": "LA LA LA, 40 años",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-la-la-40-anos-espacio-live-20260905141945",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260905141946.jpg"
+  },
+  {
+    "titulo": "Bestia bebé",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/bestia-bebe-teatro-opera-20260812015504",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260812015505.jpg"
+  },
+  {
+    "titulo": "Fiesta Maradoniana",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Comunidad Ferroviaria",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/fiesta-maradoniana-comunidad-ferroviaria-20260912220917",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260912220918.jpg"
+  },
+  {
+    "titulo": "New sensation - Tributo INXS",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/new-sensation-tributo-inxs-teatro-metro-20260908173724",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260908173725.jpg"
+  },
+  {
+    "titulo": "Alorsa Eterno",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Espacio Doble-T",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/alorsa-eterno-espacio-doble-t-20260908182028",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260908182029.jpg"
+  },
+  {
+    "titulo": "Capacidad Negativa",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Pura Vida",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/capacidad-negativa-pura-vida-20260830160556",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260830160557.jpg"
+  },
+  {
+    "titulo": "After chabon",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Guajira Bar",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/after-chabon-guajira-bar-20260916194432",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260916194434.jpg"
+  },
+  {
+    "titulo": "Nuestro Huésped",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/nuestro-huesped-20260914231258",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914231259.jpg"
+  },
+  {
+    "titulo": "Los Vínculos",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/los-vinculos-dynamo-teatro-20260912230755",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260912230756.jpg"
+  },
+  {
+    "titulo": "Dúo coplanacu",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/duo-coplanacu-casa-metro-20260521223138",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260627020757.jpg"
+  },
+  {
+    "titulo": "Calígula",
+    "fecha": "2026-10-10 21:30:00",
+    "lugar": "Teatro Estudio",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/caligula-teatro-estudio-20260906234226",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260906234227.jpg"
+  },
+  {
+    "titulo": "Encuentro federal de gráfica",
+    "fecha": "2026-10-11 14:00:00",
+    "lugar": "Club Aconcagua",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/encuentro-federal-de-grafica-club-aconcagua-20260629172714",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260629172715.jpg"
+  },
+  {
+    "titulo": "Ciclo de cine Arabe - Palestina 36",
+    "fecha": "2026-10-11 18:00:00",
+    "lugar": "Espacio Beirut",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/ciclo-de-cine-arabe-palestina-36-espacio-beirut-20260914170126",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914170127.jpg"
+  },
+  {
+    "titulo": "Trastornados + La lechuga mecánica + Los cítricos",
+    "fecha": "2026-10-11 20:00:00",
+    "lugar": "Blondie Cultural",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/trastornados-la-lechuga-mecanica-los-citricos-blondie-cultural-20260912225151",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260912225152.jpg"
+  },
+  {
+    "titulo": "Gritos en el planetario - Evil Dead",
+    "fecha": "2026-10-15 19:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/gritos-en-el-planetario-evil-dead-planetario-unlp-20260909001138",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260909001139.jpg"
+  },
+  {
+    "titulo": "Yuna soy yo",
+    "fecha": "2026-10-16 20:30:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/yuna-soy-yo-teatro-espacio-44-20260913163339",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913163340.jpg"
+  },
+  {
+    "titulo": "Nuevas historias Argentinas - Felipe Pigna & Pedro Saborido",
+    "fecha": "2026-10-16 20:30:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/nuevas-historias-argentinas-felipe-pigna-pedro-saborido-teatro-metro-20260908174107",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260908174108.jpg"
+  },
+  {
+    "titulo": "Nuestro Huésped",
+    "fecha": "2026-10-16 21:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/nuestro-huesped-20260914231258",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914231259.jpg"
   }
 ]

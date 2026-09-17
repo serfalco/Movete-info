@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "HILDA FEST 2026",
-    "fecha": "2026-09-13 20:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9941/hilda-fest-2026",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3329.jpeg"
-  },
-  {
     "titulo": "EMPIEZA CON D SIETE LETRAS",
     "fecha": "2026-09-17 20:30:00",
     "lugar": "Metro",
@@ -30,7 +20,7 @@
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3093.jpeg"
   },
   {
-    "titulo": "EL ESCRITOR DE TODAS LAS ...",
+    "titulo": "EL ESCRITOR DE TODAS LAS",
     "fecha": "2026-09-25 21:00:00",
     "lugar": "Metro",
     "direccion": "",
@@ -130,7 +120,7 @@
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3342.jpeg"
   },
   {
-    "titulo": "PEQUEÑO PEZ...",
+    "titulo": "PEQUEÑO PEZ",
     "fecha": "2026-11-01 17:00:00",
     "lugar": "Metro",
     "direccion": "",
@@ -158,6 +148,26 @@
     "url": "https://www.plateaunotickets.com/obra/10018/doctora-queen-2026",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3301.jpeg"
+  },
+  {
+    "titulo": "NI MEDIA PALABRA.",
+    "fecha": "2026-11-15 20:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10051/ni-media-palabra",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3406.jpeg"
+  },
+  {
+    "titulo": "EL CUARTO DE VERONICA..",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10052/el-cuarto-de-veronica",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/2474.jpeg"
   },
   {
     "titulo": "G Y T GUYOT Y TOTH",

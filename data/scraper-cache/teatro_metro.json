@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "HILDA FEST 2026",
-    "fecha": "2026-09-13 20:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
     "titulo": "EMPIEZA CON D",
     "fecha": "2026-09-17 20:30:00",
     "lugar": "Teatro Metro La Plata",
@@ -68,5 +58,245 @@
     "url": "",
     "fuente": "teatro-metro",
     "imagen": ""
+  },
+  {
+    "titulo": "Historias Innecesarias En Vivo.",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/historias-innecesarias-en-vivo.-100466",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260210172859_kuc_historias_innecesarias_la_plata_600_500.jpg"
+  },
+  {
+    "titulo": "NEW SENSATION",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/new-sensation-100530",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260915120415_unnamed.jpg"
+  },
+  {
+    "titulo": "Te pido mil disculpas",
+    "fecha": "2026-10-24 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/te-pido-mil-disculpas-100689",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260602180737_mesa-de-trabajo-1.png"
+  },
+  {
+    "titulo": "Raly Barrionuevo",
+    "fecha": "2026-09-18 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/raly-barrionuevo-100701",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260604132232_ilumus_raly_600x400-laplata.jpg"
+  },
+  {
+    "titulo": "Sofía Calvo | Es hora de hablar",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/sofia-calvo-es-hora-de-hablar-100716",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260611130621_16__x1____laplata.jpg"
+  },
+  {
+    "titulo": "Show Doctora Queen",
+    "fecha": "2026-11-07 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/show-doctora-queen-100722",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260616194513_500x400.png"
+  },
+  {
+    "titulo": "Camerata Rosario presenta 'Las 8 Estaciones de Vivaldi & Piazzolla'",
+    "fecha": "2026-10-08 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/camerata-rosario-100729",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260618151055_600x450.jpg"
+  },
+  {
+    "titulo": "EL ESCRITOR DE TODAS LAS COSAS",
+    "fecha": "2026-09-25 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/el-escritor-de-todas-las-cosas-100738",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/782251565962.jpg"
+  },
+  {
+    "titulo": "NICO DE TRACY | PURGA",
+    "fecha": "2026-11-05 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/nico-de-tracy-purga-100764",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260708164032_5-de-noviembre-la-plata-500x450-1.png"
+  },
+  {
+    "titulo": "LA BIBLIOTECA PERDIDA",
+    "fecha": "2026-10-04 17:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/la-biblioteca-perdida-100765",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260708164138_lbp-600x450-px.jpg"
+  },
+  {
+    "titulo": "Juli Bellese",
+    "fecha": "2026-10-30 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/juli-bellese-100781",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260716230020_600x450.jpg"
+  },
+  {
+    "titulo": "Dúo Karma & Urraka",
+    "fecha": "2026-11-08 17:30:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/duo-karma-urraka-100808",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260728200249_web_karma.png"
+  },
+  {
+    "titulo": "Tango para tres",
+    "fecha": "2026-10-25 20:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "musica",
+    "url": "https://www.teatrometrolp.com.ar/entrada/tango-para-tres-100822",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260914113159_600x400.png"
+  },
+  {
+    "titulo": "Baglietto Vitale",
+    "fecha": "2026-09-22 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/baglietto-vitale-100824",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260917110812_600x400_baglietto.png"
+  },
+  {
+    "titulo": "EMPIEZA CON D",
+    "fecha": "2026-09-17 20:30:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/empieza-con-d-100834",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260807123318_empieza-con-d-la-plata-600x450.jpg"
+  },
+  {
+    "titulo": "Nuevas historias argentinas | Felipe Pigna & Pedro Saborido",
+    "fecha": "2026-10-16 20:30:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/nuevas-historias-argentinas-felipe-pigna-pedro-saborido-100835",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260807151910_1600x1000.png"
+  },
+  {
+    "titulo": "Ivan Noble",
+    "fecha": "2026-10-17 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/ivan-noble-100851",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260815174536_grafica-noble-la-plata-ticketera.jpg"
+  },
+  {
+    "titulo": "GYT",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/gyt-100853",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260818111636_600x450-1.jpg"
+  },
+  {
+    "titulo": "FESTIVAL DE LA MUSICA ITALIANA DE LA PLATA",
+    "fecha": "2026-10-03 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "musica",
+    "url": "https://www.teatrometrolp.com.ar/entrada/festival-de-la-musica-italiana-de-la-plata-100857",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260819135738_600x450.png"
+  },
+  {
+    "titulo": "HOMENAJE SINFONICO A LOS REDONDOS",
+    "fecha": "2026-09-27 20:30:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/homenaje-sinfonico-a-los-redondos-100879",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260830200140_3373.jpeg"
+  },
+  {
+    "titulo": "Pequeño Pez",
+    "fecha": "2026-11-01 17:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/pequeno-pez-100882",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/788219343989.jpg"
+  },
+  {
+    "titulo": "EL HOMBRE INESPERADO",
+    "fecha": "2026-10-02 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/el-hombre-inesperado-100883",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260831203621_3228.jpeg"
+  },
+  {
+    "titulo": "Kevin Johanse + Liniers",
+    "fecha": "2026-10-29 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/kevin-johanse-liniers-100884",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260901131127_600x450.png"
+  },
+  {
+    "titulo": "NI MEDIA PALABRA.",
+    "fecha": "2026-11-15 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/ni-media-palabra.-100920",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260917104949_nmp-15-11-la-plata-ticketera-600x450.jpg"
   }
 ]

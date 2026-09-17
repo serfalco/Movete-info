@@ -1,128 +1,98 @@
 [
   {
-    "titulo": "Nuestra Tierra (Dir. Lucrecia Martel)",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-11"
+    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-09-18"
   },
   {
-    "titulo": "Les yeux sans visage [Los ojos sin rostro] (Georges Franju, 1960)",
-    "hora": "19:00",
-    "espacio": "Espacio Satélite",
-    "fecha": "2026-09-11"
+    "titulo": "Bleu - Tres colores: Azul (Dir. Krzysztof Kieślowski)",
+    "hora": "19:30",
+    "espacio": "Compás",
+    "fecha": "2026-09-18"
   },
   {
-    "titulo": "Sacco & Vanzetti (Dir. Giuliano Montaldo)",
-    "hora": "19:00",
-    "espacio": "Biblioteca Popular Mafalda y Libertad de Arturo Seguí",
-    "fecha": "2026-09-11"
-  },
-  {
-    "titulo": "Trenes rigurosamente vigilados (Dir. Jirí Menzel, 1966)",
+    "titulo": "Soy Cuba (Dir. Mikhail Kalatozov)",
     "hora": "20:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-11"
+    "fecha": "2026-09-18"
   },
   {
-    "titulo": "El desvelo - Jai Yia (Dirección: Flor Cárdenas)",
-    "hora": "22:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-11"
+    "titulo": "Rey Garufa",
+    "hora": "21:00",
+    "espacio": "Teatro Opera",
+    "fecha": "2026-09-18"
   },
   {
-    "titulo": "La tierra explota, el tiempo se acaba",
-    "hora": "20:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-12"
-  },
-  {
-    "titulo": "Delta. cuando el río se revuelve, la mierda sale a flote",
-    "hora": "20:00",
-    "espacio": "Pasaje Dardo Rocha",
-    "fecha": "2026-09-12"
-  },
-  {
-    "titulo": "Almost human (Dir Umberto Lenzi - 1974)",
-    "hora": "22:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-12"
-  },
-  {
-    "titulo": "News from Home (Dir. Chantal Akerman - 1977)",
+    "titulo": "El placer de la tortura (Dir. Teruo Ishii)",
     "hora": "23:55",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-12"
+    "fecha": "2026-09-18"
   },
   {
-    "titulo": "La tierra explota, el tiempo se acaba",
-    "hora": "17:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-13"
-  },
-  {
-    "titulo": "Barry Lyndon (Dir. Stanley Kubrick)",
-    "hora": "18:00",
-    "espacio": "Teatro de Cámara City Bell",
-    "fecha": "2026-09-13"
-  },
-  {
-    "titulo": "La sonámbula, recuerdos del futuro (Dir Fernando Spiner)",
+    "titulo": "Los visionadores + Delito de corrupción",
     "hora": "19:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-13"
+    "fecha": "2026-09-19"
   },
   {
-    "titulo": "Los edukadores",
-    "hora": "20:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-13"
-  },
-  {
-    "titulo": "El insulto (Dir Ziad Doueiri)",
-    "hora": "20:00",
-    "espacio": "Espacio Beirut",
-    "fecha": "2026-09-13"
-  },
-  {
-    "titulo": "La Ciénaga (Dir. Lucrecia Martel)",
-    "hora": "20:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-13"
-  },
-  {
-    "titulo": "News from Home (Dir. Chantal Akerman - 1977)",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-13"
-  },
-  {
-    "titulo": "Del Este (Dir. Chantal Akerman - 1993)",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-14"
-  },
-  {
-    "titulo": "La Cautiva (Dir. Chantal Akerman - 2000)",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-15"
-  },
-  {
-    "titulo": "Del Este (Dir. Chantal Akerman - 1993)",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-16"
-  },
-  {
-    "titulo": "La Naranja Mecánica (Dir. Stanley Kubrick)",
-    "hora": "20:00",
-    "espacio": "La Maga Club De Arte",
-    "fecha": "2026-09-16"
-  },
-  {
-    "titulo": "All About Eve (Eva al desnudo Dir. Joseph L. Mankiewicz - 1950)",
+    "titulo": "Ciencia Ficción en la Unión Soviética",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-16"
+    "fecha": "2026-09-19"
+  },
+  {
+    "titulo": "La niña santa (Dir. Lucrecia Martel)",
+    "hora": "20:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-20"
+  },
+  {
+    "titulo": "No Home Movie (Dir. Chantal Akerman - 2015)",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-21"
+  },
+  {
+    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-09-22"
+  },
+  {
+    "titulo": "La gente detrás de las paredes (Dir. Wes Craven - 1991)",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-22"
+  },
+  {
+    "titulo": "We are making (Dir. Mark Fisher)",
+    "hora": "18:00",
+    "espacio": "Nacional Cafe",
+    "fecha": "2026-09-23"
+  },
+  {
+    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-09-23"
+  },
+  {
+    "titulo": "No Home Movie (Dir. Chantal Akerman - 2015)",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-23"
+  },
+  {
+    "titulo": "Todas las canciones hablan de mí (Dir. Jonás Trueba)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-09-23"
+  },
+  {
+    "titulo": "The Duellists (Dir. Ridley Scott - 1977)",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-23"
   }
 ]

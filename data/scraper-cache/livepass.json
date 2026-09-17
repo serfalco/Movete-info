@@ -1,97 +1,7 @@
 [
   {
-    "titulo": "CARMEN SÁNCHEZ VIAMONTE",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "AUTOS ROBADOS",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "AUTOS ROBADOS",
-    "fecha": "2026-09-11 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "REY GARUFA",
     "fecha": "2026-09-18 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "ROMPIENDO ESPEJOS - Tributo a Callej ...",
-    "fecha": "2026-09-25 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "LA CHANCHA MUDA",
-    "fecha": "2026-09-26 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "FIESTA PLOP: Homenaje a Moria Casan ...",
-    "fecha": "2026-09-26 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE ...",
-    "fecha": "2026-10-03 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "GAUCHITO CLUB",
-    "fecha": "2026-10-09 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "BESTIA BEBÉ",
-    "fecha": "2026-10-10 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
@@ -110,48 +20,8 @@
     "imagen": ""
   },
   {
-    "titulo": "DANCING MOOD",
-    "fecha": "2026-10-17 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "ESCALANDRUM",
-    "fecha": "2026-10-24 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "CARMEN SÁNCHEZ VIAMONTE",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "GIROS",
     "fecha": "2026-11-13 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "ESQUINA LIBERTAD - Tributo a Los Pio ...",
-    "fecha": "2026-11-14 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
@@ -170,8 +40,8 @@
     "imagen": ""
   },
   {
-    "titulo": "BENJAMIN AMADEO",
-    "fecha": "2026-11-21 21:00:00",
+    "titulo": "COSMIC KID",
+    "fecha": "2026-11-28 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
@@ -180,50 +50,10 @@
     "imagen": ""
   },
   {
-    "titulo": "IÑAKI URLEZAGA - EL APLAUSO FINAL",
-    "fecha": "2026-09-13 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "CONOCIENDO RUSIA",
-    "fecha": "2026-10-03 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "GUSTAVO SANTAOLALLA",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "IÑAKI URLEZAGA - EL APLAUSO FINAL",
-    "fecha": "2026-09-13 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "HECATOMBE - MI PRIMERA GUERRA MUNDIA ...",
-    "fecha": "2026-09-18 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "titulo": "LUZ GAGGI",
+    "fecha": "2026-12-05 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
     "url": "",
     "fuente": "livepass",
@@ -250,108 +80,8 @@
     "imagen": ""
   },
   {
-    "titulo": "CONOCIENDO RUSIA",
-    "fecha": "2026-10-03 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "NANUTRIA - OPINIONES VARIAS - STAND ...",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "Valeria Lynch",
-    "fecha": "2026-12-13 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "LAS PASTILLAS DEL ABUELO",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "DIEGO TORRES",
-    "fecha": "2026-09-19 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "Pimpinela",
     "fecha": "2026-10-03 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "BABASONICOS",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "La Vela Puerca + Las Pelotas",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
-    "fecha": "2026-12-05 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "LAS PASTILLAS DEL ABUELO",
-    "fecha": "2026-09-12 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "DIEGO TORRES",
-    "fecha": "2026-09-19 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",
@@ -380,24 +110,304 @@
     "imagen": ""
   },
   {
+    "titulo": "REY GARUFA",
+    "fecha": "2026-09-18 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/rey-garufa-en-el-teatro-opera-lp-18-09",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/0b0c0e520e413fbe620d43e79f8e1c20c030c492.jpg?1786035824"
+  },
+  {
+    "titulo": "DIEGO TORRES",
+    "fecha": "2026-09-19 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Av. 44 y 115, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/diego-torres-en-el-hipodromo-de-la-plata",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/51902a12f8fed0bf88cb4913504ec77ba2e9eb63.jpg?1778530420"
+  },
+  {
+    "titulo": "ROMPIENDO ESPEJOS - Tributo a Callejeros",
+    "fecha": "2026-09-25 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/rompiendo-espejos-tributo-a-callejeros-en-el-teatro-opera-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/5d7483e81467cef397adebefaf6249bb70c212d6.png?1786457104"
+  },
+  {
+    "titulo": "LA CHANCHA MUDA",
+    "fecha": "2026-09-26 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/la-chancha-muda-en-el-teatro-opera-lp-26-09",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/cc8d0e1779cbb35750f15bc506da41eb3f147cad.jpg?1781711406"
+  },
+  {
+    "titulo": "FIESTA PLOP: Homenaje a Moria Casan",
+    "fecha": "2026-09-26 23:55:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/fiesta-plop-homenaje-a-moria-casan-en-el-teatro-opera-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/ddcf0a2f5fcc5969164c4f33088671eb309256d8.jpg?1787934071"
+  },
+  {
+    "titulo": "HECATOMBE - MI PRIMERA GUERRA MUNDIAL",
+    "fecha": "2026-09-27 18:30:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/hecatombe-mi-primera-guerra-mundial-en-sala-piazzolla-teatro-argentino-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/824aa6136cfd9bcb382842f4401c20540a0ff39f.jpg?1789156207"
+  },
+  {
+    "titulo": "DYANGO",
+    "fecha": "2026-10-01 20:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/dyango-en-la-sala-ginastera-teatro-argentino-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/3160041680d62c81cca094ab61f408718c331d15.jpg?1782245982"
+  },
+  {
+    "titulo": "SIN DATOS",
+    "fecha": "2026-10-02 20:00:00",
+    "lugar": "Guajira",
+    "direccion": "Calle 49, 484, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/sin-datos-en-guajira-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/f6c92e705d15ee70e965423583270ae7bf203126.jpg?1787080274"
+  },
+  {
+    "titulo": "EMANERO",
+    "fecha": "2026-10-02 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/emanero-en-la-sala-ginastera-teatro-argentino-la-plata-02-10",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/946647f974737b11f09e08fe1380327a4ffdfbad.jpg?1773940778"
+  },
+  {
+    "titulo": "CONOCIENDO RUSIA",
+    "fecha": "2026-10-03 20:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/conociendo-rusia-en-la-sala-ginastera-teatro-argentino-la-plata",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/071a2aecd563555059a54c57f4c563c950f1e3d3.jpg?1777921375"
+  },
+  {
+    "titulo": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE LOS PUEBLOS",
+    "fecha": "2026-10-03 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/klezmer-por-la-vida-y-la-paz-entre-los-pueblos-en-el-teatro-opera-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/72061534d1a4e290dc26b02f897daf473270c208.png?1787164287"
+  },
+  {
+    "titulo": "Pimpinela",
+    "fecha": "2026-10-03 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Av. 44 y 115, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/pimpinela-en-el-hipodromo-de-la-plata",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/d8a7af7c65b37345647b882af8efcf30f895e030.jpg?1773766224"
+  },
+  {
+    "titulo": "GAUCHITO CLUB",
+    "fecha": "2026-10-09 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/gauchito-club-en-el-teatro-opera-lp-09-10",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/d37fb14d1cbff97ff5eca75aa07c8c4516fd0e16.jpg?1783973566"
+  },
+  {
+    "titulo": "BESTIA BEBE",
+    "fecha": "2026-10-10 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/bestia-bebe-en-el-teatro-opera-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/efa24ca3756c7a08f69c2f600bc93f1baf84dfce.jpg?1786110335"
+  },
+  {
+    "titulo": "TAREA FINA",
+    "fecha": "2026-10-16 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/tarea-fina-en-el-teatro-opera-lp-2026-10-16-21-00-00-0300",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/08385af35cca6ebd0287cea6dd6994eb6da22290.jpg?1787864025"
+  },
+  {
+    "titulo": "DANCING MOOD",
+    "fecha": "2026-10-17 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/dancing-mood-en-el-teatro-opera-lp-2026-10-17",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/39cc2f61bd236c11fc196ea6ccf5f8c8fd539ae4.jpg?1785509544"
+  },
+  {
+    "titulo": "PALO - MAS ALLA?TOUR?en Guajira LP",
+    "fecha": "2026-10-18 20:00:00",
+    "lugar": "Guajira",
+    "direccion": "Calle 49, 484, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/paloma-lopez-diaz-mas-alla-tour-en-guajira-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/08a6300a0fe0217a1a480f68dd3e83e6ddb2260c.png?1789588510"
+  },
+  {
+    "titulo": "LA KONGA",
+    "fecha": "2026-10-23 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Av. 44 y 115, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/la-konga-en-el-hipodromo-de-la-plata",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/aef1481a3f635a4f6e634c072ea1930575703470.jpg?1787836138"
+  },
+  {
+    "titulo": "ESCALANDRUM",
+    "fecha": "2026-10-24 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/escalandrum-en-el-teatro-opera-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/964e4f93cdb7e78b3dfdf4b17136838bc33b721b.jpg?1783528810"
+  },
+  {
+    "titulo": "143LETI?+ BIC?en Guajira LP",
+    "fecha": "2026-10-25 20:00:00",
+    "lugar": "Guajira",
+    "direccion": "Calle 49, 484, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/143leti-bic-en-guajira-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/295f5221c2d4983fccc0231363d6aa9c85ed8b9d.jpeg?1789490538"
+  },
+  {
+    "titulo": "ALE KURZ",
+    "fecha": "2026-10-30 20:00:00",
+    "lugar": "Guajira",
+    "direccion": "Calle 49, 484, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/ale-kurz-en-guajira-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/9312f88eb5d58356209dfdb778bf125d1bfa3053.jpg?1787763954"
+  },
+  {
+    "titulo": "NANUTRIA - OPINIONES VARIAS - STAND UP COMEDY",
+    "fecha": "2026-11-07 20:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "stand-up",
+    "url": "https://livepass.com.ar/events/nanutria-opiniones-varias-stand-up-comedy-en-sala-piazzolla-teatro-argentino-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/3e0f80dc41736a739d449a47829eaf7d729754d2.jpg?1786742442"
+  },
+  {
+    "titulo": "CARMEN SANCHEZ VIAMONTE",
+    "fecha": "2026-11-07 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/carmen-sanchez-viamonte-en-el-teatro-opera-lp-2026-11-07-20-00-00-0300",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/3b64248222baff1aefab49981a0b8cbb989da236.jpg?1788812883"
+  },
+  {
+    "titulo": "GIROS",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/giros-en-el-teatro-opera-lp-13-11",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/b4a7cf831898d88cf5dde07a51e0de21e862967f.jpg?1785786134"
+  },
+  {
+    "titulo": "ESQUINA LIBERTAD - Tributo a Los Piojos",
+    "fecha": "2026-11-14 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/esquina-libertad-tributo-a-los-piojos-en-el-teatro-opera-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/e6c86809fd1f8cff7cf362530dfab7d34ff3bbfe.png?1788789398"
+  },
+  {
     "titulo": "BABASONICOS",
     "fecha": "2026-11-14 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",
-    "url": "",
+    "url": "https://livepass.com.ar/events/babasonicos-en-el-hipodromo-de-la-plata",
     "fuente": "livepass",
-    "imagen": ""
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/4b8fc9f1fba8d4c5f1d0273868441b9a9686dd1b.png?1779123258"
+  },
+  {
+    "titulo": "LUCHO SSJ",
+    "fecha": "2026-11-20 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/lucho-ssj-en-el-teatro-opera-lp-2026-11-20-20-00-00-0300",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/1a359fc18a2f32194280ab112130843ddf35b234.jpg?1786127873"
   },
   {
     "titulo": "La Vela Puerca + Las Pelotas",
-    "fecha": "2026-11-21 21:00:00",
+    "fecha": "2026-11-21 20:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",
-    "url": "",
+    "url": "https://livepass.com.ar/events/la-vela-puerca-las-pelotas-en-el-hipodromo-de-la-plata",
     "fuente": "livepass",
-    "imagen": ""
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/abd9271f55f2f6602194c05d03b848802ebe8cb3.JPEG?1786713212"
+  },
+  {
+    "titulo": "BENJAMIN AMADEO",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/benjamin-amadeo-en-el-teatro-opera-lp-21-11",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/6ff33f35d6abb65beaf15e69985cafea498a676c.jpg?1777059456"
+  },
+  {
+    "titulo": "COSMIC KID",
+    "fecha": "2026-11-28 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/cosmic-kid-en-el-teatro-opera-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/fe7f28565b77eb715706a6419ce1c3367e1f5310.jpg?1789495783"
   },
   {
     "titulo": "Un Poco de Ruido",
@@ -405,18 +415,48 @@
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",
-    "url": "",
+    "url": "https://livepass.com.ar/events/un-poco-de-ruido-en-el-hipodromo-de-la-plata",
     "fuente": "livepass",
-    "imagen": ""
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/962e720eee98fd5fe2f8d66dbd37bef0db79b587.jpg?1786717683"
   },
   {
-    "titulo": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
+    "titulo": "LUZ GAGGI",
+    "fecha": "2026-12-05 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/luz-gaggi-en-el-teatro-opera-lp-2026-12-05",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/d06b7c28973b15025000a1c383c01193ceea3059.jpg?1788811838"
+  },
+  {
+    "titulo": "SERU GIRAN POR LEBON Y AZNAR",
     "fecha": "2026-12-05 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",
-    "url": "",
+    "url": "https://livepass.com.ar/events/seru-giran-por-lebon-y-aznar-en-el-hipodromo-de-la-plata",
     "fuente": "livepass",
-    "imagen": ""
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/9358a40f143beb52a25db802ff337ac2a5b0127f.jpg?1782761027"
+  },
+  {
+    "titulo": "TAN BIONICA",
+    "fecha": "2026-12-12 21:00:00",
+    "lugar": "Estadio Jorge Luis Hirschi",
+    "direccion": "Avenida 1, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/tan-bionica-en-estadio-uno",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/e4b0773ce2bbb204283b39a7714e634f20701791.jpg?1775657669"
+  },
+  {
+    "titulo": "Valeria Lynch",
+    "fecha": "2026-12-13 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/02a0cc26d293b7db8686a3fe5a5d21f9c4b8ff58.jpg?1786479847"
   }
 ]

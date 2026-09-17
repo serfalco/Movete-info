@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "454639": {
     "tmdb": {
@@ -712,7 +712,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1081003": {
     "tmdb": {
@@ -1058,7 +1058,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1314481": {
     "tmdb": {
@@ -1246,7 +1246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "936075": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1108427": {
     "tmdb": {
@@ -2494,7 +2494,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1212763": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "18775": {
     "tmdb": {
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1443576": {
     "tmdb": {
@@ -4306,7 +4306,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1101383": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1698443": {
     "tmdb": {
@@ -4575,7 +4575,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1240889": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "8392": {
     "tmdb": {
@@ -5821,7 +5821,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1384216": {
     "tmdb": {
@@ -5991,7 +5991,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1273495": {
     "tmdb": {
@@ -6039,7 +6039,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "280": {
     "tmdb": {
@@ -6322,7 +6322,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1477712": {
     "tmdb": {
@@ -6501,7 +6501,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1447853": {
     "tmdb": {
@@ -6670,7 +6670,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "188834": {
     "tmdb": {
@@ -6862,7 +6862,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1302904": {
     "tmdb": {
@@ -7054,7 +7054,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
   },
   "1187326": {
     "tmdb": {
@@ -7146,6 +7146,830 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-10"
+    "ultima_semana": "2026-09-17"
+  },
+  "19576": {
+    "tmdb": {
+      "tmdb_id": 19576,
+      "titulo": "One Piece: La película",
+      "titulo_original": "ワンピース",
+      "tagline": "¡Zarpa hacia la isla de oro!",
+      "anio": "2000",
+      "estreno": "2000-03-04",
+      "duracion": 51,
+      "generos": [
+        "Acción",
+        "Animación",
+        "Aventura",
+        "Comedia",
+        "Fantasía"
+      ],
+      "score": 7.052,
+      "votos": 406,
+      "certificacion": "ATP",
+      "sinopsis": "Luffy y sus compañeros recataran a Tobio de la guarida de un pirata. Más tarde mientras prosiguen su viaje, decidiran ir a la isla dorada donde vivirán una gran aventura.",
+      "poster": "https://image.tmdb.org/t/p/w342/g8Gaj5qlM0S0NTZSP05ETs7aFst.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+        "https://image.tmdb.org/t/p/w780/635qI5pWhQSUaTnOkMo4GLCe8sV.jpg",
+        "https://image.tmdb.org/t/p/w780/hGVzPRvCWwHFeKAcbbU5D8hAsqp.jpg",
+        "https://image.tmdb.org/t/p/w780/zMBX15dKGnglEWn6RM8hNOkWSyt.jpg",
+        "https://image.tmdb.org/t/p/w780/7plrljovDAGJfgMrmwAIHMM1Qhg.jpg",
+        "https://image.tmdb.org/t/p/w780/318QBfcef0FtF6aHkTI6VUgyaZX.jpg"
+      ],
+      "director": "志水淳児",
+      "guionistas": [
+        "島田満"
+      ],
+      "musica": "田中公平",
+      "elenco": [
+        {
+          "nombre": "Mayumi Tanaka",
+          "personaje": "Monkey D. Luffy (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/by4t1tYtEXsfbFj9TvOjozBmQla.jpg",
+          "iniciales": "MT"
+        },
+        {
+          "nombre": "Kazuya Nakai",
+          "personaje": "Roronoa Zoro (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/cOHSa0FBrG3u9P6g8A56sInkvod.jpg",
+          "iniciales": "KN"
+        },
+        {
+          "nombre": "Akemi Okamura",
+          "personaje": "Nami (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg",
+          "iniciales": "AO"
+        },
+        {
+          "nombre": "Kappei Yamaguchi",
+          "personaje": "Usopp (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg",
+          "iniciales": "KY"
+        },
+        {
+          "nombre": "Yuka Imai",
+          "personaje": "Tobio (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/SivuDZuk3GsYVm9kYdSKcnQQ9I.jpg",
+          "iniciales": "YI"
+        },
+        {
+          "nombre": "Takeshi Aono",
+          "personaje": "Ganzo (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/e3IaulH39g31sTIZuiUsXXc5iZj.jpg",
+          "iniciales": "TA"
+        },
+        {
+          "nombre": "Taiki Matsuno",
+          "personaje": "Young Ganzo (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/pgoNHpHWcnEA9k6qriLsZJCcMMf.jpg",
+          "iniciales": "TM"
+        },
+        {
+          "nombre": "野沢那智",
+          "personaje": "Woonan (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/rbgNv472wLSH5tpHJxqyUHgNpb6.jpg",
+          "iniciales": "野沢"
+        }
+      ],
+      "paises": [
+        "Japan"
+      ],
+      "idiomas": [
+        "日本語"
+      ],
+      "productoras": [
+        "Toei Animation"
+      ],
+      "temas": [
+        "Pirate gang",
+        "Treasure hunt",
+        "Pirate",
+        "Shounen",
+        "Anime"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt0814243",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "One Piece - Colección",
+        "partes": [
+          {
+            "tmdb_id": 19576,
+            "titulo": "One Piece: La película",
+            "anio": "2000",
+            "poster": "https://image.tmdb.org/t/p/w342/g8Gaj5qlM0S0NTZSP05ETs7aFst.jpg",
+            "fecha": "2000-03-04"
+          },
+          {
+            "tmdb_id": 23446,
+            "titulo": "One Piece: Aventura en la Isla Engranaje",
+            "anio": "2001",
+            "poster": "https://image.tmdb.org/t/p/w342/q4JO8zGBfjFSVfIIqro2EgH09d.jpg",
+            "fecha": "2001-03-03"
+          },
+          {
+            "tmdb_id": 44725,
+            "titulo": "One Piece: El reino de Chopper en la isla de los animales raros",
+            "anio": "2002",
+            "poster": "https://image.tmdb.org/t/p/w342/3RyEwdRBw5D9ORuL28ZZSxJ1klB.jpg",
+            "fecha": "2002-03-02"
+          },
+          {
+            "tmdb_id": 44727,
+            "titulo": "One Piece: La aventura sin salida",
+            "anio": "2003",
+            "poster": "https://image.tmdb.org/t/p/w342/iR4JswOeGkVNRCEaB0mWfNzjM9C.jpg",
+            "fecha": "2003-03-01"
+          },
+          {
+            "tmdb_id": 44728,
+            "titulo": "One Piece: La maldición de la espada sagrada",
+            "anio": "2004",
+            "poster": "https://image.tmdb.org/t/p/w342/AlRS3BkHViYmzP07T3EHTvwGEyh.jpg",
+            "fecha": "2004-03-06"
+          },
+          {
+            "tmdb_id": 44729,
+            "titulo": "One Piece: El barón Omatsuri y la Isla Secreta",
+            "anio": "2005",
+            "poster": "https://image.tmdb.org/t/p/w342/mjnYQgfTXeSStR6fC9aCQu9O38z.jpg",
+            "fecha": "2005-03-05"
+          },
+          {
+            "tmdb_id": 44730,
+            "titulo": "One Piece: El Gran Soldado Mecánico del Castillo Karakuri",
+            "anio": "2006",
+            "poster": "https://image.tmdb.org/t/p/w342/2CgWpDSCT5WugqNYLzIxU7w660t.jpg",
+            "fecha": "2006-03-04"
+          },
+          {
+            "tmdb_id": 25278,
+            "titulo": "One Piece: Saga de Arabasta - Los Piratas y la Princesa del Desierto",
+            "anio": "2007",
+            "poster": "https://image.tmdb.org/t/p/w342/tV8jhgkZEwqMqB1hRIssEgtRWYi.jpg",
+            "fecha": "2007-03-03"
+          },
+          {
+            "tmdb_id": 44731,
+            "titulo": "One Piece: La saga de Chopper -  El Milagro del Cerezo Florecido en Invierno",
+            "anio": "2008",
+            "poster": "https://image.tmdb.org/t/p/w342/jpPCv8rO4DjeUkdh6CQGc7ws2pD.jpg",
+            "fecha": "2008-03-01"
+          },
+          {
+            "tmdb_id": 41498,
+            "titulo": "One Piece: Strong World",
+            "anio": "2010",
+            "poster": "https://image.tmdb.org/t/p/w342/gz8ZSM9WpG9M3JtGqRTvJbyFKnm.jpg",
+            "fecha": "2010-02-11"
+          },
+          {
+            "tmdb_id": 176983,
+            "titulo": "One Piece: Z",
+            "anio": "2012",
+            "poster": "https://image.tmdb.org/t/p/w342/guzIZgMMUp11qDA22clAdVXRids.jpg",
+            "fecha": "2012-12-15"
+          },
+          {
+            "tmdb_id": 374205,
+            "titulo": "One Piece Gold",
+            "anio": "2016",
+            "poster": "https://image.tmdb.org/t/p/w342/w3TjeOLFmBkcMiTzNPsai1yTKqj.jpg",
+            "fecha": "2016-07-23"
+          },
+          {
+            "tmdb_id": 568012,
+            "titulo": "One Piece: Estampida",
+            "anio": "2019",
+            "poster": "https://image.tmdb.org/t/p/w342/xyDaLADqd2BUUk0kRDtmaX3sjQV.jpg",
+            "fecha": "2019-01-03"
+          },
+          {
+            "tmdb_id": 900667,
+            "titulo": "One Piece Film Red",
+            "anio": "2022",
+            "poster": "https://image.tmdb.org/t/p/w342/4ovEtMHpv1UKDJB6Wq69DB4q8xG.jpg",
+            "fecha": "2022-08-06"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 4407,
+          "titulo": "Los Tres Investigadores y el secreto de la Isla Esqueleto",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/ssbDHH9mGKpYCgiW6Jq4tudh2xT.jpg",
+          "score": 6.2
+        },
+        {
+          "tmdb_id": 4034,
+          "titulo": "El hombre de Río",
+          "anio": "1964",
+          "poster": "https://image.tmdb.org/t/p/w342/mlxwpHO6qjK6v5dSUVW75zMEVzI.jpg",
+          "score": 7.337
+        },
+        {
+          "tmdb_id": 447768,
+          "titulo": "BREAK-AGE",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/vRQN9DksbTO7R4aeoVPvt0xmfWv.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 4935,
+          "titulo": "El castillo ambulante",
+          "anio": "2004",
+          "poster": "https://image.tmdb.org/t/p/w342/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
+          "score": 8.387
+        },
+        {
+          "tmdb_id": 4933,
+          "titulo": "Los bucaneros",
+          "anio": "1958",
+          "poster": "https://image.tmdb.org/t/p/w342/mRmpqZbstdWpN0Jhnxv6jiYeE4J.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 4977,
+          "titulo": "Paprika, detective de los sueños",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/j9QZkFkaR9LmvRumn88te0d6qsC.jpg",
+          "score": 7.813
+        },
+        {
+          "tmdb_id": 4992,
+          "titulo": "Shark! Arma de Dos Filos",
+          "anio": "1969",
+          "poster": "https://image.tmdb.org/t/p/w342/cTeNSQZeeifxIkpLVOcbDQtiwtg.jpg",
+          "score": 4.273
+        },
+        {
+          "tmdb_id": 5636,
+          "titulo": "El tesoro del lago de la plata",
+          "anio": "1962",
+          "poster": "https://image.tmdb.org/t/p/w342/djSezzfUq4HMDkDM8Zkd7FO4lU0.jpg",
+          "score": 7.1
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-17"
+  },
+  "1423191": {
+    "tmdb": {
+      "tmdb_id": 1423191,
+      "titulo": "Resident Evil",
+      "titulo_original": "Resident Evil",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-09-16",
+      "duracion": 93,
+      "generos": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "score": 8.1,
+      "votos": 23,
+      "certificacion": "+16",
+      "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+        "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
+        "https://image.tmdb.org/t/p/w780/fQpxJXfOm0QSHj3eB8QDjOvYL3t.jpg",
+        "https://image.tmdb.org/t/p/w780/cYWsl79X79sXOXyceXoMJaKyoMn.jpg",
+        "https://image.tmdb.org/t/p/w780/3h9MLGuKNTCNb0BeYMXmNIQBPba.jpg"
+      ],
+      "director": "Zach Cregger",
+      "guionistas": [
+        "Shay Hatten",
+        "Zach Cregger"
+      ],
+      "musica": "Hays Holladay, Ryan Holladay",
+      "elenco": [
+        {
+          "nombre": "Austin Abrams",
+          "personaje": "Bryan",
+          "foto": "https://image.tmdb.org/t/p/w185/gG4KsGZDw3tO2R66cn9VdOo8uSu.jpg",
+          "iniciales": "AA"
+        },
+        {
+          "nombre": "Zach Cherry",
+          "personaje": "Dave",
+          "foto": "https://image.tmdb.org/t/p/w185/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg",
+          "iniciales": "ZC"
+        },
+        {
+          "nombre": "Kali Reis",
+          "personaje": "Pauline",
+          "foto": "https://image.tmdb.org/t/p/w185/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+          "iniciales": "KR"
+        },
+        {
+          "nombre": "Paul Walter Hauser",
+          "personaje": "Carl",
+          "foto": "https://image.tmdb.org/t/p/w185/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg",
+          "iniciales": "PH"
+        },
+        {
+          "nombre": "Johnno Wilson",
+          "personaje": "Max",
+          "foto": "https://image.tmdb.org/t/p/w185/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg",
+          "iniciales": "JW"
+        },
+        {
+          "nombre": "Shaun W. Loeser",
+          "personaje": "Puker",
+          "foto": "https://image.tmdb.org/t/p/w185/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg",
+          "iniciales": "SL"
+        },
+        {
+          "nombre": "Devon Deshaun Stewart",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/qZ5BMtEva7XEEdO3BpB9pCPzqMx.jpg",
+          "iniciales": "DS"
+        },
+        {
+          "nombre": "Zach Cregger",
+          "personaje": "(voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+          "iniciales": "ZC"
+        }
+      ],
+      "paises": [
+        "United States of America",
+        "Germany",
+        "France"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Constantin Film",
+        "Subconscious",
+        "Vertigo Entertainment",
+        "Davis Films",
+        "Columbia Pictures",
+        "PlayStation Productions",
+        "TriStar Pictures"
+      ],
+      "temas": [
+        "Outbreak",
+        "Survival",
+        "Zombie",
+        "Based on video game",
+        "Survival horror",
+        "Reboot",
+        "Zombie apocalypse",
+        "Courier service"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=d6oszs7f5aI",
+      "teaser": "",
+      "imdb_id": "tt35538033",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 447383,
+          "titulo": "Don't Look",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/kmIWohT0Tv81i0at5SKGqkVeMaN.jpg",
+          "score": 2.763
+        },
+        {
+          "tmdb_id": 821783,
+          "titulo": "Summer Horror Day",
+          "anio": "1987",
+          "poster": "https://image.tmdb.org/t/p/w342/uHmUWHe5TMGUThd717ZRkKYQQVl.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 1400761,
+          "titulo": "Didn't Die",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/z5l7KZOvvqv7V0tos394F7G6aJE.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 630586,
+          "titulo": "Wrong Turn. Sendero al infierno",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/cny2yzaSZGMQ1bSLsLNVm67mIvI.jpg",
+          "score": 5.956
+        },
+        {
+          "tmdb_id": 5434,
+          "titulo": "La muerte sonríe al asesino",
+          "anio": "1973",
+          "poster": "https://image.tmdb.org/t/p/w342/yG5tOAtnhhjwRU4hWixcl6yFGP1.jpg",
+          "score": 5.887
+        },
+        {
+          "tmdb_id": 265085,
+          "titulo": "The Lashman",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/tAVMPIiQvPSDBVdFG3deYy2RUhU.jpg",
+          "score": 3.333
+        },
+        {
+          "tmdb_id": 5842,
+          "titulo": "Versus",
+          "anio": "2000",
+          "poster": "https://image.tmdb.org/t/p/w342/xRMDz07uxS1mtDcR9gxo7SkPC51.jpg",
+          "score": 6.215
+        },
+        {
+          "tmdb_id": 5677,
+          "titulo": "Guardianes del futuro",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/xvnGq5pBk58r0HOIL1d5PlyBQxL.jpg",
+          "score": 5.951
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-17"
+  },
+  "1140521": {
+    "tmdb": {
+      "tmdb_id": 1140521,
+      "titulo": "El árbol muy muy lejano",
+      "titulo_original": "The Magic Faraway Tree",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-03-26",
+      "duracion": 110,
+      "generos": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
+      ],
+      "score": 6.187,
+      "votos": 67,
+      "certificacion": "ATP",
+      "sinopsis": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+      "poster": "https://image.tmdb.org/t/p/w342/q2UkPRN4Nv4JJLLz1c564MyuqLB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+        "https://image.tmdb.org/t/p/w780/l2Iv2JVEvzlDu7Hxm7ZCm9QprqR.jpg",
+        "https://image.tmdb.org/t/p/w780/ldsy8TYJuHxVlq8T5bHQkrS5jsR.jpg",
+        "https://image.tmdb.org/t/p/w780/bcOuDQCciQm9DzONv8xXXuleGJA.jpg",
+        "https://image.tmdb.org/t/p/w780/x4g6y3KPbX0goeI4d3AyoQkjN3R.jpg",
+        "https://image.tmdb.org/t/p/w780/yyjWYek0IOyILUDDVg3jRKopxIt.jpg"
+      ],
+      "director": "Ben Gregor",
+      "guionistas": [
+        "Simon Farnaby"
+      ],
+      "musica": "Isabella Summers",
+      "elenco": [
+        {
+          "nombre": "Billie Gadsdon",
+          "personaje": "Fran Thompson",
+          "foto": "https://image.tmdb.org/t/p/w185/3Xs8VgjGNCjFsIGaFcr3lIkYhrd.jpg",
+          "iniciales": "BG"
+        },
+        {
+          "nombre": "Nicola Coughlan",
+          "personaje": "Silky",
+          "foto": "https://image.tmdb.org/t/p/w185/bhbFv73vlUM0hXlDdAGDrBBb40x.jpg",
+          "iniciales": "NC"
+        },
+        {
+          "nombre": "Delilah Bennett-Cardy",
+          "personaje": "Beth Thompson",
+          "foto": "https://image.tmdb.org/t/p/w185/1qPiOcNNuREzA0BoiOgeEzLJnGF.jpg",
+          "iniciales": "DB"
+        },
+        {
+          "nombre": "Phoenix Laroche",
+          "personaje": "Joe Thompson",
+          "foto": "https://image.tmdb.org/t/p/w185/kXl2nB3tNF9XBPvvkUZgwO0AiY3.jpg",
+          "iniciales": "PL"
+        },
+        {
+          "nombre": "Nonso Anozie",
+          "personaje": "Moonface",
+          "foto": "https://image.tmdb.org/t/p/w185/5V5EGRRftkAMPAwRP3a0tu0Nlwe.jpg",
+          "iniciales": "NA"
+        },
+        {
+          "nombre": "Andrew Garfield",
+          "personaje": "Tim Thompson",
+          "foto": "https://image.tmdb.org/t/p/w185/beO5YvbTjrr5yy8hW26KVDMSr35.jpg",
+          "iniciales": "AG"
+        },
+        {
+          "nombre": "Rebecca Ferguson",
+          "personaje": "Dame Snap",
+          "foto": "https://image.tmdb.org/t/p/w185/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg",
+          "iniciales": "RF"
+        },
+        {
+          "nombre": "Claire Foy",
+          "personaje": "Polly Thompson",
+          "foto": "https://image.tmdb.org/t/p/w185/pI1lOswQWZRhc8TKu0MESulw9uF.jpg",
+          "iniciales": "CF"
+        }
+      ],
+      "paises": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Neal Street Productions",
+        "Ashland Hill Media Finance",
+        "Palisades Park Pictures",
+        "Elysian Film Group",
+        "StudioCanal UK"
+      ],
+      "temas": [
+        "Tree",
+        "Based on children's book",
+        "Children's adventure",
+        "Estranged family"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=qsrMA7Eovaw",
+      "teaser": "",
+      "imdb_id": "tt7734244",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "The Magic Faraway Tree Collection",
+        "partes": [
+          {
+            "tmdb_id": 1140521,
+            "titulo": "El árbol muy muy lejano",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/q2UkPRN4Nv4JJLLz1c564MyuqLB.jpg",
+            "fecha": "2026-03-26"
+          },
+          {
+            "tmdb_id": 1694686,
+            "titulo": "The Magic Faraway Tree 2",
+            "anio": "",
+            "poster": null,
+            "fecha": ""
+          },
+          {
+            "tmdb_id": 1694690,
+            "titulo": "The Magic Faraway Tree 3",
+            "anio": "",
+            "poster": null,
+            "fecha": ""
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 447491,
+          "titulo": "Honzíkova cesta",
+          "anio": "1957",
+          "poster": "https://image.tmdb.org/t/p/w342/5HWs8EtZnJAzWNmZKNjq68IMdAS.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 448119,
+          "titulo": "Las aventuras del doctor Dolittle",
+          "anio": "2020",
+          "poster": "https://image.tmdb.org/t/p/w342/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg",
+          "score": 6.571
+        },
+        {
+          "tmdb_id": 1206617,
+          "titulo": "La peor obra de navidad",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/6BA46l5rL8BDench96aN0VfjqTe.jpg",
+          "score": 6.9
+        },
+        {
+          "tmdb_id": 447232,
+          "titulo": "Odd er et egg",
+          "anio": "2016",
+          "poster": "https://image.tmdb.org/t/p/w342/c2UPftLNaOFHjGKm61ZK85hbvW9.jpg",
+          "score": 4.8
+        },
+        {
+          "tmdb_id": 1205520,
+          "titulo": "El gato Tabby y otras historias felinas",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/40Byuc2tzEsmleEnCFfimv13imE.jpg",
+          "score": 6.7
+        },
+        {
+          "tmdb_id": 263945,
+          "titulo": "Jorge el Curioso: Unas navidades muy monas",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/zQxDMNnJx6gbr5FOzWggOtfQEDz.jpg",
+          "score": 6.772
+        },
+        {
+          "tmdb_id": 2899,
+          "titulo": "Astérix y Obélix: Misión Cleopatra",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/3I6ocizuNTB2DmNTffLxnCe4bnc.jpg",
+          "score": 7.367
+        },
+        {
+          "tmdb_id": 446894,
+          "titulo": "Smallfoot",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/cMpwgReTQacixLK2C7Vb8HdPTPb.jpg",
+          "score": 6.815
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-17"
+  },
+  "1433339": {
+    "tmdb": {
+      "tmdb_id": 1433339,
+      "titulo": "Tres adioses",
+      "titulo_original": "Tre ciotole",
+      "tagline": "",
+      "anio": "2025",
+      "estreno": "2025-10-09",
+      "duracion": 120,
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "score": 7.1,
+      "votos": 107,
+      "certificacion": "",
+      "sinopsis": "Marta y Antonio son una pareja que se separa tras lo que parece una discusión trivial. Marta (Alba Rohrwacher) reacciona a la ruptura encerrándose en sí misma. El único síntoma que no puede ignorar es su repentina falta de apetito. Mientras, Antonio (Elio Germano), un chef al alza, no consigue olvidarla a pesar de haber sido él quien terminó la relación.",
+      "poster": "https://image.tmdb.org/t/p/w342/ooJChz3CumTevKFMd6fTETcmIm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
+        "https://image.tmdb.org/t/p/w780/w8uzXXXldfOCei30iKpBd3lusqI.jpg",
+        "https://image.tmdb.org/t/p/w780/x7cAIzFbcz1CDMDj8I7OtnoCliK.jpg",
+        "https://image.tmdb.org/t/p/w780/7C1F91ikxXCbIDR0WblwlPGaBhW.jpg",
+        "https://image.tmdb.org/t/p/w780/8CFNob7OasGJeV9Zx9CdwsnJ6E5.jpg",
+        "https://image.tmdb.org/t/p/w780/gKjr4lYOzGSVopP9jWNQwCoFXeN.jpg"
+      ],
+      "director": "Isabel Coixet",
+      "guionistas": [
+        "Enrico Audenino",
+        "Isabel Coixet"
+      ],
+      "musica": "Alfonso Vilallonga",
+      "elenco": [
+        {
+          "nombre": "Alba Rohrwacher",
+          "personaje": "Marta",
+          "foto": "https://image.tmdb.org/t/p/w185/swffcvnDnj5966fdLSnXOMY186.jpg",
+          "iniciales": "AR"
+        },
+        {
+          "nombre": "Elio Germano",
+          "personaje": "Antonio",
+          "foto": "https://image.tmdb.org/t/p/w185/2Z6SHTOQ9XuKdFlFpKZ2yPCpald.jpg",
+          "iniciales": "EG"
+        },
+        {
+          "nombre": "Francesco Carril",
+          "personaje": "Agostino",
+          "foto": "https://image.tmdb.org/t/p/w185/x1S2YalAc65MMv88fJenTJ0X2ma.jpg",
+          "iniciales": "FC"
+        },
+        {
+          "nombre": "Silvia D'Amico",
+          "personaje": "Elisa",
+          "foto": "https://image.tmdb.org/t/p/w185/d8TmCRsLktYGNSTDSQoxMzAgjm9.jpg",
+          "iniciales": "SD"
+        },
+        {
+          "nombre": "Sarita Choudhury",
+          "personaje": "Doctor",
+          "foto": "https://image.tmdb.org/t/p/w185/pABEOxQAns54tHpxN2w73b7SiPB.jpg",
+          "iniciales": "SC"
+        },
+        {
+          "nombre": "Pietro Sparvoli",
+          "personaje": "Fabio",
+          "foto": "https://image.tmdb.org/t/p/w185/sxpT6T6QdpOChW9Nu1TzXVSetJ6.jpg",
+          "iniciales": "PS"
+        },
+        {
+          "nombre": "Matteo Carlomagno",
+          "personaje": "Sergio",
+          "foto": null,
+          "iniciales": "MC"
+        },
+        {
+          "nombre": "Giuseppe Pestillo",
+          "personaje": "Tommaso",
+          "foto": "https://image.tmdb.org/t/p/w185/iUHcTJsqmsQTJVP6ZiDo7TunxZK.jpg",
+          "iniciales": "GP"
+        }
+      ],
+      "paises": [
+        "Italy",
+        "Spain"
+      ],
+      "idiomas": [
+        "Italiano"
+      ],
+      "productoras": [
+        "Cattleya",
+        "Ruvido Produzioni",
+        "Bartlebyfilm",
+        "Colosé Producciones",
+        "Apaches Films",
+        "Bteam Prods",
+        "Buena Pinta Media",
+        "Perdición Films",
+        "Sky Cinema",
+        "MAX ADV",
+        "RTVE",
+        "MiC",
+        "Instituto de la Cinematografía y de las Artes Audiovisuales"
+      ],
+      "temas": [
+        "Cancer",
+        "Relationship",
+        "Chef",
+        "Despedidas",
+        "Separação",
+        "Culinária",
+        "Morte",
+        "Amizade"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=xOkvUm3dz5s",
+      "teaser": "",
+      "imdb_id": "tt35705184",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 9819,
+          "titulo": "La habitación de Marvin",
+          "anio": "1996",
+          "poster": "https://image.tmdb.org/t/p/w342/grlTTpBNUengreDCaDmuSklLnMu.jpg",
+          "score": 6.7
+        },
+        {
+          "tmdb_id": 453101,
+          "titulo": "Hisha'arut",
+          "anio": "2013",
+          "poster": "https://image.tmdb.org/t/p/w342/xnuy9OjXnCMeJsEfj9t7q8sKd2P.jpg",
+          "score": 3.333
+        },
+        {
+          "tmdb_id": 10024,
+          "titulo": "La decisión de Anne",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/bvLsfZfaqGiq46lEbtWj7WuQjZ9.jpg",
+          "score": 7.369
+        },
+        {
+          "tmdb_id": 270696,
+          "titulo": "Tru Love",
+          "anio": "2013",
+          "poster": "https://image.tmdb.org/t/p/w342/snzHdjeXBQMp1uO3RsWDQj0Yui4.jpg",
+          "score": 5.661
+        },
+        {
+          "tmdb_id": 9919,
+          "titulo": "Cómo perder a un chico en 10 días",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/1KUOI02BeSZXeSPEhUMV5aRI94L.jpg",
+          "score": 6.868
+        },
+        {
+          "tmdb_id": 270595,
+          "titulo": "1st Bite",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/lM4K9me6KzIh0k4sBglHxPROZpj.jpg",
+          "score": 6.333
+        },
+        {
+          "tmdb_id": 10224,
+          "titulo": "El francotirador",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/zk9fsOURAYwmqAqvu9J5MD36M4B.jpg",
+          "score": 4.9
+        },
+        {
+          "tmdb_id": 270818,
+          "titulo": "Hopeful Notes",
+          "anio": "2010",
+          "poster": "https://image.tmdb.org/t/p/w342/xEYB5RcZSe0AGNVW58ZyupvY1hc.jpg",
+          "score": 10.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-17"
   }
 }
