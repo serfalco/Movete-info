@@ -1,13 +1,24 @@
 {
   "name": "movete-info",
+  // Worker chico que atiende /api/* (formulario "Sumá tu evento").
+  // El resto del sitio son archivos estáticos.
+  "main": "src/worker.js",
   "compatibility_date": "2026-07-08",
   "observability": {
     "enabled": true
   },
   "assets": {
     "directory": ".",
+    "binding": "ASSETS",
     "not_found_handling": "404-page"
   },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "movete-comunidad",
+      "database_id": "b546d8c8-09ba-4707-b21a-adc1924fde7f"
+    }
+  ],
   "compatibility_flags": [
     "nodejs_compat"
   ]
