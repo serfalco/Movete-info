@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>¡Listo! Evento cargado · MoVeTe</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/movete.css">
+  <style>
+    .sumar-page main { padding-top: 28px; max-width: 760px; }
+    .sumar-panel { padding: clamp(22px, 4vw, 40px); border: 1px solid var(--line); border-radius: 28px; background: var(--card); margin: 14px 0 28px; }
+    .sumar-panel h1 { font-size: clamp(2.6rem, 7vw, 4.6rem); line-height: .9; margin: 8px 0 14px; }
+    .sumar-lead { margin: 0 0 24px; font-size: 1.08rem; line-height: 1.5; color: color-mix(in srgb, var(--ink) 78%, transparent); }
+    .sumar-form { display: grid; gap: 16px; }
+    .sumar-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .sumar-form label { display: grid; gap: 6px; font-family: var(--font-action); font-weight: 700; font-size: .98rem; }
+    .sumar-form label small { font-family: var(--font-body); font-weight: 400; color: var(--muted); font-size: .86rem; }
+    .sumar-form input, .sumar-form select { font: inherit; font-family: var(--font-body); font-weight: 400; font-size: 1rem; padding: 12px 14px; border: 1px solid var(--line-strong); border-radius: 12px; background: var(--paper); color: var(--ink); width: 100%; box-sizing: border-box; }
+    .sumar-form input:focus, .sumar-form select:focus { outline: 2px solid var(--accent2); outline-offset: 1px; }
+    .sumar-trampa { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+    .sumar-form button { justify-self: start; font-size: 1.05rem; cursor: pointer; }
+    .sumar-nota { font-size: .9rem; color: var(--muted); margin: 4px 0 0; line-height: 1.45; }
+    .sumar-error { padding: 12px 16px; border-radius: 12px; border: 1px solid var(--accent); color: var(--accent-text); margin: 0 0 18px; font-weight: 700; }
+    .sumar-error[hidden] { display: none; }
+    @media (max-width: 560px) { .sumar-row { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body class="sumar-page">
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="MoVeTe inicio">MoVeTe<span>●</span></a>
+    <nav class="site-nav" aria-label="Secciones principales">
+      <a href="/">Inicio</a>
+      <a href="/en-vivo/">En vivo</a>
+      <a href="/cine/">Cine</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="sumar-panel">
+      <p class="eyebrow">Sumá lo tuyo</p>
+      <h1>¡Listo, gracias!</h1>
+      <p class="sumar-lead">Tu evento quedó cargado y va a aparecer en la próxima edición de la cartelera (sale los jueves y se actualiza los viernes).</p>
+      <p><a class="button" href="/sumar/">Cargar otro →</a> &nbsp; <a class="card-link" href="/en-vivo/">Ver la cartelera</a></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p class="footer-line">
+      <span class="footer-brand">MoVeTe<span>.</span></span>
+      <span aria-hidden="true">·</span>
+      <span>La Plata</span>
+      <span aria-hidden="true">·</span>
+      <a class="footer-share" href="https://wa.me/5492215247488" target="_blank" rel="noopener" title="Contacto por WhatsApp" aria-label="Contacto por WhatsApp">Contacto <img class="share-icon" src="/assets/icons/whatsapp.svg" alt=""></a>
+    </p>
+  </footer>
+</body>
+</html>
