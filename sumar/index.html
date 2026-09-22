@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sumá tu evento a la cartelera · MoVeTe La Plata</title>
+  <meta name="description" content="Cargá tu obra, show o función en la cartelera cultural de La Plata. Gratis, en un minuto.">
+  <link rel="canonical" href="https://movete.info/sumar/">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/movete.css">
+  <style>
+    .sumar-page main { padding-top: 28px; max-width: 760px; }
+    .sumar-panel { padding: clamp(22px, 4vw, 40px); border: 1px solid var(--line); border-radius: 28px; background: var(--card); margin: 14px 0 28px; }
+    .sumar-panel h1 { font-size: clamp(2.6rem, 7vw, 4.6rem); line-height: .9; margin: 8px 0 14px; }
+    .sumar-lead { margin: 0 0 24px; font-size: 1.08rem; line-height: 1.5; color: color-mix(in srgb, var(--ink) 78%, transparent); }
+    .sumar-form { display: grid; gap: 16px; }
+    .sumar-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .sumar-form label { display: grid; gap: 6px; font-family: var(--font-action); font-weight: 700; font-size: .98rem; }
+    .sumar-form label small { font-family: var(--font-body); font-weight: 400; color: var(--muted); font-size: .86rem; }
+    .sumar-form input, .sumar-form select { font: inherit; font-family: var(--font-body); font-weight: 400; font-size: 1rem; padding: 12px 14px; border: 1px solid var(--line-strong); border-radius: 12px; background: var(--paper); color: var(--ink); width: 100%; box-sizing: border-box; }
+    .sumar-form input:focus, .sumar-form select:focus { outline: 2px solid var(--accent2); outline-offset: 1px; }
+    .sumar-trampa { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+    .sumar-form button { justify-self: start; font-size: 1.05rem; cursor: pointer; }
+    .sumar-nota { font-size: .9rem; color: var(--muted); margin: 4px 0 0; line-height: 1.45; }
+    .sumar-error { padding: 12px 16px; border-radius: 12px; border: 1px solid var(--accent); color: var(--accent-text); margin: 0 0 18px; font-weight: 700; }
+    .sumar-error[hidden] { display: none; }
+    @media (max-width: 560px) { .sumar-row { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body class="sumar-page">
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="MoVeTe inicio">MoVeTe<span>●</span></a>
+    <nav class="site-nav" aria-label="Secciones principales">
+      <a href="/">Inicio</a>
+      <a href="/en-vivo/">En vivo</a>
+      <a href="/cine/">Cine</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="sumar-panel">
+      <p class="eyebrow">Sumá lo tuyo</p>
+      <h1>Cargá tu evento</h1>
+      <p class="sumar-lead">Obra, show, recital o función en el Gran La Plata. Es gratis. Lo que cargues aparece en la próxima edición de la cartelera (sale los jueves y se actualiza los viernes).</p>
+
+      <p class="sumar-error" id="sumar-error" role="alert" hidden></p>
+
+      <form class="sumar-form" method="post" action="/api/sumar">
+        <label>Nombre del evento
+          <input name="titulo" required minlength="3" maxlength="120" autocomplete="off" placeholder="Ej.: Noche de stand up con amigos">
+        </label>
+
+        <div class="sumar-row">
+          <label>Fecha
+            <input type="date" name="fecha" id="sumar-fecha" required>
+          </label>
+          <label>Hora
+            <input type="time" name="hora" required value="21:00">
+          </label>
+        </div>
+
+        <div class="sumar-row">
+          <label>Sala o lugar
+            <input name="lugar" required maxlength="80" placeholder="Ej.: Tres Empanadas Comedia">
+          </label>
+          <label>Categoría
+            <select name="categoria" required>
+              <option value="">Elegí una</option>
+              <option value="teatro">Teatro</option>
+              <option value="musica">Música</option>
+              <option value="stand-up">Stand up</option>
+              <option value="humor">Humor</option>
+              <option value="impro">Impro</option>
+              <option value="danza">Danza</option>
+              <option value="infantil">Infantil</option>
+              <option value="taller">Taller</option>
+              <option value="a-plasticas">Artes plásticas</option>
+              <option value="otros">Otro</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="sumar-row">
+          <label>Dirección <small>opcional</small>
+            <input name="direccion" maxlength="100" placeholder="Ej.: 43 e/ 22 y 23">
+          </label>
+          <label>Localidad
+            <select name="localidad">
+              <option>La Plata</option>
+              <option>City Bell</option>
+              <option>Gonnet</option>
+              <option>Villa Elisa</option>
+              <option>Tolosa</option>
+              <option>Ringuelet</option>
+              <option>Los Hornos</option>
+              <option>Berisso</option>
+              <option>Ensenada</option>
+            </select>
+          </label>
+        </div>
+
+        <label>Link de entradas o más info <small>opcional — web, Instagram, ticketera</small>
+          <input name="url" maxlength="300" inputmode="url" placeholder="https://…">
+        </label>
+
+        <label>Tu contacto <small>opcional, no se publica — por si hay que consultarte algo</small>
+          <input name="contacto" maxlength="100" placeholder="Mail o WhatsApp">
+        </label>
+
+        <div class="sumar-trampa" aria-hidden="true">
+          <label>No completar <input name="no_completar" tabindex="-1" autocomplete="off"></label>
+        </div>
+
+        <button class="button" type="submit">Sumar a la cartelera →</button>
+        <p class="sumar-nota">¿Varias funciones? Cargá una por fecha. Revisamos lo que entra: spam o eventos fuera de La Plata no se publican.</p>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p class="footer-line">
+      <span class="footer-brand">MoVeTe<span>.</span></span>
+      <span aria-hidden="true">·</span>
+      <span>La Plata</span>
+      <span aria-hidden="true">·</span>
+      <a class="footer-share" href="https://wa.me/5492215247488" target="_blank" rel="noopener" title="Contacto por WhatsApp" aria-label="Contacto por WhatsApp">Contacto <img class="share-icon" src="/assets/icons/whatsapp.svg" alt=""></a>
+    </p>
+  </footer>
+  <script>
+    (function () {
+      const f = document.getElementById('sumar-fecha');
+      const hoy = new Date(Date.now() - 3 * 3600 * 1000).toISOString().slice(0, 10);
+      if (f) f.min = hoy;
+      const msgs = {
+        faltan: 'Faltan datos: revisá el nombre del evento y el lugar.',
+        fecha: 'La fecha tiene que ser de hoy en adelante (hasta seis meses).',
+        hora: 'Revisá la hora.',
+        link: 'El link no parece válido.',
+        limite: 'Llegaste al máximo de cargas por hoy. Si tenés muchas fechas, escribinos por WhatsApp.',
+        formulario: 'No pudimos leer el formulario. Probá de nuevo.'
+      };
+      const err = new URLSearchParams(location.search).get('error');
+      const box = document.getElementById('sumar-error');
+      if (err && box) { box.textContent = msgs[err] || 'Algo salió mal. Probá de nuevo.'; box.hidden = false; }
+    })();
+  </script>
+</body>
+</html>
