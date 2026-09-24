@@ -1,45 +1,5 @@
 [
   {
-    "titulo": "EMPIEZA CON D",
-    "fecha": "2026-09-17 20:30:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Raly Barrionuevo",
-    "fecha": "2026-09-18 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Historias Innecesarias En Vivo.",
-    "fecha": "2026-09-19 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Baglietto Vitale",
-    "fecha": "2026-09-22 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
     "titulo": "EL ESCRITOR DE TODAS LAS COSAS",
     "fecha": "2026-09-25 21:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -48,26 +8,6 @@
     "url": "",
     "fuente": "teatro-metro",
     "imagen": ""
-  },
-  {
-    "titulo": "HOMENAJE SINFONICO A LOS REDONDOS",
-    "fecha": "2026-09-27 20:30:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Historias Innecesarias En Vivo.",
-    "fecha": "2026-09-19 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/historias-innecesarias-en-vivo.-100466",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260210172859_kuc_historias_innecesarias_la_plata_600_500.jpg"
   },
   {
     "titulo": "NEW SENSATION",
@@ -88,26 +28,6 @@
     "url": "https://www.teatrometrolp.com.ar/entrada/te-pido-mil-disculpas-100689",
     "fuente": "teatro-metro",
     "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260602180737_mesa-de-trabajo-1.png"
-  },
-  {
-    "titulo": "Raly Barrionuevo",
-    "fecha": "2026-09-18 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/raly-barrionuevo-100701",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260604132232_ilumus_raly_600x400-laplata.jpg"
-  },
-  {
-    "titulo": "Sofía Calvo | Es hora de hablar",
-    "fecha": "2026-10-10 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/sofia-calvo-es-hora-de-hablar-100716",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260611130621_16__x1____laplata.jpg"
   },
   {
     "titulo": "Show Doctora Queen",
@@ -170,16 +90,6 @@
     "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260716230020_600x450.jpg"
   },
   {
-    "titulo": "Dúo Karma & Urraka",
-    "fecha": "2026-11-08 17:30:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/duo-karma-urraka-100808",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260728200249_web_karma.png"
-  },
-  {
     "titulo": "Tango para tres",
     "fecha": "2026-10-25 20:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -188,26 +98,6 @@
     "url": "https://www.teatrometrolp.com.ar/entrada/tango-para-tres-100822",
     "fuente": "teatro-metro",
     "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260914113159_600x400.png"
-  },
-  {
-    "titulo": "Baglietto Vitale",
-    "fecha": "2026-09-22 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/baglietto-vitale-100824",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260917110812_600x400_baglietto.png"
-  },
-  {
-    "titulo": "EMPIEZA CON D",
-    "fecha": "2026-09-17 20:30:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/empieza-con-d-100834",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260807123318_empieza-con-d-la-plata-600x450.jpg"
   },
   {
     "titulo": "Nuevas historias argentinas | Felipe Pigna & Pedro Saborido",
@@ -248,16 +138,6 @@
     "url": "https://www.teatrometrolp.com.ar/entrada/festival-de-la-musica-italiana-de-la-plata-100857",
     "fuente": "teatro-metro",
     "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260819135738_600x450.png"
-  },
-  {
-    "titulo": "HOMENAJE SINFONICO A LOS REDONDOS",
-    "fecha": "2026-09-27 20:30:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/homenaje-sinfonico-a-los-redondos-100879",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260830200140_3373.jpeg"
   },
   {
     "titulo": "Pequeño Pez",

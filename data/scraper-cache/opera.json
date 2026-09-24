@@ -40,16 +40,6 @@
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/07/Afiche-LA-PLATA_Muro-scaled.jpg"
   },
   {
-    "titulo": "REY GARUFA",
-    "fecha": "2026-09-18 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/rey-garufa-en-el-teatro-opera-lp-18-09",
-    "fuente": "opera",
-    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/08/x1350.jpg"
-  },
-  {
     "titulo": "ROMPIENDO ESPEJOS – Tributo a Callejeros",
     "fecha": "2026-09-25 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -98,5 +88,55 @@
     "url": "https://livepass.com.ar/events/bestia-bebe-en-el-teatro-opera-lp",
     "fuente": "opera",
     "imagen": "https://operalp.com.ar/wp-content/uploads/2026/08/BestiaBB_LP_graficas_x1350-1-scaled.jpg"
+  },
+  {
+    "titulo": "CARMEN SÁNCHEZ VIAMONTE",
+    "fecha": "2026-11-07 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/carmen-sanchez-viamonte-en-el-teatro-opera-lp-2026-11-07-20-00-00-0300",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/09/5.-flyer-BRILLOS-OPERA-FIN-DE-ANO-Historia-de-Instagram.jpg"
+  },
+  {
+    "titulo": "ESQUINA LIBERTAD – Tributo a Los Piojos",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/esquina-libertad-tributo-a-los-piojos-en-el-teatro-opera-lp",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/09/300x475.png"
+  },
+  {
+    "titulo": "COSMIC KID",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/cosmic-kid-en-el-teatro-opera-lp",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/09/la-plata-historia.jpg"
+  },
+  {
+    "titulo": "LUZ GAGGI",
+    "fecha": "2026-12-05 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/luz-gaggi-en-el-teatro-opera-lp-2026-12-05",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/09/x1920-PAUTA-2.jpg"
+  },
+  {
+    "titulo": "FIESTA PLOP: Homenaje a Moria Casan",
+    "fecha": "2026-09-26 21:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/fiesta-plop-homenaje-a-moria-casan-en-el-teatro-opera-lp",
+    "fuente": "opera",
+    "imagen": "https://operalp.com.ar/wp-content/uploads/2026/09/moria-1080x1920-1.png"
   }
 ]

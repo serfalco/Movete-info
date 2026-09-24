@@ -102,6 +102,32 @@
     "tmdb_id": 454639,
     "trailer": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo"
   },
+  "avengers endgame": {
+    "anio": "2019",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "director": "Joe Russo",
+    "duracion": 181,
+    "elenco": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "generos": [
+      "Aventura",
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+    "score": 8.2,
+    "sinopsis": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+    "titulo": "Vengadores: Endgame",
+    "titulo_original": "Avengers: Endgame",
+    "tmdb_id": 299534,
+    "trailer": "https://www.youtube.com/watch?v=Ib847Q7C9AU"
+  },
   "backrooms": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
@@ -128,6 +154,31 @@
     "titulo_original": "Backrooms",
     "tmdb_id": 1083381,
     "trailer": "https://www.youtube.com/watch?v=9EYRSmbsqzY"
+  },
+  "bajo tus pies": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wRRvCEb871lZPcssGwEnJt0l3KN.jpg",
+    "director": "Cristian Bernard",
+    "duracion": 110,
+    "elenco": [
+      "Maribel Verdú",
+      "Sofía Otero",
+      "Erik Probanza"
+    ],
+    "generos": [
+      "Terror"
+    ],
+    "paises": [
+      "Argentina",
+      "Spain"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/fQTACeQLpFoMUqYitxY0DMzfQu9.jpg",
+    "score": 5.0,
+    "sinopsis": "Isabel se muda con sus dos hijos a un edificio muy prestigioso con un alquiler asequible, pero un sistema de admisión peculiar. Una vez aceptados e instalados en su nuevo hogar, tres vecinas ancianas que viven en el piso de abajo le darán un vuelco a sus vidas.",
+    "titulo": "Bajo tus pies",
+    "titulo_original": "Bajo tus pies",
+    "tmdb_id": 1180894,
+    "trailer": "https://www.youtube.com/watch?v=2f2IUUapOzA"
   },
   "bleach thousand year blood war the calamity": {
     "anio": "2026",
@@ -235,6 +286,32 @@
     "titulo_original": "The Magic Faraway Tree",
     "tmdb_id": 1140521,
     "trailer": "https://www.youtube.com/watch?v=qsrMA7Eovaw"
+  },
+  "el corazon de la bestia": {
+    "anio": "2011",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hU4OdICqRXj3JFnSJsrR0SJejZy.jpg",
+    "director": "Daniel Barnz",
+    "duracion": 95,
+    "elenco": [
+      "Alex Pettyfer",
+      "Vanessa Hudgens",
+      "Mary-Kate Olsen"
+    ],
+    "generos": [
+      "Romance",
+      "Fantasía",
+      "Drama"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/z2x8FwlZRMXADSikoHNj8VC1kwd.jpg",
+    "score": 6.3,
+    "sinopsis": "Kyle es un joven cuyo atractivo le hace creer que está por encima de los demás. Pero todo cambia cuando una bruja lo transforma en un monstruo para darle una lección. El chico deberá conseguir que alguien se enamore de él en menos de un año, o se quedará con ese aspecto para siempre. Adaptación moderna del cuento clásico \"La bella y la bestia\", que la escritora francesa Gabrielle-Suzanne Barbot de Villeneuve recogió por primera vez por escrito en el año 1740. A pesar de todo, la cinta no sigue la historia original, sino que se basa en la novela \"La bestia\", de Alex Flinn, un superventas entre el público adolescente en Estados Unidos.",
+    "titulo": "El corazón de la bestia",
+    "titulo_original": "Beastly",
+    "tmdb_id": 38117,
+    "trailer": "https://www.youtube.com/watch?v=0WAG4A5Wt5c"
   },
   "el dia d bajo presion": {
     "anio": "2026",
@@ -419,6 +496,33 @@
     "tmdb_id": 1666712,
     "trailer": ""
   },
+  "el ultimo gran golpe": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+    "director": "Derrick Borte",
+    "duracion": 101,
+    "elenco": [
+      "Russell Crowe",
+      "Luke Evans",
+      "Teresa Palmer"
+    ],
+    "generos": [
+      "Acción",
+      "Suspense"
+    ],
+    "paises": [
+      "United States of America",
+      "Australia",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+    "score": 6.0,
+    "sinopsis": "El dueño de un club nocturno está a punto de dejar atrás su peligroso pasado para volver a vivir con su novia. Cuando unos pistoleros enmascarados le roban y se ve acorralado por despiadados cárteles, llega un misterioso hombre interesado en comprar el negocio. Con el peligro acechándole por todos lados, deberá atravesar una mortífera red de engaños, poder y supervivencia, de la que escapar puede que ya no sea una opción.",
+    "titulo": "El último gran golpe",
+    "titulo_original": "The Get Out",
+    "tmdb_id": 1279493,
+    "trailer": ""
+  },
   "engendro": {
     "anio": "1977",
     "backdrop": "https://image.tmdb.org/t/p/w780/UJZePu7YMnmj4B6d7ilmXMI0c5.jpg",
@@ -601,6 +705,34 @@
     "titulo_original": "The Invite",
     "tmdb_id": 950028,
     "trailer": ""
+  },
+  "la isla olvidada": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+    "director": "Januel Mercado",
+    "duracion": 109,
+    "elenco": [
+      "H.E.R.",
+      "Liza Soberano",
+      "Dave Franco"
+    ],
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Fantasía",
+      "Comedia",
+      "Familia"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+    "score": 7.6,
+    "sinopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+    "titulo": "La isla olvidada",
+    "titulo_original": "Forgotten Island",
+    "tmdb_id": 1465063,
+    "trailer": "https://www.youtube.com/watch?v=uW2uWXiBpIs"
   },
   "la muerte de robin hood": {
     "anio": "2026",
@@ -1102,6 +1234,34 @@
     "titulo": "The Mandalorian and Grogu",
     "titulo_original": "The Mandalorian and Grogu",
     "tmdb_id": 1228710
+  },
+  "su propio infierno": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+    "director": "Nicolas Winding Refn",
+    "duracion": 110,
+    "elenco": [
+      "Sophie Thatcher",
+      "Charles Melton",
+      "Havana Rose Liu"
+    ],
+    "generos": [
+      "Ciencia ficción",
+      "Terror",
+      "Suspense"
+    ],
+    "paises": [
+      "United States of America",
+      "Denmark",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/xFXoPwN8zRtC0ayA6UKmCK11Isy.jpg",
+    "score": 5.1,
+    "sinopsis": "Cuando una misteriosa niebla envuelve una metrópolis futurista, liberando a una presencia esquiva y letal, una atormentada joven se lanza a la búsqueda de su padre. Su búsqueda se cruza con la de un soldado estadounidense inmerso en una angustiosa odisea para rescatar a su hija del infierno.",
+    "titulo": "Su propio infierno",
+    "titulo_original": "Her Private Hell",
+    "tmdb_id": 1469342,
+    "trailer": ""
   },
   "super mario galaxy": {
     "anio": "2026",

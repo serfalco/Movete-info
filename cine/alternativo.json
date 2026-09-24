@@ -1,98 +1,170 @@
 [
   {
-    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
+    "titulo": "Romeo y Ofelia (Dir. Gustavo Postiglione)",
+    "hora": "16:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-25"
+  },
+  {
+    "titulo": "Los vencedores (Dir. Pablo Aparo)",
     "hora": "18:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-18"
+    "fecha": "2026-09-25"
   },
   {
-    "titulo": "Bleu - Tres colores: Azul (Dir. Krzysztof Kieślowski)",
-    "hora": "19:30",
-    "espacio": "Compás",
-    "fecha": "2026-09-18"
+    "titulo": "La piel que habito (Pedro Almodóvar, 2011)",
+    "hora": "19:00",
+    "espacio": "Espacio Satélite",
+    "fecha": "2026-09-25"
   },
   {
-    "titulo": "Soy Cuba (Dir. Mikhail Kalatozov)",
+    "titulo": "La tierra explota, el tiempo se acaba (Dir. Juan Pablo Lepore)",
+    "hora": "20:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-25"
+  },
+  {
+    "titulo": "Ahora tocan ellas! (Dir. Sara Silvia Kochen)",
     "hora": "20:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-18"
+    "fecha": "2026-09-25"
   },
   {
-    "titulo": "Rey Garufa",
-    "hora": "21:00",
-    "espacio": "Teatro Opera",
-    "fecha": "2026-09-18"
+    "titulo": "No Home Movie (Dir. Chantal Akerman - 2015)",
+    "hora": "22:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-25"
   },
   {
-    "titulo": "El placer de la tortura (Dir. Teruo Ishii)",
+    "titulo": "Vortex (Dir. Gaspar Noé)",
     "hora": "23:55",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-18"
+    "fecha": "2026-09-25"
   },
   {
-    "titulo": "Los visionadores + Delito de corrupción",
+    "titulo": "Romeo y Ofelia (Dir. Gustavo Postiglione)",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-26"
+  },
+  {
+    "titulo": "Nené y las cosas (Dir. Martin Salina)",
     "hora": "19:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-19"
+    "fecha": "2026-09-26"
   },
   {
-    "titulo": "Ciencia Ficción en la Unión Soviética",
+    "titulo": "Johnny Corncob",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-19"
+    "fecha": "2026-09-26"
   },
   {
-    "titulo": "La niña santa (Dir. Lucrecia Martel)",
-    "hora": "20:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-20"
-  },
-  {
-    "titulo": "No Home Movie (Dir. Chantal Akerman - 2015)",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-21"
-  },
-  {
-    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
-    "hora": "20:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-22"
-  },
-  {
-    "titulo": "La gente detrás de las paredes (Dir. Wes Craven - 1991)",
+    "titulo": "Vortex (Dir. Gaspar Noé)",
     "hora": "21:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-22"
+    "fecha": "2026-09-26"
   },
   {
-    "titulo": "We are making (Dir. Mark Fisher)",
+    "titulo": "Akira 30 aniversario (Dir. Katsuhiro Ōtomo)",
+    "hora": "23:55",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-26"
+  },
+  {
+    "titulo": "Aballay, el hombre sin miedo (Dir. Fernando Spiner - 2010)",
+    "hora": "17:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-27"
+  },
+  {
+    "titulo": "Cin3 fili4 (Dor. Raúl Perrone)",
     "hora": "18:00",
-    "espacio": "Nacional Cafe",
-    "fecha": "2026-09-23"
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-27"
   },
   {
-    "titulo": "Los caminantes de la calle (Dir. Juan Martín Hsu)",
+    "titulo": "Los vencedores (Dir. Pablo Aparo)",
     "hora": "18:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-23"
+    "fecha": "2026-09-27"
   },
   {
-    "titulo": "No Home Movie (Dir. Chantal Akerman - 2015)",
+    "titulo": "Nuestra tierra (Dir. Lucrecia Martel)",
     "hora": "19:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-23"
+    "fecha": "2026-09-27"
   },
   {
-    "titulo": "Todas las canciones hablan de mí (Dir. Jonás Trueba)",
+    "titulo": "La mujer sin cabeza (Dir. Lucrecia Martel)",
+    "hora": "20:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-27"
+  },
+  {
+    "titulo": "Akira 30 aniversario",
     "hora": "20:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-23"
+    "fecha": "2026-09-27"
   },
   {
-    "titulo": "The Duellists (Dir. Ridley Scott - 1977)",
+    "titulo": "Vortex (Dir. Gaspar Noé)",
+    "hora": "21:30",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-09-27"
+  },
+  {
+    "titulo": "Cin3 fili4 (Dor. Raúl Perrone)",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-28"
+  },
+  {
+    "titulo": "De repente, el último verano (Dir. Joseph L. Mankiewicz)",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-23"
+    "fecha": "2026-09-28"
+  },
+  {
+    "titulo": "Los vencedores (Dir. Pablo Aparo)",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-09-29"
+  },
+  {
+    "titulo": "Cin3 fili4 (Dor. Raúl Perrone)",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-29"
+  },
+  {
+    "titulo": "Villa Olímpica. Recuerdos de un mundo fuera de lugar (Dir. Sebastian Kohan)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-09-29"
+  },
+  {
+    "titulo": "La hora del Vampiro (Dir. Tobe Hooper)",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-29"
+  },
+  {
+    "titulo": "Los vencedores (Dir. Pablo Aparo)",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-09-30"
+  },
+  {
+    "titulo": "Cin3 fili4 (Dor. Raúl Perrone)",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-30"
+  },
+  {
+    "titulo": "Heaat (Dir. Michael Mann - 1995)",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-09-30"
   }
 ]

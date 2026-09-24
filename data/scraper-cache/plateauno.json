@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "EMPIEZA CON D SIETE LETRAS",
-    "fecha": "2026-09-17 20:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9998/empieza-con-d-siete-letras",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3197.jpeg"
-  },
-  {
-    "titulo": "HISTORIAS INNECESARIAS",
-    "fecha": "2026-09-19 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9586/historias-innecesarias",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3093.jpeg"
-  },
-  {
     "titulo": "EL ESCRITOR DE TODAS LAS",
     "fecha": "2026-09-25 21:00:00",
     "lugar": "Metro",
@@ -28,16 +8,6 @@
     "url": "https://www.plateaunotickets.com/obra/9917/el-escritor-de-todas-las",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3312.jpeg"
-  },
-  {
-    "titulo": "HOMENAJE SINFONICO A REDONDOS",
-    "fecha": "2026-09-27 20:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/10008/homenaje-sinfonico-a-redondos",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3373.jpeg"
   },
   {
     "titulo": "EL HOMBRE INESPERADO.",

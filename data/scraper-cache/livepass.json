@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "REY GARUFA",
-    "fecha": "2026-09-18 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "TAREA FINA",
     "fecha": "2026-10-16 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -108,26 +98,6 @@
     "url": "",
     "fuente": "livepass",
     "imagen": ""
-  },
-  {
-    "titulo": "REY GARUFA",
-    "fecha": "2026-09-18 20:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/rey-garufa-en-el-teatro-opera-lp-18-09",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/0b0c0e520e413fbe620d43e79f8e1c20c030c492.jpg?1786035824"
-  },
-  {
-    "titulo": "DIEGO TORRES",
-    "fecha": "2026-09-19 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/diego-torres-en-el-hipodromo-de-la-plata",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/51902a12f8fed0bf88cb4913504ec77ba2e9eb63.jpg?1778530420"
   },
   {
     "titulo": "ROMPIENDO ESPEJOS - Tributo a Callejeros",
@@ -418,6 +388,16 @@
     "url": "https://livepass.com.ar/events/un-poco-de-ruido-en-el-hipodromo-de-la-plata",
     "fuente": "livepass",
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/962e720eee98fd5fe2f8d66dbd37bef0db79b587.jpg?1786717683"
+  },
+  {
+    "titulo": "LA BANDA DE CARLITOS Y EUGE QUEVEDO",
+    "fecha": "2026-12-04 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Av. 44 y 115, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/la-banda-de-carlitos-y-euge-quevedo-en-el-hipodromo-de-la-plata",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/f10cfcca9c3361b80a687c681e1ffc79ffc37670.jpg?1789674475"
   },
   {
     "titulo": "LUZ GAGGI",

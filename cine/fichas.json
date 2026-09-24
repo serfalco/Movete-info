@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "454639": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1108427": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "18775": {
     "tmdb": {
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1443576": {
     "tmdb": {
@@ -4306,7 +4306,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1101383": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1698443": {
     "tmdb": {
@@ -4575,7 +4575,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1240889": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "8392": {
     "tmdb": {
@@ -5821,7 +5821,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1384216": {
     "tmdb": {
@@ -5991,7 +5991,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1273495": {
     "tmdb": {
@@ -6322,7 +6322,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1477712": {
     "tmdb": {
@@ -7054,7 +7054,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1187326": {
     "tmdb": {
@@ -7146,7 +7146,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "19576": {
     "tmdb": {
@@ -7593,7 +7593,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-17"
+    "ultima_semana": "2026-09-24"
   },
   "1140521": {
     "tmdb": {
@@ -7971,5 +7971,1011 @@
       ]
     },
     "ultima_semana": "2026-09-17"
+  },
+  "299534": {
+    "tmdb": {
+      "tmdb_id": 299534,
+      "titulo": "Vengadores: Endgame",
+      "titulo_original": "Avengers: Endgame",
+      "tagline": "Nada puede prepararte para el final.",
+      "anio": "2019",
+      "estreno": "2019-04-24",
+      "duracion": 181,
+      "generos": [
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "score": 8.2,
+      "votos": 28756,
+      "certificacion": "+13",
+      "sinopsis": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "https://image.tmdb.org/t/p/w780/9wXPKruA6bWYk2co5ix6fH59Qr8.jpg",
+        "https://image.tmdb.org/t/p/w780/orjiB3oUIsyz60hoEqkiGpy5CeO.jpg",
+        "https://image.tmdb.org/t/p/w780/91iy9F1JOG1dvM6M6JNYgvScZpK.jpg",
+        "https://image.tmdb.org/t/p/w780/5NtF6XT0NGqzFCc3hSZ7x0Q5EoT.jpg",
+        "https://image.tmdb.org/t/p/w780/dVSMKPEaiwujXE7kQkvixPLieHR.jpg"
+      ],
+      "director": "Joe Russo",
+      "guionistas": [
+        "Stephen McFeely",
+        "Christopher Markus"
+      ],
+      "musica": "Alan Silvestri",
+      "elenco": [
+        {
+          "nombre": "Robert Downey Jr.",
+          "personaje": "Tony Stark / Iron Man",
+          "foto": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
+          "iniciales": "RJ"
+        },
+        {
+          "nombre": "Chris Evans",
+          "personaje": "Steve Rogers / Captain America",
+          "foto": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
+          "iniciales": "CE"
+        },
+        {
+          "nombre": "Mark Ruffalo",
+          "personaje": "Bruce Banner / Hulk",
+          "foto": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg",
+          "iniciales": "MR"
+        },
+        {
+          "nombre": "Chris Hemsworth",
+          "personaje": "Thor",
+          "foto": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg",
+          "iniciales": "CH"
+        },
+        {
+          "nombre": "Scarlett Johansson",
+          "personaje": "Natasha Romanoff / Black Widow",
+          "foto": "https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg",
+          "iniciales": "SJ"
+        },
+        {
+          "nombre": "Jeremy Renner",
+          "personaje": "Clint Barton / Hawkeye",
+          "foto": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg",
+          "iniciales": "JR"
+        },
+        {
+          "nombre": "Josh Brolin",
+          "personaje": "Thanos",
+          "foto": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Don Cheadle",
+          "personaje": "James Rhodes / War Machine",
+          "foto": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg",
+          "iniciales": "DC"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "日本語",
+        "Xhosa"
+      ],
+      "productoras": [
+        "Marvel Studios"
+      ],
+      "temas": [
+        "Superhero",
+        "Time travel",
+        "Space travel",
+        "Time machine",
+        "Based on comic",
+        "Sequel",
+        "Alien invasion",
+        "Superhero team"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+      "teaser": "",
+      "imdb_id": "tt4154796",
+      "homepage": "https://www.vengadoresdoomsday.es",
+      "coleccion": {
+        "nombre": "Los Vengadores - Colección",
+        "partes": [
+          {
+            "tmdb_id": 24428,
+            "titulo": "Vengadores",
+            "anio": "2012",
+            "poster": "https://image.tmdb.org/t/p/w342/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+            "fecha": "2012-04-25"
+          },
+          {
+            "tmdb_id": 99861,
+            "titulo": "Vengadores: La era de Ultrón",
+            "anio": "2015",
+            "poster": "https://image.tmdb.org/t/p/w342/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
+            "fecha": "2015-04-22"
+          },
+          {
+            "tmdb_id": 299536,
+            "titulo": "Vengadores: Infinity War",
+            "anio": "2018",
+            "poster": "https://image.tmdb.org/t/p/w342/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+            "fecha": "2018-04-25"
+          },
+          {
+            "tmdb_id": 299534,
+            "titulo": "Vengadores: Endgame",
+            "anio": "2019",
+            "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+            "fecha": "2019-04-24"
+          },
+          {
+            "tmdb_id": 1003596,
+            "titulo": "Vengadores: Doomsday",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/rQKabpeIewLLNStFr3anEXI0xqu.jpg",
+            "fecha": "2026-12-16"
+          },
+          {
+            "tmdb_id": 1003598,
+            "titulo": "Vengadores: Secret Wars",
+            "anio": "2027",
+            "poster": "https://image.tmdb.org/t/p/w342/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+            "fecha": "2027-12-15"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 367882,
+          "titulo": "더 폰",
+          "anio": "2015",
+          "poster": "https://image.tmdb.org/t/p/w342/vmk6jN98rr1TcHubmR2ZefMI7bt.jpg",
+          "score": 6.9
+        },
+        {
+          "tmdb_id": 765810,
+          "titulo": "The Moon is a Hologram",
+          "anio": "",
+          "poster": "https://image.tmdb.org/t/p/w342/kYnFGDUt49ebhpdU0H2pwHqgX4s.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 573730,
+          "titulo": "Made in Abyss 3: Amanecer del alma profunda",
+          "anio": "2020",
+          "poster": "https://image.tmdb.org/t/p/w342/tdLQI40RZC8aQ9cbRhBdprcsHYx.jpg",
+          "score": 7.864
+        },
+        {
+          "tmdb_id": 125249,
+          "titulo": "Batman",
+          "anio": "1943",
+          "poster": "https://image.tmdb.org/t/p/w342/8UDm0AaKfbncEBP2xcKo4k2cIFZ.jpg",
+          "score": 6.184
+        },
+        {
+          "tmdb_id": 127675,
+          "titulo": "Los autómatas de la muerte",
+          "anio": "1962",
+          "poster": "https://image.tmdb.org/t/p/w342/kMg315Wa2RBnaHIhRHqWw6yqyrk.jpg",
+          "score": 5.679
+        },
+        {
+          "tmdb_id": 422766,
+          "titulo": "Ostwind 3 - Aufbruch nach Ora",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/ci5t2ik1YqJBglHdJyXWISg8eIh.jpg",
+          "score": 7.4
+        },
+        {
+          "tmdb_id": 200395,
+          "titulo": "Ninpu Sentai Hurricaneger: Shushuuto the Movie",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/iwbwABFVMzq3DRQa8L8o87tU3g.jpg",
+          "score": 5.708
+        },
+        {
+          "tmdb_id": 200412,
+          "titulo": "魔法戦隊マジレンジャー THE MOVIE インフェルシアの花嫁",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/3fXftU5E2vlXD51LiZhMo4Sbc4x.jpg",
+          "score": 6.35
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-24"
+  },
+  "1180894": {
+    "tmdb": {
+      "tmdb_id": 1180894,
+      "titulo": "Bajo tus pies",
+      "titulo_original": "Bajo tus pies",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-02-19",
+      "duracion": 110,
+      "generos": [
+        "Terror"
+      ],
+      "score": 5.0,
+      "votos": 27,
+      "certificacion": "+16",
+      "sinopsis": "Isabel se muda con sus dos hijos a un edificio muy prestigioso con un alquiler asequible, pero un sistema de admisión peculiar. Una vez aceptados e instalados en su nuevo hogar, tres vecinas ancianas que viven en el piso de abajo le darán un vuelco a sus vidas.",
+      "poster": "https://image.tmdb.org/t/p/w342/fQTACeQLpFoMUqYitxY0DMzfQu9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wRRvCEb871lZPcssGwEnJt0l3KN.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/wRRvCEb871lZPcssGwEnJt0l3KN.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/wRRvCEb871lZPcssGwEnJt0l3KN.jpg",
+        "https://image.tmdb.org/t/p/w780/fRucMUdG87INBANEjJzF5QKUxon.jpg"
+      ],
+      "director": "Cristian Bernard",
+      "guionistas": [
+        "Cristian Bernard",
+        "Hernán Moyano",
+        "Ana Esperanza Villar Romarís"
+      ],
+      "musica": "Sergio Figueroa, Tomas Leonhardt",
+      "elenco": [
+        {
+          "nombre": "Maribel Verdú",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+          "iniciales": "MV"
+        },
+        {
+          "nombre": "Sofía Otero",
+          "personaje": "Lucía",
+          "foto": "https://image.tmdb.org/t/p/w185/4B2F3TwZlpDnyBPWkEk2kv1zj12.jpg",
+          "iniciales": "SO"
+        },
+        {
+          "nombre": "Erik Probanza",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/axbNHusACv26Ys8YDCH7CdW7p4m.jpg",
+          "iniciales": "EP"
+        },
+        {
+          "nombre": "Urko Olazábal",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/fkLYtgVFIim0mbmdBXjkoogjTSm.jpg",
+          "iniciales": "UO"
+        },
+        {
+          "nombre": "Marcelo Galván",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "MG"
+        },
+        {
+          "nombre": "Ibai Atanes",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "IA"
+        },
+        {
+          "nombre": "Zorion Eguileor",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/vKv31N3RKzwd82REqsl37aOeXcr.jpg",
+          "iniciales": "ZE"
+        },
+        {
+          "nombre": "Sandra Ferrús",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/9iJdwxJUJSIts1EoE5Of1vpjolm.jpg",
+          "iniciales": "SF"
+        }
+      ],
+      "paises": [
+        "Argentina",
+        "Spain"
+      ],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [
+        "Basque Films"
+      ],
+      "temas": [],
+      "trailer": "https://www.youtube.com/watch?v=2f2IUUapOzA",
+      "teaser": "",
+      "imdb_id": "tt6215522",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-09-24"
+  },
+  "1465063": {
+    "tmdb": {
+      "tmdb_id": 1465063,
+      "titulo": "La isla olvidada",
+      "titulo_original": "Forgotten Island",
+      "tagline": "Sin dejar ningún recuerdo atrás.",
+      "anio": "2026",
+      "estreno": "2026-09-10",
+      "duracion": 109,
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Fantasía",
+        "Comedia",
+        "Familia"
+      ],
+      "score": 7.6,
+      "votos": 12,
+      "certificacion": "ATP",
+      "sinopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
+        "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+        "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+        "https://image.tmdb.org/t/p/w780/aES4LfrjUhYsj9xF4hOIPfvoIW2.jpg",
+        "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+        "https://image.tmdb.org/t/p/w780/obsM8IyBz3jn8hbru8V5btBRSBk.jpg"
+      ],
+      "director": "Januel Mercado",
+      "guionistas": [
+        "Joel Crawford",
+        "Januel Mercado"
+      ],
+      "musica": "Nathan Matthew David",
+      "elenco": [
+        {
+          "nombre": "H.E.R.",
+          "personaje": "Jo (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/x025IY7XsQIL18aetxJKnEvWYCm.jpg",
+          "iniciales": "H."
+        },
+        {
+          "nombre": "Liza Soberano",
+          "personaje": "Raissa (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/4HdHYyLpqTsceBs9hPIFx8Mnl19.jpg",
+          "iniciales": "LS"
+        },
+        {
+          "nombre": "Dave Franco",
+          "personaje": "Raww (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg",
+          "iniciales": "DF"
+        },
+        {
+          "nombre": "Lea Salonga",
+          "personaje": "Manang (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/cA8lv5GCU5DkZMEeplaVgttrlXr.jpg",
+          "iniciales": "LS"
+        },
+        {
+          "nombre": "Jenny Slate",
+          "personaje": "Batiba (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/iNpXig5Djkh5moYG4TCekIATs5B.jpg",
+          "iniciales": "JS"
+        },
+        {
+          "nombre": "Manny Jacinto",
+          "personaje": "Bungi (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/jMbNV4nr5647r6CZJbT6nsnspMz.jpg",
+          "iniciales": "MJ"
+        },
+        {
+          "nombre": "Dolly de Leon",
+          "personaje": "Lola Fatima (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/mNskbR6hayRY3DjTcECqIJ7eQsO.jpg",
+          "iniciales": "DL"
+        },
+        {
+          "nombre": "Jo Koy",
+          "personaje": "Datu (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/rbD9UnkYFYsmewSn2YFPI8lL5UI.jpg",
+          "iniciales": "JK"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Tagalog"
+      ],
+      "productoras": [
+        "DreamWorks Animation"
+      ],
+      "temas": [
+        "Island",
+        "Female friendship",
+        "Memory",
+        "3d animation",
+        "Filipino",
+        "Filipino mythology",
+        "Filipino culture",
+        "Art shift"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
+      "teaser": "",
+      "imdb_id": "tt36583977",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 943794,
+          "titulo": "Le sciamane",
+          "anio": "2000",
+          "poster": "https://image.tmdb.org/t/p/w342/oIPi97BXoDz9UCttLcRfA6peZvd.jpg",
+          "score": 8.0
+        },
+        {
+          "tmdb_id": 946941,
+          "titulo": "Arthur",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/AumnOaU6vlofr5o64UJdrEderz0.jpg",
+          "score": 8.0
+        },
+        {
+          "tmdb_id": 367961,
+          "titulo": "Savva: el corazón del guerrero",
+          "anio": "2015",
+          "poster": "https://image.tmdb.org/t/p/w342/arwfYJjPY4MtiS5eQynZ96VQorQ.jpg",
+          "score": 5.455
+        },
+        {
+          "tmdb_id": 124277,
+          "titulo": "The Maker",
+          "anio": "2011",
+          "poster": "https://image.tmdb.org/t/p/w342/4geL2tHSHECuG0WjHYMxaUidiWa.jpg",
+          "score": 7.518
+        },
+        {
+          "tmdb_id": 787191,
+          "titulo": "Non Scordarti",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/htXbbXFAi8Dnqxzed0SfXf4hgMz.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 1316941,
+          "titulo": "Impossible Maladies",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/cDoeqID46fIEy1cdeJN22qslRpP.jpg",
+          "score": 8.0
+        },
+        {
+          "tmdb_id": 445946,
+          "titulo": "SNIP",
+          "anio": "2016",
+          "poster": "https://image.tmdb.org/t/p/w342/1VPTf4XQknkvLKvoQod9PuQwnOZ.jpg",
+          "score": 6.25
+        },
+        {
+          "tmdb_id": 244,
+          "titulo": "King Kong",
+          "anio": "1933",
+          "poster": "https://image.tmdb.org/t/p/w342/wlRhyQOC67Q9dxqd2Fpsh64kFHh.jpg",
+          "score": 7.585
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-24"
+  },
+  "38117": {
+    "tmdb": {
+      "tmdb_id": 38117,
+      "titulo": "El corazón de la bestia",
+      "titulo_original": "Beastly",
+      "tagline": "Lo que importa es el interior",
+      "anio": "2011",
+      "estreno": "2011-01-21",
+      "duracion": 95,
+      "generos": [
+        "Romance",
+        "Fantasía",
+        "Drama"
+      ],
+      "score": 6.3,
+      "votos": 2897,
+      "certificacion": "PG-13",
+      "sinopsis": "Kyle es un joven cuyo atractivo le hace creer que está por encima de los demás. Pero todo cambia cuando una bruja lo transforma en un monstruo para darle una lección. El chico deberá conseguir que alguien se enamore de él en menos de un año, o se quedará con ese aspecto para siempre. Adaptación moderna del cuento clásico \"La bella y la bestia\", que la escritora francesa Gabrielle-Suzanne Barbot de Villeneuve recogió por primera vez por escrito en el año 1740. A pesar de todo, la cinta no sigue la historia original, sino que se basa en la novela \"La bestia\", de Alex Flinn, un superventas entre el público adolescente en Estados Unidos.",
+      "poster": "https://image.tmdb.org/t/p/w342/z2x8FwlZRMXADSikoHNj8VC1kwd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hU4OdICqRXj3JFnSJsrR0SJejZy.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/hU4OdICqRXj3JFnSJsrR0SJejZy.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/hU4OdICqRXj3JFnSJsrR0SJejZy.jpg",
+        "https://image.tmdb.org/t/p/w780/2ZXBRvKOly0ELNb02Bg0kd6Ysv0.jpg",
+        "https://image.tmdb.org/t/p/w780/36na33t7D3zKzaqdzEmURzQdx1j.jpg",
+        "https://image.tmdb.org/t/p/w780/uZ1fMuaSZ1gXAtXB1eeLaWj9MDB.jpg",
+        "https://image.tmdb.org/t/p/w780/pUb8mWNuRhfSBNcxmwdxtk52WsL.jpg",
+        "https://image.tmdb.org/t/p/w780/7Dd7TplF5LUEq2KuDKZj8PweThF.jpg"
+      ],
+      "director": "Daniel Barnz",
+      "guionistas": [
+        "Daniel Barnz"
+      ],
+      "musica": "Marcelo Zarvos",
+      "elenco": [
+        {
+          "nombre": "Alex Pettyfer",
+          "personaje": "Kyle Kingson",
+          "foto": "https://image.tmdb.org/t/p/w185/jcejkad2OWB71Bz1RRc4Ib0961k.jpg",
+          "iniciales": "AP"
+        },
+        {
+          "nombre": "Vanessa Hudgens",
+          "personaje": "Lindy Taylor",
+          "foto": "https://image.tmdb.org/t/p/w185/lZQPTRoJLgfsARWdpxQid2dDzhr.jpg",
+          "iniciales": "VH"
+        },
+        {
+          "nombre": "Mary-Kate Olsen",
+          "personaje": "Kendra Hilferty",
+          "foto": "https://image.tmdb.org/t/p/w185/AsoqQdZiBBSfbNAP8HPuzu7ePUP.jpg",
+          "iniciales": "MO"
+        },
+        {
+          "nombre": "LisaGay Hamilton",
+          "personaje": "Zola Davies",
+          "foto": "https://image.tmdb.org/t/p/w185/bqfowff4gF0cGaQ1c7F89HAL3DH.jpg",
+          "iniciales": "LH"
+        },
+        {
+          "nombre": "Neil Patrick Harris",
+          "personaje": "Will Fratalli",
+          "foto": "https://image.tmdb.org/t/p/w185/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg",
+          "iniciales": "NH"
+        },
+        {
+          "nombre": "Dakota Johnson",
+          "personaje": "Sloan Hagen",
+          "foto": "https://image.tmdb.org/t/p/w185/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg",
+          "iniciales": "DJ"
+        },
+        {
+          "nombre": "Erik Knudsen",
+          "personaje": "Trey Madison",
+          "foto": "https://image.tmdb.org/t/p/w185/hQu5bMNND94HpxyaVASKpj9GMtU.jpg",
+          "iniciales": "EK"
+        },
+        {
+          "nombre": "Peter Krause",
+          "personaje": "Rob Kingson",
+          "foto": "https://image.tmdb.org/t/p/w185/4p42emuJrU8fFxbBuOhYFFdzmN6.jpg",
+          "iniciales": "PK"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Español"
+      ],
+      "productoras": [
+        "Storefront Films"
+      ],
+      "temas": [
+        "High school",
+        "Based on novel or book",
+        "Bullying",
+        "Love",
+        "Beautiful woman",
+        "Curse",
+        "Tutor",
+        "Based on fairy tale"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=0WAG4A5Wt5c",
+      "teaser": "",
+      "imdb_id": "tt1152398",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 743751,
+          "titulo": "Scotch Tension",
+          "anio": "2020",
+          "poster": "https://image.tmdb.org/t/p/w342/qvcEYf3xAp86G4p2KVkQ0XLB1op.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 744161,
+          "titulo": "猫系同桌是大神",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/jOs8bGso4MBH854g14yxbEkvNwf.jpg",
+          "score": 5.143
+        },
+        {
+          "tmdb_id": 939863,
+          "titulo": "Tereza",
+          "anio": "1961",
+          "poster": "https://image.tmdb.org/t/p/w342/ocACnzk32nSSKnphw8wktHmQrvQ.jpg",
+          "score": 3.25
+        },
+        {
+          "tmdb_id": 578983,
+          "titulo": "Sam and Elvis",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/qQ2BGSPvbQS3xUIcBk2bDiYp1U.jpg",
+          "score": 9.333
+        },
+        {
+          "tmdb_id": 1532008,
+          "titulo": "Blir du ledsen om jag dör?",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/iZVBtNHrgNLnQ4PwEQIbDZ6Kti3.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 159417,
+          "titulo": "Chasing a Dream",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/wyszVbHFePiSoq6wzMIwQORTfBY.jpg",
+          "score": 6.3
+        },
+        {
+          "tmdb_id": 576071,
+          "titulo": "Unplanned",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/qoEIFIISlNI2r30o8GuxS58rF3H.jpg",
+          "score": 6.778
+        },
+        {
+          "tmdb_id": 599821,
+          "titulo": "Unkahi",
+          "anio": "2016",
+          "poster": "https://image.tmdb.org/t/p/w342/nYHIdY8btZeRUpma2VLdbJo2KwF.jpg",
+          "score": 10.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-24"
+  },
+  "1469342": {
+    "tmdb": {
+      "tmdb_id": 1469342,
+      "titulo": "Su propio infierno",
+      "titulo_original": "Her Private Hell",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-07-23",
+      "duracion": 110,
+      "generos": [
+        "Ciencia ficción",
+        "Terror",
+        "Suspense"
+      ],
+      "score": 5.1,
+      "votos": 63,
+      "certificacion": "+16",
+      "sinopsis": "Cuando una misteriosa niebla envuelve una metrópolis futurista, liberando a una presencia esquiva y letal, una atormentada joven se lanza a la búsqueda de su padre. Su búsqueda se cruza con la de un soldado estadounidense inmerso en una angustiosa odisea para rescatar a su hija del infierno.",
+      "poster": "https://image.tmdb.org/t/p/w342/xFXoPwN8zRtC0ayA6UKmCK11Isy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+        "https://image.tmdb.org/t/p/w780/6igS8o4pdqtKN6IPUWP7pYUdTrc.jpg",
+        "https://image.tmdb.org/t/p/w780/gqlTUoUAP8qViJmnEHD5QM41dX7.jpg",
+        "https://image.tmdb.org/t/p/w780/sPgUXbF8rQrqsB2ec4yBoRQMKJ5.jpg",
+        "https://image.tmdb.org/t/p/w780/gqru8w25hrKYeGJAViW8DAL9xDY.jpg",
+        "https://image.tmdb.org/t/p/w780/n5PopmkXa0w2qWmPYKHuD8NpPf6.jpg"
+      ],
+      "director": "Nicolas Winding Refn",
+      "guionistas": [
+        "Nicolas Winding Refn",
+        "Esti Giordani"
+      ],
+      "musica": "Pino Donaggio",
+      "elenco": [
+        {
+          "nombre": "Sophie Thatcher",
+          "personaje": "Elle",
+          "foto": "https://image.tmdb.org/t/p/w185/lQfSgP34VWtZXuyvULsA6ZZl3qE.jpg",
+          "iniciales": "ST"
+        },
+        {
+          "nombre": "Charles Melton",
+          "personaje": "Private K",
+          "foto": "https://image.tmdb.org/t/p/w185/yQckwdk03189RodjMYjp17huHyS.jpg",
+          "iniciales": "CM"
+        },
+        {
+          "nombre": "Havana Rose Liu",
+          "personaje": "Dominique",
+          "foto": "https://image.tmdb.org/t/p/w185/lqdialbfdj5l4KYMSlL4aausMaV.jpg",
+          "iniciales": "HL"
+        },
+        {
+          "nombre": "Kristine Froseth",
+          "personaje": "Hunter",
+          "foto": "https://image.tmdb.org/t/p/w185/plgE7OleHgqZrdazFzbkv18UsRN.jpg",
+          "iniciales": "KF"
+        },
+        {
+          "nombre": "Shioli Kutsuna",
+          "personaje": "Ms. T",
+          "foto": "https://image.tmdb.org/t/p/w185/lpd1aRrXzmtACO77Pc9TXTnqpBP.jpg",
+          "iniciales": "SK"
+        },
+        {
+          "nombre": "山田 葵",
+          "personaje": "Ms. S",
+          "foto": "https://image.tmdb.org/t/p/w185/4VJzAyq9gZxUxdzk0u8bNwGkhDS.jpg",
+          "iniciales": "山葵"
+        },
+        {
+          "nombre": "Dougray Scott",
+          "personaje": "Johnny Thunders",
+          "foto": "https://image.tmdb.org/t/p/w185/3zkotNLAUzfT2GOQM2BMIfI3yTb.jpg",
+          "iniciales": "DS"
+        },
+        {
+          "nombre": "Diego Calva",
+          "personaje": "Nico",
+          "foto": "https://image.tmdb.org/t/p/w185/lZ1sECPft5XHeVn6GFVmGReOWiJ.jpg",
+          "iniciales": "DC"
+        }
+      ],
+      "paises": [
+        "United States of America",
+        "Denmark",
+        "United Kingdom"
+      ],
+      "idiomas": [
+        "English",
+        "日本語"
+      ],
+      "productoras": [
+        "NEON",
+        "byNWR",
+        "Pillow"
+      ],
+      "temas": [
+        "Metropolis",
+        "Yakuza",
+        "Surrealism",
+        "Film noir",
+        "Neon",
+        "Vigilante",
+        "Serial killer",
+        "Cyberpunk"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt36629665",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 748019,
+          "titulo": "अनकही",
+          "anio": "2020",
+          "poster": "https://image.tmdb.org/t/p/w342/k5rQybPJaFOrUjwQGqcKBvNr2yX.jpg",
+          "score": 5.5
+        },
+        {
+          "tmdb_id": 1351316,
+          "titulo": "Personal Reset",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/vTKMTVVkMv6NGAjSRmz19cJZAQ.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1725187,
+          "titulo": "मास्टर्नी",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/hlaw6VVK2EgIi6JXJLIPneHxSqT.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1721188,
+          "titulo": "Busaw",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/9AnqkQh44Zt3pXQfd78LkDJ7471.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 997553,
+          "titulo": "Axegrinder 5: Blood Vengeance",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/sRUdQsWcRoD2YaRAmrI2mjxdt7Q.jpg",
+          "score": 2.3
+        },
+        {
+          "tmdb_id": 1552525,
+          "titulo": "The Raven",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/mxNNuHPTJx1zY6JWK09cuGSgIy0.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 997550,
+          "titulo": "Axegrinder 4: Souls of Blood",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/wKJLStXYQyiOHp2O1i6De6V2Er.jpg",
+          "score": 2.5
+        },
+        {
+          "tmdb_id": 422708,
+          "titulo": "Laissez bronzer les cadavres",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/8ATPSsMG6lFk5UinmK2rWeMMpw7.jpg",
+          "score": 6.154
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-24"
+  },
+  "1279493": {
+    "tmdb": {
+      "tmdb_id": 1279493,
+      "titulo": "El último gran golpe",
+      "titulo_original": "The Get Out",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-06-18",
+      "duracion": 101,
+      "generos": [
+        "Acción",
+        "Suspense"
+      ],
+      "score": 6.0,
+      "votos": 91,
+      "certificacion": "+13",
+      "sinopsis": "El dueño de un club nocturno está a punto de dejar atrás su peligroso pasado para volver a vivir con su novia. Cuando unos pistoleros enmascarados le roban y se ve acorralado por despiadados cárteles, llega un misterioso hombre interesado en comprar el negocio. Con el peligro acechándole por todos lados, deberá atravesar una mortífera red de engaños, poder y supervivencia, de la que escapar puede que ya no sea una opción.",
+      "poster": "https://image.tmdb.org/t/p/w342/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+        "https://image.tmdb.org/t/p/w780/mVHyU4pnu9b2LWByPGGM0GGCA1v.jpg",
+        "https://image.tmdb.org/t/p/w780/to9R8DbenkykhllymiHXcOw7QDo.jpg",
+        "https://image.tmdb.org/t/p/w780/5vqPhj3ux4PkzSUSfcERXT8jq0x.jpg",
+        "https://image.tmdb.org/t/p/w780/3EuuBRzOKw00v7FV7MX2slR1AHy.jpg",
+        "https://image.tmdb.org/t/p/w780/f0U2stRYOvS1nRuDpFW6D4WUM2a.jpg"
+      ],
+      "director": "Derrick Borte",
+      "guionistas": [
+        "Daniel Forte",
+        "Derrick Borte"
+      ],
+      "musica": "Bryan Senti",
+      "elenco": [
+        {
+          "nombre": "Russell Crowe",
+          "personaje": "Manco Kapak",
+          "foto": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg",
+          "iniciales": "RC"
+        },
+        {
+          "nombre": "Luke Evans",
+          "personaje": "Joe Carver",
+          "foto": "https://image.tmdb.org/t/p/w185/qUkYJcrDc4M0LHNYASs30luFvw0.jpg",
+          "iniciales": "LE"
+        },
+        {
+          "nombre": "Teresa Palmer",
+          "personaje": "Sunny",
+          "foto": "https://image.tmdb.org/t/p/w185/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg",
+          "iniciales": "TP"
+        },
+        {
+          "nombre": "Daniel Zovatto",
+          "personaje": "Rodriguez",
+          "foto": "https://image.tmdb.org/t/p/w185/oDD8ioAU8w7Lhp92DpU9lU1XkXX.jpg",
+          "iniciales": "DZ"
+        },
+        {
+          "nombre": "Josh McConville",
+          "personaje": "Slosser",
+          "foto": "https://image.tmdb.org/t/p/w185/3Au004X5BsV5KIpOLMB8g9DuevT.jpg",
+          "iniciales": "JM"
+        },
+        {
+          "nombre": "Benedict Hardie",
+          "personaje": "Spence",
+          "foto": "https://image.tmdb.org/t/p/w185/bf02Dz4LMV23scJC6c8P4R6xji6.jpg",
+          "iniciales": "BH"
+        },
+        {
+          "nombre": "Nina Dobrev",
+          "personaje": "Carrie",
+          "foto": "https://image.tmdb.org/t/p/w185/euHNgS3z3M3OTzLhQQAezViQddq.jpg",
+          "iniciales": "ND"
+        },
+        {
+          "nombre": "Aaron Paul",
+          "personaje": "Jeff",
+          "foto": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg",
+          "iniciales": "AP"
+        }
+      ],
+      "paises": [
+        "United States of America",
+        "Australia",
+        "United Kingdom"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Nickel City Pictures",
+        "A Higher Standard",
+        "G2 Dispatch",
+        "Life & Soul Pictures",
+        "Fifth Season"
+      ],
+      "temas": [
+        "Based on novel or book",
+        "Drug cartel",
+        "Cliché"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt32321803",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 3112,
+          "titulo": "La noche del cazador",
+          "anio": "1955",
+          "poster": "https://image.tmdb.org/t/p/w342/fpRmDxRLAKCSW3HiJSz3RnBb5GI.jpg",
+          "score": 7.856
+        },
+        {
+          "tmdb_id": 3509,
+          "titulo": "A Scanner Darkly (Una mirada en la oscuridad)",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/xHB6cPkNYZyZtAIxmWA3PGgwxGh.jpg",
+          "score": 6.811
+        },
+        {
+          "tmdb_id": 265880,
+          "titulo": "Зверобой",
+          "anio": "1990",
+          "poster": "https://image.tmdb.org/t/p/w342/q2oASbiyyLftjirjJbfsErH2EQf.jpg",
+          "score": 5.6
+        },
+        {
+          "tmdb_id": 3594,
+          "titulo": "El número 23",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/h0T3FmHI7PFhUseoySCBPFjxP0O.jpg",
+          "score": 6.404
+        },
+        {
+          "tmdb_id": 3176,
+          "titulo": "Battle Royale",
+          "anio": "2000",
+          "poster": "https://image.tmdb.org/t/p/w342/e9UQGoX2ZFNdrjLwEejMSMDSxmR.jpg",
+          "score": 7.263
+        },
+        {
+          "tmdb_id": 1414388,
+          "titulo": "Elijah and George: A Revolutionary Tale",
+          "anio": "",
+          "poster": "https://image.tmdb.org/t/p/w342/1rzmbi9hHu1Bju1Muj5vvWfa1tc.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 460059,
+          "titulo": "Burn Out",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/fVWcI3ZwHgBjbz24jZerJjRALYN.jpg",
+          "score": 6.739
+        },
+        {
+          "tmdb_id": 12699,
+          "titulo": "Hellraiser VIII - Hellworld",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/cUGniRFNqV3hQA2JBSMawd7gckP.jpg",
+          "score": 4.61
+        }
+      ]
+    },
+    "ultima_semana": "2026-09-24"
   }
 }
