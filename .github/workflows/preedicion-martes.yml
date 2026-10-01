@@ -1,0 +1,92 @@
+name: Pre-edicion martes
+
+on:
+  schedule:
+    # Martes 04:00 Argentina (07:00 UTC). GitHub puede demorar los cron varias horas.
+    # Para el martes los teatros (Teatro Cerca) y las boleterias ya cargaron casi toda
+    # la semana siguiente. Se publica SOLO la edicion fechada del proximo jueves
+    # (/en-vivo/AAAA-MM-DD/), sin tocar la edicion vigente ni la portada. El jueves
+    # la corrida completa (Publicar semanal) la reemplaza con cine y el resto.
+    - cron: "0 7 * * 2"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  # Mismo grupo que las otras corridas: nunca se pisan al hacer push.
+  group: publicar-movete
+  cancel-in-progress: false
+
+jobs:
+  preedicion:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Movete-info
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: Movete-info
+
+      - name: Checkout movete-scraper
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-scraper
+          path: movete-scraper
+
+      - name: Checkout movete-espectaculos
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-espectaculos
+          path: movete-espectaculos
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias del scraper
+        working-directory: movete-scraper
+        run: pip install -r requirements.txt
+
+      - name: Calcular el proximo jueves
+        id: jueves
+        run: |
+          # Un martes (o cualquier dia) "next thursday" es el jueves siguiente.
+          echo "fecha=$(TZ=America/Argentina/Buenos_Aires date -d 'next thursday' +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Generar eventos.json
+        id: scraper
+        working-directory: movete-scraper
+        env:
+          SALIDA_JSON: ../movete-espectaculos/eventos.json
+          MOVETE_CACHE_DIR: ../Movete-info/data/scraper-cache
+          MOVETE_ALERTA: ${{ github.workspace }}/_alerta.txt
+        run: python main.py
+
+      - name: Generar pre-edicion fechada
+        working-directory: movete-espectaculos
+        run: |
+          python generar_edicion.py --eventos eventos.json \
+            --output ../Movete-info/en-vivo \
+            --hoy "${{ steps.jueves.outputs.fecha }}" --solo-fechada
+
+      - name: Commit en Movete-info
+        working-directory: Movete-info
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Pre-edicion MoVeTe ${{ steps.jueves.outputs.fecha }}"
+          git push
+
+      - name: Avisar si la cartelera salio incompleta
+        if: always() && steps.scraper.outcome == 'success'
+        run: |
+          if [ -f "$GITHUB_WORKSPACE/_alerta.txt" ]; then
+            echo "::error::$(head -1 "$GITHUB_WORKSPACE/_alerta.txt")"
+            cat "$GITHUB_WORKSPACE/_alerta.txt"
+            exit 1
+          fi
+          echo "Pre-edicion publicada: ninguna fuente troncal se cayo."
