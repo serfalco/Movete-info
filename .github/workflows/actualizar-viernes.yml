@@ -49,8 +49,8 @@ jobs:
 
       # El viernes el scraper corre con es_viernes=True, asi que ademas de las
       # fuentes base suma El Dia y 0221 (que recien hoy publicaron su agenda).
-      - name: Generar eventos.json
-        id: scraper (incluye El Dia + 0221)
+      - name: Generar eventos.json (incluye El Dia + 0221)
+        id: scraper
         working-directory: movete-scraper
         env:
           SALIDA_JSON: ../movete-espectaculos/eventos.json
