@@ -85,14 +85,6 @@ jobs:
         working-directory: Movete-info
         run: python actualizar_portada.py
 
-      - name: Enviar newsletter semanal
-        # Automatico los jueves (schedule); en corrida manual, solo si se marca la casilla.
-        if: github.event_name == 'schedule' || github.event.inputs.enviar_newsletter == 'true'
-        working-directory: movete-espectaculos
-        env:
-          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
-        run: python generar_newsletter.py --eventos eventos.json || echo "newsletter fallo, se continua"
-
       - name: Commit unico en Movete-info
         working-directory: Movete-info
         run: |
@@ -101,6 +93,15 @@ jobs:
           git add .
           git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Publicar edicion semanal MoVeTe"
           git push
+
+      - name: Enviar newsletter semanal
+        # Va despues del commit: el mail sale solo si el sitio ya se publico.
+        # Automatico los jueves (schedule); en corrida manual, solo si se marca la casilla.
+        if: github.event_name == 'schedule' || github.event.inputs.enviar_newsletter == 'true'
+        working-directory: movete-espectaculos
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python generar_newsletter.py --eventos eventos.json || echo "newsletter fallo, se continua"
 
       - name: Avisar si la cartelera salio incompleta
         # Va ULTIMO y a proposito: la edicion ya se publico. Este paso solo
