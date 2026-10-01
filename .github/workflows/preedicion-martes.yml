@@ -2,12 +2,12 @@ name: Pre-edicion martes
 
 on:
   schedule:
-    # Martes 06:00 Argentina (09:00 UTC). GitHub puede demorar los cron varias horas.
+    # Martes 04:00 Argentina (07:00 UTC). GitHub puede demorar los cron varias horas.
     # Para el martes los teatros (Teatro Cerca) y las boleterias ya cargaron casi toda
     # la semana siguiente. Se publica SOLO la edicion fechada del proximo jueves
     # (/en-vivo/AAAA-MM-DD/), sin tocar la edicion vigente ni la portada. El jueves
     # la corrida completa (Publicar semanal) la reemplaza con cine y el resto.
-    - cron: "0 9 * * 2"
+    - cron: "0 7 * * 2"
   workflow_dispatch:
 
 permissions:
