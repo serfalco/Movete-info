@@ -231,6 +231,31 @@
     "trailer": ""
   },
   "coyote contra acme": null,
+  "digger": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "director": "Alejandro González Iñárritu",
+    "duracion": 128,
+    "elenco": [
+      "Tom Cruise",
+      "Riz Ahmed",
+      "John Goodman"
+    ],
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+    "score": 7.413,
+    "sinopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+    "titulo": "Digger",
+    "titulo_original": "Digger",
+    "tmdb_id": 1248832,
+    "trailer": "https://www.youtube.com/watch?v=xU2jWSsaWY0"
+  },
   "el afinador": {
     "anio": "2005",
     "backdrop": "https://image.tmdb.org/t/p/w780/q5Dw0lwoyyPOFzHGqx28TXsYCNc.jpg",
@@ -548,6 +573,31 @@
     "tmdb_id": 18775,
     "trailer": ""
   },
+  "escondida en mi cabeza": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yyeLKMyd2tqr36R0dMzFe9BQo2r.jpg",
+    "director": "Lucas Vivo García Lagos",
+    "duracion": 0,
+    "elenco": [
+      "Nicolás Furtado",
+      "Agustina Suásquita",
+      "Alejandra Flechner"
+    ],
+    "generos": [
+      "Comedia"
+    ],
+    "paises": [
+      "Argentina",
+      "Uruguay"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/bkiAtGRwXhqa0EKmBYrkbx94Rzw.jpg",
+    "score": 0.0,
+    "sinopsis": "",
+    "titulo": "Escondida en mi cabeza",
+    "titulo_original": "Escondida en mi cabeza",
+    "tmdb_id": 1760646,
+    "trailer": ""
+  },
   "evil dead en llamas": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
@@ -574,6 +624,58 @@
     "trailer": "https://www.youtube.com/watch?v=xs9rmpoEzNs"
   },
   "evil dead en llamas 23 10 minions y monstruos": null,
+  "guardianes del museo 2": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cEq9KqXxkGVFV5d7h5uP9ZMKg8d.jpg",
+    "director": "Василий Ровенский",
+    "duracion": 90,
+    "elenco": [
+      "Роман Курцын",
+      "Дарья Блохина",
+      "Снежана Самохина"
+    ],
+    "generos": [
+      "Animación"
+    ],
+    "paises": [
+      "Russia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/cmox8x2F12Fc6v50SpzBc5KWuZS.jpg",
+    "score": 6.0,
+    "sinopsis": "Hace dos años, nuestros personajes, el ratón Maurice, y los gatos Vincent y Cleopatra, salvaron la Mona Lisa. Ahora están ansiosos por vivir nuevas aventuras. Maurice encuentra un antiguo papiro que revela la ubicación de un Genio egipcio, quien solo concede un deseo cada mil años. Todos los personajes quieren algo diferente, por lo que compiten para llegar al Genio primero. Durante su viaje por Egipto, visitan las Pirámides, navegan por el Nilo y exploran los túneles secretos de Luxor. A pesar de enfrentarse a peligros, descubren que no necesitan al Genio para cumplir sus deseos, ya que la verdadera riqueza está en la amistad y el trabajo en equipo. Por otro lado, Keisuke Fujiki, un neurocirujano, es acusado injustamente de empujar a su novia desde la azotea del hospital. Ahora es un fugitivo que busca descubrir la verdad detrás de la muerte de su novia.",
+    "titulo": "Gatos en el museo 2: Tesoros de Egipto",
+    "titulo_original": "Коты Эрмитажа 2. Тайна египетского зала",
+    "tmdb_id": 1264821,
+    "trailer": ""
+  },
+  "hangar rojo": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7dvto6jc3R9w46uphDkupiLvqnv.jpg",
+    "director": "Juan Pablo Sallato",
+    "duracion": 81,
+    "elenco": [
+      "Nicolás Zárate",
+      "Boris Quercia",
+      "Marcial Tagle"
+    ],
+    "generos": [
+      "Drama",
+      "Historia",
+      "Suspense"
+    ],
+    "paises": [
+      "Chile",
+      "Argentina",
+      "Italy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/4yZTw3bQ8jMWrlx5w3JWzkx8wls.jpg",
+    "score": 7.9,
+    "sinopsis": "Mientras el golpe militar de 1973 se despliega en Chile, el Capitán Jorge Silva se debate entre el deber y la conciencia cuando su escuela de aviación se transforma en un centro de detención.",
+    "titulo": "Hangar Rojo",
+    "titulo_original": "Hangar Rojo",
+    "tmdb_id": 1563588,
+    "trailer": ""
+  },
   "hechizo de amor la magia continua": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
@@ -1122,6 +1224,30 @@
     "tmdb_id": 1634739,
     "trailer": ""
   },
+  "relajadas y muy peligrosas": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+    "director": "Jon Lucas",
+    "duracion": 97,
+    "elenco": [
+      "Leslie Mann",
+      "Michelle Buteau",
+      "Anna Faris"
+    ],
+    "generos": [
+      "Comedia"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/5iuGOFh2qRChIKEwdyLiyhIRQv3.jpg",
+    "score": 6.436,
+    "sinopsis": "Tres amigas se van a pasar el fin de semana a un spa, pero la estancia se convierte en un caos cuando se les une otra amiga, muy juerguista.",
+    "titulo": "Relajadas y muy peligrosas",
+    "titulo_original": "Spa Weekend",
+    "tmdb_id": 1341138,
+    "trailer": ""
+  },
   "resident evil noche cero": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
@@ -1449,6 +1575,32 @@
     "trailer": ""
   },
   "una quinta en portugal": null,
+  "verity la sombra del engano": null,
+  "vertigo 2 punto muerto": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+    "director": "Peter Spierig",
+    "duracion": 98,
+    "elenco": [
+      "Harriet Slater",
+      "Arsema Thomas",
+      "Tom Brittney"
+    ],
+    "generos": [
+      "Suspense"
+    ],
+    "paises": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
+    "score": 6.1,
+    "sinopsis": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
+    "titulo": "Fall 2: Deadpoint",
+    "titulo_original": "Fall 2: Deadpoint",
+    "tmdb_id": 1101412,
+    "trailer": ""
+  },
   "yo narciso": {
     "anio": "2026",
     "backdrop": null,

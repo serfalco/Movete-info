@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "454639": {
     "tmdb": {
@@ -2332,7 +2332,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1108427": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "18775": {
     "tmdb": {
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1443576": {
     "tmdb": {
@@ -4306,7 +4306,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1101383": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1698443": {
     "tmdb": {
@@ -4575,7 +4575,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1240889": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "8392": {
     "tmdb": {
@@ -5821,7 +5821,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1384216": {
     "tmdb": {
@@ -7054,7 +7054,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1187326": {
     "tmdb": {
@@ -7593,7 +7593,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1140521": {
     "tmdb": {
@@ -8188,7 +8188,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1180894": {
     "tmdb": {
@@ -8461,7 +8461,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "38117": {
     "tmdb": {
@@ -8631,7 +8631,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-09-24"
+    "ultima_semana": "2026-10-01"
   },
   "1469342": {
     "tmdb": {
@@ -8977,5 +8977,899 @@
       ]
     },
     "ultima_semana": "2026-09-24"
+  },
+  "1760646": {
+    "tmdb": {
+      "tmdb_id": 1760646,
+      "titulo": "Escondida en mi cabeza",
+      "titulo_original": "Escondida en mi cabeza",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-10-01",
+      "duracion": 0,
+      "generos": [
+        "Comedia"
+      ],
+      "score": 0.0,
+      "votos": 0,
+      "certificacion": "+13",
+      "sinopsis": "",
+      "poster": "https://image.tmdb.org/t/p/w342/bkiAtGRwXhqa0EKmBYrkbx94Rzw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yyeLKMyd2tqr36R0dMzFe9BQo2r.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/yyeLKMyd2tqr36R0dMzFe9BQo2r.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/yyeLKMyd2tqr36R0dMzFe9BQo2r.jpg",
+        "https://image.tmdb.org/t/p/w780/cf6HX0E2xYGyQXeDBrezzA9YQJU.jpg"
+      ],
+      "director": "Lucas Vivo García Lagos",
+      "guionistas": [
+        "Federico Levin",
+        "Gabriel Korenfeld",
+        "Julian Loyola"
+      ],
+      "musica": "",
+      "elenco": [
+        {
+          "nombre": "Nicolás Furtado",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/vouFucXEQuGXMXPzfqnShMU947W.jpg",
+          "iniciales": "NF"
+        },
+        {
+          "nombre": "Agustina Suásquita",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/9k2U7HaLO3PRvbkZaDekLX75vLZ.jpg",
+          "iniciales": "AS"
+        },
+        {
+          "nombre": "Alejandra Flechner",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/w9vUYiH5TwKYdAPxPI1xHZQjWts.jpg",
+          "iniciales": "AF"
+        },
+        {
+          "nombre": "Louta",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/k2FBP8whhBh2WZRMKg47Pe5RcC1.jpg",
+          "iniciales": "LO"
+        },
+        {
+          "nombre": "Iair Said",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/AdjK38mrVT4m4GwyuBMnHjCeq4N.jpg",
+          "iniciales": "IS"
+        },
+        {
+          "nombre": "Mike Chouhy",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "MC"
+        },
+        {
+          "nombre": "Charo López",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/6lm5xn8gtYiKenNuXK81gPNkfXe.jpg",
+          "iniciales": "CL"
+        },
+        {
+          "nombre": "Maximiliano de la Cruz",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/lY1SiiyYO1NTNWrG7QbxfTmlUoy.jpg",
+          "iniciales": "MC"
+        }
+      ],
+      "paises": [
+        "Argentina",
+        "Uruguay"
+      ],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [
+        "Alterna Media",
+        "Navajo Films",
+        "Buena Vista International"
+      ],
+      "temas": [],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-10-01"
+  },
+  "1101412": {
+    "tmdb": {
+      "tmdb_id": 1101412,
+      "titulo": "Fall 2: Deadpoint",
+      "titulo_original": "Fall 2: Deadpoint",
+      "tagline": "¿Preparado para caer?",
+      "anio": "2026",
+      "estreno": "2026-09-01",
+      "duracion": 98,
+      "generos": [
+        "Suspense"
+      ],
+      "score": 6.1,
+      "votos": 55,
+      "certificacion": "+13",
+      "sinopsis": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
+      "poster": "https://image.tmdb.org/t/p/w342/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/zwHsEcRcazZCxTWs9Glwo9qWZ0F.jpg",
+        "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+        "https://image.tmdb.org/t/p/w780/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg",
+        "https://image.tmdb.org/t/p/w780/bDQbd4qMy4bYXA4S36XZX5p68LU.jpg",
+        "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+        "https://image.tmdb.org/t/p/w780/o8G95h5yJ5xVVZs1s3mCynmv9IK.jpg"
+      ],
+      "director": "Peter Spierig",
+      "guionistas": [
+        "Jonathan Frank",
+        "Scott Mann"
+      ],
+      "musica": "Tim Despic",
+      "elenco": [
+        {
+          "nombre": "Harriet Slater",
+          "personaje": "Jax Hunter",
+          "foto": "https://image.tmdb.org/t/p/w185/9BJxdhi4tuiQdgT8bfDuiPipnsx.jpg",
+          "iniciales": "HS"
+        },
+        {
+          "nombre": "Arsema Thomas",
+          "personaje": "Luce",
+          "foto": "https://image.tmdb.org/t/p/w185/lvzhZIbkWIVLSRHsOICs9o37g2I.jpg",
+          "iniciales": "AT"
+        },
+        {
+          "nombre": "Tom Brittney",
+          "personaje": "Jon Platt",
+          "foto": "https://image.tmdb.org/t/p/w185/qSe3SuZHVPR5AMOuOAGxLdD6kYv.jpg",
+          "iniciales": "TB"
+        },
+        {
+          "nombre": "Virginia Gardner",
+          "personaje": "Shiloh Hunter",
+          "foto": "https://image.tmdb.org/t/p/w185/1DnNysK267b0te48KCkUlTKoTzj.jpg",
+          "iniciales": "VG"
+        },
+        {
+          "nombre": "สหจักร บุญธนกิจ",
+          "personaje": "Thai Barman",
+          "foto": "https://image.tmdb.org/t/p/w185/a36MI02S0f11bJZjBoxkZTsUDAK.jpg",
+          "iniciales": "สบ"
+        },
+        {
+          "nombre": "Korakod Yensuk",
+          "personaje": "Large Woman",
+          "foto": null,
+          "iniciales": "KY"
+        },
+        {
+          "nombre": "Jordan Coleman",
+          "personaje": "Luce",
+          "foto": "https://image.tmdb.org/t/p/w185/57FrMe016RyMHm8WDL2mK7P0bmS.jpg",
+          "iniciales": "JC"
+        },
+        {
+          "nombre": "Maryna Bennett",
+          "personaje": "Female Teenager",
+          "foto": "https://image.tmdb.org/t/p/w185/alqr0Hx7kgLZ38QvwdQKFIA8Y8l.jpg",
+          "iniciales": "MB"
+        }
+      ],
+      "paises": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Tea Shop Productions",
+        "Capstone Pictures",
+        "Flawless Production",
+        "Cousin Jones"
+      ],
+      "temas": [
+        "Sequel",
+        "Rock climbing",
+        "Sport climbing",
+        "Climb",
+        "Mountain climber"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt31192372",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Fall - Colección",
+        "partes": [
+          {
+            "tmdb_id": 985939,
+            "titulo": "Fall",
+            "anio": "2022",
+            "poster": "https://image.tmdb.org/t/p/w342/tsjVxiuGyvMC4IbI2gjmDYpcYjU.jpg",
+            "fecha": "2022-08-11"
+          },
+          {
+            "tmdb_id": 1101412,
+            "titulo": "Fall 2: Deadpoint",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
+            "fecha": "2026-09-01"
+          },
+          {
+            "tmdb_id": 1198959,
+            "titulo": "Untitled Fall Sequel",
+            "anio": "",
+            "poster": null,
+            "fecha": ""
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 154,
+          "titulo": "Star Trek II. La ira de Khan",
+          "anio": "1982",
+          "poster": "https://image.tmdb.org/t/p/w342/8k93s37Z87eKboyU4n3k32HCH65.jpg",
+          "score": 7.452
+        },
+        {
+          "tmdb_id": 242,
+          "titulo": "El padrino III",
+          "anio": "1990",
+          "poster": "https://image.tmdb.org/t/p/w342/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg",
+          "score": 7.415
+        },
+        {
+          "tmdb_id": 446807,
+          "titulo": "Millennium: Lo que no te mata te hace más fuerte",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/5mMht8LnrO3fuKltsCYa908fSnM.jpg",
+          "score": 6.158
+        },
+        {
+          "tmdb_id": 157,
+          "titulo": "Star Trek III. En busca de Spock",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/mv29MhfQRHvWFeTg0VwOKvBQlKg.jpg",
+          "score": 6.59
+        },
+        {
+          "tmdb_id": 163,
+          "titulo": "Ocean's Twelve",
+          "anio": "2004",
+          "poster": "https://image.tmdb.org/t/p/w342/guLJDVIqumv9C4iEpuuzqZIhEi1.jpg",
+          "score": 6.567
+        },
+        {
+          "tmdb_id": 169,
+          "titulo": "Depredador 2",
+          "anio": "1990",
+          "poster": "https://image.tmdb.org/t/p/w342/92Lqy293CqAExYXlqDc456eYCWp.jpg",
+          "score": 6.326
+        },
+        {
+          "tmdb_id": 214,
+          "titulo": "Saw III",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/raUejCvrhUl0VTjcj8b0gJLBUhQ.jpg",
+          "score": 6.418
+        },
+        {
+          "tmdb_id": 189,
+          "titulo": "Sin City: Una dama por la que matar",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/xmCF5CB8ogqUy9K6AmYaAL7x0jV.jpg",
+          "score": 6.4
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-01"
+  },
+  "1264821": {
+    "tmdb": {
+      "tmdb_id": 1264821,
+      "titulo": "Gatos en el museo 2: Tesoros de Egipto",
+      "titulo_original": "Коты Эрмитажа 2. Тайна египетского зала",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-03-26",
+      "duracion": 90,
+      "generos": [
+        "Animación"
+      ],
+      "score": 6.0,
+      "votos": 3,
+      "certificacion": "",
+      "sinopsis": "Hace dos años, nuestros personajes, el ratón Maurice, y los gatos Vincent y Cleopatra, salvaron la Mona Lisa. Ahora están ansiosos por vivir nuevas aventuras. Maurice encuentra un antiguo papiro que revela la ubicación de un Genio egipcio, quien solo concede un deseo cada mil años. Todos los personajes quieren algo diferente, por lo que compiten para llegar al Genio primero. Durante su viaje por Egipto, visitan las Pirámides, navegan por el Nilo y exploran los túneles secretos de Luxor. A pesar de enfrentarse a peligros, descubren que no necesitan al Genio para cumplir sus deseos, ya que la verdadera riqueza está en la amistad y el trabajo en equipo. Por otro lado, Keisuke Fujiki, un neurocirujano, es acusado injustamente de empujar a su novia desde la azotea del hospital. Ahora es un fugitivo que busca descubrir la verdad detrás de la muerte de su novia.",
+      "poster": "https://image.tmdb.org/t/p/w342/cmox8x2F12Fc6v50SpzBc5KWuZS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cEq9KqXxkGVFV5d7h5uP9ZMKg8d.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/cEq9KqXxkGVFV5d7h5uP9ZMKg8d.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/cEq9KqXxkGVFV5d7h5uP9ZMKg8d.jpg",
+        "https://image.tmdb.org/t/p/w780/vcUJ5zhCqlX2eJzQRYwwivFwkiZ.jpg",
+        "https://image.tmdb.org/t/p/w780/8Zz9cfODYZZykSTz8oigI8ivHXn.jpg",
+        "https://image.tmdb.org/t/p/w780/klHDPeUSst9h0x9ZuY1zYAbyTZX.jpg",
+        "https://image.tmdb.org/t/p/w780/wafla9PsCFFhiWsPqHuQ1uu2FSQ.jpg",
+        "https://image.tmdb.org/t/p/w780/zEHme7hwdFrOrqaRkn7MOujAqLN.jpg"
+      ],
+      "director": "Василий Ровенский",
+      "guionistas": [
+        "Эльвира Буштец",
+        "Федор Деревянский",
+        "Василий Ровенский"
+      ],
+      "musica": "Антон Грызлов",
+      "elenco": [
+        {
+          "nombre": "Роман Курцын",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/gvcPUusj3CFikNRyqquE4o5byjH.jpg",
+          "iniciales": "РК"
+        },
+        {
+          "nombre": "Дарья Блохина",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/w4vOeBiLmucs3maPDwdtL5vuhZm.jpg",
+          "iniciales": "ДБ"
+        },
+        {
+          "nombre": "Снежана Самохина",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/42r18aoEQyA7zBdgtxmLGxKGBOv.jpg",
+          "iniciales": "СС"
+        },
+        {
+          "nombre": "Диомид Виноградов",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/4VXryQlIAvpsXwUm2VTqsQI4ouJ.jpg",
+          "iniciales": "ДВ"
+        }
+      ],
+      "paises": [
+        "Russia"
+      ],
+      "idiomas": [
+        "Pусский"
+      ],
+      "productoras": [
+        "Licensing Brands",
+        "Cinema Foundation of Russia"
+      ],
+      "temas": [
+        "Cat",
+        "Mouse"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt30224625",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Коты в музее",
+        "partes": [
+          {
+            "tmdb_id": 923579,
+            "titulo": "Guardianes del Museo",
+            "anio": "2023",
+            "poster": "https://image.tmdb.org/t/p/w342/cm0x47F6HsLYDuVzhna81ZGtASU.jpg",
+            "fecha": "2023-03-23"
+          },
+          {
+            "tmdb_id": 1264821,
+            "titulo": "Gatos en el museo 2: Tesoros de Egipto",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/cmox8x2F12Fc6v50SpzBc5KWuZS.jpg",
+            "fecha": "2026-03-26"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 26728,
+          "titulo": "El festival de la diversión de Garfield",
+          "anio": "2008",
+          "poster": "https://image.tmdb.org/t/p/w342/vsCHc3vb5xdS9nJ5YdFSY8p2ujO.jpg",
+          "score": 5.0
+        },
+        {
+          "tmdb_id": 1225497,
+          "titulo": "Le bosquet hanté",
+          "anio": "1960",
+          "poster": "https://image.tmdb.org/t/p/w342/nltrWhHvLX3GuSNHGsKrnwsx3Sc.jpg",
+          "score": 8.0
+        },
+        {
+          "tmdb_id": 26547,
+          "titulo": "Sucedió la víspera de navidad",
+          "anio": "1974",
+          "poster": "https://image.tmdb.org/t/p/w342/i5qPfBSeKjNbFPl1CseOUSNqKGe.jpg",
+          "score": 6.7
+        },
+        {
+          "tmdb_id": 839762,
+          "titulo": "Der Gestiefelte Kater",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/i5oXQ0JMNLl9Kz9gMjRmVcxIbLE.jpg",
+          "score": 1.0
+        },
+        {
+          "tmdb_id": 27653,
+          "titulo": "Fievel, el misterio del monstruo nocturno",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/cxYyFe6EfUKjDUq1CLviQby2DKM.jpg",
+          "score": 6.3
+        },
+        {
+          "tmdb_id": 1226594,
+          "titulo": "The Special Christmas Gift",
+          "anio": "2000",
+          "poster": "https://image.tmdb.org/t/p/w342/awcGt4y8rHLauRGVfOoAuulu0q0.jpg",
+          "score": 3.0
+        },
+        {
+          "tmdb_id": 841502,
+          "titulo": "Мышь и верблюд",
+          "anio": "1987",
+          "poster": "https://image.tmdb.org/t/p/w342/xOkea9wx6HhAoEaIDle7msEwzNb.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 18143,
+          "titulo": "Ella y su gato",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/tDqXZRziboOrZcJA2jFANWfVjdB.jpg",
+          "score": 6.7
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-01"
+  },
+  "1341138": {
+    "tmdb": {
+      "tmdb_id": 1341138,
+      "titulo": "Relajadas y muy peligrosas",
+      "titulo_original": "Spa Weekend",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-08-20",
+      "duracion": 97,
+      "generos": [
+        "Comedia"
+      ],
+      "score": 6.436,
+      "votos": 55,
+      "certificacion": "+13",
+      "sinopsis": "Tres amigas se van a pasar el fin de semana a un spa, pero la estancia se convierte en un caos cuando se les une otra amiga, muy juerguista.",
+      "poster": "https://image.tmdb.org/t/p/w342/5iuGOFh2qRChIKEwdyLiyhIRQv3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+        "https://image.tmdb.org/t/p/w780/iqSxSxRIL8vzlVFzOubAkiXnwun.jpg",
+        "https://image.tmdb.org/t/p/w780/hXHzJiIocjKIysuam5rLtkHOA2D.jpg",
+        "https://image.tmdb.org/t/p/w780/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+        "https://image.tmdb.org/t/p/w780/8EMwicuj1TrkclMOvslFCQyRg6I.jpg",
+        "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg"
+      ],
+      "director": "Jon Lucas",
+      "guionistas": [
+        "Jon Lucas",
+        "Scott Moore"
+      ],
+      "musica": "Philip White",
+      "elenco": [
+        {
+          "nombre": "Leslie Mann",
+          "personaje": "Jane",
+          "foto": "https://image.tmdb.org/t/p/w185/gUOCQBjjjGnWkxjMOc1LmrC0U1k.jpg",
+          "iniciales": "LM"
+        },
+        {
+          "nombre": "Michelle Buteau",
+          "personaje": "Coco",
+          "foto": "https://image.tmdb.org/t/p/w185/mgAH1JsATQXsQPwquuNJpqux4TO.jpg",
+          "iniciales": "MB"
+        },
+        {
+          "nombre": "Anna Faris",
+          "personaje": "Sophie",
+          "foto": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg",
+          "iniciales": "AF"
+        },
+        {
+          "nombre": "Isla Fisher",
+          "personaje": "Mel",
+          "foto": "https://image.tmdb.org/t/p/w185/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg",
+          "iniciales": "IF"
+        },
+        {
+          "nombre": "Adam Demos",
+          "personaje": "Kai",
+          "foto": "https://image.tmdb.org/t/p/w185/cfeDhsrviNLG30e7cZOABqoKIQc.jpg",
+          "iniciales": "AD"
+        },
+        {
+          "nombre": "Dominic Ona-Ariki",
+          "personaje": "Roger",
+          "foto": "https://image.tmdb.org/t/p/w185/xGdtiWh06fVMAuVOUONcFVva2n9.jpg",
+          "iniciales": "DO"
+        },
+        {
+          "nombre": "Erika Heynatz",
+          "personaje": "Shanti",
+          "foto": "https://image.tmdb.org/t/p/w185/gfzEzRE2ScFSSOaNrSwrjHSQVnV.jpg",
+          "iniciales": "EH"
+        },
+        {
+          "nombre": "Courtney Clarke",
+          "personaje": "Ayurveda",
+          "foto": "https://image.tmdb.org/t/p/w185/zAerkipyeHkUwkR1mSL3iL35epr.jpg",
+          "iniciales": "CC"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Suzanne Todd Productions",
+        "Black Bear Pictures"
+      ],
+      "temas": [
+        "Female friendship"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt33305867",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 268037,
+          "titulo": "Ñeñeñe",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/up3M8f4UhOfayL7nbIOoizGGevr.jpg",
+          "score": 3.0
+        },
+        {
+          "tmdb_id": 8998,
+          "titulo": "Amigos con dinero",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/fN3O9L957oFIzwR70lGbAXan6GU.jpg",
+          "score": 5.1
+        },
+        {
+          "tmdb_id": 9337,
+          "titulo": "Mädchen Mädchen!",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/edGsy5IFi6m6xe6JWFqUoKPiJ1n.jpg",
+          "score": 5.2
+        },
+        {
+          "tmdb_id": 9382,
+          "titulo": "Sólo ellas... los chicos a un lado",
+          "anio": "1995",
+          "poster": "https://image.tmdb.org/t/p/w342/uHOD9DMkmnlRzzMgLVPoMJvxDgf.jpg",
+          "score": 6.4
+        },
+        {
+          "tmdb_id": 9263,
+          "titulo": "Amigas para siempre",
+          "anio": "1995",
+          "poster": "https://image.tmdb.org/t/p/w342/r44pwYqAQOzMfoiu9pYWMUqwCbl.jpg",
+          "score": 6.9
+        },
+        {
+          "tmdb_id": 641934,
+          "titulo": "¿Todo bien?",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/mKdRfCpWkcH0wEEg6yO4a8ES4TX.jpg",
+          "score": 6.3
+        },
+        {
+          "tmdb_id": 16723,
+          "titulo": "Ingenuas y peligrosas",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/hW5W9AGM5hN7x8JNvnDAOBXh1p2.jpg",
+          "score": 6.4
+        },
+        {
+          "tmdb_id": 10860,
+          "titulo": "Magnolias de acero",
+          "anio": "1989",
+          "poster": "https://image.tmdb.org/t/p/w342/6TKbq2xyCiAmwZboOrGQ6m4Kdul.jpg",
+          "score": 7.194
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-01"
+  },
+  "1248832": {
+    "tmdb": {
+      "tmdb_id": 1248832,
+      "titulo": "Digger",
+      "titulo_original": "Digger",
+      "tagline": "Cava o muere",
+      "anio": "2026",
+      "estreno": "2026-09-28",
+      "duracion": 128,
+      "generos": [
+        "Comedia",
+        "Drama"
+      ],
+      "score": 7.396,
+      "votos": 24,
+      "certificacion": "ATP",
+      "sinopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+        "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+        "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+        "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+        "https://image.tmdb.org/t/p/w780/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
+        "https://image.tmdb.org/t/p/w780/vlJHTUMyfPw9398oIvcosdNWSSw.jpg"
+      ],
+      "director": "Alejandro González Iñárritu",
+      "guionistas": [
+        "Alejandro González Iñárritu",
+        "Alexander Dinelaris",
+        "Nicolás Giacobone"
+      ],
+      "musica": "Cosmo Sheldrake",
+      "elenco": [
+        {
+          "nombre": "Tom Cruise",
+          "personaje": "Digger Rockwell / Curtis Markson",
+          "foto": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
+          "iniciales": "TC"
+        },
+        {
+          "nombre": "Riz Ahmed",
+          "personaje": "Ganesh",
+          "foto": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg",
+          "iniciales": "RA"
+        },
+        {
+          "nombre": "John Goodman",
+          "personaje": "President Compson",
+          "foto": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg",
+          "iniciales": "JG"
+        },
+        {
+          "nombre": "Sandra Hüller",
+          "personaje": "Emma",
+          "foto": "https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg",
+          "iniciales": "SH"
+        },
+        {
+          "nombre": "Michael Stuhlbarg",
+          "personaje": "Vice President",
+          "foto": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg",
+          "iniciales": "MS"
+        },
+        {
+          "nombre": "Jesse Plemons",
+          "personaje": "Kenny",
+          "foto": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg",
+          "iniciales": "JP"
+        },
+        {
+          "nombre": "Robert John Burke",
+          "personaje": "Fitzgerald",
+          "foto": "https://image.tmdb.org/t/p/w185/uWEaY5gypb6cp1bdUYG4uCKw4sK.jpg",
+          "iniciales": "RB"
+        },
+        {
+          "nombre": "Emma D'Arcy",
+          "personaje": "Lena",
+          "foto": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg",
+          "iniciales": "ED"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Warner Bros. Pictures",
+        "Legendary Pictures",
+        "TC Productions",
+        "M Productions",
+        "Domain Entertainment"
+      ],
+      "temas": [
+        "Dark comedy",
+        "Satire",
+        "Political satire",
+        "Vistavision"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=xU2jWSsaWY0",
+      "teaser": "https://www.youtube.com/watch?v=4t4X-_26gWo",
+      "imdb_id": "tt31450459",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 11519,
+          "titulo": "1941",
+          "anio": "1979",
+          "poster": "https://image.tmdb.org/t/p/w342/j4JacynSkTBgAAptXykK3tHlHYo.jpg",
+          "score": 5.8
+        },
+        {
+          "tmdb_id": 11397,
+          "titulo": "No es otra estúpida película americana",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/hSnvrM0rY4sBA2s8XygP76YBDJJ.jpg",
+          "score": 5.826
+        },
+        {
+          "tmdb_id": 638188,
+          "titulo": "No tiene gracia",
+          "anio": "2012",
+          "poster": "https://image.tmdb.org/t/p/w342/pvbJgkHFAp3IUozm6Y7F8XhL9q5.jpg",
+          "score": 6.0
+        },
+        {
+          "tmdb_id": 1027921,
+          "titulo": "Reno",
+          "anio": "1923",
+          "poster": "https://image.tmdb.org/t/p/w342/l78GY5L6YLg3zLsHXp1oanQKG1m.jpg",
+          "score": 9.0
+        },
+        {
+          "tmdb_id": 11592,
+          "titulo": "Los asesinatos de mamá",
+          "anio": "1994",
+          "poster": "https://image.tmdb.org/t/p/w342/3Qlycp68b6TQkC1fMMahpf04Oq8.jpg",
+          "score": 6.7
+        },
+        {
+          "tmdb_id": 11598,
+          "titulo": "Made in USA",
+          "anio": "1977",
+          "poster": "https://image.tmdb.org/t/p/w342/a3vuRucoO6aT6QNk1yRpDJZZM8B.jpg",
+          "score": 6.192
+        },
+        {
+          "tmdb_id": 11561,
+          "titulo": "El dormilón",
+          "anio": "1973",
+          "poster": "https://image.tmdb.org/t/p/w342/zMRkYV675OhlLesmP8DyvqE8Zed.jpg",
+          "score": 6.851
+        },
+        {
+          "tmdb_id": 15661,
+          "titulo": "Sobrepasando el límite",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/gQJIimohAmY7oYXwMaxH1LVTzIq.jpg",
+          "score": 5.8
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-01"
+  },
+  "1563588": {
+    "tmdb": {
+      "tmdb_id": 1563588,
+      "titulo": "Hangar Rojo",
+      "titulo_original": "Hangar Rojo",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-05-08",
+      "duracion": 81,
+      "generos": [
+        "Drama",
+        "Historia",
+        "Suspense"
+      ],
+      "score": 7.9,
+      "votos": 11,
+      "certificacion": "",
+      "sinopsis": "Mientras el golpe militar de 1973 se despliega en Chile, el Capitán Jorge Silva se debate entre el deber y la conciencia cuando su escuela de aviación se transforma en un centro de detención.",
+      "poster": "https://image.tmdb.org/t/p/w342/4yZTw3bQ8jMWrlx5w3JWzkx8wls.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7dvto6jc3R9w46uphDkupiLvqnv.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/7dvto6jc3R9w46uphDkupiLvqnv.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/7dvto6jc3R9w46uphDkupiLvqnv.jpg",
+        "https://image.tmdb.org/t/p/w780/tiyqxH8FKSRnC9LHd0wBGPF2Fup.jpg",
+        "https://image.tmdb.org/t/p/w780/7m9hKH0sYOgkmoetWSyQoouySVT.jpg",
+        "https://image.tmdb.org/t/p/w780/3SNEP2bFRFe631divHjhVzT2MRB.jpg",
+        "https://image.tmdb.org/t/p/w780/aW6sLdxOlSnpyQTBqrjPx5sz9Bz.jpg"
+      ],
+      "director": "Juan Pablo Sallato",
+      "guionistas": [
+        "Luis Emilio Guzmán"
+      ],
+      "musica": "Matteo Marrella, Alberto Micheli",
+      "elenco": [
+        {
+          "nombre": "Nicolás Zárate",
+          "personaje": "Jorge Silva",
+          "foto": "https://image.tmdb.org/t/p/w185/i7qnRAdThCKcPHdlNHUgoxt7VS9.jpg",
+          "iniciales": "NZ"
+        },
+        {
+          "nombre": "Boris Quercia",
+          "personaje": "Colonel Soler",
+          "foto": "https://image.tmdb.org/t/p/w185/nVdMWfQzAPfTWYs6d8KwuxvaFHJ.jpg",
+          "iniciales": "BQ"
+        },
+        {
+          "nombre": "Marcial Tagle",
+          "personaje": "Colonel Jahn",
+          "foto": "https://image.tmdb.org/t/p/w185/sveAdNSZir3JX6DAKUYIwA8dJZh.jpg",
+          "iniciales": "MT"
+        },
+        {
+          "nombre": "Catalina Stuardo",
+          "personaje": "Rosa",
+          "foto": null,
+          "iniciales": "CS"
+        },
+        {
+          "nombre": "Arón Hernández",
+          "personaje": "Sargent Hernández",
+          "foto": "https://image.tmdb.org/t/p/w185/iIcWxJ8znt5P39JqtHFH3rVGgGr.jpg",
+          "iniciales": "AH"
+        },
+        {
+          "nombre": "Taiu Braver Iosovich",
+          "personaje": "Felipe Agüero Piwonka",
+          "foto": null,
+          "iniciales": "TI"
+        },
+        {
+          "nombre": "Juan Cano",
+          "personaje": "Caporal Mujica",
+          "foto": null,
+          "iniciales": "JC"
+        }
+      ],
+      "paises": [
+        "Chile",
+        "Argentina",
+        "Italy"
+      ],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [
+        "Villano",
+        "Brava Cine",
+        "Rain Dogs",
+        "Caravan",
+        "Berta Film",
+        "Televisión Nacional de Chile",
+        "Corfo",
+        "INCAA",
+        "Mendoza Film Commission",
+        "Programa Ibermedia",
+        "MiC"
+      ],
+      "temas": [],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt37664358",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-10-01"
   }
 }

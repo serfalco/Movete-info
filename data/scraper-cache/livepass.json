@@ -100,48 +100,8 @@
     "imagen": ""
   },
   {
-    "titulo": "ROMPIENDO ESPEJOS - Tributo a Callejeros",
-    "fecha": "2026-09-25 20:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/rompiendo-espejos-tributo-a-callejeros-en-el-teatro-opera-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/5d7483e81467cef397adebefaf6249bb70c212d6.png?1786457104"
-  },
-  {
-    "titulo": "LA CHANCHA MUDA",
-    "fecha": "2026-09-26 20:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/la-chancha-muda-en-el-teatro-opera-lp-26-09",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/cc8d0e1779cbb35750f15bc506da41eb3f147cad.jpg?1781711406"
-  },
-  {
-    "titulo": "FIESTA PLOP: Homenaje a Moria Casan",
-    "fecha": "2026-09-26 23:55:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/fiesta-plop-homenaje-a-moria-casan-en-el-teatro-opera-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/ddcf0a2f5fcc5969164c4f33088671eb309256d8.jpg?1787934071"
-  },
-  {
-    "titulo": "HECATOMBE - MI PRIMERA GUERRA MUNDIAL",
-    "fecha": "2026-09-27 18:30:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/hecatombe-mi-primera-guerra-mundial-en-sala-piazzolla-teatro-argentino-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/824aa6136cfd9bcb382842f4401c20540a0ff39f.jpg?1789156207"
-  },
-  {
     "titulo": "DYANGO",
-    "fecha": "2026-10-01 20:00:00",
+    "fecha": "2026-10-01 21:00:00",
     "lugar": "Teatro Argentino La Plata",
     "direccion": "Av. 51 entre 9 y 10, La Plata",
     "categoria": "musica",
@@ -170,16 +130,6 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/946647f974737b11f09e08fe1380327a4ffdfbad.jpg?1773940778"
   },
   {
-    "titulo": "CONOCIENDO RUSIA",
-    "fecha": "2026-10-03 20:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/conociendo-rusia-en-la-sala-ginastera-teatro-argentino-la-plata",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/071a2aecd563555059a54c57f4c563c950f1e3d3.jpg?1777921375"
-  },
-  {
     "titulo": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE LOS PUEBLOS",
     "fecha": "2026-10-03 20:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -198,6 +148,16 @@
     "url": "https://livepass.com.ar/events/pimpinela-en-el-hipodromo-de-la-plata",
     "fuente": "livepass",
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/d8a7af7c65b37345647b882af8efcf30f895e030.jpg?1773766224"
+  },
+  {
+    "titulo": "CONOCIENDO RUSIA",
+    "fecha": "2026-10-03 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/conociendo-rusia-en-la-sala-ginastera-teatro-argentino-la-plata",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/071a2aecd563555059a54c57f4c563c950f1e3d3.jpg?1777921375"
   },
   {
     "titulo": "GAUCHITO CLUB",
@@ -290,16 +250,6 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/9312f88eb5d58356209dfdb778bf125d1bfa3053.jpg?1787763954"
   },
   {
-    "titulo": "NANUTRIA - OPINIONES VARIAS - STAND UP COMEDY",
-    "fecha": "2026-11-07 20:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "stand-up",
-    "url": "https://livepass.com.ar/events/nanutria-opiniones-varias-stand-up-comedy-en-sala-piazzolla-teatro-argentino-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/3e0f80dc41736a739d449a47829eaf7d729754d2.jpg?1786742442"
-  },
-  {
     "titulo": "CARMEN SANCHEZ VIAMONTE",
     "fecha": "2026-11-07 20:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -308,6 +258,16 @@
     "url": "https://livepass.com.ar/events/carmen-sanchez-viamonte-en-el-teatro-opera-lp-2026-11-07-20-00-00-0300",
     "fuente": "livepass",
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/3b64248222baff1aefab49981a0b8cbb989da236.jpg?1788812883"
+  },
+  {
+    "titulo": "NANUTRIA - OPINIONES VARIAS - STAND UP COMEDY",
+    "fecha": "2026-11-07 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "stand-up",
+    "url": "https://livepass.com.ar/events/nanutria-opiniones-varias-stand-up-comedy-en-sala-piazzolla-teatro-argentino-lp",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/3e0f80dc41736a739d449a47829eaf7d729754d2.jpg?1786742442"
   },
   {
     "titulo": "GIROS",
@@ -438,5 +398,15 @@
     "url": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
     "fuente": "livepass",
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/02a0cc26d293b7db8686a3fe5a5d21f9c4b8ff58.jpg?1786479847"
+  },
+  {
+    "titulo": "EL MATO A UN POLICIA MOTORIZADO",
+    "fecha": "2026-12-19 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Av. 44 y 115, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/el-mato-a-un-policia-motorizado-en-el-hipodromo-de-la-plata",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/19549357c924c647d496f1d09804a130c9a21891.jpg?1790787928"
   }
 ]

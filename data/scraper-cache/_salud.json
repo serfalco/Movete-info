@@ -1,17 +1,18 @@
 {
-  "fecha": "2026-09-24",
-  "total": 328,
+  "fecha": "2026-10-01",
+  "total": 343,
   "por_fuente": {
-    "genda": 231,
-    "livepass": 44,
-    "alternativa": 64,
-    "teatro_metro": 18,
+    "genda": 247,
+    "livepass": 41,
+    "alternativa": 51,
+    "teatro_metro": 28,
     "coliseo": 5,
-    "opera": 14,
+    "opera": 11,
     "eventbrite": 0,
-    "plateauno": 15,
-    "passline": 9,
+    "plateauno": 14,
+    "passline": 8,
     "teatrobar": 0,
+    "teatrocerca": 32,
     "comunidad": 0
   }
 }

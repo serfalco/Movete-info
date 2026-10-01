@@ -1,170 +1,110 @@
 [
   {
-    "titulo": "Romeo y Ofelia (Dir. Gustavo Postiglione)",
-    "hora": "16:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-25"
-  },
-  {
-    "titulo": "Los vencedores (Dir. Pablo Aparo)",
-    "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-25"
-  },
-  {
-    "titulo": "La piel que habito (Pedro Almodóvar, 2011)",
-    "hora": "19:00",
-    "espacio": "Espacio Satélite",
-    "fecha": "2026-09-25"
-  },
-  {
-    "titulo": "La tierra explota, el tiempo se acaba (Dir. Juan Pablo Lepore)",
-    "hora": "20:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-25"
-  },
-  {
-    "titulo": "Ahora tocan ellas! (Dir. Sara Silvia Kochen)",
-    "hora": "20:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-25"
-  },
-  {
-    "titulo": "No Home Movie (Dir. Chantal Akerman - 2015)",
-    "hora": "22:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-25"
-  },
-  {
-    "titulo": "Vortex (Dir. Gaspar Noé)",
-    "hora": "23:55",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-25"
-  },
-  {
-    "titulo": "Romeo y Ofelia (Dir. Gustavo Postiglione)",
-    "hora": "18:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-26"
-  },
-  {
-    "titulo": "Nené y las cosas (Dir. Martin Salina)",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-26"
-  },
-  {
-    "titulo": "Johnny Corncob",
-    "hora": "20:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-26"
-  },
-  {
-    "titulo": "Vortex (Dir. Gaspar Noé)",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-26"
-  },
-  {
-    "titulo": "Akira 30 aniversario (Dir. Katsuhiro Ōtomo)",
-    "hora": "23:55",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-26"
-  },
-  {
-    "titulo": "Aballay, el hombre sin miedo (Dir. Fernando Spiner - 2010)",
-    "hora": "17:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-27"
-  },
-  {
-    "titulo": "Cin3 fili4 (Dor. Raúl Perrone)",
+    "titulo": "Éramos tan flacos",
     "hora": "18:00",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-27"
+    "fecha": "2026-10-02"
   },
   {
-    "titulo": "Los vencedores (Dir. Pablo Aparo)",
-    "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-27"
+    "titulo": "Los colores del tiempo (Dir. Cédrik Klapisch)",
+    "hora": "19:00",
+    "espacio": "Espacio Moliere",
+    "fecha": "2026-10-02"
   },
   {
-    "titulo": "Nuestra tierra (Dir. Lucrecia Martel)",
+    "titulo": "Studio Ghibli - El reino de los sueños y la locura",
     "hora": "19:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-27"
+    "fecha": "2026-10-02"
   },
   {
-    "titulo": "La mujer sin cabeza (Dir. Lucrecia Martel)",
-    "hora": "20:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-27"
+    "titulo": "Cadaver Exquisito (Dir. Lucía Vassallo)",
+    "hora": "21:30",
+    "espacio": "La Caipo",
+    "fecha": "2026-10-02"
   },
   {
-    "titulo": "Akira 30 aniversario",
-    "hora": "20:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-27"
-  },
-  {
-    "titulo": "Vortex (Dir. Gaspar Noé)",
+    "titulo": "El Castillo en el Cielo",
     "hora": "21:30",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-09-27"
+    "fecha": "2026-10-02"
   },
   {
-    "titulo": "Cin3 fili4 (Dor. Raúl Perrone)",
-    "hora": "18:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-28"
-  },
-  {
-    "titulo": "De repente, el último verano (Dir. Joseph L. Mankiewicz)",
-    "hora": "20:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-28"
-  },
-  {
-    "titulo": "Los vencedores (Dir. Pablo Aparo)",
+    "titulo": "Éramos tan flacos",
     "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-29"
-  },
-  {
-    "titulo": "Cin3 fili4 (Dor. Raúl Perrone)",
-    "hora": "18:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-29"
+    "fecha": "2026-10-03"
   },
   {
-    "titulo": "Villa Olímpica. Recuerdos de un mundo fuera de lugar (Dir. Sebastian Kohan)",
-    "hora": "20:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-29"
+    "titulo": "Re-sonator (a.k.a. From Beyond, Stuart Gordon, 1986) + En la boca del miedo (John Carpenter, 1994)",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-03"
   },
   {
-    "titulo": "La hora del Vampiro (Dir. Tobe Hooper)",
+    "titulo": "El regreso de los muertos vivos — Dan O’Bannon, 1985",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-29"
+    "fecha": "2026-10-03"
   },
   {
-    "titulo": "Los vencedores (Dir. Pablo Aparo)",
+    "titulo": "Studio Ghibli - Kiki: Entregas a domicilio",
+    "hora": "17:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-04"
+  },
+  {
+    "titulo": "Fizcarraldo (Dir. Werner Herzog)",
     "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-09-30"
+    "espacio": "Teatro de Cámara City Bell",
+    "fecha": "2026-10-04"
   },
   {
-    "titulo": "Cin3 fili4 (Dor. Raúl Perrone)",
+    "titulo": "Éramos tan flacos",
     "hora": "18:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-30"
+    "fecha": "2026-10-04"
   },
   {
-    "titulo": "Heaat (Dir. Michael Mann - 1995)",
-    "hora": "20:30",
+    "titulo": "Éramos tan flacos",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-04"
+  },
+  {
+    "titulo": "Éramos tan flacos",
+    "hora": "18:00",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-09-30"
+    "fecha": "2026-10-05"
+  },
+  {
+    "titulo": "Studio Ghibli - Recuerdos del ayer",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-05"
+  },
+  {
+    "titulo": "Éramos tan flacos",
+    "hora": "18:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-10-06"
+  },
+  {
+    "titulo": "Spookies (1986) Dir. Brendan Faulkner, Thomas Doran, Eugine Josseph",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-06"
+  },
+  {
+    "titulo": "Éramos tan flacos",
+    "hora": "18:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-10-07"
+  },
+  {
+    "titulo": "Todo va mal (Dir. Federico Fernández)",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-07"
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "EL ESCRITOR DE TODAS LAS",
-    "fecha": "2026-09-25 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9917/el-escritor-de-todas-las",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3312.jpeg"
-  },
-  {
     "titulo": "EL HOMBRE INESPERADO.",
     "fecha": "2026-10-02 21:00:00",
     "lugar": "Metro",
@@ -90,6 +80,16 @@
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3342.jpeg"
   },
   {
+    "titulo": "PABLO FABREGAS INESTABLE.",
+    "fecha": "2026-10-31 21:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10060/pablo-fabregas-inestable",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3415.jpeg"
+  },
+  {
     "titulo": "PEQUEÑO PEZ",
     "fecha": "2026-11-01 17:00:00",
     "lugar": "Metro",
@@ -138,15 +138,5 @@
     "url": "https://www.plateaunotickets.com/obra/10052/el-cuarto-de-veronica",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/2474.jpeg"
-  },
-  {
-    "titulo": "G Y T GUYOT Y TOTH",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/10019/g-y-t-guyot-y-toth",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3383.jpeg"
   }
 ]
