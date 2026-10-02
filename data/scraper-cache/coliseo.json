@@ -24,10 +24,30 @@
     "fecha": "2026-11-07 20:00:00",
     "lugar": "Teatro Coliseo Podestá",
     "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "otros",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/las-hijas",
+    "categoria": "teatro",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/comedia-dramatica/las-hijas",
     "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/las-hijas-1200x1200.jpg?itok=6I6fbu79"
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/las-hijas-1200x1200_0.jpg?itok=risgzkoB"
+  },
+  {
+    "titulo": "Elena Roger en concierto",
+    "fecha": "2026-11-08 20:30:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "musica",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/elena-roger-en-concierto",
+    "fuente": "coliseo",
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/elena-roger-en-concierto-1200x1200.jpg?itok=hfH8ZbSF"
+  },
+  {
+    "titulo": "La cena de los tontos",
+    "fecha": "2026-11-12 19:30:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "teatro",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/comedia/la-cena-de-los-tontos-0",
+    "fuente": "coliseo",
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/la-cena-de-los-tontos-1200x1200.jpg?itok=oFncb4LF"
   },
   {
     "titulo": "CONNIE BALLARINI STAND UP",
@@ -38,6 +58,16 @@
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/stand-humoristico/connie-ballarini-stand-0",
     "fuente": "coliseo",
     "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/connie-ballarini-stand-1200x1200.jpg?itok=a-kINdFh"
+  },
+  {
+    "titulo": "Sindicato Argentino de Boleros -Velada Sinfónica",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "musica",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/recital/sindicato-argentino-de-boleros-velada-sinfonica",
+    "fuente": "coliseo",
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/sindicato-argentino-de-boleros-velada-sinfonica-1200x1200.jpg?itok=gDJBh88l"
   },
   {
     "titulo": "Bla Bla & Cía. presenta MODELO VIVO MUERTO",
