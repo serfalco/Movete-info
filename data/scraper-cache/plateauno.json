@@ -1,35 +1,5 @@
 [
   {
-    "titulo": "EL HOMBRE INESPERADO.",
-    "fecha": "2026-10-02 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9984/el-hombre-inesperado",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3228.jpeg"
-  },
-  {
-    "titulo": "FEST. DE LA MUSICA ITALIANA",
-    "fecha": "2026-10-03 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.plateaunotickets.com/obra/10020/fest-de-la-musica-italiana",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3384.jpeg"
-  },
-  {
-    "titulo": "LA BIBLIOTECA PERDIDA",
-    "fecha": "2026-10-04 17:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9947/la-biblioteca-perdida",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3334.jpeg"
-  },
-  {
     "titulo": "NEW SENSATION 2026",
     "fecha": "2026-10-10 21:30:00",
     "lugar": "Metro",

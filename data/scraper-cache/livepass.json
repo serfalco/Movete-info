@@ -50,36 +50,6 @@
     "imagen": ""
   },
   {
-    "titulo": "EMANERO",
-    "fecha": "2026-10-02 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "Pimpinela",
-    "fecha": "2026-10-03 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "Pimpinela",
-    "fecha": "2026-10-03 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "LA KONGA",
     "fecha": "2026-10-23 21:00:00",
     "lugar": "Hipódromo de La Plata",
@@ -88,56 +58,6 @@
     "url": "",
     "fuente": "livepass",
     "imagen": ""
-  },
-  {
-    "titulo": "SIN DATOS",
-    "fecha": "2026-10-02 20:00:00",
-    "lugar": "Guajira",
-    "direccion": "Calle 49, 484, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/sin-datos-en-guajira-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/f6c92e705d15ee70e965423583270ae7bf203126.jpg?1787080274"
-  },
-  {
-    "titulo": "EMANERO",
-    "fecha": "2026-10-02 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/emanero-en-la-sala-ginastera-teatro-argentino-la-plata-02-10",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/946647f974737b11f09e08fe1380327a4ffdfbad.jpg?1773940778"
-  },
-  {
-    "titulo": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE LOS PUEBLOS",
-    "fecha": "2026-10-03 20:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/klezmer-por-la-vida-y-la-paz-entre-los-pueblos-en-el-teatro-opera-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/72061534d1a4e290dc26b02f897daf473270c208.png?1787164287"
-  },
-  {
-    "titulo": "Pimpinela",
-    "fecha": "2026-10-03 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/pimpinela-en-el-hipodromo-de-la-plata",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/d8a7af7c65b37345647b882af8efcf30f895e030.jpg?1773766224"
-  },
-  {
-    "titulo": "CONOCIENDO RUSIA",
-    "fecha": "2026-10-03 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/conociendo-rusia-en-la-sala-ginastera-teatro-argentino-la-plata",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/071a2aecd563555059a54c57f4c563c950f1e3d3.jpg?1777921375"
   },
   {
     "titulo": "GAUCHITO CLUB",

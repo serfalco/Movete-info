@@ -20,16 +20,6 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908010156-e6121239.webp"
   },
   {
-    "titulo": "Anémonas. Un plan imperfecto.",
-    "fecha": "2026-10-02 21:30:00",
-    "lugar": "Viejo Almacén El Obrero",
-    "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/anemonas-un-plan-imperfecto/funcion/la-plata/viejo-almacen-el-obrero/2-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930051934-8b375b23.webp"
-  },
-  {
     "titulo": "Calígula",
     "fecha": "2026-10-10 21:30:00",
     "lugar": "Teatro Estudio",
@@ -51,11 +41,11 @@
   },
   {
     "titulo": "Criminal",
-    "fecha": "2026-10-04 19:30:00",
+    "fecha": "2026-10-11 19:30:00",
     "lugar": "Telón Negro Teatro",
     "direccion": "Av. 13 Nº 26, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/criminal-obra/funcion/la-plata/telon-negro-teatro/4-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/criminal-obra/funcion/la-plata/telon-negro-teatro/11-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260924011015-e77c7a68.webp"
   },
@@ -91,43 +81,43 @@
   },
   {
     "titulo": "El almacén de los ecos",
-    "fecha": "2026-10-04 20:00:00",
+    "fecha": "2026-10-11 20:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/el-almacen-de-los-ecos/funcion/la-plata/teatro-abierto/4-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/el-almacen-de-los-ecos/funcion/la-plata/teatro-abierto/11-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908002501-5c55b9dd.webp"
   },
   {
-    "titulo": "El hombre inesperado",
-    "fecha": "2026-10-02 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/el-hombre-inesperado/funcion/la-plata/teatro-metro-la-plata/2-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812033313-f22b38cb.webp"
-  },
-  {
     "titulo": "El principio de Arquímedes",
-    "fecha": "2026-10-02 21:00:00",
+    "fecha": "2026-10-09 21:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/el-principio-de-arquimedes-la-plata-obra/funcion/la-plata/teatro-abierto/2-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/el-principio-de-arquimedes-la-plata-obra/funcion/la-plata/teatro-abierto/9-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260826165951-64fba3bf.webp"
   },
   {
     "titulo": "Escrito en la piel",
-    "fecha": "2026-10-03 21:30:00",
+    "fecha": "2026-10-10 21:30:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/3-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/10-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930051440-d15db00b.webp"
+  },
+  {
+    "titulo": "Fakeland S.A.",
+    "fecha": "2026-10-10 19:30:00",
+    "lugar": "Viejo Almacén El Obrero",
+    "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/fakeland-s-a/funcion/la-plata/viejo-almacen-el-obrero/10-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261006042614-7b43899a.webp"
   },
   {
     "titulo": "Habitación Macbeth",
@@ -160,34 +150,34 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812040045-d54f7bed.webp"
   },
   {
-    "titulo": "La gravedad de lo incierto",
-    "fecha": "2026-10-03 21:30:00",
-    "lugar": "Teatro Estudio",
-    "direccion": "Calle 3 Nº 386, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-gravedad-de-lo-incierto/funcion/la-plata/teatro-estudio/3-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260826171617-50d767ae.webp"
-  },
-  {
     "titulo": "La Nona del Teatro UNLP",
-    "fecha": "2026-10-03 21:00:00",
+    "fecha": "2026-10-10 21:00:00",
     "lugar": "Teatro de la UNLP",
     "direccion": "Calle 10 Nº 1076, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-nona-del-teatro-unlp/funcion/la-plata/teatro-de-la-unlp/3-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/la-nona-del-teatro-unlp/funcion/la-plata/teatro-de-la-unlp/10-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260819131718-c4fc4565.webp"
   },
   {
     "titulo": "La Revoluta",
-    "fecha": "2026-10-04 20:00:00",
+    "fecha": "2026-10-11 20:00:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-revoluta/funcion/la-plata/viejo-almacen-el-obrero/4-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/la-revoluta/funcion/la-plata/viejo-almacen-el-obrero/11-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930052205-cec2df58.webp"
+  },
+  {
+    "titulo": "Las del lirio",
+    "fecha": "2026-10-09 21:30:00",
+    "lugar": "Viejo Almacén El Obrero",
+    "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/las-del-lirio/funcion/la-plata/viejo-almacen-el-obrero/9-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261006042327-9e986e0e.webp"
   },
   {
     "titulo": "Las hijas",
@@ -208,16 +198,6 @@
     "url": "https://teatrocerca.com.ar/obra/modelo-vivo-muerto/funcion/la-plata/teatro-municipal-coliseo-podesta/29-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260805015911-d54b24e3.webp"
-  },
-  {
-    "titulo": "Que quilombo!",
-    "fecha": "2026-10-04 20:00:00",
-    "lugar": "Teatro El Escape",
-    "direccion": "Calle 44 Nº 1443, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/que-quilombo/funcion/la-plata/teatro-el-escape/4-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260902022108-df087450.webp"
   },
   {
     "titulo": "Volcada",
@@ -291,11 +271,11 @@
   },
   {
     "titulo": "Sociedad Platense de Stand Up",
-    "fecha": "2026-10-02 21:30:00",
+    "fecha": "2026-10-09 21:30:00",
     "lugar": "Tres Empanadas Comedia",
     "direccion": "Calle 43 Nº 1349, La Plata",
     "categoria": "stand-up",
-    "url": "https://teatrocerca.com.ar/obra/sociedad-platense-de-stand-up/funcion/la-plata/tres-empanadas-comedia-la-plata/2-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/sociedad-platense-de-stand-up/funcion/la-plata/tres-empanadas-comedia-la-plata/9-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/revision/d062f501c420293ea65f232f7078c6c95bbc0342.webp"
   },
