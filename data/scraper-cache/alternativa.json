@@ -20,6 +20,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/000157934.jpg"
   },
   {
+    "titulo": "Muerde",
+    "fecha": "2026-11-01 19:00:00",
+    "lugar": "SALA 420",
+    "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas72170-muerde?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/26/000280026.jpg"
+  },
+  {
     "titulo": "Pajarita",
     "fecha": "2026-10-09 20:00:00",
     "lugar": "TACEC - TEATRO ARGENTINO CENTRO DE EXPERIMENTACIÓN Y CREACIÓN",
@@ -100,6 +110,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/34/000320334.jpg"
   },
   {
+    "titulo": "Monstruos",
+    "fecha": "2026-10-25 20:00:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra95391-monstruos",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/16/000315716.jpg"
+  },
+  {
     "titulo": "Vacío",
     "fecha": "2026-10-10 22:00:00",
     "lugar": "ÁREA CHICA",
@@ -121,7 +141,7 @@
   },
   {
     "titulo": "Fakeland S.A",
-    "fecha": "2026-10-10 21:30:00",
+    "fecha": "2026-10-10 19:30:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -155,7 +175,7 @@
     "lugar": "ESCENARIO-40",
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas97467-luces-en-el-espejo?o=6",
+    "url": "https://www.alternativateatral.com.ar/obra97467-luces-en-el-espejo",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/29/000321229.jpg"
   },
@@ -230,6 +250,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/36/000316536.jpg"
   },
   {
+    "titulo": "Terapia",
+    "fecha": "2026-10-23 20:30:00",
+    "lugar": "EL CATRIN Y LA CATRINA",
+    "direccion": "Calle 70 #773, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas101706-terapia?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/55/000316755.jpg"
+  },
+  {
     "titulo": "Cuadriláteros 6, teatro breve reunido",
     "fecha": "2026-10-09 22:30:00",
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
@@ -248,6 +278,16 @@
     "url": "https://publico.alternativateatral.com/entradas102156-cuadrilateros-7-teatro-breve-reunido?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/91/000317991.jpg"
+  },
+  {
+    "titulo": "¡Ay, por Dios!",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra102404-ay-por-dios",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/98/000319498.jpg"
   },
   {
     "titulo": "Lady Godiva la diva",
@@ -387,7 +427,7 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas102973-las-del-lirio-tullido-retrato-familiar?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/13/000320513.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/18/000322218.jpg"
   },
   {
     "titulo": "Muestra cronopia del grupo de los viernes",
@@ -458,5 +498,25 @@
     "url": "https://publico.alternativateatral.com/entradas103462-kosa-y-la-guerra?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/62/000321962.jpg"
+  },
+  {
+    "titulo": "Venecia",
+    "fecha": "2026-10-23 22:00:00",
+    "lugar": "TELON NEGRO TEATRO",
+    "direccion": "13 e/ 32 y 33, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas103521-venecia?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/79/000322279.jpg"
+  },
+  {
+    "titulo": "La industria del amo(r)",
+    "fecha": "2026-11-06 21:30:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas103531-la-industria-del-amor?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/63/000322263.jpg"
   }
 ]

@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "454639": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "18775": {
     "tmdb": {
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1443576": {
     "tmdb": {
@@ -4306,7 +4306,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1101383": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1698443": {
     "tmdb": {
@@ -4575,7 +4575,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1240889": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "8392": {
     "tmdb": {
@@ -5821,7 +5821,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1384216": {
     "tmdb": {
@@ -7593,7 +7593,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1140521": {
     "tmdb": {
@@ -8188,7 +8188,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1180894": {
     "tmdb": {
@@ -8461,7 +8461,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "38117": {
     "tmdb": {
@@ -8631,7 +8631,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1469342": {
     "tmdb": {
@@ -9272,7 +9272,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1264821": {
     "tmdb": {
@@ -9430,7 +9430,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1341138": {
     "tmdb": {
@@ -9762,7 +9762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-01"
+    "ultima_semana": "2026-10-08"
   },
   "1563588": {
     "tmdb": {
@@ -9871,5 +9871,974 @@
       "similares": []
     },
     "ultima_semana": "2026-10-01"
+  },
+  "1400837": {
+    "tmdb": {
+      "tmdb_id": 1400837,
+      "titulo": "La otra madre",
+      "titulo_original": "Other Mommy",
+      "tagline": "Tu madre no te salvará.",
+      "anio": "2026",
+      "estreno": "2026-10-07",
+      "duracion": 93,
+      "generos": [
+        "Terror",
+        "Suspense"
+      ],
+      "score": 9.1,
+      "votos": 10,
+      "certificacion": "+13",
+      "sinopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+      "poster": "https://image.tmdb.org/t/p/w342/19R9yRwgZSekpTNfKoB7MzsutDN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/yf5EKtrTKM8pla1TpNA5TsZgoTp.jpg",
+        "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+        "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+        "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
+        "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+        "https://image.tmdb.org/t/p/w780/6R9ENxzYX60nC2B1ldaYzxsTwjN.jpg"
+      ],
+      "director": "Rob Savage",
+      "guionistas": [
+        "Nathan Elston"
+      ],
+      "musica": "Patrick Jonsson",
+      "elenco": [
+        {
+          "nombre": "Jessica Chastain",
+          "personaje": "Ursula / Other Mommy",
+          "foto": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg",
+          "iniciales": "JC"
+        },
+        {
+          "nombre": "Arabella Olivia Clark",
+          "personaje": "Bela",
+          "foto": "https://image.tmdb.org/t/p/w185/bwTovaznMIXo9Je01soHBCzmFxn.jpg",
+          "iniciales": "AC"
+        },
+        {
+          "nombre": "Jay Duplass",
+          "personaje": "Daddo / Russ",
+          "foto": "https://image.tmdb.org/t/p/w185/eUY0JDlqzf5pE9pmdvv4IPU3NYn.jpg",
+          "iniciales": "JD"
+        },
+        {
+          "nombre": "Dichen Lachman",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg",
+          "iniciales": "DL"
+        },
+        {
+          "nombre": "Arian Moayed",
+          "personaje": "Uncle Frank",
+          "foto": "https://image.tmdb.org/t/p/w185/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg",
+          "iniciales": "AM"
+        },
+        {
+          "nombre": "Karen Allen",
+          "personaje": "Grandma Ruth",
+          "foto": "https://image.tmdb.org/t/p/w185/75yyZZyinCUcuK8pOSXnggmuiRp.jpg",
+          "iniciales": "KA"
+        },
+        {
+          "nombre": "Sean Kaufman",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/9sMkCOJU6tWIoezXBapA58C4qpH.jpg",
+          "iniciales": "SK"
+        },
+        {
+          "nombre": "Adam Silver",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/jE3zEMEYflS3adHtF11YqLAwlVI.jpg",
+          "iniciales": "AS"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Blumhouse Productions",
+        "Atomic Monster",
+        "Spin a Black Yarn"
+      ],
+      "temas": [
+        "Mother",
+        "Based on novel or book",
+        "Supernatural",
+        "Haunted house",
+        "House",
+        "Evil spirit",
+        "Demon",
+        "Family"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
+      "teaser": "",
+      "imdb_id": "tt36586020",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 448095,
+          "titulo": "Ecos mortales",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/hAsF1vuwkVZckLtc0N4yV0eUd7j.jpg",
+          "score": 6.43
+        },
+        {
+          "tmdb_id": 302,
+          "titulo": "La piscina",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/4Ja8AN3IMrOduuEJpfFAE5rOTBL.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 322,
+          "titulo": "Mystic River",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/b6j7T4uBjXdG8FBMuDFsHttgIK2.jpg",
+          "score": 7.743
+        },
+        {
+          "tmdb_id": 377,
+          "titulo": "Pesadilla en Elm Street",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
+          "score": 7.356
+        },
+        {
+          "tmdb_id": 1562,
+          "titulo": "28 semanas después",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/8PJEQ63WebiLJ4vtuyXx68Jehmh.jpg",
+          "score": 6.6
+        },
+        {
+          "tmdb_id": 1573,
+          "titulo": "La jungla 2: Alerta roja",
+          "anio": "1990",
+          "poster": "https://image.tmdb.org/t/p/w342/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg",
+          "score": 6.968
+        },
+        {
+          "tmdb_id": 1592,
+          "titulo": "Las dos caras de la verdad",
+          "anio": "1996",
+          "poster": "https://image.tmdb.org/t/p/w342/8EkX8965Hb2hZdkpEcFShrlrklw.jpg",
+          "score": 7.66
+        },
+        {
+          "tmdb_id": 1593137,
+          "titulo": "El Cuerpo de Lili",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/bnUlFqedZTyln7ePxfqR5OYmk6C.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-08"
+  },
+  "1380417": {
+    "tmdb": {
+      "tmdb_id": 1380417,
+      "titulo": "A cualquier precio",
+      "titulo_original": "By Any Means",
+      "tagline": "El FBI no pudo descifrarlo. Así que recurrieron a la mafia.",
+      "anio": "2026",
+      "estreno": "2026-09-02",
+      "duracion": 107,
+      "generos": [
+        "Historia",
+        "Crimen",
+        "Drama"
+      ],
+      "score": 7.5,
+      "votos": 27,
+      "certificacion": "+16",
+      "sinopsis": "Un joven agente negro del FBI es enviado al Misisipi de los años 60 para investigar una ola de brutales asesinatos dirigidos contra líderes de los derechos civiles. Obligado a trabajar junto al notorio sicario de la mafia Greg Scarpa, se ve arrastrado a una cacería mortal en la que los límites entre la justicia y la venganza comienzan a difuminarse.",
+      "poster": "https://image.tmdb.org/t/p/w342/q0uTeO1wUGcAuJYdplTbnrz5bEq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+        "https://image.tmdb.org/t/p/w780/m34Uq5AwIy4GsGrxkUjokMprdf6.jpg",
+        "https://image.tmdb.org/t/p/w780/csa0L17nCL82g5nYxoW3vuyHs6.jpg",
+        "https://image.tmdb.org/t/p/w780/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
+        "https://image.tmdb.org/t/p/w780/oecIml6MU4ZzshtVIs0i9Qsvngm.jpg",
+        "https://image.tmdb.org/t/p/w780/jUeaettqxlwhHguTtHbGis2w2nW.jpg"
+      ],
+      "director": "Elegance Bratton",
+      "guionistas": [
+        "Sascha Penn"
+      ],
+      "musica": "Terence Blanchard",
+      "elenco": [
+        {
+          "nombre": "Yahya Abdul-Mateen II",
+          "personaje": "Wayne Strider",
+          "foto": "https://image.tmdb.org/t/p/w185/79VdVjUoiYGcgjOT9UmE5XIpoZM.jpg",
+          "iniciales": "YI"
+        },
+        {
+          "nombre": "Mark Wahlberg",
+          "personaje": "Gregory Scarpa",
+          "foto": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg",
+          "iniciales": "MW"
+        },
+        {
+          "nombre": "Nicole Beharie",
+          "personaje": "Allison Strider",
+          "foto": "https://image.tmdb.org/t/p/w185/7ZgUAk3hkCrWSfjLYvnbKdyaNiN.jpg",
+          "iniciales": "NB"
+        },
+        {
+          "nombre": "Josh Lucas",
+          "personaje": "Special Agent Everett Rhodes",
+          "foto": "https://image.tmdb.org/t/p/w185/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg",
+          "iniciales": "JL"
+        },
+        {
+          "nombre": "David Strathairn",
+          "personaje": "Special Agent Roy K. Moore",
+          "foto": "https://image.tmdb.org/t/p/w185/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg",
+          "iniciales": "DS"
+        },
+        {
+          "nombre": "Giancarlo Esposito",
+          "personaje": "Vernon Dahmer",
+          "foto": "https://image.tmdb.org/t/p/w185/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg",
+          "iniciales": "GE"
+        },
+        {
+          "nombre": "Ethan Embry",
+          "personaje": "Sam Bowers",
+          "foto": "https://image.tmdb.org/t/p/w185/feYnMlTejbHfkhD1akVVXKWG0u1.jpg",
+          "iniciales": "EE"
+        },
+        {
+          "nombre": "LisaGay Hamilton",
+          "personaje": "Ms. Rebecca Brewer",
+          "foto": "https://image.tmdb.org/t/p/w185/bqfowff4gF0cGaQ1c7F89HAL3DH.jpg",
+          "iniciales": "LH"
+        }
+      ],
+      "paises": [
+        "United States of America",
+        "Australia",
+        "United Kingdom"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Hammerstone Studios",
+        "Thunder Road",
+        "Freedom Principle",
+        "Municipal Pictures",
+        "North.Five.Six.",
+        "Script 2 Screen",
+        "Wonder Street",
+        "LB Entertainment",
+        "Jeff Rice Films",
+        "Siena Film Foundation",
+        "Harbor Fund",
+        "Ballpoint Productions",
+        "Fieldhouse Productions",
+        "Bright White Light",
+        "International Media Funds Management"
+      ],
+      "temas": [
+        "Hitman",
+        "Ku klux klan",
+        "Based on true story",
+        "Mafia",
+        "1960s",
+        "White savior",
+        "Civil rights movement",
+        "Fbi agent"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt34379051",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 4107,
+          "titulo": "Domingo sangriento",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/lLFalh1ctjAyeYVt3MDAdNUIz5c.jpg",
+          "score": 7.2
+        },
+        {
+          "tmdb_id": 4133,
+          "titulo": "Blow",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/mKchBmaj69q1hTDWOpXLxZ26cVw.jpg",
+          "score": 7.354
+        },
+        {
+          "tmdb_id": 4147,
+          "titulo": "Camino a la perdición",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/vnYLI3BFyaHX6XHSbE6mlcK4vbR.jpg",
+          "score": 7.4
+        },
+        {
+          "tmdb_id": 4169,
+          "titulo": "El espía",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/bXIVndJFBr3zTy7jvCUUTxqGwgk.jpg",
+          "score": 6.642
+        },
+        {
+          "tmdb_id": 3526,
+          "titulo": "Frances",
+          "anio": "1982",
+          "poster": "https://image.tmdb.org/t/p/w342/p131sMBSWdiiTKTqComBDL08SuJ.jpg",
+          "score": 6.872
+        },
+        {
+          "tmdb_id": 452694,
+          "titulo": "കാംഭോജി",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/8DCHhxtcrDSXk3xuOnHzv2WHqQw.jpg",
+          "score": 3.5
+        },
+        {
+          "tmdb_id": 1215185,
+          "titulo": "La infiltrada",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg",
+          "score": 7.1
+        },
+        {
+          "tmdb_id": 1594606,
+          "titulo": "The Hostage's Hero",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/vYRiPe1U3uGedFTMdg3m30alLBK.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-08"
+  },
+  "920": {
+    "tmdb": {
+      "tmdb_id": 920,
+      "titulo": "Cars",
+      "titulo_original": "Cars",
+      "tagline": "Ahhh ...tiene ese olor a película nueva.",
+      "anio": "2006",
+      "estreno": "2006-06-08",
+      "duracion": 116,
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Comedia",
+        "Familia"
+      ],
+      "score": 7.1,
+      "votos": 15608,
+      "certificacion": "ATP",
+      "sinopsis": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+      "poster": "https://image.tmdb.org/t/p/w342/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
+        "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+        "https://image.tmdb.org/t/p/w780/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+        "https://image.tmdb.org/t/p/w780/wZiUsAI939lOKgs0u3qA3zSW7zx.jpg",
+        "https://image.tmdb.org/t/p/w780/a1QsuXuaUu1w4zLJEgOW1pXs9U6.jpg",
+        "https://image.tmdb.org/t/p/w780/smfd7ZwxrsvdDSTowc6tSlVl8yA.jpg"
+      ],
+      "director": "John Lasseter",
+      "guionistas": [
+        "Dan Fogelman",
+        "Joe Ranft",
+        "Jørgen Klubien"
+      ],
+      "musica": "Randy Newman",
+      "elenco": [
+        {
+          "nombre": "Owen Wilson",
+          "personaje": "Lightning McQueen (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg",
+          "iniciales": "OW"
+        },
+        {
+          "nombre": "Paul Newman",
+          "personaje": "Doc Hudson (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/5K9gQEzuQ0DeNO6KKEb5xK8iOVD.jpg",
+          "iniciales": "PN"
+        },
+        {
+          "nombre": "Bonnie Hunt",
+          "personaje": "Sally Carrera (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg",
+          "iniciales": "BH"
+        },
+        {
+          "nombre": "Larry the Cable Guy",
+          "personaje": "Mater (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/34pX2sQj9DddaQWRBGukSWYdXxS.jpg",
+          "iniciales": "LG"
+        },
+        {
+          "nombre": "Cheech Marin",
+          "personaje": "Ramone (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg",
+          "iniciales": "CM"
+        },
+        {
+          "nombre": "Tony Shalhoub",
+          "personaje": "Luigi (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg",
+          "iniciales": "TS"
+        },
+        {
+          "nombre": "Guido Quaroni",
+          "personaje": "Guido (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/ie2Q3UcrASkiDKqJOMlhaRaSgFS.jpg",
+          "iniciales": "GQ"
+        },
+        {
+          "nombre": "Jenifer Lewis",
+          "personaje": "Flo (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/htrTYcoJQQpSYo6BrRehe3h46vo.jpg",
+          "iniciales": "JL"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Italiano",
+        "日本語",
+        "Yiddish"
+      ],
+      "productoras": [
+        "Pixar",
+        "Walt Disney Pictures"
+      ],
+      "temas": [
+        "Friendship",
+        "Car race",
+        "Sports",
+        "Villain",
+        "Success",
+        "Route 66",
+        "Porsche",
+        "Retirement"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
+      "teaser": "",
+      "imdb_id": "tt0317219",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Cars - Colección",
+        "partes": [
+          {
+            "tmdb_id": 920,
+            "titulo": "Cars",
+            "anio": "2006",
+            "poster": "https://image.tmdb.org/t/p/w342/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+            "fecha": "2006-06-08"
+          },
+          {
+            "tmdb_id": 49013,
+            "titulo": "Cars 2",
+            "anio": "2011",
+            "poster": "https://image.tmdb.org/t/p/w342/kxfxsxJJ8e3vCRRLSfcELHtgMLh.jpg",
+            "fecha": "2011-06-11"
+          },
+          {
+            "tmdb_id": 260514,
+            "titulo": "Cars 3",
+            "anio": "2017",
+            "poster": "https://image.tmdb.org/t/p/w342/4tp9W3QAbQcpanBtBceZtHD10UT.jpg",
+            "fecha": "2017-06-15"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 631982,
+          "titulo": "Το Αγοροκόριτσο",
+          "anio": "1959",
+          "poster": "https://image.tmdb.org/t/p/w342/9XMXh4ZxIU5FLqKGHZUS8HJZ4rd.jpg",
+          "score": 5.5
+        },
+        {
+          "tmdb_id": 823566,
+          "titulo": "Sin Aliento",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/q768KgppU20xgKoMqDILkvccAOH.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 447878,
+          "titulo": "69SEC",
+          "anio": "2016",
+          "poster": "https://image.tmdb.org/t/p/w342/tFpi1uLk0t6SWxw8j9JYbHoIuLE.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 25716,
+          "titulo": "Crows II",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/84OA5E8VRnK1jHdPZtEeAmXADez.jpg",
+          "score": 7.2
+        },
+        {
+          "tmdb_id": 25719,
+          "titulo": "Cómo pez en el agua",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/iljtqAghDACO5ietUuJU85ttSL5.jpg",
+          "score": 6.3
+        },
+        {
+          "tmdb_id": 25723,
+          "titulo": "Urgente por accidente",
+          "anio": "1998",
+          "poster": "https://image.tmdb.org/t/p/w342/2EuuBbK6HPbCZsrpsZAIMx2EVr.jpg",
+          "score": 5.6
+        },
+        {
+          "tmdb_id": 1430422,
+          "titulo": "Childish Things",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/oGaEyB1O9kmAFM2sVMteepGeThD.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 25758,
+          "titulo": "Christmas Is Here Again",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/3io7Dsny278DNGow1umlUX8AIvI.jpg",
+          "score": 4.8
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-08"
+  },
+  "1568759": {
+    "tmdb": {
+      "tmdb_id": 1568759,
+      "titulo": "La casa",
+      "titulo_original": "La casa",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-10-08",
+      "duracion": 95,
+      "generos": [
+        "Drama"
+      ],
+      "score": 0.0,
+      "votos": 0,
+      "certificacion": "+13",
+      "sinopsis": "Tras muchos años de trabajo en una multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad que el mercado laboral le presenta. Al borde de la desesperación, conecta por medio de un amigo con un grupo de inversores que ofrecen comprarle su casa, valuada en un millón de dólares, al 50 por ciento de su valor pero con derecho a usufructo hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan complicándose mucho más de lo que esperaba.",
+      "poster": "https://image.tmdb.org/t/p/w342/5q1De9lkLtj3ZvHosVroyQiorn8.jpg",
+      "backdrop": null,
+      "hero": null,
+      "galeria": [],
+      "director": "Gustavo Triviño",
+      "guionistas": [
+        "Gustavo Triviño"
+      ],
+      "musica": "Iván Wyszogrod",
+      "elenco": [
+        {
+          "nombre": "Diego Peretti",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/honq5g3GPjaCBoiik4uU7va0OJf.jpg",
+          "iniciales": "DP"
+        },
+        {
+          "nombre": "César Troncoso",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg",
+          "iniciales": "CT"
+        },
+        {
+          "nombre": "Fabián Arenillas",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/cc4sLjGi1gCp5uhJjtiPpNYXBtr.jpg",
+          "iniciales": "FA"
+        },
+        {
+          "nombre": "Guillermo Arengo",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg",
+          "iniciales": "GA"
+        },
+        {
+          "nombre": "Mariano Argento",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/rsU5dvwIRLUtMZoRSIbdTv3HdfA.jpg",
+          "iniciales": "MA"
+        },
+        {
+          "nombre": "Gastón Cocchiarale",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/4YMV9Cc6l7EBPemWgRAmQVgp10d.jpg",
+          "iniciales": "GC"
+        }
+      ],
+      "paises": [
+        "Argentina"
+      ],
+      "idiomas": [
+        "Español"
+      ],
+      "productoras": [
+        "Productora MG",
+        "Cacodelphia Studios"
+      ],
+      "temas": [],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-10-08"
+  },
+  "79372": {
+    "tmdb": {
+      "tmdb_id": 79372,
+      "titulo": "La vida es así",
+      "titulo_original": "Tortilla Flat",
+      "tagline": "Le dan con fuerza al vino, las mujeres y la música.",
+      "anio": "1942",
+      "estreno": "1942-05-21",
+      "duracion": 105,
+      "generos": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "score": 5.8,
+      "votos": 28,
+      "certificacion": "NR",
+      "sinopsis": "Danny, un pobre mexicano-norteamericano del norte de California, hereda dos casas de su abuelo que son rápidamente aprovechadas por sus amigos vagabundos.",
+      "poster": "https://image.tmdb.org/t/p/w342/jVhrHsQQ2NRjXYM6JieNS8xj87C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gr2mOtuGppXV9wwzWe6nwWbd5yY.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/gr2mOtuGppXV9wwzWe6nwWbd5yY.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/gr2mOtuGppXV9wwzWe6nwWbd5yY.jpg",
+        "https://image.tmdb.org/t/p/w780/yILLEzyGAu2qLf3d7WYKFtgnFay.jpg"
+      ],
+      "director": "Victor Fleming",
+      "guionistas": [
+        "John Lee Mahin",
+        "Benjamin Glazer"
+      ],
+      "musica": "Franz Waxman",
+      "elenco": [
+        {
+          "nombre": "Spencer Tracy",
+          "personaje": "Pilon",
+          "foto": "https://image.tmdb.org/t/p/w185/aUZUlQjiWvl23stKXzxycb31sen.jpg",
+          "iniciales": "ST"
+        },
+        {
+          "nombre": "Hedy Lamarr",
+          "personaje": "Dolores Ramirez",
+          "foto": "https://image.tmdb.org/t/p/w185/qH15pDp99SXcMIuGFV7fU1x4Wqt.jpg",
+          "iniciales": "HL"
+        },
+        {
+          "nombre": "John Garfield",
+          "personaje": "Daniel Alvarez",
+          "foto": "https://image.tmdb.org/t/p/w185/f0OMA5i7YCYuHrmgy13BypChCg3.jpg",
+          "iniciales": "JG"
+        },
+        {
+          "nombre": "Frank Morgan",
+          "personaje": "The Pirate",
+          "foto": "https://image.tmdb.org/t/p/w185/gwbmaZ6EGYbsBbe8pWW3Gded02k.jpg",
+          "iniciales": "FM"
+        },
+        {
+          "nombre": "Akim Tamiroff",
+          "personaje": "Pablo",
+          "foto": "https://image.tmdb.org/t/p/w185/nhdT4BvYkcHhN8cR1fedWNw5a78.jpg",
+          "iniciales": "AT"
+        },
+        {
+          "nombre": "Sheldon Leonard",
+          "personaje": "Tito Ralph",
+          "foto": "https://image.tmdb.org/t/p/w185/eNJbTTD9NOQNdXS5TBAkm5Iq9v0.jpg",
+          "iniciales": "SL"
+        },
+        {
+          "nombre": "John Qualen",
+          "personaje": "Jose Maria Corcoran",
+          "foto": "https://image.tmdb.org/t/p/w185/aMuzXYaBmblQm95JxHZrmseeIYh.jpg",
+          "iniciales": "JQ"
+        },
+        {
+          "nombre": "Donald Meek",
+          "personaje": "Paul D. Cummings",
+          "foto": "https://image.tmdb.org/t/p/w185/6TTBTlpHK6QG2i8T596LZbwvmJN.jpg",
+          "iniciales": "DM"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Metro-Goldwyn-Mayer"
+      ],
+      "temas": [
+        "Fisherman"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt0035460",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 452832,
+          "titulo": "Serenity",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/8OrpkiogKFyIIwV7pILy4g5zeGe.jpg",
+          "score": 5.472
+        },
+        {
+          "tmdb_id": 4173,
+          "titulo": "Stromboli, tierra de Dios",
+          "anio": "1950",
+          "poster": "https://image.tmdb.org/t/p/w342/7YEX2VP3YXxUNo3YvfbSiDYZTX4.jpg",
+          "score": 7.1
+        },
+        {
+          "tmdb_id": 828161,
+          "titulo": "Marcy y Miguelo",
+          "anio": "1964",
+          "poster": "https://image.tmdb.org/t/p/w342/lCPKWUZFBEzhIQCnW6LIhIlGaza.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 8557,
+          "titulo": "True North",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/pquMZPfTw0EWbYhvx4jAqK5Via9.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 265070,
+          "titulo": "ചെമ്മീൻ",
+          "anio": "1965",
+          "poster": "https://image.tmdb.org/t/p/w342/jOAjmEQD4LUYFVgR41fAEutaVQb.jpg",
+          "score": 6.6
+        },
+        {
+          "tmdb_id": 1372,
+          "titulo": "Diamante de sangre",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/dBuTvhQgbsoWEOGh50Bkf5qB58g.jpg",
+          "score": 7.56
+        },
+        {
+          "tmdb_id": 633284,
+          "titulo": "Amare Affondo",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/7TV6i6tStHJuRYkvIYYVGAl8fgY.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 825814,
+          "titulo": "The inbreaker",
+          "anio": "1974",
+          "poster": "https://image.tmdb.org/t/p/w342/8lAlZujN2hGbvkvP31wi4JyOnku.jpg",
+          "score": 9.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-08"
+  },
+  "1058424": {
+    "tmdb": {
+      "tmdb_id": 1058424,
+      "titulo": "Hope",
+      "titulo_original": "호프",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-07-15",
+      "duracion": 157,
+      "generos": [
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
+      ],
+      "score": 7.2,
+      "votos": 112,
+      "certificacion": "+13",
+      "sinopsis": "Tras un extraño hallazgo cerca de una aislada ciudad portuaria, los habitantes se ven envueltos en una desesperada lucha por la supervivencia.",
+      "poster": "https://image.tmdb.org/t/p/w342/hHPIefotew38oJm3YCJPAzpi26c.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+        "https://image.tmdb.org/t/p/w780/xBcKnWJHodUpvzUVIWTuNMnvEwl.jpg",
+        "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
+        "https://image.tmdb.org/t/p/w780/eDDDL1Pc5FDJjdSCB63MsMp1r80.jpg",
+        "https://image.tmdb.org/t/p/w780/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
+        "https://image.tmdb.org/t/p/w780/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg"
+      ],
+      "director": "나홍진",
+      "guionistas": [
+        "나홍진"
+      ],
+      "musica": "Michael Abels",
+      "elenco": [
+        {
+          "nombre": "황정민",
+          "personaje": "Go Bum-seok",
+          "foto": "https://image.tmdb.org/t/p/w185/hKF1uh0iEfuZlBE79CXPw415qyn.jpg",
+          "iniciales": "황정"
+        },
+        {
+          "nombre": "조인성",
+          "personaje": "Go Sung-ki",
+          "foto": "https://image.tmdb.org/t/p/w185/69gbyFI0ET0l0dyjKChlx1Zx269.jpg",
+          "iniciales": "조인"
+        },
+        {
+          "nombre": "정호연",
+          "personaje": "Lim Sung-ae",
+          "foto": "https://image.tmdb.org/t/p/w185/AfQFFyGeG9xOQnEJb1Ash1RomkP.jpg",
+          "iniciales": "정호"
+        },
+        {
+          "nombre": "Alicia Vikander",
+          "personaje": "J'aur",
+          "foto": "https://image.tmdb.org/t/p/w185/lZu8qiTwiQIN96cuptgqMCCaUtg.jpg",
+          "iniciales": "AV"
+        },
+        {
+          "nombre": "Michael Fassbender",
+          "personaje": "Ma'veyyo",
+          "foto": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg",
+          "iniciales": "MF"
+        },
+        {
+          "nombre": "Taylor Russell",
+          "personaje": "Ai'dovor",
+          "foto": "https://image.tmdb.org/t/p/w185/3kW1SvpzyOPPZHxbz7cgR7ilmtQ.jpg",
+          "iniciales": "TR"
+        },
+        {
+          "nombre": "Cameron Britton",
+          "personaje": "Va'migere",
+          "foto": "https://image.tmdb.org/t/p/w185/9HFxi8ZnBiby3AQ7tBOPDxXFkCT.jpg",
+          "iniciales": "CB"
+        },
+        {
+          "nombre": "이상희",
+          "personaje": "Nak-yeon",
+          "foto": "https://image.tmdb.org/t/p/w185/wOYFSg20yGe48VFALqGAlrLjFHV.jpg",
+          "iniciales": "이상"
+        }
+      ],
+      "paises": [
+        "South Korea"
+      ],
+      "idiomas": [
+        "한국어/조선말"
+      ],
+      "productoras": [
+        "Forged Films",
+        "Plus M Entertainment",
+        "Westworld Story"
+      ],
+      "temas": [
+        "Police chief",
+        "Police officer",
+        "Hunted",
+        "Remote village",
+        "Aliens",
+        "20th century",
+        "Grand",
+        "Exhilarated"
+      ],
+      "trailer": "",
+      "teaser": "https://www.youtube.com/watch?v=l9egJLscA0U",
+      "imdb_id": "tt27369017",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 1272,
+          "titulo": "Sunshine",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/mHyxp18J0ARdq41XgWMxLy1TLOn.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 1669,
+          "titulo": "La caza del Octubre Rojo",
+          "anio": "1990",
+          "poster": "https://image.tmdb.org/t/p/w342/6EGFvgiOaQB7HHV0gD581SKlPM9.jpg",
+          "score": 7.386
+        },
+        {
+          "tmdb_id": 9387,
+          "titulo": "Conan, el bárbaro",
+          "anio": "1982",
+          "poster": "https://image.tmdb.org/t/p/w342/Avfp508AE3GlTIiEIzu8ZB9goKp.jpg",
+          "score": 6.808
+        },
+        {
+          "tmdb_id": 9482,
+          "titulo": "Juez Dredd",
+          "anio": "1995",
+          "poster": "https://image.tmdb.org/t/p/w342/s7eCmdLxYnMCEa9Au2N78CRSbkC.jpg",
+          "score": 5.9
+        },
+        {
+          "tmdb_id": 9317,
+          "titulo": "Mi amigo el extraterrestre",
+          "anio": "1981",
+          "poster": "https://image.tmdb.org/t/p/w342/3Eym65PSArfU89O15Cct0JiaPHl.jpg",
+          "score": 6.4
+        },
+        {
+          "tmdb_id": 9433,
+          "titulo": "El desafío",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/fg78XEpvW3EsA4kHOj0zonJ13hO.jpg",
+          "score": 6.879
+        },
+        {
+          "tmdb_id": 679,
+          "titulo": "Aliens: El regreso",
+          "anio": "1986",
+          "poster": "https://image.tmdb.org/t/p/w342/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
+          "score": 7.968
+        },
+        {
+          "tmdb_id": 1592572,
+          "titulo": "Cult Leader",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/hBGf7dj8tSYuF1mKGajm2zeFR6I.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-08"
   }
 }

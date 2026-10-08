@@ -1,110 +1,134 @@
 [
   {
-    "titulo": "Éramos tan flacos",
+    "titulo": "Desobediente (Dir. Federico Coringrato)",
     "hora": "18:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-02"
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-10-09"
   },
   {
-    "titulo": "Los colores del tiempo (Dir. Cédrik Klapisch)",
+    "titulo": "Eyes Wide Shut [Ojos bien cerrados] (Stanley Kubrick, 1999)",
     "hora": "19:00",
-    "espacio": "Espacio Moliere",
-    "fecha": "2026-10-02"
+    "espacio": "Espacio Satélite",
+    "fecha": "2026-10-09"
   },
   {
-    "titulo": "Studio Ghibli - El reino de los sueños y la locura",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-02"
-  },
-  {
-    "titulo": "Cadaver Exquisito (Dir. Lucía Vassallo)",
-    "hora": "21:30",
-    "espacio": "La Caipo",
-    "fecha": "2026-10-02"
-  },
-  {
-    "titulo": "El Castillo en el Cielo",
-    "hora": "21:30",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-02"
-  },
-  {
-    "titulo": "Éramos tan flacos",
-    "hora": "18:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-03"
-  },
-  {
-    "titulo": "Re-sonator (a.k.a. From Beyond, Stuart Gordon, 1986) + En la boca del miedo (John Carpenter, 1994)",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-03"
-  },
-  {
-    "titulo": "El regreso de los muertos vivos — Dan O’Bannon, 1985",
+    "titulo": "Zama (Dir. Lucrecia Martel)",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-03"
+    "fecha": "2026-10-09"
   },
   {
-    "titulo": "Studio Ghibli - Kiki: Entregas a domicilio",
-    "hora": "17:00",
+    "titulo": "Éramos tan flacos",
+    "hora": "20:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-04"
+    "fecha": "2026-10-10"
   },
   {
-    "titulo": "Fizcarraldo (Dir. Werner Herzog)",
-    "hora": "18:00",
-    "espacio": "Teatro de Cámara City Bell",
-    "fecha": "2026-10-04"
-  },
-  {
-    "titulo": "Éramos tan flacos",
-    "hora": "18:30",
+    "titulo": "Re-Animator — Stuart Gordon, 1985",
+    "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-04"
-  },
-  {
-    "titulo": "Éramos tan flacos",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-04"
-  },
-  {
-    "titulo": "Éramos tan flacos",
-    "hora": "18:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-05"
+    "fecha": "2026-10-10"
   },
   {
     "titulo": "Studio Ghibli - Recuerdos del ayer",
+    "hora": "22:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-10"
+  },
+  {
+    "titulo": "Titane (Dir. Julia Ducournau)",
+    "hora": "23:55",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-10"
+  },
+  {
+    "titulo": "Studio Ghibli - Pompoko",
+    "hora": "17:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-11"
+  },
+  {
+    "titulo": "Desobediente (Dir. Federico Coringrato)",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-10-11"
+  },
+  {
+    "titulo": "Ciclo de cine Arabe - Palestina 36",
+    "hora": "18:00",
+    "espacio": "Espacio Beirut",
+    "fecha": "2026-10-11"
+  },
+  {
+    "titulo": "Lo que vendrá (1988) Dir. Gustavo Mosquera",
     "hora": "19:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-05"
+    "fecha": "2026-10-11"
   },
   {
-    "titulo": "Éramos tan flacos",
-    "hora": "18:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-06"
-  },
-  {
-    "titulo": "Spookies (1986) Dir. Brendan Faulkner, Thomas Doran, Eugine Josseph",
+    "titulo": "La frecuencia Kirlian (Dir. Cristian Jesús Ponce)",
     "hora": "21:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-06"
+    "fecha": "2026-10-11"
   },
   {
-    "titulo": "Éramos tan flacos",
+    "titulo": "Studio Ghibli - El viaje de Chihiro",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-12"
+  },
+  {
+    "titulo": "Desobediente (Dir. Federico Coringrato)",
     "hora": "18:00",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-07"
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-10-13"
   },
   {
     "titulo": "Todo va mal (Dir. Federico Fernández)",
     "hora": "19:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-07"
+    "fecha": "2026-10-13"
+  },
+  {
+    "titulo": "El juego de Gerald - Dir. Mike Flanagan",
+    "hora": "20:00",
+    "espacio": "Espacio Rebelión - Casa socialista",
+    "fecha": "2026-10-13"
+  },
+  {
+    "titulo": "The X-Files (Tempus Fugit + Max)",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-10-13"
+  },
+  {
+    "titulo": "Studio Ghibli - El reino de los sueños y la locura",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-13"
+  },
+  {
+    "titulo": "Desobediente (Dir. Federico Coringrato)",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-10-14"
+  },
+  {
+    "titulo": "Mujeres al borde de un ataque de nervios (Dir. Almodóvar)",
+    "hora": "20:00",
+    "espacio": "Casa sesentaydos",
+    "fecha": "2026-10-14"
+  },
+  {
+    "titulo": "Toni Erdmann (Dir. Maren Ade, 2016)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-10-14"
+  },
+  {
+    "titulo": "Studio Ghibli - La princesa Mononoke",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-14"
   }
 ]

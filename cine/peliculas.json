@@ -24,6 +24,34 @@
   "23 obsesion": null,
   "40 spider man un nuevo dia": null,
   "45 moana": null,
+  "a cualquier precio": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+    "director": "Elegance Bratton",
+    "duracion": 107,
+    "elenco": [
+      "Yahya Abdul-Mateen II",
+      "Mark Wahlberg",
+      "Nicole Beharie"
+    ],
+    "generos": [
+      "Historia",
+      "Crimen",
+      "Drama"
+    ],
+    "paises": [
+      "United States of America",
+      "Australia",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/q0uTeO1wUGcAuJYdplTbnrz5bEq.jpg",
+    "score": 7.5,
+    "sinopsis": "Un joven agente negro del FBI es enviado al Misisipi de los años 60 para investigar una ola de brutales asesinatos dirigidos contra líderes de los derechos civiles. Obligado a trabajar junto al notorio sicario de la mafia Greg Scarpa, se ve arrastrado a una cacería mortal en la que los límites entre la justicia y la venganza comienzan a difuminarse.",
+    "titulo": "A cualquier precio",
+    "titulo_original": "By Any Means",
+    "tmdb_id": 1380417,
+    "trailer": ""
+  },
   "adolescencia sexo y muerte en campamento miasma": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
@@ -206,6 +234,33 @@
     "titulo_original": "Bleach: Thousand-Year Blood War - The Calamity",
     "tmdb_id": 1669841,
     "trailer": ""
+  },
+  "cars": {
+    "anio": "2006",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
+    "director": "John Lasseter",
+    "duracion": 116,
+    "elenco": [
+      "Owen Wilson",
+      "Paul Newman",
+      "Bonnie Hunt"
+    ],
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+    "score": 7.058,
+    "sinopsis": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+    "titulo": "Cars",
+    "titulo_original": "Cars",
+    "tmdb_id": 920,
+    "trailer": "https://www.youtube.com/watch?v=8ZMklX5BzTo"
   },
   "codigo venganza": {
     "anio": "2002",
@@ -702,6 +757,32 @@
     "tmdb_id": 1302904,
     "trailer": "https://www.youtube.com/watch?v=UOmntM7mHI8"
   },
+  "hope": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+    "director": "나홍진",
+    "duracion": 157,
+    "elenco": [
+      "황정민",
+      "조인성",
+      "정호연"
+    ],
+    "generos": [
+      "Ciencia ficción",
+      "Misterio",
+      "Acción"
+    ],
+    "paises": [
+      "South Korea"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/hHPIefotew38oJm3YCJPAzpi26c.jpg",
+    "score": 7.2,
+    "sinopsis": "Tras un extraño hallazgo cerca de una aislada ciudad portuaria, los habitantes se ven envueltos en una desesperada lucha por la supervivencia.",
+    "titulo": "Hope",
+    "titulo_original": "호프",
+    "tmdb_id": 1058424,
+    "trailer": "https://www.youtube.com/watch?v=l9egJLscA0U"
+  },
   "insaciable": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
@@ -756,6 +837,30 @@
   },
   "jue 12 30 17 30 20 00 el diablo viste a la moda 2": null,
   "jueves a viernes 21 30 minions y monstruos": null,
+  "la casa": {
+    "anio": "2026",
+    "backdrop": null,
+    "director": "Gustavo Triviño",
+    "duracion": 95,
+    "elenco": [
+      "Diego Peretti",
+      "César Troncoso",
+      "Fabián Arenillas"
+    ],
+    "generos": [
+      "Drama"
+    ],
+    "paises": [
+      "Argentina"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/5q1De9lkLtj3ZvHosVroyQiorn8.jpg",
+    "score": 0.0,
+    "sinopsis": "Tras muchos años de trabajo en una multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad que el mercado laboral le presenta. Al borde de la desesperación, conecta por medio de un amigo con un grupo de inversores que ofrecen comprarle su casa, valuada en un millón de dólares, al 50 por ciento de su valor pero con derecho a usufructo hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan complicándose mucho más de lo que esperaba.",
+    "titulo": "La casa",
+    "titulo_original": "La casa",
+    "tmdb_id": 1568759,
+    "trailer": ""
+  },
   "la guerra de los ultimos": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
@@ -932,6 +1037,32 @@
     "tmdb_id": 1368337,
     "trailer": ""
   },
+  "la vida es asi": {
+    "anio": "1942",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gr2mOtuGppXV9wwzWe6nwWbd5yY.jpg",
+    "director": "Victor Fleming",
+    "duracion": 105,
+    "elenco": [
+      "Spencer Tracy",
+      "Hedy Lamarr",
+      "John Garfield"
+    ],
+    "generos": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/jVhrHsQQ2NRjXYM6JieNS8xj87C.jpg",
+    "score": 5.8,
+    "sinopsis": "Danny, un pobre mexicano-norteamericano del norte de California, hereda dos casas de su abuelo que son rápidamente aprovechadas por sus amigos vagabundos.",
+    "titulo": "La vida es así",
+    "titulo_original": "Tortilla Flat",
+    "tmdb_id": 79372,
+    "trailer": ""
+  },
   "leviticus ritual de sangre": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/ekFr4AyEpwyIHK1R3VOYDXN2PqL.jpg",
@@ -1008,6 +1139,31 @@
     "titulo_original": "Los domingos",
     "tmdb_id": 1443576,
     "trailer": "https://www.youtube.com/watch?v=yyLrtKGQ5KA"
+  },
+  "madre siniestra": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
+    "director": "Rob Savage",
+    "duracion": 93,
+    "elenco": [
+      "Jessica Chastain",
+      "Arabella Olivia Clark",
+      "Jay Duplass"
+    ],
+    "generos": [
+      "Terror",
+      "Suspense"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/19R9yRwgZSekpTNfKoB7MzsutDN.jpg",
+    "score": 8.7,
+    "sinopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+    "titulo": "La otra madre",
+    "titulo_original": "Other Mommy",
+    "tmdb_id": 1400837,
+    "trailer": "https://www.youtube.com/watch?v=ocV7K_B67lQ"
   },
   "mi vecino totoro": {
     "anio": "1988",

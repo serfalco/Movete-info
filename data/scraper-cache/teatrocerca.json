@@ -20,6 +20,26 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908010156-e6121239.webp"
   },
   {
+    "titulo": "¡Ay, por Dios!",
+    "fecha": "2026-10-14 21:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "Calle 44 Nº 1443, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/ay-por-dios-obra/funcion/la-plata/teatro-el-escape/14-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908042214-7d3cdf0c.webp"
+  },
+  {
+    "titulo": "Bajo la tormenta",
+    "fecha": "2026-10-10 21:00:00",
+    "lugar": "Sala Armando Discépolo",
+    "direccion": "Calle 12 Nº 1473, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/bajo-la-tormenta-teatro-entrada-gratuita/funcion/la-plata/sala-armando-discepolo/10-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812223933-85269ca0.webp"
+  },
+  {
     "titulo": "Calígula",
     "fecha": "2026-10-10 21:30:00",
     "lugar": "Teatro Estudio",
@@ -200,12 +220,22 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260805015911-d54b24e3.webp"
   },
   {
+    "titulo": "No te vayas con amor o sin él",
+    "fecha": "2026-10-09 21:00:00",
+    "lugar": "La Mercería Teatro",
+    "direccion": "Av. 1 Nº 210, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/no-te-vayas-con-amor-o-sin-el/funcion/la-plata/la-merceria-teatro/9-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260830003250-e258b9cb.webp"
+  },
+  {
     "titulo": "Volcada",
-    "fecha": "2026-10-16 20:30:00",
+    "fecha": "2026-10-18 20:00:00",
     "lugar": "Espacio 44",
     "direccion": "Av. 44 N° 496, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/volcada-obra/funcion/la-plata/espacio-44/16-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/volcada-obra/funcion/la-plata/espacio-44/18-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908010759-f8d17a5a.webp"
   },
