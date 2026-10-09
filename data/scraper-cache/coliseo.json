@@ -10,16 +10,6 @@
     "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/agosto/el-telon-baja-por-un-tiempo-comienza-la-segunda-etapa-de-puesta-en-valor-del-coliseo-podesta_0.jpg?itok=-KUK9gY9"
   },
   {
-    "titulo": "GABRIEL ROLÓN \"PALABRA PLENA\"",
-    "fecha": "2026-11-05 21:30:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "otros",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/evento/gabriel-rolon-palabra-plena-4",
-    "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/gabriel-rolon-palabra-plena-1200x1200.jpg?itok=uRV9U4oz"
-  },
-  {
     "titulo": "LAS HIJAS",
     "fecha": "2026-11-07 20:00:00",
     "lugar": "Teatro Coliseo Podestá",
@@ -28,16 +18,6 @@
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/comedia-dramatica/las-hijas",
     "fuente": "coliseo",
     "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/las-hijas-1200x1200_0.jpg?itok=risgzkoB"
-  },
-  {
-    "titulo": "Elena Roger en concierto",
-    "fecha": "2026-11-08 20:30:00",
-    "lugar": "Teatro Coliseo Podestá",
-    "direccion": "Calle 10 entre 46 y 47, La Plata",
-    "categoria": "musica",
-    "url": "https://coliseopodesta.laplata.gob.ar/actividad/elena-roger-en-concierto",
-    "fuente": "coliseo",
-    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/elena-roger-en-concierto-1200x1200.jpg?itok=hfH8ZbSF"
   },
   {
     "titulo": "La cena de los tontos",
@@ -70,6 +50,16 @@
     "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/sindicato-argentino-de-boleros-velada-sinfonica-1200x1200.jpg?itok=gDJBh88l"
   },
   {
+    "titulo": "GABRIEL ROLÓN \"PALABRA PLENA\"",
+    "fecha": "2026-11-28 21:30:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "otros",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/evento/gabriel-rolon-palabra-plena-4",
+    "fuente": "coliseo",
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/gabriel-rolon-palabra-plena-1200x1200.jpg?itok=uRV9U4oz"
+  },
+  {
     "titulo": "Bla Bla & Cía. presenta MODELO VIVO MUERTO",
     "fecha": "2026-11-29 20:30:00",
     "lugar": "Teatro Coliseo Podestá",
@@ -78,5 +68,15 @@
     "url": "https://coliseopodesta.laplata.gob.ar/actividad/comedia/bla-bla-cia-presenta-modelo-vivo-muerto",
     "fuente": "coliseo",
     "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/noviembre/bla-bla-cia-presenta-modelo-vivo-muerto-1200x1200.jpg?itok=3_kYAK68"
+  },
+  {
+    "titulo": "Elena Roger en concierto",
+    "fecha": "2026-12-08 20:30:00",
+    "lugar": "Teatro Coliseo Podestá",
+    "direccion": "Calle 10 entre 46 y 47, La Plata",
+    "categoria": "musica",
+    "url": "https://coliseopodesta.laplata.gob.ar/actividad/elena-roger-en-concierto",
+    "fuente": "coliseo",
+    "imagen": "https://coliseopodesta.laplata.gob.ar/sites/default/files/styles/cuadradas/public/actividades/2026/diciembre/elena-roger-en-concierto-1200x1200.jpg?itok=MbV1vwf4"
   }
 ]

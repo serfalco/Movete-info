@@ -110,6 +110,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/34/000320334.jpg"
   },
   {
+    "titulo": "Chau Misterix",
+    "fecha": "2026-10-25 18:00:00",
+    "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
+    "direccion": "Av 13 1900 esquina 71, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra94440-chau-misterix",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/34/000320834.jpg"
+  },
+  {
     "titulo": "Monstruos",
     "fecha": "2026-10-25 20:00:00",
     "lugar": "ESCENARIO-40",
@@ -175,7 +185,7 @@
     "lugar": "ESCENARIO-40",
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra97467-luces-en-el-espejo",
+    "url": "https://publico.alternativateatral.com/entradas97467-luces-en-el-espejo?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/29/000321229.jpg"
   },
@@ -308,6 +318,16 @@
     "url": "https://publico.alternativateatral.com/entradas102437-crimen-y-castigo?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/26/000318726.jpg"
+  },
+  {
+    "titulo": "Nosotras dos",
+    "fecha": "2026-11-07 20:30:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas102505-nosotras-dos?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/78/000321478.jpg"
   },
   {
     "titulo": "Cronopios X cronopios 2",
@@ -518,5 +538,15 @@
     "url": "https://publico.alternativateatral.com/entradas103531-la-industria-del-amor?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/63/000322263.jpg"
+  },
+  {
+    "titulo": "Error 4 : amor",
+    "fecha": "2026-11-06 21:00:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas103551-error-4-amor?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000322338.jpg"
   }
 ]
