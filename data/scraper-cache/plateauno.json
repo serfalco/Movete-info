@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "NEW SENSATION 2026",
-    "fecha": "2026-10-10 21:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9648/new-sensation-2026",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3128.jpeg"
-  },
-  {
     "titulo": "IVAN NOBLE 2026",
     "fecha": "2026-10-17 21:00:00",
     "lugar": "Metro",
@@ -118,5 +108,15 @@
     "url": "https://www.plateaunotickets.com/obra/10052/el-cuarto-de-veronica",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/2474.jpeg"
+  },
+  {
+    "titulo": "COPA C. L PLATA CENTURY 21..",
+    "fecha": "2026-11-28 15:00:00",
+    "lugar": "Universitario",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://www.plateaunotickets.com/obra/10088/copa-c-l-plata-century-21",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3430.jpeg"
   }
 ]
