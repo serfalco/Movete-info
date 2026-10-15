@@ -11,11 +11,11 @@
   },
   {
     "titulo": "¡Ay, por Dios!",
-    "fecha": "2026-10-14 21:00:00",
+    "fecha": "2026-11-14 21:00:00",
     "lugar": "Teatro El Escape",
     "direccion": "Calle 44 Nº 1443, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/ay-por-dios-obra/funcion/la-plata/teatro-el-escape/14-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/ay-por-dios-obra/funcion/la-plata/teatro-el-escape/14-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908042214-7d3cdf0c.webp"
   },
@@ -48,6 +48,16 @@
     "url": "https://teatrocerca.com.ar/obra/cuando-la-esperanza-no-alcanza/funcion/la-plata/teatro-el-escape/16-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908002828-cfaacb58.webp"
+  },
+  {
+    "titulo": "Disforia",
+    "fecha": "2026-11-08 19:30:00",
+    "lugar": "Fabrica CITA",
+    "direccion": "Calle 115 Nº1467, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/disforia/funcion/la-plata/c-115-no1467/8-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261014014911-ea18e385.webp"
   },
   {
     "titulo": "El jefe del jefe",
@@ -120,6 +130,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260824234808-79adad42.webp"
   },
   {
+    "titulo": "La cantante calva",
+    "fecha": "2026-10-17 21:00:00",
+    "lugar": "La Mercería Teatro",
+    "direccion": "Av. 1 Nº 210, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/la-cantante-calva/funcion/la-plata/la-merceria-teatro/17-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260901073558-a657e47c.webp"
+  },
+  {
     "titulo": "La cena de los tontos",
     "fecha": "2026-11-12 19:30:00",
     "lugar": "Teatro Municipal Coliseo Podestá",
@@ -128,6 +148,16 @@
     "url": "https://teatrocerca.com.ar/obra/la-cena-de-los-tontos-zona-sur-funciones/funcion/la-plata/teatro-municipal-coliseo-podesta/12-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812040045-d54f7bed.webp"
+  },
+  {
+    "titulo": "La gravedad de lo incierto",
+    "fecha": "2026-10-24 21:30:00",
+    "lugar": "Teatro Estudio",
+    "direccion": "Calle 3 Nº 386, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/la-gravedad-de-lo-incierto/funcion/la-plata/teatro-estudio/24-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260826171617-50d767ae.webp"
   },
   {
     "titulo": "La Nona del Teatro UNLP",
@@ -170,6 +200,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260815002359-99a1d245.webp"
   },
   {
+    "titulo": "Luces en el espejo",
+    "fecha": "2026-11-08 20:00:00",
+    "lugar": "Escenario 40",
+    "direccion": "Calle 40 Nº 1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/luces-en-el-espejo/funcion/la-plata/escenario-40/8-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260831182315-a0708146.webp"
+  },
+  {
     "titulo": "Modelo vivo muerto",
     "fecha": "2026-11-29 20:30:00",
     "lugar": "Teatro Municipal Coliseo Podestá",
@@ -180,6 +220,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260805015911-d54b24e3.webp"
   },
   {
+    "titulo": "Muerde",
+    "fecha": "2026-11-01 19:00:00",
+    "lugar": "Sala 420",
+    "direccion": "Calle 42 N° 571, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/muerde/funcion/la-plata/sala-420/1-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261014015833-ea36bb2b.webp"
+  },
+  {
     "titulo": "No te vayas con amor o sin él",
     "fecha": "2026-10-16 21:00:00",
     "lugar": "La Mercería Teatro",
@@ -188,6 +238,16 @@
     "url": "https://teatrocerca.com.ar/obra/no-te-vayas-con-amor-o-sin-el/funcion/la-plata/la-merceria-teatro/16-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260830003250-e258b9cb.webp"
+  },
+  {
+    "titulo": "Patsía: mis diálogos con él",
+    "fecha": "2026-10-25 20:00:00",
+    "lugar": "La Mercería Teatro",
+    "direccion": "Av. 1 Nº 210, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/patsia-mis-dialogos-con-el/funcion/la-plata/la-merceria-teatro/25-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/assets/img-placeholder.php?title=Pats%C3%ADa%3A+mis+di%C3%A1logos+con+%C3%A9l"
   },
   {
     "titulo": "Volcada",

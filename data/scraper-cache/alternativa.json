@@ -70,6 +70,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/68/000321168.jpg"
   },
   {
+    "titulo": "Fábrica de chicas",
+    "fecha": "2026-11-15 20:00:00",
+    "lugar": "ESCENARIO-40",
+    "direccion": "Calle 40 #1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas88170-fabrica-de-chicas?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/05/000322605.jpg"
+  },
+  {
     "titulo": "1999 pequeño testamento apócrifo",
     "fecha": "2026-10-17 21:00:00",
     "lugar": "SALA 420",
@@ -120,6 +130,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/23/000307923.jpg"
   },
   {
+    "titulo": "Los amantes de la casa azul",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas95115-los-amantes-de-la-casa-azul?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/45/000322645.jpg"
+  },
+  {
     "titulo": "El principio de Arquímedes",
     "fecha": "2026-10-16 21:00:00",
     "lugar": "TEATRO ABIERTO",
@@ -138,16 +158,6 @@
     "url": "https://publico.alternativateatral.com/entradas96612-fakeland-sa?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/09/000301909.jpg"
-  },
-  {
-    "titulo": "Luces en el espejo",
-    "fecha": "2026-10-17 21:30:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas97467-luces-en-el-espejo?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/29/000321229.jpg"
   },
   {
     "titulo": "La cantante calva",
@@ -190,6 +200,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/48/000320548.jpg"
   },
   {
+    "titulo": "Maybe",
+    "fecha": "2026-10-25 21:00:00",
+    "lugar": "ÁREA CHICA",
+    "direccion": "Boulevard 83 403, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas100218-maybe?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/31/000312231.jpg"
+  },
+  {
     "titulo": "La calesita (otra vuelta)",
     "fecha": "2026-11-06 20:30:00",
     "lugar": "TEATRO EL ESCAPE",
@@ -208,6 +228,16 @@
     "url": "https://publico.alternativateatral.com/entradas100716-carles-el-eslabon-perdido-del-rock-nacional?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/93/000315293.jpg"
+  },
+  {
+    "titulo": "Roja",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra100778-roja",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000314138.jpg"
   },
   {
     "titulo": "Beguinas (ni esposas ni monjas)",
@@ -311,11 +341,11 @@
   },
   {
     "titulo": "Cronopios X cronopios 2",
-    "fecha": "2026-10-16 21:30:00",
+    "fecha": "2026-10-24 20:00:00",
     "lugar": "ESCENARIO-40",
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102526-cronopios-x-cronopios-2",
+    "url": "https://publico.alternativateatral.com/entradas102526-cronopios-x-cronopios-2?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/54/000319554.jpg"
   },
@@ -361,7 +391,7 @@
   },
   {
     "titulo": "El almacén de los ecos",
-    "fecha": "2026-10-25 20:00:00",
+    "fecha": "2026-10-24 18:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -425,19 +455,9 @@
     "lugar": "COMUNIDAD FERROVIARIA",
     "direccion": "3 y 526, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102986-poetica-de-la-multitud",
+    "url": "https://publico.alternativateatral.com/entradas102986-poetica-de-la-multitud?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/92/000320592.jpg"
-  },
-  {
-    "titulo": "Muestra cronopia del grupo de los viernes",
-    "fecha": "2026-10-24 21:30:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
-    "categoria": "a-plasticas",
-    "url": "https://publico.alternativateatral.com/entradas103095-muestra-cronopia-del-grupo-de-los-viernes?o=6",
-    "fuente": "alternativa",
-    "imagen": ""
   },
   {
     "titulo": "EL ÚLTIMO TANGO, un crimen en 2x4",
@@ -477,7 +497,7 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas103415-el-animo?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/60/000321860.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/01/000321901.jpg"
   },
   {
     "titulo": "Kosa y la guerra",
@@ -535,9 +555,9 @@
     "lugar": "TACEC - TEATRO ARGENTINO CENTRO DE EXPERIMENTACIÓN Y CREACIÓN",
     "direccion": "Av. 51 entre 9 y 10, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra103606-play",
+    "url": "https://publico.alternativateatral.com/entradas103606-play?o=6",
     "fuente": "alternativa",
-    "imagen": ""
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/78/000322578.jpg"
   },
   {
     "titulo": "Ciudad violenta, antropología urbana",
@@ -545,7 +565,7 @@
     "lugar": "TEATRO ESTUDIO DE LAS ARTES",
     "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra103617-ciudad-violenta-antropologia-urbana",
+    "url": "https://publico.alternativateatral.com/entradas103617-ciudad-violenta-antropologia-urbana?o=6",
     "fuente": "alternativa",
     "imagen": ""
   },
@@ -555,8 +575,18 @@
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra103620-otra-estupida-razon-para-no-morir-en-otono",
+    "url": "https://publico.alternativateatral.com/entradas103620-otra-estupida-razon-para-no-morir-en-otono?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/34/000322534.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/00/000322600.jpg"
+  },
+  {
+    "titulo": "La visita",
+    "fecha": "2026-11-28 19:30:00",
+    "lugar": "CASA PARTICULAR",
+    "direccion": "Calle 27 N° 1672, entre 66 y 67, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas103623-la-visita?o=6",
+    "fuente": "alternativa",
+    "imagen": ""
   }
 ]

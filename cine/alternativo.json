@@ -1,134 +1,74 @@
 [
   {
-    "titulo": "Desobediente (Dir. Federico Coringrato)",
-    "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-10-09"
-  },
-  {
     "titulo": "Eyes Wide Shut [Ojos bien cerrados] (Stanley Kubrick, 1999)",
     "hora": "19:00",
     "espacio": "Espacio Satélite",
-    "fecha": "2026-10-09"
+    "fecha": "2026-10-16"
   },
   {
-    "titulo": "Zama (Dir. Lucrecia Martel)",
-    "hora": "20:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-09"
-  },
-  {
-    "titulo": "Éramos tan flacos",
+    "titulo": "Showgirls (Paul Verhoeven, 1995/ Estados Unidos, 128min)",
     "hora": "20:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-10"
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-10-16"
   },
   {
-    "titulo": "Re-Animator — Stuart Gordon, 1985",
+    "titulo": "The Rocky Horror Picture Show (1975) Jim Sharman",
+    "hora": "20:30",
+    "espacio": "Pasaje Dardo Rocha",
+    "fecha": "2026-10-17"
+  },
+  {
+    "titulo": "The Rocky Horror Picture Show — Jim Sharman, 1975",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-10"
+    "fecha": "2026-10-17"
   },
   {
-    "titulo": "Studio Ghibli - Recuerdos del ayer",
+    "titulo": "Dark Waters (Dir. Mariano Baino)",
     "hora": "22:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-10"
-  },
-  {
-    "titulo": "Titane (Dir. Julia Ducournau)",
-    "hora": "23:55",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-10"
-  },
-  {
-    "titulo": "Studio Ghibli - Pompoko",
-    "hora": "17:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-11"
-  },
-  {
-    "titulo": "Desobediente (Dir. Federico Coringrato)",
-    "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-10-11"
-  },
-  {
-    "titulo": "Ciclo de cine Arabe - Palestina 36",
-    "hora": "18:00",
-    "espacio": "Espacio Beirut",
-    "fecha": "2026-10-11"
-  },
-  {
-    "titulo": "Lo que vendrá (1988) Dir. Gustavo Mosquera",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-11"
-  },
-  {
-    "titulo": "La frecuencia Kirlian (Dir. Cristian Jesús Ponce)",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-11"
-  },
-  {
-    "titulo": "Studio Ghibli - El viaje de Chihiro",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-12"
-  },
-  {
-    "titulo": "Desobediente (Dir. Federico Coringrato)",
-    "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-10-13"
-  },
-  {
-    "titulo": "Todo va mal (Dir. Federico Fernández)",
-    "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-13"
-  },
-  {
-    "titulo": "El juego de Gerald - Dir. Mike Flanagan",
-    "hora": "20:00",
-    "espacio": "Espacio Rebelión - Casa socialista",
-    "fecha": "2026-10-13"
-  },
-  {
-    "titulo": "The X-Files (Tempus Fugit + Max)",
-    "hora": "20:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-13"
-  },
-  {
-    "titulo": "Studio Ghibli - El reino de los sueños y la locura",
-    "hora": "21:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-13"
-  },
-  {
-    "titulo": "Desobediente (Dir. Federico Coringrato)",
-    "hora": "18:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-10-14"
-  },
-  {
-    "titulo": "Mujeres al borde de un ataque de nervios (Dir. Almodóvar)",
-    "hora": "20:00",
-    "espacio": "Casa sesentaydos",
-    "fecha": "2026-10-14"
-  },
-  {
-    "titulo": "Toni Erdmann (Dir. Maren Ade, 2016)",
-    "hora": "20:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-10-14"
+    "fecha": "2026-10-17"
   },
   {
     "titulo": "Studio Ghibli - La princesa Mononoke",
+    "hora": "23:55",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-17"
+  },
+  {
+    "titulo": "Éramos tan flacos",
+    "hora": "17:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-18"
+  },
+  {
+    "titulo": "Ciclo de cine Árabe",
+    "hora": "18:00",
+    "espacio": "Espacio Beirut",
+    "fecha": "2026-10-18"
+  },
+  {
+    "titulo": "Studio Ghibli - El viaje de Chihiro",
     "hora": "21:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-14"
+    "fecha": "2026-10-18"
+  },
+  {
+    "titulo": "The Lone Gunmen (Pilot + Planet of the Frohikes)",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-10-20"
+  },
+  {
+    "titulo": "Pan, amor y... (Dir. Dino Risi)",
+    "hora": "17:30",
+    "espacio": "Teatro Bar Cultural La Ferretería",
+    "fecha": "2026-10-21"
+  },
+  {
+    "titulo": "Good Boy - Dir. Viljar Bøe",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-10-21"
   }
 ]

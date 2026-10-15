@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "454639": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "18775": {
     "tmdb": {
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1443576": {
     "tmdb": {
@@ -4306,7 +4306,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1101383": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1698443": {
     "tmdb": {
@@ -4575,7 +4575,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1240889": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "8392": {
     "tmdb": {
@@ -7593,7 +7593,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1140521": {
     "tmdb": {
@@ -8461,7 +8461,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "38117": {
     "tmdb": {
@@ -8631,7 +8631,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1469342": {
     "tmdb": {
@@ -9430,7 +9430,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1341138": {
     "tmdb": {
@@ -9762,7 +9762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1563588": {
     "tmdb": {
@@ -10040,7 +10040,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1380417": {
     "tmdb": {
@@ -10426,7 +10426,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1568759": {
     "tmdb": {
@@ -10509,7 +10509,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "79372": {
     "tmdb": {
@@ -10668,7 +10668,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
   },
   "1058424": {
     "tmdb": {
@@ -10839,6 +10839,990 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-08"
+    "ultima_semana": "2026-10-15"
+  },
+  "627661": {
+    "tmdb": {
+      "tmdb_id": 627661,
+      "titulo": "Academia Cranston: Escuela de Monstruos",
+      "titulo_original": "Cranston Academy: Monster Zone",
+      "tagline": "",
+      "anio": "2020",
+      "estreno": "2020-04-29",
+      "duracion": 80,
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía",
+        "Terror"
+      ],
+      "score": 6.0,
+      "votos": 110,
+      "certificacion": "PG",
+      "sinopsis": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
+      "poster": "https://image.tmdb.org/t/p/w342/oEGs9e5O42grRG2boT9BhjEAYT0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lvNQKZUsw7pg79CROCFlIk8PT67.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/lvNQKZUsw7pg79CROCFlIk8PT67.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/lvNQKZUsw7pg79CROCFlIk8PT67.jpg",
+        "https://image.tmdb.org/t/p/w780/A9SI2Flxs2OhN3rI2sAweChqIXi.jpg",
+        "https://image.tmdb.org/t/p/w780/2FG9kblqkuiHI7dByR0rTnoc7gn.jpg",
+        "https://image.tmdb.org/t/p/w780/fBbxHaaPAFgCo3nlCUNCOhux4FI.jpg"
+      ],
+      "director": "Leopoldo Aguilar",
+      "guionistas": [
+        "Bob Barlen",
+        "Cal Brunker"
+      ],
+      "musica": "Jody Jenkins",
+      "elenco": [
+        {
+          "nombre": "Jamie Bell",
+          "personaje": "Danny (Voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Ruby Rose",
+          "personaje": "Liz (Voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/djhT0A2hZxpYKPnCeRtim8qUdPi.jpg",
+          "iniciales": "RR"
+        },
+        {
+          "nombre": "Idzi Dutkiewicz",
+          "personaje": "Mothman",
+          "foto": "https://image.tmdb.org/t/p/w185/pcqmyvTmz1naOGyNbcBpkTRD4dX.jpg",
+          "iniciales": "ID"
+        },
+        {
+          "nombre": "Ellie Piercy",
+          "personaje": "Ms. Evans",
+          "foto": "https://image.tmdb.org/t/p/w185/xASISRQYOoIhfqDOeouwNe5HyIc.jpg",
+          "iniciales": "EP"
+        },
+        {
+          "nombre": "Terry Mynott",
+          "personaje": "Professor Stern",
+          "foto": "https://image.tmdb.org/t/p/w185/33y58dNeu5pRz5keZvxJIvKhOSx.jpg",
+          "iniciales": "TM"
+        },
+        {
+          "nombre": "Ryan Samson",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "RS"
+        },
+        {
+          "nombre": "Ellie Pierce",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "EP"
+        },
+        {
+          "nombre": "Bianca Hendrickse",
+          "personaje": "",
+          "foto": null,
+          "iniciales": "BH"
+        }
+      ],
+      "paises": [
+        "Mexico",
+        "United Kingdom",
+        "Canada"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Ánima Estudios",
+        "ReDefine",
+        "Virtuso Productions"
+      ],
+      "temas": [],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt8524650",
+      "homepage": "",
+      "coleccion": null,
+      "similares": []
+    },
+    "ultima_semana": "2026-10-15"
+  },
+  "1288059": {
+    "tmdb": {
+      "tmdb_id": 1288059,
+      "titulo": "Quiero Tu Sexo",
+      "titulo_original": "I Want Your Sex",
+      "tagline": "No te preocupes, te va a gustar.",
+      "anio": "2026",
+      "estreno": "2026-07-29",
+      "duracion": 90,
+      "generos": [
+        "Comedia"
+      ],
+      "score": 6.029,
+      "votos": 102,
+      "certificacion": "+16",
+      "sinopsis": "Cuando el joven e ingenuo Elliot consigue un emocionante trabajo para Erika Tracy, una reconocida artista, ícono y provocadora, sus fantasías se hacen realidad cuando ella lo elige para convertirlo en su musa sexual. Pero Elliot pronto descubre que la situación lo supera, mientras Erika lo conduce por un viaje mucho más profundo de lo que jamás habría imaginado, adentrándolo en un mundo de sexo, obsesión, poder, traición y asesinato.",
+      "poster": "https://image.tmdb.org/t/p/w342/aMFx35t0T61S1ILDZrycPFRu95u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gQsjbxdjJUam7buy4U2TpVTiGSO.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/gQsjbxdjJUam7buy4U2TpVTiGSO.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/gQsjbxdjJUam7buy4U2TpVTiGSO.jpg",
+        "https://image.tmdb.org/t/p/w780/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
+        "https://image.tmdb.org/t/p/w780/7fLT2x5aIHxO4mjjtzXSKzwTojU.jpg",
+        "https://image.tmdb.org/t/p/w780/rcBpmEIdSTMnt5Rn4BQeHF4SIL5.jpg",
+        "https://image.tmdb.org/t/p/w780/xKPKNJI93LO2QPlIMLM8mthlCPi.jpg",
+        "https://image.tmdb.org/t/p/w780/uDqOlIo5ClyrtcYCUsPlTUmanEv.jpg"
+      ],
+      "director": "Gregg Araki",
+      "guionistas": [
+        "Karley Sciortino",
+        "Gregg Araki"
+      ],
+      "musica": "James Clements",
+      "elenco": [
+        {
+          "nombre": "Olivia Wilde",
+          "personaje": "Erika Tracy",
+          "foto": "https://image.tmdb.org/t/p/w185/eODi1QKamyVa41eSK2SjU20VAZS.jpg",
+          "iniciales": "OW"
+        },
+        {
+          "nombre": "Cooper Hoffman",
+          "personaje": "Elliot Bell",
+          "foto": "https://image.tmdb.org/t/p/w185/yvrh3ayw2BJa1tJb3R6RzPVHPX1.jpg",
+          "iniciales": "CH"
+        },
+        {
+          "nombre": "Mason Gooding",
+          "personaje": "Zap",
+          "foto": "https://image.tmdb.org/t/p/w185/bmlry1xqBzNgv8Chm783ss93Cvg.jpg",
+          "iniciales": "MG"
+        },
+        {
+          "nombre": "Chase Sui Wonders",
+          "personaje": "Apple",
+          "foto": "https://image.tmdb.org/t/p/w185/7oSUT3Zn1srv0VsGquSaWQ5F8ce.jpg",
+          "iniciales": "CW"
+        },
+        {
+          "nombre": "Johnny Knoxville",
+          "personaje": "Detective Zem",
+          "foto": "https://image.tmdb.org/t/p/w185/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg",
+          "iniciales": "JK"
+        },
+        {
+          "nombre": "Margaret Cho",
+          "personaje": "Detective Zola",
+          "foto": "https://image.tmdb.org/t/p/w185/lsHpa4aRrBMn7LtFX8AdPTFBMGY.jpg",
+          "iniciales": "MC"
+        },
+        {
+          "nombre": "Roxane Mesquida",
+          "personaje": "Yvette",
+          "foto": "https://image.tmdb.org/t/p/w185/zMj3cn2mK7691lg88eIBZK7EVKx.jpg",
+          "iniciales": "RM"
+        },
+        {
+          "nombre": "Charli xcx",
+          "personaje": "Minerva",
+          "foto": "https://image.tmdb.org/t/p/w185/xnYIKjdP2anSMmDlFbJN3zZQMkC.jpg",
+          "iniciales": "CX"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Black Bear Pictures",
+        "Desperate Pictures"
+      ],
+      "temas": [
+        "Eroticism",
+        "Artist",
+        "Satire",
+        "Muse",
+        "Sexual harassment",
+        "Sexual art",
+        "Mansion",
+        "Los angeles, california"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt32332915",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 449246,
+          "titulo": "Jonathan Pie: Live at the Shepherds Bush Empire",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/36MlcEmS1bdlAPcJRD2QhrGjZF8.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 449176,
+          "titulo": "Con amor, Simon",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/eQGCjxKFdSHBekdSc4BGK1V2VZ6.jpg",
+          "score": 7.957
+        },
+        {
+          "tmdb_id": 99,
+          "titulo": "Todo sobre mi madre",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/evvT3HUwoQYoPQXWFO10R6AvhxG.jpg",
+          "score": 7.602
+        },
+        {
+          "tmdb_id": 114,
+          "titulo": "Pretty Woman",
+          "anio": "1990",
+          "poster": "https://image.tmdb.org/t/p/w342/iKaKr8aUqOy1aojENu5XuwBI8Uj.jpg",
+          "score": 7.44
+        },
+        {
+          "tmdb_id": 115,
+          "titulo": "El gran Lebowski",
+          "anio": "1998",
+          "poster": "https://image.tmdb.org/t/p/w342/EJFkJD9BH400jfzKz3W5xLYHQa.jpg",
+          "score": 7.847
+        },
+        {
+          "tmdb_id": 449563,
+          "titulo": "¿No es romántico?",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/AvLtW2LPRYbyaXgoC0UA2RsK68T.jpg",
+          "score": 6.2
+        },
+        {
+          "tmdb_id": 1597598,
+          "titulo": "プリンセス・ロボット・バブルガム",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/f97cXu4heIBGYudkYVySGPPHXgj.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 290,
+          "titulo": "Barton Fink",
+          "anio": "1991",
+          "poster": "https://image.tmdb.org/t/p/w342/fJ4MIzs0UcaFK38eDVYK1oloQis.jpg",
+          "score": 7.454
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-15"
+  },
+  "1255833": {
+    "tmdb": {
+      "tmdb_id": 1255833,
+      "titulo": "Whalefall",
+      "titulo_original": "Whalefall",
+      "tagline": "Aguanta la respiración.",
+      "anio": "2026",
+      "estreno": "2026-10-14",
+      "duracion": 98,
+      "generos": [
+        "Suspense"
+      ],
+      "score": 7.5,
+      "votos": 6,
+      "certificacion": "+13",
+      "sinopsis": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
+      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/jXOw7R5qKs0j7IK51dlmxIKczoG.jpg",
+        "https://image.tmdb.org/t/p/w780/nquG8mnqhMkGYLtii8whsYoOo9o.jpg",
+        "https://image.tmdb.org/t/p/w780/fsE7L0jNibJswnZuQM5mphJQ0t2.jpg",
+        "https://image.tmdb.org/t/p/w780/2eRdzgxbWtu1iiSrIZLu8QXd0nB.jpg",
+        "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+        "https://image.tmdb.org/t/p/w780/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg"
+      ],
+      "director": "Brian Duffield",
+      "guionistas": [
+        "Brian Duffield",
+        "Daniel Kraus"
+      ],
+      "musica": "Joseph Trapanese",
+      "elenco": [
+        {
+          "nombre": "Austin Abrams",
+          "personaje": "Jay Gardiner",
+          "foto": "https://image.tmdb.org/t/p/w185/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg",
+          "iniciales": "AA"
+        },
+        {
+          "nombre": "Josh Brolin",
+          "personaje": "Mitt Gardiner",
+          "foto": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+          "iniciales": "JB"
+        },
+        {
+          "nombre": "Elisabeth Shue",
+          "personaje": "Zara Gardiner",
+          "foto": "https://image.tmdb.org/t/p/w185/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg",
+          "iniciales": "ES"
+        },
+        {
+          "nombre": "John Ortiz",
+          "personaje": "Hewey",
+          "foto": "https://image.tmdb.org/t/p/w185/o2SOFI53N6Gv5S3fDEBNbeimbzY.jpg",
+          "iniciales": "JO"
+        },
+        {
+          "nombre": "Jane Levy",
+          "personaje": "Eva Gardiner",
+          "foto": "https://image.tmdb.org/t/p/w185/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg",
+          "iniciales": "JL"
+        },
+        {
+          "nombre": "Emily Rudd",
+          "personaje": "Nan Gardiner",
+          "foto": "https://image.tmdb.org/t/p/w185/vVl4ABlqUuh5n1M2B9AOOa9r6kV.jpg",
+          "iniciales": "ER"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Deutsch"
+      ],
+      "productoras": [
+        "Imagine Entertainment",
+        "20th Century Studios",
+        "Jurassic Party"
+      ],
+      "temas": [
+        "Race against time",
+        "Based on novel or book",
+        "Oxygen",
+        "Death of father",
+        "Survival",
+        "Scuba diver",
+        "Sperm whale",
+        "Survival thriller"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=5webTf9wplE",
+      "teaser": "",
+      "imdb_id": "tt28535715",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 25290,
+          "titulo": "Una gata ardiente",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/guKTKGxI7eWRg2TYTnHgN03UpEY.jpg",
+          "score": 5.8
+        },
+        {
+          "tmdb_id": 25338,
+          "titulo": "Testigo silencioso",
+          "anio": "1978",
+          "poster": "https://image.tmdb.org/t/p/w342/7a13U3kaJzqwHtR1btHESv7Q5b8.jpg",
+          "score": 7.1
+        },
+        {
+          "tmdb_id": 25386,
+          "titulo": "The 39 Steps",
+          "anio": "1959",
+          "poster": "https://image.tmdb.org/t/p/w342/jF1iN0pjPgqU0ZRx5l8uu4gGw1z.jpg",
+          "score": 6.3
+        },
+        {
+          "tmdb_id": 22882,
+          "titulo": "Tasmania",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/3P17haFZREIUy4LL4FD9WAiTIYT.jpg",
+          "score": 5.4
+        },
+        {
+          "tmdb_id": 24567,
+          "titulo": "The Narrows",
+          "anio": "2008",
+          "poster": "https://image.tmdb.org/t/p/w342/ArcqdYz9IGyDp2mdRo8E87otYRF.jpg",
+          "score": 5.8
+        },
+        {
+          "tmdb_id": 24634,
+          "titulo": "Historia macabra",
+          "anio": "1981",
+          "poster": "https://image.tmdb.org/t/p/w342/fzww0mSMxWqxOxNdu4ktdrDuBK4.jpg",
+          "score": 6.028
+        },
+        {
+          "tmdb_id": 1423831,
+          "titulo": "The Wrath Within Mercy",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/huj2Fkr4o9etIWuT1bwxkAq6hTi.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 838630,
+          "titulo": "VINE",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/naxozSU3q7PhEZo2o6kenaC69Bi.jpg",
+          "score": 10.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-15"
+  },
+  "1153576": {
+    "tmdb": {
+      "tmdb_id": 1153576,
+      "titulo": "Street Fighter",
+      "titulo_original": "Street Fighter",
+      "tagline": "Listos. Preparados. ¡A luchar!",
+      "anio": "2026",
+      "estreno": "2026-10-13",
+      "duracion": 125,
+      "generos": [
+        "Acción",
+        "Fantasía"
+      ],
+      "score": 6.6,
+      "votos": 15,
+      "certificacion": "+13",
+      "sinopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/5YfPIIMzGBkIjHt3PTXBWyfBTGS.jpg",
+        "https://image.tmdb.org/t/p/w780/DSOLReBGAwtN6AkrdkPiknd01z.jpg",
+        "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+        "https://image.tmdb.org/t/p/w780/k0cEoowzTwxYCTRI7gV6nqPF1ds.jpg",
+        "https://image.tmdb.org/t/p/w780/bA6twMcGZtV2cQRQA3ZTMQPJznU.jpg",
+        "https://image.tmdb.org/t/p/w780/zlZA2IMP9FthpYTA1CC9Gj7vl1o.jpg"
+      ],
+      "director": "Kitao Sakurai",
+      "guionistas": [
+        "T.J. Fixman",
+        "Kitao Sakurai"
+      ],
+      "musica": "Leo Birenberg, Zach Robinson",
+      "elenco": [
+        {
+          "nombre": "Andrew Koji",
+          "personaje": "Ryu",
+          "foto": "https://image.tmdb.org/t/p/w185/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg",
+          "iniciales": "AK"
+        },
+        {
+          "nombre": "Noah Centineo",
+          "personaje": "Ken Masters",
+          "foto": "https://image.tmdb.org/t/p/w185/p1bcst401RyxfDGykx2iQLI7CV5.jpg",
+          "iniciales": "NC"
+        },
+        {
+          "nombre": "Callina Liang",
+          "personaje": "Chun-Li",
+          "foto": "https://image.tmdb.org/t/p/w185/yiajT9WAsvuxF9uNJrkSuzVv3On.jpg",
+          "iniciales": "CL"
+        },
+        {
+          "nombre": "David Dastmalchian",
+          "personaje": "M. Bison",
+          "foto": "https://image.tmdb.org/t/p/w185/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg",
+          "iniciales": "DD"
+        },
+        {
+          "nombre": "Eric Andre",
+          "personaje": "Don Sauvage",
+          "foto": "https://image.tmdb.org/t/p/w185/e9XlcFnZQiBSQ1vISQVyTOrkIaq.jpg",
+          "iniciales": "EA"
+        },
+        {
+          "nombre": "Andrew Schulz",
+          "personaje": "Dan Hibiki",
+          "foto": "https://image.tmdb.org/t/p/w185/fdeYq1EraYvlYM3VmGXjIaSGoTz.jpg",
+          "iniciales": "AS"
+        },
+        {
+          "nombre": "Mel Jarnson",
+          "personaje": "Cammy",
+          "foto": "https://image.tmdb.org/t/p/w185/8m0gnlADmLXkMkvSzDR2OhBfsCB.jpg",
+          "iniciales": "MJ"
+        },
+        {
+          "nombre": "Cody Rhodes",
+          "personaje": "Guile",
+          "foto": "https://image.tmdb.org/t/p/w185/m9hfLcsQuESprcb7dJUj5lQLWCv.jpg",
+          "iniciales": "CR"
+        }
+      ],
+      "paises": [
+        "Japan",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Capcom",
+        "Legendary Pictures"
+      ],
+      "temas": [
+        "Martial arts",
+        "Based on video game",
+        "Martial arts tournament",
+        "Wuxia",
+        "Hand to hand combat",
+        "1990s",
+        "Battle royale",
+        "Power"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
+      "teaser": "",
+      "imdb_id": "tt27419420",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 25391,
+          "titulo": "Cyborg 3: The Recycler",
+          "anio": "1995",
+          "poster": "https://image.tmdb.org/t/p/w342/wjMV4kkkPQrq1lGJ8cHR3GQNfxQ.jpg",
+          "score": 3.7
+        },
+        {
+          "tmdb_id": 25425,
+          "titulo": "笑太極",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/u7cVepUk1MOS6fj4eW6Pf2fj7vR.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 22832,
+          "titulo": "Ninja Assassin",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/xI7Q8ybIwUsTgR5Yxs8Kn6cYJgP.jpg",
+          "score": 6.8
+        },
+        {
+          "tmdb_id": 24752,
+          "titulo": "Dragon Ball Z: El Más Poderoso Contra el Más Poderoso",
+          "anio": "1991",
+          "poster": "https://image.tmdb.org/t/p/w342/1hXkEacbCRYYau4dLv4UZPWxKr5.jpg",
+          "score": 7.047
+        },
+        {
+          "tmdb_id": 24825,
+          "titulo": "Duelo final",
+          "anio": "1980",
+          "poster": "https://image.tmdb.org/t/p/w342/pwpDV1QYrPD9ErIsTEIWtKLv3s7.jpg",
+          "score": 5.1
+        },
+        {
+          "tmdb_id": 24830,
+          "titulo": "Le llamaban Bruce",
+          "anio": "1982",
+          "poster": "https://image.tmdb.org/t/p/w342/frDWWWsVgEatmdkyJV9lDFmOpqW.jpg",
+          "score": 4.9
+        },
+        {
+          "tmdb_id": 24527,
+          "titulo": "Undefeatable",
+          "anio": "1993",
+          "poster": "https://image.tmdb.org/t/p/w342/zGueu0lvOJGgJBUj2G8RKeNeLZi.jpg",
+          "score": 5.3
+        },
+        {
+          "tmdb_id": 24546,
+          "titulo": "Yakuza: El imperio del sol naciente",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/rrfGzNwsIycS8uQZ9eb0iJhPbgs.jpg",
+          "score": 4.503
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-15"
+  },
+  "101299": {
+    "tmdb": {
+      "tmdb_id": 101299,
+      "titulo": "Los Juegos del Hambre: En llamas",
+      "titulo_original": "The Hunger Games: Catching Fire",
+      "tagline": "Cada revolución comienza con una chispa.",
+      "anio": "2013",
+      "estreno": "2013-11-15",
+      "duracion": 146,
+      "generos": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "score": 7.4,
+      "votos": 18891,
+      "certificacion": "+13",
+      "sinopsis": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre.",
+      "poster": "https://image.tmdb.org/t/p/w342/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+        "https://image.tmdb.org/t/p/w780/omoWcwdARBsGHdMdHUk0AQhS2Lp.jpg",
+        "https://image.tmdb.org/t/p/w780/43AdvN7pjTuSWyPPpIiB4gVWLuO.jpg",
+        "https://image.tmdb.org/t/p/w780/tPQkMOMdbQnyt0m5uy6CKg0M1Fa.jpg",
+        "https://image.tmdb.org/t/p/w780/hAtzUUnG8n340C0x7hQrOiyE3f4.jpg",
+        "https://image.tmdb.org/t/p/w780/tmW2upaarCA3bXgi0RGLUajZuMA.jpg"
+      ],
+      "director": "Francis Lawrence",
+      "guionistas": [
+        "Simon Beaufoy",
+        "Michael Arndt"
+      ],
+      "musica": "James Newton Howard",
+      "elenco": [
+        {
+          "nombre": "Jennifer Lawrence",
+          "personaje": "Katniss Everdeen",
+          "foto": "https://image.tmdb.org/t/p/w185/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg",
+          "iniciales": "JL"
+        },
+        {
+          "nombre": "Josh Hutcherson",
+          "personaje": "Peeta Mellark",
+          "foto": "https://image.tmdb.org/t/p/w185/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg",
+          "iniciales": "JH"
+        },
+        {
+          "nombre": "Liam Hemsworth",
+          "personaje": "Gale Hawthorne",
+          "foto": "https://image.tmdb.org/t/p/w185/As5ujeSSJRQN4TE3odg3kDk0b5o.jpg",
+          "iniciales": "LH"
+        },
+        {
+          "nombre": "Woody Harrelson",
+          "personaje": "Haymitch Abernathy",
+          "foto": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg",
+          "iniciales": "WH"
+        },
+        {
+          "nombre": "Elizabeth Banks",
+          "personaje": "Effie Trinket",
+          "foto": "https://image.tmdb.org/t/p/w185/wMDFt9PUdxJWBzTwixiBfNpeN89.jpg",
+          "iniciales": "EB"
+        },
+        {
+          "nombre": "Donald Sutherland",
+          "personaje": "President Coriolanus Snow",
+          "foto": "https://image.tmdb.org/t/p/w185/t9rN5Vni7GYmqqNi9nANCZbmewx.jpg",
+          "iniciales": "DS"
+        },
+        {
+          "nombre": "Lenny Kravitz",
+          "personaje": "Cinna",
+          "foto": "https://image.tmdb.org/t/p/w185/dUlUZgeCcichbLdnPEfFrD4iy5G.jpg",
+          "iniciales": "LK"
+        },
+        {
+          "nombre": "Philip Seymour Hoffman",
+          "personaje": "Plutarch Heavensbee",
+          "foto": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg",
+          "iniciales": "PH"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Lionsgate",
+        "Color Force"
+      ],
+      "temas": [
+        "Rebellion",
+        "Based on novel or book",
+        "Propaganda",
+        "Dystopia",
+        "Uprising",
+        "Sequel",
+        "President",
+        "Survival"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=0KKwAWsh9TQ",
+      "teaser": "",
+      "imdb_id": "tt1951264",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Los Juegos del Hambre - Colección",
+        "partes": [
+          {
+            "tmdb_id": 70160,
+            "titulo": "Los Juegos del Hambre",
+            "anio": "2012",
+            "poster": "https://image.tmdb.org/t/p/w342/qSEn7KsGchT7qB08HlviyeTPrEr.jpg",
+            "fecha": "2012-03-12"
+          },
+          {
+            "tmdb_id": 101299,
+            "titulo": "Los Juegos del Hambre: En llamas",
+            "anio": "2013",
+            "poster": "https://image.tmdb.org/t/p/w342/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
+            "fecha": "2013-11-15"
+          },
+          {
+            "tmdb_id": 131631,
+            "titulo": "Los Juegos del Hambre: Sinsajo - Parte 1",
+            "anio": "2014",
+            "poster": "https://image.tmdb.org/t/p/w342/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+            "fecha": "2014-11-19"
+          },
+          {
+            "tmdb_id": 131634,
+            "titulo": "Los Juegos del Hambre: Sinsajo - Parte 2",
+            "anio": "2015",
+            "poster": "https://image.tmdb.org/t/p/w342/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
+            "fecha": "2015-11-18"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 8202,
+          "titulo": "Aeon Flux",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/4Ysz1Fh5p9TWt2Mhtg5BUJzpR5J.jpg",
+          "score": 5.64
+        },
+        {
+          "tmdb_id": 8204,
+          "titulo": "Las crónicas de Spiderwick",
+          "anio": "2008",
+          "poster": "https://image.tmdb.org/t/p/w342/2QDs8ASLuqcwwuwSZi7FFdFTatl.jpg",
+          "score": 6.705
+        },
+        {
+          "tmdb_id": 8072,
+          "titulo": "Alphaville",
+          "anio": "1965",
+          "poster": "https://image.tmdb.org/t/p/w342/ymE2nnxd1XH9yMaHG1EWVHOZ1b1.jpg",
+          "score": 6.9
+        },
+        {
+          "tmdb_id": 8077,
+          "titulo": "Alien III",
+          "anio": "1992",
+          "poster": "https://image.tmdb.org/t/p/w342/oBBdeybjF1dUxE7GFxurp2TxiT3.jpg",
+          "score": 6.39
+        },
+        {
+          "tmdb_id": 8078,
+          "titulo": "Alien: Resurrección",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/6MLQ5ehGD3b8E0JZ9K2G4cZeFaI.jpg",
+          "score": 6.172
+        },
+        {
+          "tmdb_id": 8292,
+          "titulo": "Cuatro hermanos",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/1HtCW7TO9HvsEyK7Nm1bQYwcgxD.jpg",
+          "score": 6.807
+        },
+        {
+          "tmdb_id": 8326,
+          "titulo": "La maldición de los hoyos",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/Ou4nPomqTN9VythZ8MzhXzk5OW.jpg",
+          "score": 6.915
+        },
+        {
+          "tmdb_id": 7555,
+          "titulo": "John Rambo",
+          "anio": "2008",
+          "poster": "https://image.tmdb.org/t/p/w342/qp9Q0JeHQ6JShQPm6KA8euYhWLF.jpg",
+          "score": 6.707
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-15"
+  },
+  "1404684": {
+    "tmdb": {
+      "tmdb_id": 1404684,
+      "titulo": "Tiempos de ilusión",
+      "titulo_original": "Juste une illusion",
+      "tagline": "Una comedia sobre esa etapa de la infancia en la que la esperanza de cambiar el mundo no era «solo una ilusión»...",
+      "anio": "2026",
+      "estreno": "2026-04-15",
+      "duracion": 119,
+      "generos": [
+        "Comedia",
+        "Drama"
+      ],
+      "score": 7.3,
+      "votos": 215,
+      "certificacion": "ATP",
+      "sinopsis": "1985. Vincent, de casi 13 años, vive en las afueras de París en el seno de una familia de clase media, entre un hermano mayor distante y unos padres en conflicto constante. Aunque ya no es un niño pero tampoco un adulto, la película sigue sus reflexiones y dudas sobre la identidad, la amistad y la familia, así como sus interrogantes acerca de la religión, el deseo y el amor.",
+      "poster": "https://image.tmdb.org/t/p/w342/eWPq3wSvJEMakESTXzaBECUNBYr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
+        "https://image.tmdb.org/t/p/w780/tzfnhFjypg1JTX61Foe1XYCSIlr.jpg",
+        "https://image.tmdb.org/t/p/w780/3ZJW3mLqfG8kBxt6illE8I2qW7t.jpg",
+        "https://image.tmdb.org/t/p/w780/fmprosgpjQCChlEq635eJXj650d.jpg",
+        "https://image.tmdb.org/t/p/w780/cRQ2GBxMBbjIT4FFUM8KzuG7S3z.jpg",
+        "https://image.tmdb.org/t/p/w780/A5hGbT5F9JnfDn7KdP8Zannt74G.jpg"
+      ],
+      "director": "Olivier Nakache",
+      "guionistas": [
+        "Éric Toledano",
+        "Olivier Nakache"
+      ],
+      "musica": "",
+      "elenco": [
+        {
+          "nombre": "Louis Garrel",
+          "personaje": "Yves Dayan",
+          "foto": "https://image.tmdb.org/t/p/w185/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg",
+          "iniciales": "LG"
+        },
+        {
+          "nombre": "Camille Cottin",
+          "personaje": "Sandrine Dayan",
+          "foto": "https://image.tmdb.org/t/p/w185/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg",
+          "iniciales": "CC"
+        },
+        {
+          "nombre": "Simon Boublil",
+          "personaje": "Vincent Dayan",
+          "foto": "https://image.tmdb.org/t/p/w185/zSR1JhhktzjjRvaIZ1ULmLVpiWi.jpg",
+          "iniciales": "SB"
+        },
+        {
+          "nombre": "Alexis Rosenstiehl",
+          "personaje": "Arnaud Dayan",
+          "foto": "https://image.tmdb.org/t/p/w185/lSa63zKMIJurglCQv7SASzZled4.jpg",
+          "iniciales": "AR"
+        },
+        {
+          "nombre": "Pierre Lottin",
+          "personaje": "Étienne Berger",
+          "foto": "https://image.tmdb.org/t/p/w185/1d0CBRIjScO7AUkQAqPcaRuC9Mg.jpg",
+          "iniciales": "PL"
+        },
+        {
+          "nombre": "Jeanne Lamartine",
+          "personaje": "Anne-Karine",
+          "foto": "https://image.tmdb.org/t/p/w185/9WTvs470KA1cyzwemVHbzZRnWJu.jpg",
+          "iniciales": "JL"
+        },
+        {
+          "nombre": "Rony Kramer",
+          "personaje": "Monsieur Abourmad",
+          "foto": "https://image.tmdb.org/t/p/w185/yvLfyEB5f6EnvLoB301nrq3vp1v.jpg",
+          "iniciales": "RK"
+        },
+        {
+          "nombre": "Giorgia Sinicorni",
+          "personaje": "Madame Bernini",
+          "foto": "https://image.tmdb.org/t/p/w185/9WUwennFaUBbnXrTHRcY7pX7qJD.jpg",
+          "iniciales": "GS"
+        }
+      ],
+      "paises": [
+        "France"
+      ],
+      "idiomas": [
+        "Français",
+        "English",
+        "Italiano",
+        "עִבְרִית"
+      ],
+      "productoras": [
+        "Quad Films",
+        "Ten Films",
+        "Gaumont",
+        "TF1 Films Production"
+      ],
+      "temas": [
+        "Sibling relationship",
+        "Paris, france",
+        "Coming of age",
+        "Teenage boy",
+        "First love",
+        "Troubled marriage",
+        "1980s"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt36842933",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 1411666,
+          "titulo": "Five Stages",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/nSdTLb3GwhfiQ4PFC6ao97llZka.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 1411782,
+          "titulo": "A Senior Film",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/5KiJwBqetLElV1RZRkC2ToQK7ol.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 633475,
+          "titulo": "En lille død",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/hrPlaKHAOmgOCgEHkkWC7425CK7.jpg",
+          "score": 5.0
+        },
+        {
+          "tmdb_id": 1024228,
+          "titulo": "How to Find Love",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/usG9909SFsscBy5Hps9lpyMkdiF.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 1214181,
+          "titulo": "Kabuliwala",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/6EtS1KuGk8h1QmAc91KrRxfo72D.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1596530,
+          "titulo": "Un Lugar sin Sol",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/zsZfzdum3AWUJUIvlNnymd8I1aL.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1596245,
+          "titulo": "Julián",
+          "anio": "",
+          "poster": "https://image.tmdb.org/t/p/w342/fYB6iVFO6QtP00veSqUTUY0C9BT.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 633271,
+          "titulo": "My Sweet Prince",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/udjg6niHPf6yH8IIpht5baM9wER.jpg",
+          "score": 5.3
+        }
+      ]
+    },
+    "ultima_semana": "2026-10-15"
   }
 }
