@@ -160,6 +160,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/09/000301909.jpg"
   },
   {
+    "titulo": "Sweet Lovers",
+    "fecha": "2026-10-25 20:30:00",
+    "lugar": "ÁREA CHICA",
+    "direccion": "Boulevard 83 403, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas97404-sweet-lovers?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/98/000304298.jpg"
+  },
+  {
     "titulo": "La cantante calva",
     "fecha": "2026-10-17 21:00:00",
     "lugar": "LA MERCERIA TEATRO",
@@ -201,7 +211,7 @@
   },
   {
     "titulo": "Maybe",
-    "fecha": "2026-10-25 21:00:00",
+    "fecha": "2026-10-24 21:00:00",
     "lugar": "ÁREA CHICA",
     "direccion": "Boulevard 83 403, La Plata",
     "categoria": "teatro",
@@ -391,7 +401,7 @@
   },
   {
     "titulo": "El almacén de los ecos",
-    "fecha": "2026-10-24 18:00:00",
+    "fecha": "2026-10-25 18:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -588,5 +598,25 @@
     "url": "https://publico.alternativateatral.com/entradas103623-la-visita?o=6",
     "fuente": "alternativa",
     "imagen": ""
+  },
+  {
+    "titulo": "Fingir",
+    "fecha": "2026-11-06 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas103682-fingir?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/57/000322757.jpg"
+  },
+  {
+    "titulo": "Una Jornada Satánica",
+    "fecha": "2026-11-07 21:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas103688-una-jornada-satanica?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/48/000322748.jpg"
   }
 ]

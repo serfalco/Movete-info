@@ -20,6 +20,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908042214-7d3cdf0c.webp"
   },
   {
+    "titulo": "Beguinas (Ni Esposas Ni Monjas)",
+    "fecha": "2026-11-15 20:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "Calle 44 Nº 1443, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/beguinas-ni-esposas-ni-monjas/funcion/la-plata/teatro-el-escape/15-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260907235800-1f220ace.webp"
+  },
+  {
     "titulo": "Calígula",
     "fecha": "2026-10-17 21:30:00",
     "lugar": "Teatro Estudio",
@@ -148,6 +158,16 @@
     "url": "https://teatrocerca.com.ar/obra/la-cena-de-los-tontos-zona-sur-funciones/funcion/la-plata/teatro-municipal-coliseo-podesta/12-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812040045-d54f7bed.webp"
+  },
+  {
+    "titulo": "La Fiaca",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "Calle 44 Nº 1443, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/la-fiaca-la-plata/funcion/la-plata/teatro-el-escape/21-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016165433-d13dd1b9.webp"
   },
   {
     "titulo": "La gravedad de lo incierto",
