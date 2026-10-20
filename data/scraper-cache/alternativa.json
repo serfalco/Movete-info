@@ -1,7 +1,7 @@
 [
   {
     "titulo": "La nona",
-    "fecha": "2026-10-17 21:00:00",
+    "fecha": "2026-10-24 21:00:00",
     "lugar": "ASOCIACIÓN AMIGOS DEL TALLER DE TEATRO DE LA UNIVERSIDAD NACIONAL DE LA PLATA - TEATRO UNLP",
     "direccion": "CALLE 10 Nº 1076 e/ 54 y 55, La Plata",
     "categoria": "teatro",
@@ -11,7 +11,7 @@
   },
   {
     "titulo": "La Revoluta",
-    "fecha": "2026-10-18 20:00:00",
+    "fecha": "2026-10-25 20:00:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -30,14 +30,14 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/26/000280026.jpg"
   },
   {
-    "titulo": "Yuna soy yo",
-    "fecha": "2026-10-16 20:30:00",
+    "titulo": "Con las manos atadas",
+    "fecha": "2026-11-14 18:00:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas78122-yuna-soy-yo?o=6",
+    "url": "https://www.alternativateatral.com.ar/obra83446-con-las-manos-atadas",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/69/000303069.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/64/000263764.jpg"
   },
   {
     "titulo": "MATCH- TEATRO DEPORTE Y HUMOR",
@@ -51,7 +51,7 @@
   },
   {
     "titulo": "Sociedad Platense de Stand Up",
-    "fecha": "2026-10-16 21:30:00",
+    "fecha": "2026-10-23 21:30:00",
     "lugar": "TRES EMPANADAS COMEDIA",
     "direccion": "Calle 43 N°1349, La Plata",
     "categoria": "stand-up",
@@ -61,7 +61,7 @@
   },
   {
     "titulo": "Liga de improvisadores",
-    "fecha": "2026-10-16 20:30:00",
+    "fecha": "2026-10-23 20:30:00",
     "lugar": "ESPACIO SUDAKA",
     "direccion": "Av 7 entre 68 y 69 N° 1789, La Plata",
     "categoria": "teatro",
@@ -80,16 +80,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/05/000322605.jpg"
   },
   {
-    "titulo": "1999 pequeño testamento apócrifo",
-    "fecha": "2026-10-17 21:00:00",
-    "lugar": "SALA 420",
-    "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas89345-1999-pequeno-testamento-apocrifo?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/07/000321107.jpg"
-  },
-  {
     "titulo": "Disforia",
     "fecha": "2026-11-08 19:30:00",
     "lugar": "FÁBRICA CITA",
@@ -98,16 +88,6 @@
     "url": "https://publico.alternativateatral.com/entradas93258-disforia?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/01/000320401.jpg"
-  },
-  {
-    "titulo": "Calígula",
-    "fecha": "2026-10-17 21:30:00",
-    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
-    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas94133-caligula?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/34/000320334.jpg"
   },
   {
     "titulo": "Chau Misterix",
@@ -141,7 +121,7 @@
   },
   {
     "titulo": "El principio de Arquímedes",
-    "fecha": "2026-10-16 21:00:00",
+    "fecha": "2026-10-23 21:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -151,7 +131,7 @@
   },
   {
     "titulo": "Fakeland S.A",
-    "fecha": "2026-10-17 19:30:00",
+    "fecha": "2026-10-24 19:30:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -168,16 +148,6 @@
     "url": "https://publico.alternativateatral.com/entradas97404-sweet-lovers?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/98/000304298.jpg"
-  },
-  {
-    "titulo": "La cantante calva",
-    "fecha": "2026-10-17 21:00:00",
-    "lugar": "LA MERCERIA TEATRO",
-    "direccion": "Calle 1 Nº 210, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas97717-la-cantante-calva?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/56/000305356.jpg"
   },
   {
     "titulo": "Rosaura alle dieci",
@@ -230,16 +200,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/13/000312713.jpg"
   },
   {
-    "titulo": "Carles. El eslabón perdido del Rock Nacional",
-    "fecha": "2026-10-18 19:00:00",
-    "lugar": "TEATRO ABIERTO",
-    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
-    "categoria": "musica",
-    "url": "https://publico.alternativateatral.com/entradas100716-carles-el-eslabon-perdido-del-rock-nacional?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/93/000315293.jpg"
-  },
-  {
     "titulo": "Roja",
     "fecha": "2026-11-14 21:00:00",
     "lugar": "ESPACIO 44",
@@ -261,7 +221,7 @@
   },
   {
     "titulo": "Volcada",
-    "fecha": "2026-10-18 20:00:00",
+    "fecha": "2026-10-23 21:30:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
@@ -277,7 +237,7 @@
     "categoria": "impro",
     "url": "https://publico.alternativateatral.com/entradas101265-muestra-del-taller-del-match-de-improvisacion?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/78/000315978.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/91/000322791.jpg"
   },
   {
     "titulo": "Terapia",
@@ -300,16 +260,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/90/000317990.jpg"
   },
   {
-    "titulo": "Cuadriláteros 7, teatro breve reunido",
-    "fecha": "2026-10-16 22:30:00",
-    "lugar": "TEATRO ESTUDIO DE LAS ARTES",
-    "direccion": "Calle 3 N 386 e/ 39 y 40, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas102156-cuadrilateros-7-teatro-breve-reunido?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/91/000317991.jpg"
-  },
-  {
     "titulo": "¡Ay, por Dios!",
     "fecha": "2026-11-14 21:00:00",
     "lugar": "TEATRO EL ESCAPE",
@@ -321,7 +271,7 @@
   },
   {
     "titulo": "Lady Godiva la diva",
-    "fecha": "2026-10-18 20:00:00",
+    "fecha": "2026-10-25 20:00:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
@@ -331,7 +281,7 @@
   },
   {
     "titulo": "Crimen y castigo",
-    "fecha": "2026-10-17 20:00:00",
+    "fecha": "2026-10-24 20:00:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
@@ -361,7 +311,7 @@
   },
   {
     "titulo": "No te vayas con amor o sin él",
-    "fecha": "2026-10-16 21:00:00",
+    "fecha": "2026-10-23 21:00:00",
     "lugar": "LA MERCERIA TEATRO",
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
@@ -391,7 +341,7 @@
   },
   {
     "titulo": "Cuando la esperanza no alcanza",
-    "fecha": "2026-10-16 21:00:00",
+    "fecha": "2026-10-23 21:00:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
@@ -411,7 +361,7 @@
   },
   {
     "titulo": "ESTO NO DA PARA MÁS (Comedia sobrenaturalista en un acto)",
-    "fecha": "2026-10-17 21:00:00",
+    "fecha": "2026-10-24 21:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -441,7 +391,7 @@
   },
   {
     "titulo": "EL FACTOR DAIQUIRI",
-    "fecha": "2026-10-17 21:00:00",
+    "fecha": "2026-10-24 21:00:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
@@ -451,7 +401,7 @@
   },
   {
     "titulo": "Las del Lirio. Tullido retrato familiar",
-    "fecha": "2026-10-16 21:30:00",
+    "fecha": "2026-10-23 21:30:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -471,7 +421,7 @@
   },
   {
     "titulo": "EL ÚLTIMO TANGO, un crimen en 2x4",
-    "fecha": "2026-10-17 21:00:00",
+    "fecha": "2026-10-24 21:00:00",
     "lugar": "TELON NEGRO TEATRO",
     "direccion": "13 e/ 32 y 33, La Plata",
     "categoria": "musica",
@@ -491,7 +441,7 @@
   },
   {
     "titulo": "Escrito en la piel",
-    "fecha": "2026-10-17 21:30:00",
+    "fecha": "2026-10-24 21:30:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -501,7 +451,7 @@
   },
   {
     "titulo": "El Ánimo",
-    "fecha": "2026-10-18 21:00:00",
+    "fecha": "2026-10-23 21:00:00",
     "lugar": "EN ESO ESTAMOS",
     "direccion": "Calle 62 No. 274 e/ 1 y 115, La Plata",
     "categoria": "teatro",
@@ -511,7 +461,7 @@
   },
   {
     "titulo": "Kosa y la guerra",
-    "fecha": "2026-10-17 19:00:00",
+    "fecha": "2026-10-24 19:00:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
@@ -618,5 +568,15 @@
     "url": "https://publico.alternativateatral.com/entradas103688-una-jornada-satanica?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/48/000322748.jpg"
+  },
+  {
+    "titulo": "Proyecto 10",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "EL MEDIO ALJIBE",
+    "direccion": "11 e/66 y 67, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra103758-proyecto-10",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/16/000323016.jpg"
   }
 ]

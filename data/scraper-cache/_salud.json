@@ -1,36 +1,32 @@
 {
-  "fecha": "2026-10-16",
-  "total": 365,
+  "fecha": "2026-10-20",
+  "total": 293,
   "por_fuente": {
-    "genda": 260,
-    "livepass": 32,
-    "alternativa": 62,
-    "teatro_metro": 23,
+    "genda": 196,
+    "livepass": 30,
+    "alternativa": 58,
+    "teatro_metro": 19,
     "coliseo": 8,
-    "opera": 9,
+    "opera": 8,
     "eventbrite": 0,
-    "plateauno": 12,
-    "passline": 6,
+    "plateauno": 11,
+    "passline": 4,
     "teatrobar": 0,
-    "teatrocerca": 37,
-    "comunidad": 0,
-    "eldia": 0,
-    "_0221": 0
+    "teatrocerca": 34,
+    "comunidad": 0
   },
   "estado": {
     "genda": "ok",
     "livepass": "ok",
     "alternativa": "ok",
-    "teatro_metro": "ok",
-    "coliseo": "cache",
+    "teatro_metro": "cache",
+    "coliseo": "ok",
     "opera": "ok",
     "eventbrite": "vencida",
     "plateauno": "ok",
     "passline": "ok",
     "teatrobar": "vencida",
     "teatrocerca": "ok",
-    "comunidad": "vencida",
-    "eldia": "vencida",
-    "_0221": "vencida"
+    "comunidad": "vencida"
   }
 }

@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "TAREA FINA",
-    "fecha": "2026-10-16 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "POLENTA",
     "fecha": "2026-11-06 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -60,6 +50,16 @@
     "imagen": ""
   },
   {
+    "titulo": "ESTELARES",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
     "titulo": "LA KONGA",
     "fecha": "2026-10-23 21:00:00",
     "lugar": "Hipódromo de La Plata",
@@ -68,36 +68,6 @@
     "url": "",
     "fuente": "livepass",
     "imagen": ""
-  },
-  {
-    "titulo": "TAREA FINA",
-    "fecha": "2026-10-16 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/tarea-fina-en-el-teatro-opera-lp-2026-10-16-21-00-00-0300",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/08385af35cca6ebd0287cea6dd6994eb6da22290.jpg?1787864025"
-  },
-  {
-    "titulo": "DANCING MOOD",
-    "fecha": "2026-10-17 20:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/dancing-mood-en-el-teatro-opera-lp-2026-10-17",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/39cc2f61bd236c11fc196ea6ccf5f8c8fd539ae4.jpg?1785509544"
-  },
-  {
-    "titulo": "PALO - MAS ALLA?TOUR?en Guajira LP",
-    "fecha": "2026-10-18 20:00:00",
-    "lugar": "Guajira",
-    "direccion": "Calle 49, 484, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/paloma-lopez-diaz-mas-alla-tour-en-guajira-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/25fda6a13b8866cfa6d50f385185c30d501738cd.jpg?1792077582"
   },
   {
     "titulo": "LA KONGA",
@@ -288,6 +258,16 @@
     "url": "https://livepass.com.ar/events/abel-pintos-presenta-buenaventura-tour-en-el-hipodromo-de-la-plata",
     "fuente": "livepass",
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/d5193fded71e9e9a82f2eeb06c3833d0500f15cd.jpeg?1791396727"
+  },
+  {
+    "titulo": "ESTELARES",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/estelares-en-la-sala-ginastera-teatro-argentino-la-plata-2026-12-11-21-00-00-0300",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/c3671707f2252f9877795b56c5ddc74fa24a8f22.jpg?1792436256"
   },
   {
     "titulo": "TAN BIONICA",

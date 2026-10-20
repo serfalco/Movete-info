@@ -30,32 +30,22 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260907235800-1f220ace.webp"
   },
   {
-    "titulo": "Calígula",
-    "fecha": "2026-10-17 21:30:00",
-    "lugar": "Teatro Estudio",
-    "direccion": "Calle 3 Nº 386, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/caligula-obra/funcion/la-plata/teatro-estudio/17-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908010543-e64a0939.webp"
-  },
-  {
     "titulo": "Crimen y castigo",
-    "fecha": "2026-10-17 20:00:00",
+    "fecha": "2026-10-24 20:00:00",
     "lugar": "Teatro El Escape",
     "direccion": "Calle 44 Nº 1443, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/crimen-y-castigo/funcion/la-plata/teatro-el-escape/17-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/crimen-y-castigo/funcion/la-plata/teatro-el-escape/24-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908005924-41a28aaf.webp"
   },
   {
     "titulo": "Cuando la esperanza no alcanza",
-    "fecha": "2026-10-16 21:00:00",
+    "fecha": "2026-10-23 21:00:00",
     "lugar": "Teatro El Escape",
     "direccion": "Calle 44 Nº 1443, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/cuando-la-esperanza-no-alcanza/funcion/la-plata/teatro-el-escape/16-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/cuando-la-esperanza-no-alcanza/funcion/la-plata/teatro-el-escape/23-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908002828-cfaacb58.webp"
   },
@@ -91,31 +81,31 @@
   },
   {
     "titulo": "El principio de Arquímedes",
-    "fecha": "2026-10-16 21:00:00",
+    "fecha": "2026-10-23 21:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/el-principio-de-arquimedes-la-plata-obra/funcion/la-plata/teatro-abierto/16-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/el-principio-de-arquimedes-la-plata-obra/funcion/la-plata/teatro-abierto/23-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260826165951-64fba3bf.webp"
   },
   {
     "titulo": "Escrito en la piel",
-    "fecha": "2026-10-17 21:30:00",
+    "fecha": "2026-10-24 21:30:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/17-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/24-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930051440-d15db00b.webp"
   },
   {
     "titulo": "Fakeland S.A.",
-    "fecha": "2026-10-17 19:30:00",
+    "fecha": "2026-10-24 19:30:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/fakeland-s-a/funcion/la-plata/viejo-almacen-el-obrero/17-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/fakeland-s-a/funcion/la-plata/viejo-almacen-el-obrero/24-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261006042614-7b43899a.webp"
   },
@@ -140,14 +130,14 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260824234808-79adad42.webp"
   },
   {
-    "titulo": "La cantante calva",
-    "fecha": "2026-10-17 21:00:00",
-    "lugar": "La Mercería Teatro",
-    "direccion": "Av. 1 Nº 210, La Plata",
+    "titulo": "La calesita (otra vuelta)",
+    "fecha": "2026-11-06 20:30:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "Calle 44 Nº 1443, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-cantante-calva/funcion/la-plata/la-merceria-teatro/17-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/la-calesita-otra-vuelta/funcion/la-plata/teatro-el-escape/6-noviembre-2026",
     "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260901073558-a657e47c.webp"
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016231856-383787cd.webp"
   },
   {
     "titulo": "La cena de los tontos",
@@ -181,31 +171,21 @@
   },
   {
     "titulo": "La Nona del Teatro UNLP",
-    "fecha": "2026-10-17 21:00:00",
+    "fecha": "2026-10-24 21:00:00",
     "lugar": "Teatro de la UNLP",
     "direccion": "Calle 10 Nº 1076, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-nona-del-teatro-unlp/funcion/la-plata/teatro-de-la-unlp/17-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/la-nona-del-teatro-unlp/funcion/la-plata/teatro-de-la-unlp/24-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260819131718-c4fc4565.webp"
   },
   {
-    "titulo": "La Revoluta",
-    "fecha": "2026-10-18 20:00:00",
-    "lugar": "Viejo Almacén El Obrero",
-    "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-revoluta/funcion/la-plata/viejo-almacen-el-obrero/18-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930052205-cec2df58.webp"
-  },
-  {
     "titulo": "Las del lirio",
-    "fecha": "2026-10-16 21:30:00",
+    "fecha": "2026-10-30 21:30:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/las-del-lirio/funcion/la-plata/viejo-almacen-el-obrero/16-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/las-del-lirio/funcion/la-plata/viejo-almacen-el-obrero/30-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261006042327-9e986e0e.webp"
   },
@@ -218,6 +198,16 @@
     "url": "https://teatrocerca.com.ar/obra/las-hijas-florencia-pena-villamil/funcion/la-plata/teatro-municipal-coliseo-podesta/7-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260815002359-99a1d245.webp"
+  },
+  {
+    "titulo": "Los amantes de la casa azul",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "Calle 44 Nº 1443, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/los-amantes-de-la-casa-azul/funcion/la-plata/teatro-el-escape/20-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016232050-6cf26c21.webp"
   },
   {
     "titulo": "Luces en el espejo",
@@ -251,11 +241,11 @@
   },
   {
     "titulo": "No te vayas con amor o sin él",
-    "fecha": "2026-10-16 21:00:00",
+    "fecha": "2026-10-23 21:00:00",
     "lugar": "La Mercería Teatro",
     "direccion": "Av. 1 Nº 210, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/no-te-vayas-con-amor-o-sin-el/funcion/la-plata/la-merceria-teatro/16-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/no-te-vayas-con-amor-o-sin-el/funcion/la-plata/la-merceria-teatro/23-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260830003250-e258b9cb.webp"
   },
@@ -270,24 +260,24 @@
     "imagen": "https://teatrocerca.com.ar/assets/img-placeholder.php?title=Pats%C3%ADa%3A+mis+di%C3%A1logos+con+%C3%A9l"
   },
   {
-    "titulo": "Volcada",
-    "fecha": "2026-10-18 20:00:00",
-    "lugar": "Espacio 44",
-    "direccion": "Av. 44 N° 496, La Plata",
+    "titulo": "Una Jornada Satánica",
+    "fecha": "2026-11-07 21:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "Calle 44 Nº 1443, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/volcada-obra/funcion/la-plata/espacio-44/18-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/una-jornada-satanica/funcion/la-plata/teatro-el-escape/7-noviembre-2026",
     "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908010759-f8d17a5a.webp"
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016231650-a8a704c7.webp"
   },
   {
-    "titulo": "Yuna soy yo",
-    "fecha": "2026-10-16 20:30:00",
+    "titulo": "Volcada",
+    "fecha": "2026-10-23 21:30:00",
     "lugar": "Espacio 44",
     "direccion": "Av. 44 N° 496, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/yuna-soy-yo/funcion/la-plata/espacio-44/16-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/volcada-obra/funcion/la-plata/espacio-44/23-octubre-2026",
     "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908011039-847a7abb.webp"
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908010759-f8d17a5a.webp"
   },
   {
     "titulo": "Connie Ballarini: Tour 2026",
@@ -298,16 +288,6 @@
     "url": "https://teatrocerca.com.ar/obra/connie-ballarini-tour-2026/funcion/la-plata/teatro-municipal-coliseo-podesta/14-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260808230420-137a0468.webp"
-  },
-  {
-    "titulo": "Dani, La Chepi: Unipersonal",
-    "fecha": "2026-10-17 21:00:00",
-    "lugar": "Teatro Municipal Coliseo Podestá",
-    "direccion": "Calle 10 Nº 733, La Plata",
-    "categoria": "stand-up",
-    "url": "https://teatrocerca.com.ar/obra/dani-la-chepi-unipersonal/funcion/la-plata/teatro-municipal-coliseo-podesta/17-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812040703-b053b6b5.webp"
   },
   {
     "titulo": "Dario Orsi: Hasta las manos",
@@ -338,16 +318,6 @@
     "url": "https://teatrocerca.com.ar/obra/nico-de-tracy-purga/funcion/la-plata/teatro-metro-la-plata/5-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260814035555-3dd14e78.webp"
-  },
-  {
-    "titulo": "Sociedad Platense de Stand Up",
-    "fecha": "2026-10-16 21:30:00",
-    "lugar": "Tres Empanadas Comedia",
-    "direccion": "Calle 43 Nº 1349, La Plata",
-    "categoria": "stand-up",
-    "url": "https://teatrocerca.com.ar/obra/sociedad-platense-de-stand-up/funcion/la-plata/tres-empanadas-comedia-la-plata/16-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/revision/d062f501c420293ea65f232f7078c6c95bbc0342.webp"
   },
   {
     "titulo": "Te pido mil disculpas",
