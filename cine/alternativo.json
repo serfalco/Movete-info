@@ -1,74 +1,110 @@
 [
   {
-    "titulo": "Eyes Wide Shut [Ojos bien cerrados] (Stanley Kubrick, 1999)",
+    "titulo": "Lost Highway [Carretera perdida] (David Lynch, 1997)",
     "hora": "19:00",
     "espacio": "Espacio Satélite",
-    "fecha": "2026-10-16"
+    "fecha": "2026-10-23"
   },
   {
-    "titulo": "Showgirls (Paul Verhoeven, 1995/ Estados Unidos, 128min)",
-    "hora": "20:00",
+    "titulo": "FESTICALP - Ramón Vázquez (Dir. Gustavo Fontán)",
+    "hora": "19:30",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-10-16"
+    "fecha": "2026-10-23"
   },
   {
-    "titulo": "The Rocky Horror Picture Show (1975) Jim Sharman",
-    "hora": "20:30",
-    "espacio": "Pasaje Dardo Rocha",
-    "fecha": "2026-10-17"
+    "titulo": "FESTICALP - Introducción a la catástrofe (Dir. Priya Govinda)",
+    "hora": "20:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-23"
   },
   {
-    "titulo": "The Rocky Horror Picture Show — Jim Sharman, 1975",
+    "titulo": "FESTICALP - Ramón Vázquez (Dir. Gustavo Fontán)",
+    "hora": "20:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-24"
+  },
+  {
+    "titulo": "FESTICALP - Weser (Dir. Fernando Spiner)",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-17"
+    "fecha": "2026-10-24"
   },
   {
-    "titulo": "Dark Waters (Dir. Mariano Baino)",
-    "hora": "22:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-17"
-  },
-  {
-    "titulo": "Studio Ghibli - La princesa Mononoke",
+    "titulo": "Ruge (2026) Dir. Diego Stickar",
     "hora": "23:55",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-17"
+    "fecha": "2026-10-24"
+  },
+  {
+    "titulo": "Todos los nombres empiezan con M (2026) Dir. Carla Scolari",
+    "hora": "23:55",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-24"
+  },
+  {
+    "titulo": "Las fuerzas extrañas (2026) Dir. Santiago Charriere",
+    "hora": "18:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-25"
+  },
+  {
+    "titulo": "La espera (2026) Dir. Darío Doria",
+    "hora": "18:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-25"
+  },
+  {
+    "titulo": "Studio Ghibli - El increíble Castillo Vagabundo",
+    "hora": "19:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-26"
+  },
+  {
+    "titulo": "The Fisher King (Dir. Terry Gilliam)",
+    "hora": "20:30",
+    "espacio": "La Culturosa",
+    "fecha": "2026-10-26"
   },
   {
     "titulo": "Éramos tan flacos",
-    "hora": "17:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-18"
-  },
-  {
-    "titulo": "Ciclo de cine Árabe",
-    "hora": "18:00",
-    "espacio": "Espacio Beirut",
-    "fecha": "2026-10-18"
-  },
-  {
-    "titulo": "Studio Ghibli - El viaje de Chihiro",
     "hora": "21:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-18"
+    "fecha": "2026-10-26"
   },
   {
-    "titulo": "The Lone Gunmen (Pilot + Planet of the Frohikes)",
+    "titulo": "Halloween - Dir. John Carpenter",
+    "hora": "20:00",
+    "espacio": "Espacio Rebelión - Casa socialista",
+    "fecha": "2026-10-27"
+  },
+  {
+    "titulo": "Corazonada (One From the Heart, Francis Ford Coppola, 1982)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-10-27"
+  },
+  {
+    "titulo": "Harsh Realm (Pilot + Inga Fossa)",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-20"
+    "fecha": "2026-10-27"
   },
   {
-    "titulo": "Pan, amor y... (Dir. Dino Risi)",
+    "titulo": "Nekromantik (1987) Dir. Jörg Buttgereit",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-10-27"
+  },
+  {
+    "titulo": "La marcha sobre Roma (Dir. Dino Risi)",
     "hora": "17:30",
     "espacio": "Teatro Bar Cultural La Ferretería",
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-28"
   },
   {
-    "titulo": "Good Boy - Dir. Viljar Bøe",
-    "hora": "20:30",
-    "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-21"
+    "titulo": "Mujeres al borde de un ataque de nervios (Dir. Pedro Almodóvar, 1988)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-10-28"
   }
 ]

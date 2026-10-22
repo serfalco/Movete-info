@@ -10,6 +10,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908003447-773bf579.webp"
   },
   {
+    "titulo": "Alonso y Frankillo: Pan con manteca",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 Nº 78, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/alonso-y-frankillo-pan-con-manteca/funcion/la-plata/teatro-metro-la-plata/21-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261021200307-8a6417a9.webp"
+  },
+  {
     "titulo": "¡Ay, por Dios!",
     "fecha": "2026-11-14 21:00:00",
     "lugar": "Teatro El Escape",
@@ -38,6 +48,16 @@
     "url": "https://teatrocerca.com.ar/obra/crimen-y-castigo/funcion/la-plata/teatro-el-escape/24-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908005924-41a28aaf.webp"
+  },
+  {
+    "titulo": "Cronopios X cronopios 2",
+    "fecha": "2026-10-24 20:00:00",
+    "lugar": "Escenario 40",
+    "direccion": "Calle 40 Nº 1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/cronopios-x-cronopios-2/funcion/la-plata/escenario-40/24-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261021195722-5ee019b9.webp"
   },
   {
     "titulo": "Cuando la esperanza no alcanza",
@@ -118,6 +138,16 @@
     "url": "https://teatrocerca.com.ar/obra/habitacion-macbeth/funcion/la-plata/teatro-metro-la-plata/6-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260618032349-e5ebd622.webp"
+  },
+  {
+    "titulo": "Huespedes: Un día ya no se oyó ningún ruido",
+    "fecha": "2026-10-23 21:00:00",
+    "lugar": "Estudio 71",
+    "direccion": "Calle 71 Nº 576, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/huespedes-un-dia-ya-no-se-oyo-ningun-ruido/funcion/la-plata/estudio-71/23-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260924005306-8cffa154.webp"
   },
   {
     "titulo": "Juampi Gonzalez: Oveja Negra",

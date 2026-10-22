@@ -1,195 +1,5 @@
 [
   {
-    "titulo": "El tren fluvial (Dir. Lorenzo Ferro, Lucas Vignale)",
-    "fecha": "2026-10-20 18:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-tren-fluvial-dir-lorenzo-ferro-lucas-vignale-cine-select-espacio-incaa-20261015234713",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015234714.jpg"
-  },
-  {
-    "titulo": "Orquesta Juvenil",
-    "fecha": "2026-10-20 19:00:00",
-    "lugar": "Conservatorio de Música Gilardo Gilardi",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/orquesta-juvenil-conservatorio-de-musica-gilardo-gilardi-20261019032443",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261019032444.jpg"
-  },
-  {
-    "titulo": "FESTICALP - Bosque arriba en la montaña (2026) Dir. Sofía Bordenave",
-    "fecha": "2026-10-20 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/festicalp-bosque-arriba-en-la-montana-2026-dir-sofia-bordenave-cine-club-proyecciones-terrestres-20261015161326",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015161327.jpg"
-  },
-  {
-    "titulo": "FESTICALP - Dice que... (Dir. Alejandro Fernández Mouján - 2025)",
-    "fecha": "2026-10-20 19:30:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/festicalp-dice-que-dir-alejandro-fernandez-moujan-2025-cine-ecoselect-espacio-incaa-20261015161140",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015161141.jpg"
-  },
-  {
-    "titulo": "Sinister (Dir. Scott Derrickson)",
-    "fecha": "2026-10-20 20:00:00",
-    "lugar": "Espacio Rebelión - Casa socialista",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/sinister-dir-scott-derrickson-espacio-rebelion-casa-socialista-20261019031645",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261019031646.jpg"
-  },
-  {
-    "titulo": "The Lone Gunmen (Pilot + Planet of the Frohikes)",
-    "fecha": "2026-10-20 20:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/the-lone-gunmen-pilot-planet-of-the-frohikes-cine-select-espacio-incaa-20261008011119",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261008011120.jpg"
-  },
-  {
-    "titulo": "Donde se parte el camino (2025) Dir. Facundo Calabrese",
-    "fecha": "2026-10-20 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/donde-se-parte-el-camino-2025-dir-facundo-calabrese-cine-club-proyecciones-terrestres-20261015201524",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015201525.jpg"
-  },
-  {
-    "titulo": "Hijo mayor (2025) Dir. Cecilia Kang",
-    "fecha": "2026-10-20 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/hijo-mayor-2025-dir-cecilia-kang-cine-club-proyecciones-terrestres-20261015201716",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015201717.jpg"
-  },
-  {
-    "titulo": "EnRevistaDas: La Revista de Calle 51",
-    "fecha": "2026-10-21 10:00:00",
-    "lugar": "Escuela de Teatro La Plata",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/enrevistadas-la-revista-de-calle-51-escuela-de-teatro-la-plata-20261009005326",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261009005327.jpg"
-  },
-  {
-    "titulo": "Buenos Aires Plurinacional: Una mirada a nuestra Diversidad Cultural",
-    "fecha": "2026-10-21 17:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/buenos-aires-plurinacional-una-mirada-a-nuestra-diversidad-cultural-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20261015033410",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015033411.jpg"
-  },
-  {
-    "titulo": "Taller de edición",
-    "fecha": "2026-10-21 17:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/taller-de-edicion-pasaje-dardo-rocha-20261015033722",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015033723.jpg"
-  },
-  {
-    "titulo": "Pan, amor y... (Dir. Dino Risi)",
-    "fecha": "2026-10-21 17:30:00",
-    "lugar": "Teatro Bar Cultural La Ferretería",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/pan-amor-y-dir-dino-risi-teatro-bar-cultural-la-ferreteria-20261012224643",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261012224644.jpg"
-  },
-  {
-    "titulo": "El tren fluvial (Dir. Lorenzo Ferro, Lucas Vignale)",
-    "fecha": "2026-10-21 18:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-tren-fluvial-dir-lorenzo-ferro-lucas-vignale-cine-select-espacio-incaa-20261015234713",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015234714.jpg"
-  },
-  {
-    "titulo": "FESTICALP - Dice que... (Dir. Alejandro Fernández Mouján)",
-    "fecha": "2026-10-21 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/festicalp-dice-que-dir-alejandro-fernandez-moujan-cine-club-proyecciones-terrestres-20261015161014",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015161015.jpg"
-  },
-  {
-    "titulo": "FESTICALP - Introducción a la catástrofe (Dir. Priya Govinda)",
-    "fecha": "2026-10-21 19:30:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/festicalp-introduccion-a-la-catastrofe-dir-priya-govinda-cine-ecoselect-espacio-incaa-20261015161812",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015161813.jpg"
-  },
-  {
-    "titulo": "Hojas por el barrio + Maria Beraldo + 454 clika",
-    "fecha": "2026-10-21 20:00:00",
-    "lugar": "Guajira Bar",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/hojas-por-el-barrio-maria-beraldo-454-clika-guajira-bar-20261018220443",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261018220444.jpg"
-  },
-  {
-    "titulo": "Erection band, con Vom Ritchie de Die toten hosen",
-    "fecha": "2026-10-21 20:00:00",
-    "lugar": "Blondie Cultural",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/erection-band-con-vom-ritchie-de-die-toten-hosen-blondie-cultural-20261006034405",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261006034406.jpg"
-  },
-  {
-    "titulo": "BTS en La Plata !",
-    "fecha": "2026-10-21 20:00:00",
-    "lugar": "Estadio Único Diego Armando Maradona",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/bts-en-la-plata-estadio-unico-diego-armando-maradona-20260705025311",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260705025312.jpg"
-  },
-  {
-    "titulo": "Invasión (Dir. Hugo Santiago)",
-    "fecha": "2026-10-21 20:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/invasion-dir-hugo-santiago-cine-select-espacio-incaa-20261015235222",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015235223.jpg"
-  },
-  {
     "titulo": "¿Qué se produce hoy en La Plata?",
     "fecha": "2026-10-22 14:00:00",
     "lugar": "Facultad de Artes - Sede Fonseca",
@@ -250,6 +60,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261008031857.jpg"
   },
   {
+    "titulo": "Orquesta Sinfónica Municipal de Florencio Varela",
+    "fecha": "2026-10-22 19:30:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/orquesta-sinfonica-municipal-de-florencio-varela-teatro-argentino-centro-provincial-de-las-artes-20261020174814",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020174815.jpg"
+  },
+  {
+    "titulo": "Misa Telúrica",
+    "fecha": "2026-10-22 20:00:00",
+    "lugar": "Mush Room",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/misa-telurica-mush-room-20261020171458",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020171459.jpg"
+  },
+  {
     "titulo": "Pesadilla en la Calle Elm StreetDir. Wes Craven (1984)",
     "fecha": "2026-10-22 20:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -268,6 +98,16 @@
     "url": "https://agendalaplata.ar/evento/m-el-vampiro-de-dusseldorf-el-medio-aljibe-20260929020452",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260929020453.jpg"
+  },
+  {
+    "titulo": "La Folklorosa",
+    "fecha": "2026-10-22 20:30:00",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-folklorosa-la-culturosa-20261020173618",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020173619.jpg"
   },
   {
     "titulo": "Breakfast at Tiffany's (Dir. Blake Edwards)",
@@ -340,14 +180,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261016004824.jpg"
   },
   {
-    "titulo": "Sorbo - Festival de bebidas",
+    "titulo": "Lost Highway [Carretera perdida] (David Lynch, 1997)",
     "fecha": "2026-10-23 19:00:00",
-    "lugar": "Frawens La Plata Boutique Eventos",
+    "lugar": "Espacio Satélite",
     "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/sorbo-festival-de-bebidas-frawens-la-plata-boutique-eventos-20261003201247",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/lost-highway-carretera-perdida-david-lynch-1997-espacio-satelite-20260930024333",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261003201248.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260930024334.jpg"
   },
   {
     "titulo": "Javiera Mena en Data Música",
@@ -360,14 +200,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261018214733.jpg"
   },
   {
-    "titulo": "Lost Highway [Carretera perdida] (David Lynch, 1997)",
+    "titulo": "Sorbo - Festival de bebidas",
     "fecha": "2026-10-23 19:00:00",
-    "lugar": "Espacio Satélite",
+    "lugar": "Frawens La Plata Boutique Eventos",
     "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/lost-highway-carretera-perdida-david-lynch-1997-espacio-satelite-20260930024333",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/sorbo-festival-de-bebidas-frawens-la-plata-boutique-eventos-20261003201247",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260930024334.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261003201248.jpg"
   },
   {
     "titulo": "FESTICALP - Ramón Vázquez (Dir. Gustavo Fontán)",
@@ -380,6 +220,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261015184102.jpg"
   },
   {
+    "titulo": "FESTICALP - Introducción a la catástrofe (Dir. Priya Govinda)",
+    "fecha": "2026-10-23 20:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/festicalp-introduccion-a-la-catastrofe-dir-priya-govinda-cine-club-proyecciones-terrestres-20261015161713",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261015161714.jpg"
+  },
+  {
     "titulo": "La pata de fray + Flor Urruttia + Los Poetas de la Modernidad",
     "fecha": "2026-10-23 20:00:00",
     "lugar": "Mush Room",
@@ -390,14 +240,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261015202806.jpg"
   },
   {
-    "titulo": "FESTICALP - Introducción a la catástrofe (Dir. Priya Govinda)",
+    "titulo": "Peña en el Olga",
     "fecha": "2026-10-23 20:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
+    "lugar": "Olga Vázquez",
     "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/festicalp-introduccion-a-la-catastrofe-dir-priya-govinda-cine-club-proyecciones-terrestres-20261015161713",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/pena-en-el-olga-olga-vazquez-20261020171333",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015161714.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261020171334.jpg"
   },
   {
     "titulo": "BTS en La Plata !",
@@ -410,14 +260,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260705025312.jpg"
   },
   {
-    "titulo": "Peña Cumpleañera - Radio Trinchera",
+    "titulo": "Liga de improvisadores",
     "fecha": "2026-10-23 20:30:00",
-    "lugar": "Comunidad Ferroviaria",
+    "lugar": "Espacio Sudaka",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/pena-cumpleanera-radio-trinchera-comunidad-ferroviaria-20261015203929",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/liga-de-improvisadores-espacio-sudaka-20261021113220",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015203930.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261021113221.jpg"
   },
   {
     "titulo": "Terapia",
@@ -428,6 +278,16 @@
     "url": "https://agendalaplata.ar/evento/terapia-teatro-el-catrin-y-la-catrina-20261014035606",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261014035607.jpg"
+  },
+  {
+    "titulo": "Peña Cumpleañera - Radio Trinchera",
+    "fecha": "2026-10-23 20:30:00",
+    "lugar": "Comunidad Ferroviaria",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/pena-cumpleanera-radio-trinchera-comunidad-ferroviaria-20261015203929",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261015203930.jpg"
   },
   {
     "titulo": "Orquesta Típica Fernández Fierro",
@@ -468,6 +328,16 @@
     "url": "https://agendalaplata.ar/evento/matchloween-sala-420-20261019024314",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261019024315.jpg"
+  },
+  {
+    "titulo": "Physical Graffiti",
+    "fecha": "2026-10-23 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/physical-graffiti-espacio-live-20261020164411",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020164412.jpg"
   },
   {
     "titulo": "Huéspedes. Un día ya no se oyó ningún ruido",
@@ -530,9 +400,19 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260919133958.jpg"
   },
   {
+    "titulo": "Caminando sobre gliptodontes y tigres dientes de sable",
+    "fecha": "2026-10-24 14:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/caminando-sobre-gliptodontes-y-tigres-dientes-de-sable-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20261021133740",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261021133741.jpg"
+  },
+  {
     "titulo": "Festival Habitante Vol.4",
     "fecha": "2026-10-24 15:00:00",
-    "lugar": "Espacio Beirut",
+    "lugar": "Domingo Casa Cultural",
     "direccion": "",
     "categoria": "otros",
     "url": "https://agendalaplata.ar/evento/festival-habitante-vol-4-espacio-beirut-20261009015403",
@@ -560,16 +440,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261008030440.jpg"
   },
   {
-    "titulo": "Festi Mari",
-    "fecha": "2026-10-24 17:00:00",
-    "lugar": "Marimacha",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/festi-mari-marimacha-20261009022652",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261009022653.jpg"
-  },
-  {
     "titulo": "Charly en familia",
     "fecha": "2026-10-24 17:00:00",
     "lugar": "Casa Metro",
@@ -590,6 +460,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261003232823.jpg"
   },
   {
+    "titulo": "Festi Mari",
+    "fecha": "2026-10-24 17:00:00",
+    "lugar": "Marimacha",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/festi-mari-marimacha-20261009022652",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261009022653.jpg"
+  },
+  {
     "titulo": "F2F - Face To Face a cielo abierto",
     "fecha": "2026-10-24 18:00:00",
     "lugar": "Teatro Argentino - Centro Provincial de las Artes",
@@ -598,6 +478,26 @@
     "url": "https://agendalaplata.ar/evento/f2f-face-to-face-a-cielo-abierto-teatro-argentino-centro-provincial-de-las-artes-20261009010627",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261009010628.jpg"
+  },
+  {
+    "titulo": "Orquesta María Remedios del Valle",
+    "fecha": "2026-10-24 18:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/orquesta-maria-remedios-del-valle-teatro-argentino-centro-provincial-de-las-artes-20261020174646",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020174647.jpg"
+  },
+  {
+    "titulo": "Cata de Whisky, Ron y Caribe",
+    "fecha": "2026-10-24 19:00:00",
+    "lugar": "Botánica Tienda & Café",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/cata-de-whisky-ron-y-caribe-botanica-tienda-cafe-20261008032009",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261008032010.jpg"
   },
   {
     "titulo": "Sorbo - Festival de bebidas",
@@ -620,14 +520,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260922023033.jpg"
   },
   {
-    "titulo": "Cata de Whisky, Ron y Caribe",
-    "fecha": "2026-10-24 19:00:00",
-    "lugar": "Botánica Tienda & Café",
+    "titulo": "Solanito",
+    "fecha": "2026-10-24 19:30:00",
+    "lugar": "Olga Vázquez",
     "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/cata-de-whisky-ron-y-caribe-botanica-tienda-cafe-20261008032009",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/solanito-olga-vazquez-20261020171217",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261008032010.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261020171218.jpg"
   },
   {
     "titulo": "Fakeland S.A.",
@@ -650,14 +550,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260827000222.jpg"
   },
   {
-    "titulo": "Vivalto da Camera",
+    "titulo": "Música sin fronteras - Klapa • Beeuwsaert • Silva",
     "fecha": "2026-10-24 20:00:00",
-    "lugar": "Teatro de Cámara City Bell",
+    "lugar": "Desafinado Club",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/vivalto-da-camera-teatro-de-camara-city-bell-20261015195356",
+    "url": "https://agendalaplata.ar/evento/musica-sin-fronteras-klapa-beeuwsaert-silva-desafinado-club-20260916233446",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015195357.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260916233447.jpg"
   },
   {
     "titulo": "FESTICALP - Ramón Vázquez (Dir. Gustavo Fontán)",
@@ -670,6 +570,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261015184316.jpg"
   },
   {
+    "titulo": "Vivalto da Camera",
+    "fecha": "2026-10-24 20:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/vivalto-da-camera-teatro-de-camara-city-bell-20261015195356",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261015195357.jpg"
+  },
+  {
+    "titulo": "Caterbondi: Un otro que también soy",
+    "fecha": "2026-10-24 20:00:00",
+    "lugar": "El Galpón de La Caterva",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/caterbondi-un-otro-que-tambien-soy-el-galpon-de-la-caterva-20261020171758",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020171759.jpg"
+  },
+  {
     "titulo": "3 años sin Iorio",
     "fecha": "2026-10-24 20:00:00",
     "lugar": "Casa Unclan",
@@ -678,16 +598,6 @@
     "url": "https://agendalaplata.ar/evento/3-anos-sin-iorio-casa-unclan-20260927014903",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260927014904.jpg"
-  },
-  {
-    "titulo": "Música sin fronteras - Klapa • Beeuwsaert • Silva",
-    "fecha": "2026-10-24 20:00:00",
-    "lugar": "Desafinado Club",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/musica-sin-fronteras-klapa-beeuwsaert-silva-desafinado-club-20260916233446",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260916233447.jpg"
   },
   {
     "titulo": "BTS en La Plata !",
@@ -700,16 +610,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260705025312.jpg"
   },
   {
-    "titulo": "FESTICALP - Weser (Dir. Fernando Spiner)",
-    "fecha": "2026-10-24 20:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/festicalp-weser-dir-fernando-spiner-cine-select-espacio-incaa-20261015185801",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015185802.jpg"
-  },
-  {
     "titulo": "La Ferretería Quinteto (Jazz latin fusión) y Maite Urbiztondo",
     "fecha": "2026-10-24 20:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -718,6 +618,16 @@
     "url": "https://agendalaplata.ar/evento/la-ferreteria-quinteto-jazz-latin-fusion-y-maite-urbiztondo-cine-select-espacio-incaa-20261015034244",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261015034245.jpg"
+  },
+  {
+    "titulo": "FESTICALP - Weser (Dir. Fernando Spiner)",
+    "fecha": "2026-10-24 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/festicalp-weser-dir-fernando-spiner-cine-select-espacio-incaa-20261015185801",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261015185802.jpg"
   },
   {
     "titulo": "Volcada",
@@ -750,14 +660,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261015153217.jpg"
   },
   {
-    "titulo": "Crimen y Castigo",
+    "titulo": "Maybe",
     "fecha": "2026-10-24 21:00:00",
-    "lugar": "Teatro El Escape",
+    "lugar": "Área Chica",
     "direccion": "",
     "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/crimen-y-castigo-teatro-el-escape-20261001020233",
+    "url": "https://agendalaplata.ar/evento/maybe-area-chica-20261016003633",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261001020234.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261016003634.jpg"
   },
   {
     "titulo": "Bajo la tormenta",
@@ -770,14 +680,24 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261002190638.jpg"
   },
   {
-    "titulo": "Maybe",
+    "titulo": "Canciones para naufragio: 40 años de oktubre",
     "fecha": "2026-10-24 21:00:00",
-    "lugar": "Área Chica",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/canciones-para-naufragio-40-anos-de-oktubre-la-culturosa-20261020173355",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020173356.jpg"
+  },
+  {
+    "titulo": "Crimen y Castigo",
+    "fecha": "2026-10-24 21:00:00",
+    "lugar": "Teatro El Escape",
     "direccion": "",
     "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/maybe-area-chica-20261016003633",
+    "url": "https://agendalaplata.ar/evento/crimen-y-castigo-teatro-el-escape-20261001020233",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261016003634.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261001020234.jpg"
   },
   {
     "titulo": "Los Guarros",
@@ -820,16 +740,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260620004624.jpg"
   },
   {
-    "titulo": "La gravedad de lo incierto",
-    "fecha": "2026-10-24 21:30:00",
-    "lugar": "Teatro Estudio",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/la-gravedad-de-lo-incierto-teatro-estudio-20261018214308",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261018214309.jpg"
-  },
-  {
     "titulo": "Escrito en la piel",
     "fecha": "2026-10-24 21:30:00",
     "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
@@ -838,6 +748,16 @@
     "url": "https://agendalaplata.ar/evento/escrito-en-la-piel-viejo-almacen-el-obrero-cantina-del-obrero-20260929021812",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260929021813.jpg"
+  },
+  {
+    "titulo": "La gravedad de lo incierto",
+    "fecha": "2026-10-24 21:30:00",
+    "lugar": "Teatro Estudio",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-gravedad-de-lo-incierto-teatro-estudio-20261018214308",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261018214309.jpg"
   },
   {
     "titulo": "BTS - ArmyFest",
@@ -890,14 +810,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260919133958.jpg"
   },
   {
-    "titulo": "La espera (2026) Dir. Darío Doria",
-    "fecha": "2026-10-25 18:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
+    "titulo": "Orquesta Estable del Argentino",
+    "fecha": "2026-10-25 17:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
     "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-espera-2026-dir-dario-doria-cine-club-proyecciones-terrestres-20261015202037",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/orquesta-estable-del-argentino-teatro-argentino-centro-provincial-de-las-artes-20261020174503",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015202038.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261020174504.jpg"
   },
   {
     "titulo": "Las fuerzas extrañas (2026) Dir. Santiago Charriere",
@@ -908,6 +828,16 @@
     "url": "https://agendalaplata.ar/evento/las-fuerzas-extranas-2026-dir-santiago-charriere-cine-club-proyecciones-terrestres-20261015201945",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261015201946.jpg"
+  },
+  {
+    "titulo": "La espera (2026) Dir. Darío Doria",
+    "fecha": "2026-10-25 18:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-espera-2026-dir-dario-doria-cine-club-proyecciones-terrestres-20261015202037",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261015202038.jpg"
   },
   {
     "titulo": "La dicha en movimiento - Dir. Maxi Gutiérrez",
@@ -930,14 +860,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261019025454.jpg"
   },
   {
-    "titulo": "Bajo la tormenta",
+    "titulo": "La patrulla espacial",
     "fecha": "2026-10-25 20:00:00",
-    "lugar": "Sala Armando Discépolo",
+    "lugar": "Ciudad de Gatos",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/bajo-la-tormenta-sala-armando-discepolo-20261002190637",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-patrulla-espacial-ciudad-de-gatos-20260922015937",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261002190638.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260922015938.jpg"
   },
   {
     "titulo": "Leti y Bic",
@@ -950,16 +880,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261009014950.jpg"
   },
   {
-    "titulo": "La patrulla espacial",
-    "fecha": "2026-10-25 20:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-patrulla-espacial-ciudad-de-gatos-20260922015937",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260922015938.jpg"
-  },
-  {
     "titulo": "La Revoluta",
     "fecha": "2026-10-25 20:00:00",
     "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
@@ -970,6 +890,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260929022043.jpg"
   },
   {
+    "titulo": "Bajo la tormenta",
+    "fecha": "2026-10-25 20:00:00",
+    "lugar": "Sala Armando Discépolo",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/bajo-la-tormenta-sala-armando-discepolo-20261002190637",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261002190638.jpg"
+  },
+  {
     "titulo": "Studio Ghibli - El increíble Castillo Vagabundo",
     "fecha": "2026-10-26 19:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
@@ -978,6 +908,16 @@
     "url": "https://agendalaplata.ar/evento/studio-ghibli-el-increible-castillo-vagabundo-cine-club-proyecciones-terrestres-20260929014559",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260929014600.jpg"
+  },
+  {
+    "titulo": "The Fisher King (Dir. Terry Gilliam)",
+    "fecha": "2026-10-26 20:30:00",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/the-fisher-king-dir-terry-gilliam-la-culturosa-20261020172726",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020172727.jpg"
   },
   {
     "titulo": "Éramos tan flacos",
@@ -1028,6 +968,16 @@
     "url": "https://agendalaplata.ar/evento/nekromantik-1987-dir-jorg-buttgereit-cine-club-proyecciones-terrestres-20261015185917",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261015185918.jpg"
+  },
+  {
+    "titulo": "La Forrozería",
+    "fecha": "2026-10-27 21:00:00",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/la-forrozeria-la-culturosa-20261020173148",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020173149.jpg"
   },
   {
     "titulo": "La marcha sobre Roma (Dir. Dino Risi)",
@@ -1090,16 +1040,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260929014718.jpg"
   },
   {
-    "titulo": "Play, de Samuel Beckett",
-    "fecha": "2026-10-29 19:30:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/play-de-samuel-beckett-teatro-argentino-centro-provincial-de-las-artes-20261018212425",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261018212426.jpg"
-  },
-  {
     "titulo": "8 1⁄2 (Dir. Federico Fellini)",
     "fecha": "2026-10-29 19:30:00",
     "lugar": "Planetario UNLP",
@@ -1108,6 +1048,16 @@
     "url": "https://agendalaplata.ar/evento/8-1-2-dir-federico-fellini-planetario-unlp-20260917005113",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260917005114.jpg"
+  },
+  {
+    "titulo": "Play, de Samuel Beckett",
+    "fecha": "2026-10-29 19:30:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/play-de-samuel-beckett-teatro-argentino-centro-provincial-de-las-artes-20261018212425",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261018212426.jpg"
   },
   {
     "titulo": "Kevin - Liniers: Eternotour",
@@ -1120,16 +1070,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260905153652.jpg"
   },
   {
-    "titulo": "Mugre + Terrores Nocturnos",
-    "fecha": "2026-10-29 20:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mugre-terrores-nocturnos-ciudad-de-gatos-20261009022350",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261009022351.jpg"
-  },
-  {
     "titulo": "EnRevistaDas: La Revista de Calle 51",
     "fecha": "2026-10-29 20:00:00",
     "lugar": "Pasaje Dardo Rocha",
@@ -1138,6 +1078,16 @@
     "url": "https://agendalaplata.ar/evento/enrevistadas-la-revista-de-calle-51-pasaje-dardo-rocha-20261009005444",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261009005445.jpg"
+  },
+  {
+    "titulo": "Mugre + Terrores Nocturnos",
+    "fecha": "2026-10-29 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/mugre-terrores-nocturnos-ciudad-de-gatos-20261009022350",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261009022351.jpg"
   },
   {
     "titulo": "Moebius Dir. Gustavo Mosquera R.",
@@ -1200,6 +1150,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260908174751.jpg"
   },
   {
+    "titulo": "Stigma - Classic rock & pop covers",
+    "fecha": "2026-10-30 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/stigma-classic-rock-pop-covers-espacio-live-20261020164846",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020164847.jpg"
+  },
+  {
     "titulo": "Reunión cumbre del reggae",
     "fecha": "2026-10-30 21:00:00",
     "lugar": "Azulunala",
@@ -1258,6 +1218,16 @@
     "url": "https://agendalaplata.ar/evento/encuentro-regional-por-la-inclusion-paseo-del-bosque-rene-favaloro-20261013165919",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261013165920.jpg"
+  },
+  {
+    "titulo": "Bingo musical con grandes clásicos de los años 60, 70 y 80",
+    "fecha": "2026-10-31 16:30:00",
+    "lugar": "Museo del Automóvil y Ramos Generales \"Colección Rau\"",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/bingo-musical-con-grandes-clasicos-de-los-anos-60-70-y-80-museo-del-automovil-y-ramos-generales-coleccion-rau-20261020175633",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020175634.jpg"
   },
   {
     "titulo": "Criaturología - Taller de confección de bestiarios",
@@ -1390,16 +1360,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260827013950.jpg"
   },
   {
-    "titulo": "Antonio Birabent",
-    "fecha": "2026-10-31 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/antonio-birabent-casa-suiza-20260914163939",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260914163940.jpg"
-  },
-  {
     "titulo": "Halloween (Dir. John Carpenter - 1978)",
     "fecha": "2026-10-31 21:00:00",
     "lugar": "La Casa Multiespacio",
@@ -1408,6 +1368,16 @@
     "url": "https://agendalaplata.ar/evento/halloween-dir-john-carpenter-1978-la-casa-multiespacio-20261019030828",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261019030829.jpg"
+  },
+  {
+    "titulo": "Antonio Birabent",
+    "fecha": "2026-10-31 21:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/antonio-birabent-casa-suiza-20260914163939",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260914163940.jpg"
   },
   {
     "titulo": "Maybe",
@@ -1440,16 +1410,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260526014950.jpg"
   },
   {
-    "titulo": "La gravedad de lo incierto",
-    "fecha": "2026-10-31 21:30:00",
-    "lugar": "Teatro Estudio",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/la-gravedad-de-lo-incierto-teatro-estudio-20261018214308",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261018214309.jpg"
-  },
-  {
     "titulo": "Escrito en la piel",
     "fecha": "2026-10-31 21:30:00",
     "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
@@ -1458,6 +1418,16 @@
     "url": "https://agendalaplata.ar/evento/escrito-en-la-piel-viejo-almacen-el-obrero-cantina-del-obrero-20260929021812",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260929021813.jpg"
+  },
+  {
+    "titulo": "La gravedad de lo incierto",
+    "fecha": "2026-10-31 21:30:00",
+    "lugar": "Teatro Estudio",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-gravedad-de-lo-incierto-teatro-estudio-20261018214308",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261018214309.jpg"
   },
   {
     "titulo": "Picheo Halloween",
@@ -1520,14 +1490,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261015194454.jpg"
   },
   {
-    "titulo": "Muerde - Luciano Cáceres",
+    "titulo": "El fantasma de la ópera",
     "fecha": "2026-11-01 19:00:00",
-    "lugar": "Sala 420",
+    "lugar": "La Culturosa",
     "direccion": "",
     "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/muerde-luciano-caceres-sala-420-20261013190118",
+    "url": "https://agendalaplata.ar/evento/el-fantasma-de-la-opera-la-culturosa-20261020173305",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261013190119.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261020173306.jpg"
   },
   {
     "titulo": "Mi vida anterior",
@@ -1538,6 +1508,16 @@
     "url": "https://agendalaplata.ar/evento/mi-vida-anterior-teatro-argentino-centro-provincial-de-las-artes-20261015023524",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261015023525.jpg"
+  },
+  {
+    "titulo": "Muerde - Luciano Cáceres",
+    "fecha": "2026-11-01 19:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/muerde-luciano-caceres-sala-420-20261013190118",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261013190119.jpg"
   },
   {
     "titulo": "Círculo Íntimo: ¿cuantos secretos tenes?",
@@ -1610,16 +1590,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260815144959.jpg"
   },
   {
-    "titulo": "Esencia de blues - Ecos de Sarah Vaughan",
-    "fecha": "2026-11-06 20:00:00",
-    "lugar": "Desafinado Club",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/esencia-de-blues-ecos-de-sarah-vaughan-desafinado-club-20261006025846",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261006025847.jpg"
-  },
-  {
     "titulo": "Las horas perdidas (Southland tales, Richard Kelly, 2006)",
     "fecha": "2026-11-06 20:00:00",
     "lugar": "Cine Ecoselect (Espacio INCAA)",
@@ -1628,6 +1598,16 @@
     "url": "https://agendalaplata.ar/evento/las-horas-perdidas-southland-tales-richard-kelly-2006-cine-ecoselect-espacio-incaa-20261015035240",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261015035241.jpg"
+  },
+  {
+    "titulo": "Esencia de blues - Ecos de Sarah Vaughan",
+    "fecha": "2026-11-06 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/esencia-de-blues-ecos-de-sarah-vaughan-desafinado-club-20261006025846",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261006025847.jpg"
   },
   {
     "titulo": "Feria de vinos",
@@ -1650,6 +1630,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260908175132.jpg"
   },
   {
+    "titulo": "Queen + Elton John",
+    "fecha": "2026-11-06 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/queen-elton-john-espacio-live-20261020164738",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020164739.jpg"
+  },
+  {
     "titulo": "Los Espiritus",
     "fecha": "2026-11-07 20:00:00",
     "lugar": "Ciudad de Gatos",
@@ -1658,16 +1648,6 @@
     "url": "https://agendalaplata.ar/evento/los-espiritus-ciudad-de-gatos-20260826142508",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260826142509.jpg"
-  },
-  {
-    "titulo": "Las aventuras del príncipe Achmed, de Lotte Reiniger",
-    "fecha": "2026-11-07 20:00:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/las-aventuras-del-principe-achmed-de-lotte-reiniger-teatro-de-camara-city-bell-20261015194324",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015194325.jpg"
   },
   {
     "titulo": "Cármen Sánchez Viamonte",
@@ -1690,6 +1670,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260914164352.jpg"
   },
   {
+    "titulo": "Las aventuras del príncipe Achmed, de Lotte Reiniger",
+    "fecha": "2026-11-07 20:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/las-aventuras-del-principe-achmed-de-lotte-reiniger-teatro-de-camara-city-bell-20261015194324",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261015194325.jpg"
+  },
+  {
+    "titulo": "La Mississippi",
+    "fecha": "2026-11-07 20:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-mississippi-teatro-rene-favaloro-20261021131304",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261021131305.jpg"
+  },
+  {
     "titulo": "Alorsa Eterno",
     "fecha": "2026-11-07 21:00:00",
     "lugar": "Espacio Doble-T",
@@ -1708,6 +1708,16 @@
     "url": "https://agendalaplata.ar/evento/actuen-teatro-abierto-20260827013949",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260827013950.jpg"
+  },
+  {
+    "titulo": "Fulanas Trío + El Engrupe",
+    "fecha": "2026-11-07 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/fulanas-trio-el-engrupe-espacio-live-20261020164527",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020164528.jpg"
   },
   {
     "titulo": "Natario",
@@ -1730,16 +1740,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261018213614.jpg"
   },
   {
-    "titulo": "Pura cumbia",
-    "fecha": "2026-11-07 23:00:00",
-    "lugar": "Estadio UNO Jorge Luis Hirschi - Estudiantes de la Plata",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/pura-cumbia-estadio-uno-jorge-luis-hirschi-estudiantes-de-la-plata-20261015022511",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015022512.jpg"
-  },
-  {
     "titulo": "Bocanada cumple años",
     "fecha": "2026-11-07 23:00:00",
     "lugar": "El Galpón de las Artes",
@@ -1748,6 +1748,16 @@
     "url": "https://agendalaplata.ar/evento/bocanada-cumple-anos-el-galpon-de-las-artes-20261019031831",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261019031832.jpg"
+  },
+  {
+    "titulo": "Pura cumbia",
+    "fecha": "2026-11-07 23:00:00",
+    "lugar": "Estadio UNO Jorge Luis Hirschi - Estudiantes de la Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/pura-cumbia-estadio-uno-jorge-luis-hirschi-estudiantes-de-la-plata-20261015022511",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261015022512.jpg"
   },
   {
     "titulo": "Edición n°23 Neón Tokyo",
@@ -1830,6 +1840,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260807020200.jpg"
   },
   {
+    "titulo": "La cofradía del Rey Lagarto",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-cofradia-del-rey-lagarto-teatro-rene-favaloro-20261021130600",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261021130601.jpg"
+  },
+  {
     "titulo": "Murgas al galpón",
     "fecha": "2026-11-13 20:30:00",
     "lugar": "Comunidad Ferroviaria",
@@ -1860,6 +1880,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260930032731.jpg"
   },
   {
+    "titulo": "Chic@s de Oro",
+    "fecha": "2026-11-14 20:00:00",
+    "lugar": "Casa Unclan",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/chic-s-de-oro-casa-unclan-20261020194047",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020194048.jpg"
+  },
+  {
     "titulo": "¡Actúen!",
     "fecha": "2026-11-14 21:00:00",
     "lugar": "Teatro Abierto",
@@ -1880,6 +1910,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260429013313.jpg"
   },
   {
+    "titulo": "Fabriquera - Julieta Laso",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/fabriquera-julieta-laso-casa-metro-20260913173514",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913173515.jpg"
+  },
+  {
+    "titulo": "Segunda Mano",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/segunda-mano-espacio-live-20261020164231",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020164232.jpg"
+  },
+  {
     "titulo": "Agustin Dettbarn - Multiverso Dettbarn",
     "fecha": "2026-11-14 21:00:00",
     "lugar": "Casa Suiza",
@@ -1898,16 +1948,6 @@
     "url": "https://agendalaplata.ar/evento/la-chilinga-teatro-opera-20260930032611",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260930032612.jpg"
-  },
-  {
-    "titulo": "Fabriquera - Julieta Laso",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Casa Metro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/fabriquera-julieta-laso-casa-metro-20260913173514",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260913173515.jpg"
   },
   {
     "titulo": "Babasónicos",
@@ -1958,5 +1998,25 @@
     "url": "https://agendalaplata.ar/evento/la-armada-brancaleone-dir-mario-monicelli-teatro-bar-cultural-la-ferreteria-20261012225153",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261012225154.jpg"
+  },
+  {
+    "titulo": "El Trap de la City - Lucho SSJ",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "Teatro Opera",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/el-trap-de-la-city-lucho-ssj-teatro-opera-20260824234053",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260824234054.jpg"
+  },
+  {
+    "titulo": "El Profe Borda",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/el-profe-borda-esquina-america-20261009020205",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261009020206.jpg"
   }
 ]

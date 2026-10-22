@@ -30,12 +30,22 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/26/000280026.jpg"
   },
   {
+    "titulo": "Yuna soy yo",
+    "fecha": "2026-11-07 18:00:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas78122-yuna-soy-yo?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/69/000303069.jpg"
+  },
+  {
     "titulo": "Con las manos atadas",
     "fecha": "2026-11-14 18:00:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra83446-con-las-manos-atadas",
+    "url": "https://publico.alternativateatral.com/entradas83446-con-las-manos-atadas?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/64/000263764.jpg"
   },
@@ -205,7 +215,7 @@
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra100778-roja",
+    "url": "https://publico.alternativateatral.com/entradas100778-roja?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000314138.jpg"
   },
@@ -577,6 +587,6 @@
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra103758-proyecto-10",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/16/000323016.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/55/000323055.jpg"
   }
 ]

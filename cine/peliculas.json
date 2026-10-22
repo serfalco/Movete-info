@@ -235,6 +235,26 @@
     "tmdb_id": 1669841,
     "trailer": ""
   },
+  "buenas vibraciones": {
+    "anio": "2009",
+    "backdrop": null,
+    "director": "Jérémy Clapin",
+    "duracion": 4,
+    "elenco": [],
+    "generos": [
+      "Animación"
+    ],
+    "paises": [
+      "France"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/nlCESoyGL8NtXNMGCkmSDp7Baly.jpg",
+    "score": 6.0,
+    "sinopsis": "",
+    "titulo": "Good Vibrations",
+    "titulo_original": "Good Vibrations",
+    "tmdb_id": 430357,
+    "trailer": ""
+  },
   "cars": {
     "anio": "2006",
     "backdrop": "https://image.tmdb.org/t/p/w780/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
@@ -261,6 +281,32 @@
     "titulo_original": "Cars",
     "tmdb_id": 920,
     "trailer": "https://www.youtube.com/watch?v=8ZMklX5BzTo"
+  },
+  "clayface": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+    "director": "James Watkins",
+    "duracion": 108,
+    "elenco": [
+      "Tom Rhys Harries",
+      "Naomi Ackie",
+      "Eddie Marsan"
+    ],
+    "generos": [
+      "Terror",
+      "Suspense",
+      "Ciencia ficción"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+    "score": 7.4,
+    "sinopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+    "titulo": "Clayface",
+    "titulo_original": "Clayface",
+    "tmdb_id": 1400940,
+    "trailer": "https://www.youtube.com/watch?v=WGOv9Pzh9cE"
   },
   "codigo venganza": {
     "anio": "2002",
@@ -576,6 +622,31 @@
     "tmdb_id": 1666712,
     "trailer": ""
   },
+  "el poder de la red": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "director": "Aaron Sorkin",
+    "duracion": 113,
+    "elenco": [
+      "Mikey Madison",
+      "Jeremy Allen White",
+      "Jeremy Strong"
+    ],
+    "generos": [
+      "Drama",
+      "Suspense"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
+    "score": 6.976,
+    "sinopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
+    "titulo": "El Precio de la Red",
+    "titulo_original": "The Social Reckoning",
+    "tmdb_id": 1281331,
+    "trailer": "https://www.youtube.com/watch?v=cNbAPdz04UE"
+  },
   "el ultimo gran golpe": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
@@ -786,6 +857,36 @@
     "titulo_original": "Practical Magic 2",
     "tmdb_id": 1302904,
     "trailer": "https://www.youtube.com/watch?v=UOmntM7mHI8"
+  },
+  "heidi el rescate del lince": {
+    "anio": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8XIMmWRKazYvlKCPDu8BVLlyAi4.jpg",
+    "director": "Toby Schwarz",
+    "duracion": 78,
+    "elenco": [
+      "Lilly Graffam",
+      "Tom Zahner",
+      "Leonardo Lucero"
+    ],
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ],
+    "paises": [
+      "Belgium",
+      "France",
+      "Germany",
+      "Hungary",
+      "Spain"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/64ZfqNxyFGql2Tc83PC3iOuxVQk.jpg",
+    "score": 7.1,
+    "sinopsis": "Heidi se enfrenta a fuerzas superiores para proteger a su abuelo y la naturaleza alpina de un despiadado hombre de negocios y de las hambrientas fauces de su nuevo aserradero.",
+    "titulo": "Heidi. El rescate del lince",
+    "titulo_original": "Heidi - Die Legende vom Luchs",
+    "tmdb_id": 944931,
+    "trailer": "https://www.youtube.com/watch?v=X3PT_diGpJM"
   },
   "hope": {
     "anio": "2026",
@@ -1220,6 +1321,34 @@
     "tmdb_id": 101299,
     "trailer": "https://www.youtube.com/watch?v=0KKwAWsh9TQ"
   },
+  "los otros": {
+    "anio": "2001",
+    "backdrop": "https://image.tmdb.org/t/p/w780/FY0NvzWMeCZeF3xdHIu0GtFHj7.jpg",
+    "director": "Alejandro Amenábar",
+    "duracion": 101,
+    "elenco": [
+      "Nicole Kidman",
+      "Alakina Mann",
+      "James Bentley"
+    ],
+    "generos": [
+      "Terror",
+      "Misterio",
+      "Suspense"
+    ],
+    "paises": [
+      "Spain",
+      "United States of America",
+      "France"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
+    "score": 7.619,
+    "sinopsis": "Grace educa sola a sus hijos en un aislado caserón victoriano bajo estrictas normas religiosas. Los tres nuevos sirvientes deben aprender una regla vital, la casa estará siempre en penumbra y nunca se abrirá una puerta si no se ha cerrado la anterior  porque los niños sufren una extraña alergia a la luz del día.",
+    "titulo": "Los Otros",
+    "titulo_original": "The Others",
+    "tmdb_id": 1933,
+    "trailer": ""
+  },
   "madre siniestra": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
@@ -1459,6 +1588,33 @@
     "titulo_original": "Pepita la pistolera",
     "tmdb_id": 1634739,
     "trailer": ""
+  },
+  "que dios perdona a todos": null,
+  "queres ser mi hijo": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yeM1NQmJJmi0PuEo8CZP9XSKzv1.jpg",
+    "director": "Hernán Guerschuny",
+    "duracion": 98,
+    "elenco": [
+      "Wanda Nara",
+      "Agustín Bernasconi",
+      "Charo López"
+    ],
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "paises": [
+      "Argentina",
+      "Uruguay"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/9LdKQmifSVEZEVmfNY5KOGrG8Oa.jpg",
+    "score": 0.0,
+    "sinopsis": "Lucía, una mujer de 42 años que descubre la infidelidad de su pareja luego de 15 años de relación y debe reordenar su vida personal y laboral. Le pide a su joven vecino que finja ser su hijo para un puesto de trabajo.",
+    "titulo": "¿Querés ser mi hijo?",
+    "titulo_original": "¿Querés ser mi hijo?",
+    "tmdb_id": 1779106,
+    "trailer": "https://www.youtube.com/watch?v=3CqnPGRLaF0"
   },
   "quiero tu sexo": {
     "anio": "2026",
@@ -1782,6 +1938,33 @@
     "titulo_original": "Terminator 2: Judgment Day",
     "tmdb_id": 280,
     "trailer": "https://www.youtube.com/watch?v=VQd38bFMoIg"
+  },
+  "terror en el amazonas": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "director": "Mike P. Nelson",
+    "duracion": 104,
+    "elenco": [
+      "Logan Marshall-Green",
+      "Kiana Madeira",
+      "Jessica Rothe"
+    ],
+    "generos": [
+      "Terror",
+      "Suspense"
+    ],
+    "paises": [
+      "United States of America",
+      "Germany",
+      "Colombia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
+    "score": 5.5,
+    "sinopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
+    "titulo": "Boiuna: La leyenda del Amazonas",
+    "titulo_original": "Beware Boiúna",
+    "tmdb_id": 1244523,
+    "trailer": ""
   },
   "tiempos de ilusion": {
     "anio": "2026",

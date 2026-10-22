@@ -90,7 +90,7 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/964e4f93cdb7e78b3dfdf4b17136838bc33b721b.jpg?1783528810"
   },
   {
-    "titulo": "143LETI?+ BIC?en Guajira LP",
+    "titulo": "143LETI + BIC",
     "fecha": "2026-10-25 20:00:00",
     "lugar": "Guajira",
     "direccion": "Calle 49, 484, La Plata",
@@ -268,6 +268,16 @@
     "url": "https://livepass.com.ar/events/estelares-en-la-sala-ginastera-teatro-argentino-la-plata-2026-12-11-21-00-00-0300",
     "fuente": "livepass",
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/c3671707f2252f9877795b56c5ddc74fa24a8f22.jpg?1792436256"
+  },
+  {
+    "titulo": "EL UNIPERSONAL DE LUCHO MELLERA",
+    "fecha": "2026-12-12 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "teatro",
+    "url": "https://livepass.com.ar/events/el-unipersonal-de-lucho-mellera-en-la-sala-ginastera-teatro-argentino-la-plata",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/d54c6a0243da0216d82ea07b7b7ab75ae162e892.jpg?1792427153"
   },
   {
     "titulo": "TAN BIONICA",
