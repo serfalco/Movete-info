@@ -300,6 +300,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016231650-a8a704c7.webp"
   },
   {
+    "titulo": "Venecia",
+    "fecha": "2026-10-23 22:00:00",
+    "lugar": "Telón Negro Teatro",
+    "direccion": "Av. 13 Nº 26, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/venecia/funcion/la-plata/telon-negro-teatro/23-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261014015623-8435e4d4.webp"
+  },
+  {
     "titulo": "Volcada",
     "fecha": "2026-10-23 21:30:00",
     "lugar": "Espacio 44",

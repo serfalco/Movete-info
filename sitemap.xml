@@ -34,6 +34,7 @@
   <url><loc>https://movete.info/cine/2026-10-01/</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://movete.info/cine/2026-10-08/</loc><lastmod>2026-10-08</lastmod></url>
   <url><loc>https://movete.info/cine/2026-10-15/</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://movete.info/cine/2026-10-22/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-06-18/</loc><lastmod>2026-06-18</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-06-25/</loc><lastmod>2026-06-25</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-07-02/</loc><lastmod>2026-07-02</lastmod></url>
@@ -53,6 +54,11 @@
   <url><loc>https://movete.info/en-vivo/2026-10-08/</loc><lastmod>2026-10-08</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-10-15/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-10-22/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://movete.info/cine/sala/cinema-city/</loc></url>
+  <url><loc>https://movete.info/cine/sala/cinema-ocho/</loc></url>
+  <url><loc>https://movete.info/cine/sala/cinema-paradiso/</loc></url>
+  <url><loc>https://movete.info/cine/sala/cinema-rocha/</loc></url>
+  <url><loc>https://movete.info/cine/sala/cinema-san-martin/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/area-chica/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/azulunala/</loc></url>
   <url><loc>https://movete.info/en-vivo/sala/biblioteca-popular-mafalda-y-libertad/</loc></url>
@@ -151,7 +157,6 @@
   <url><loc>https://movete.info/en-vivo/obra/cantamos-fatal/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/carmen-sanchez-viamonte/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/carolina-peleritti-canciones-que-me-enamoran/</loc></url>
-  <url><loc>https://movete.info/en-vivo/obra/cata-de-gin/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/cata-de-whisky-ron-y-caribe/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/caterbondi-un-otro-que-tambien-soy/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/ceci-hace-y-nahuel-ivorra-te-pido-mil-disculpas/</loc></url>
@@ -163,6 +168,7 @@
   <url><loc>https://movete.info/en-vivo/obra/ciudad-violenta-antropologia-urbana/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/con-las-manos-atadas/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/concierto-en-la-catedral-de-la-plata/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/contando-historias-della-croce-ridilenir-gomez-chavarria/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/copa-c-l-plata-century-21/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/cosmic-kid/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/criaturologia-taller-de-confeccion-de-bestiarios/</loc></url>
@@ -174,7 +180,7 @@
   <url><loc>https://movete.info/en-vivo/obra/dario-orsi-hasta-las-manos/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/data-musica-feria-internacional-de-musica-independiente/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/destino-historias-relatos-de-viajes-reales-y-no-tanto/</loc></url>
-  <url><loc>https://movete.info/en-vivo/obra/dia-de-los-jardines-botanicos/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/diego-frenkel/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/disforia/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/domingueros/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/edicion-n-23-neon-tokyo/</loc></url>
@@ -189,6 +195,8 @@
   <url><loc>https://movete.info/en-vivo/obra/el-principio-de-arquimedes/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/el-profe-borda/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/el-trap-de-la-city-lucho-ssj/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/el-turco-naim/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/el-ultimo-baile/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/el-ultimo-tango-un-crimen-en-2x4/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/el-unipersonal-de-lucho-mellera/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/elena-roger-en-concierto/</loc></url>
@@ -205,6 +213,7 @@
   <url><loc>https://movete.info/en-vivo/obra/esquina-libertad-tributo-a-los-piojos/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/estelares/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/esto-no-da-para-mas-comedia-sobrenaturalista-en-un-acto/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/etiqueta-negra-tributo-a-los-redondos/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/eve-vega-conversatorio-festivales-y-ciclos-en-la-actualidad/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/f2f-face-to-face-a-cielo-abierto/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/fabrica-de-chicas/</loc></url>
@@ -236,12 +245,12 @@
   <url><loc>https://movete.info/en-vivo/obra/la-banda-de-carlitos-y-euge-quevedo/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-biblioteca-perdida/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-calesita-otra-vuelta/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/la-cantante-calva/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-chilinga/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-cofradia-del-rey-lagarto/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-ferreteria-quinteto-jazz-latin-fusion-y-maite-urbiztondo/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-fiaca/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-flauta-magica-de-w-a-mozart/</loc></url>
-  <url><loc>https://movete.info/en-vivo/obra/la-folklorosa/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-forrozeria/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-gravedad-de-lo-incierto/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-industria-del-amo-r/</loc></url>
@@ -254,7 +263,7 @@
   <url><loc>https://movete.info/en-vivo/obra/la-pata-de-fray-flor-urruttia-los-poetas-de-la-modernidad/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-patrulla-espacial/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-revoluta/</loc></url>
-  <url><loc>https://movete.info/en-vivo/obra/la-vela-puerca-las-pelotas/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/la-vela-puerca-las-pelotas-con-barbi-recanati/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/la-visita/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/lady-godiva-la-diva/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/las-del-lirio/</loc></url>
@@ -263,12 +272,12 @@
   <url><loc>https://movete.info/en-vivo/obra/leuvu-madera-mineral-abra-duo/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/liga-de-improvisadores/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/lisandro-aristimuno-experiencia-coral/</loc></url>
-  <url><loc>https://movete.info/en-vivo/obra/litto-nebbia-show-entrevista/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/los-amantes-de-la-casa-azul/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/los-espiritus/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/los-guarros/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/los-sultanes/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/lucas-cordeiro-brasil-festival-timbre-stage-dive/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/lucas-dorado-el-sueno/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/luces-en-el-espejo/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/lucho-ssj/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/luna-sujatovich-e-inbal-comedi/</loc></url>
@@ -278,13 +287,13 @@
   <url><loc>https://movete.info/en-vivo/obra/matchloween/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/maybe/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/mi-vida-anterior/</loc></url>
-  <url><loc>https://movete.info/en-vivo/obra/misa-telurica/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/muerde/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/muestra-del-taller-del-match-de-improvisacion/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/mugre-terrores-nocturnos/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/murgas-al-galpon/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/musica-sin-fronteras-klapa-beeuwsaert-silva/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/nanutria-opiniones-varias-stand-up-comedy/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/narices-negras/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/natario/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/ni-media-palabra/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/nico-de-tracy-purga/</loc></url>
@@ -293,7 +302,6 @@
   <url><loc>https://movete.info/en-vivo/obra/nosotras-dos/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/orquesta-estable-del-argentino/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/orquesta-maria-remedios-del-valle/</loc></url>
-  <url><loc>https://movete.info/en-vivo/obra/orquesta-sinfonica-municipal-de-florencio-varela/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/orquesta-tipica-fernandez-fierro/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/otra-estupida-razon-para-no-morir-en-otono/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/pablo-fabregas-inestable/</loc></url>
@@ -315,10 +323,10 @@
   <url><loc>https://movete.info/en-vivo/obra/proyecto-10/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/pulse-pink-floyd-selections-en-espacio-live/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/pura-cumbia/</loc></url>
-  <url><loc>https://movete.info/en-vivo/obra/que-se-produce-hoy-en-la-plata/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/queen-elton-john/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/recreando-el-disco-oktubre/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/reunion-cumbre-del-reggae/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/roberto-antier/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/roja/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/rosaura-alle-dieci/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/segunda-mano/</loc></url>
@@ -337,11 +345,11 @@
   <url><loc>https://movete.info/en-vivo/obra/taller-de-filtrados-de-cafe/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/tan-bionica/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/tango-para-tres/</loc></url>
+  <url><loc>https://movete.info/en-vivo/obra/tangos-redondos/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/terapia/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/the-jazz-room-un-viaje-al-corazon-de-nueva-orleans/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/todo-heroes-del-silencio-bunbury-x-ave-rapaz-en-espacio-live/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/tukera/</loc></url>
-  <url><loc>https://movete.info/en-vivo/obra/turco-naim-un-turco-suelto/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/un-poco-de-ruido/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/una-jornada-satanica/</loc></url>
   <url><loc>https://movete.info/en-vivo/obra/valeria-lynch/</loc></url>
