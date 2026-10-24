@@ -54,7 +54,7 @@ jobs:
 
       - name: Instalar dependencias de En vivo
         working-directory: movete-scraper
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt Pillow  # Pillow: copias livianas de imagenes
 
       - name: Instalar dependencias de Cine
         working-directory: movete-cine
