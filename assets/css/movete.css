@@ -391,6 +391,13 @@ p {
   justify-self: end;
 }
 
+.sponsor-card > .sponsor-sublink {
+  grid-column: 1;
+  margin-top: 6px;
+  font-size: .85rem;
+  font-weight: 600;
+}
+
 .movida-intro {
   color: var(--muted);
   margin-top: 32px;
