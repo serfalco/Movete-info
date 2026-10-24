@@ -48,7 +48,7 @@ jobs:
 
       - name: Instalar dependencias del scraper
         working-directory: movete-scraper
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt Pillow  # Pillow: copias livianas de imagenes
 
       - name: Calcular el proximo jueves
         id: jueves
