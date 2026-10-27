@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "TE PIDO MIL DISCULPAS.",
-    "fecha": "2026-10-24 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9819/te-pido-mil-disculpas",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3245.jpeg"
-  },
-  {
-    "titulo": "TANGO PARA TRES",
-    "fecha": "2026-10-25 20:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.plateaunotickets.com/obra/9704/tango-para-tres",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3167.jpeg"
-  },
-  {
     "titulo": "JULIAN BELLESE STAND UP COMEDY",
     "fecha": "2026-10-30 21:00:00",
     "lugar": "Metro",
@@ -110,8 +90,18 @@
     "imagen": "https://ventas.plateaunotickets.com/img/obras/2474.jpeg"
   },
   {
+    "titulo": "G Y T GUYOT Y TOTH",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10019/g-y-t-guyot-y-toth",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3383.jpeg"
+  },
+  {
     "titulo": "COPA C. L PLATA CENTURY 21..",
-    "fecha": "2026-11-28 15:00:00",
+    "fecha": "2026-11-28 11:00:00",
     "lugar": "Universitario",
     "direccion": "",
     "categoria": "otros",

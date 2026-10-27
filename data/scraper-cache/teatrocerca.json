@@ -40,32 +40,22 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260907235800-1f220ace.webp"
   },
   {
-    "titulo": "Crimen y castigo",
-    "fecha": "2026-10-24 20:00:00",
-    "lugar": "Teatro El Escape",
-    "direccion": "Calle 44 Nº 1443, La Plata",
+    "titulo": "Criminal",
+    "fecha": "2026-11-14 20:00:00",
+    "lugar": "Telón Negro Teatro",
+    "direccion": "Av. 13 Nº 26, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/crimen-y-castigo/funcion/la-plata/teatro-el-escape/24-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/criminal-obra/funcion/la-plata/telon-negro-teatro/14-noviembre-2026",
     "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908005924-41a28aaf.webp"
-  },
-  {
-    "titulo": "Cronopios X cronopios 2",
-    "fecha": "2026-10-24 20:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "Calle 40 Nº 1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/cronopios-x-cronopios-2/funcion/la-plata/escenario-40/24-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261021195722-5ee019b9.webp"
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260924011015-e77c7a68.webp"
   },
   {
     "titulo": "Cuando la esperanza no alcanza",
-    "fecha": "2026-10-23 21:00:00",
+    "fecha": "2026-10-30 21:00:00",
     "lugar": "Teatro El Escape",
     "direccion": "Calle 44 Nº 1443, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/cuando-la-esperanza-no-alcanza/funcion/la-plata/teatro-el-escape/23-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/cuando-la-esperanza-no-alcanza/funcion/la-plata/teatro-el-escape/30-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908002828-cfaacb58.webp"
   },
@@ -90,42 +80,32 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260702230320-640730c9.webp"
   },
   {
-    "titulo": "El almacén de los ecos",
-    "fecha": "2026-10-25 20:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "Calle 38 entre 20 y 21, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/el-almacen-de-los-ecos/funcion/la-plata/teatro-abierto/25-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908002501-5c55b9dd.webp"
-  },
-  {
     "titulo": "El principio de Arquímedes",
-    "fecha": "2026-10-23 21:00:00",
+    "fecha": "2026-10-30 21:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/el-principio-de-arquimedes-la-plata-obra/funcion/la-plata/teatro-abierto/23-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/el-principio-de-arquimedes-la-plata-obra/funcion/la-plata/teatro-abierto/30-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260826165951-64fba3bf.webp"
   },
   {
     "titulo": "Escrito en la piel",
-    "fecha": "2026-10-24 21:30:00",
+    "fecha": "2026-10-31 21:30:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/24-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/31-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930051440-d15db00b.webp"
   },
   {
     "titulo": "Fakeland S.A.",
-    "fecha": "2026-10-24 19:30:00",
+    "fecha": "2026-10-31 19:30:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/fakeland-s-a/funcion/la-plata/viejo-almacen-el-obrero/24-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/fakeland-s-a/funcion/la-plata/viejo-almacen-el-obrero/31-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261006042614-7b43899a.webp"
   },
@@ -138,16 +118,6 @@
     "url": "https://teatrocerca.com.ar/obra/habitacion-macbeth/funcion/la-plata/teatro-metro-la-plata/6-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260618032349-e5ebd622.webp"
-  },
-  {
-    "titulo": "Huespedes: Un día ya no se oyó ningún ruido",
-    "fecha": "2026-10-23 21:00:00",
-    "lugar": "Estudio 71",
-    "direccion": "Calle 71 Nº 576, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/huespedes-un-dia-ya-no-se-oyo-ningun-ruido/funcion/la-plata/estudio-71/23-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260924005306-8cffa154.webp"
   },
   {
     "titulo": "Juampi Gonzalez: Oveja Negra",
@@ -191,21 +161,21 @@
   },
   {
     "titulo": "La gravedad de lo incierto",
-    "fecha": "2026-10-24 21:30:00",
+    "fecha": "2026-10-31 21:30:00",
     "lugar": "Teatro Estudio",
     "direccion": "Calle 3 Nº 386, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-gravedad-de-lo-incierto/funcion/la-plata/teatro-estudio/24-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/la-gravedad-de-lo-incierto/funcion/la-plata/teatro-estudio/31-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260826171617-50d767ae.webp"
   },
   {
     "titulo": "La Nona del Teatro UNLP",
-    "fecha": "2026-10-24 21:00:00",
+    "fecha": "2026-10-31 21:00:00",
     "lugar": "Teatro de la UNLP",
     "direccion": "Calle 10 Nº 1076, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-nona-del-teatro-unlp/funcion/la-plata/teatro-de-la-unlp/24-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/la-nona-del-teatro-unlp/funcion/la-plata/teatro-de-la-unlp/31-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260819131718-c4fc4565.webp"
   },
@@ -270,26 +240,6 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261014015833-ea36bb2b.webp"
   },
   {
-    "titulo": "No te vayas con amor o sin él",
-    "fecha": "2026-10-23 21:00:00",
-    "lugar": "La Mercería Teatro",
-    "direccion": "Av. 1 Nº 210, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/no-te-vayas-con-amor-o-sin-el/funcion/la-plata/la-merceria-teatro/23-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260830003250-e258b9cb.webp"
-  },
-  {
-    "titulo": "Patsía: mis diálogos con él",
-    "fecha": "2026-10-25 20:00:00",
-    "lugar": "La Mercería Teatro",
-    "direccion": "Av. 1 Nº 210, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/patsia-mis-dialogos-con-el/funcion/la-plata/la-merceria-teatro/25-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/assets/img-placeholder.php?title=Pats%C3%ADa%3A+mis+di%C3%A1logos+con+%C3%A9l"
-  },
-  {
     "titulo": "Una Jornada Satánica",
     "fecha": "2026-11-07 21:00:00",
     "lugar": "Teatro El Escape",
@@ -300,22 +250,12 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016231650-a8a704c7.webp"
   },
   {
-    "titulo": "Venecia",
-    "fecha": "2026-10-23 22:00:00",
-    "lugar": "Telón Negro Teatro",
-    "direccion": "Av. 13 Nº 26, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/venecia/funcion/la-plata/telon-negro-teatro/23-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261014015623-8435e4d4.webp"
-  },
-  {
     "titulo": "Volcada",
-    "fecha": "2026-10-23 21:30:00",
+    "fecha": "2026-10-30 21:30:00",
     "lugar": "Espacio 44",
     "direccion": "Av. 44 N° 496, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/volcada-obra/funcion/la-plata/espacio-44/23-octubre-2026",
+    "url": "https://teatrocerca.com.ar/obra/volcada-obra/funcion/la-plata/espacio-44/30-octubre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908010759-f8d17a5a.webp"
   },
@@ -328,16 +268,6 @@
     "url": "https://teatrocerca.com.ar/obra/connie-ballarini-tour-2026/funcion/la-plata/teatro-municipal-coliseo-podesta/14-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260808230420-137a0468.webp"
-  },
-  {
-    "titulo": "Dario Orsi: Hasta las manos",
-    "fecha": "2026-10-24 20:00:00",
-    "lugar": "Teatro La Nonna",
-    "direccion": "Calle 47 Nº 395, La Plata",
-    "categoria": "stand-up",
-    "url": "https://teatrocerca.com.ar/obra/dario-orsi-hasta-las-manos/funcion/la-plata/teatro-la-nonna/24-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260805171520-e37e2772.webp"
   },
   {
     "titulo": "Julián Bellese: Standup Comedy",
@@ -358,16 +288,6 @@
     "url": "https://teatrocerca.com.ar/obra/nico-de-tracy-purga/funcion/la-plata/teatro-metro-la-plata/5-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260814035555-3dd14e78.webp"
-  },
-  {
-    "titulo": "Te pido mil disculpas",
-    "fecha": "2026-10-24 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "stand-up",
-    "url": "https://teatrocerca.com.ar/obra/te-pido-mil-disculpas/funcion/la-plata/teatro-metro-la-plata/24-octubre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812035107-330453fe.webp"
   },
   {
     "titulo": "Turco Naim: Un Turco Suelto:",

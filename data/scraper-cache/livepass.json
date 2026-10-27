@@ -60,46 +60,6 @@
     "imagen": ""
   },
   {
-    "titulo": "LA KONGA",
-    "fecha": "2026-10-23 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "LA KONGA",
-    "fecha": "2026-10-23 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/la-konga-en-el-hipodromo-de-la-plata",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/aef1481a3f635a4f6e634c072ea1930575703470.jpg?1787836138"
-  },
-  {
-    "titulo": "ESCALANDRUM",
-    "fecha": "2026-10-24 20:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/escalandrum-en-el-teatro-opera-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/964e4f93cdb7e78b3dfdf4b17136838bc33b721b.jpg?1783528810"
-  },
-  {
-    "titulo": "143LETI + BIC",
-    "fecha": "2026-10-25 20:00:00",
-    "lugar": "Guajira",
-    "direccion": "Calle 49, 484, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/143leti-bic-en-guajira-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/295f5221c2d4983fccc0231363d6aa9c85ed8b9d.jpeg?1789490538"
-  },
-  {
     "titulo": "ALE KURZ",
     "fecha": "2026-10-30 20:00:00",
     "lugar": "Guajira",
@@ -308,5 +268,15 @@
     "url": "https://livepass.com.ar/events/el-mato-a-un-policia-motorizado-en-el-hipodromo-de-la-plata",
     "fuente": "livepass",
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/19549357c924c647d496f1d09804a130c9a21891.jpg?1790787928"
+  },
+  {
+    "titulo": "MARKY RAMONE",
+    "fecha": "2027-05-05 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/marky-ramone-en-el-teatro-opera-lp-2026-05-05",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/289166e3fa0b0d13968d9a399877b45384e2a03f.jpg?1792770200"
   }
 ]
