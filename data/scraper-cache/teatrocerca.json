@@ -40,6 +40,26 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260907235800-1f220ace.webp"
   },
   {
+    "titulo": "Camas Cruzadas",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "Teatro La Nonna",
+    "direccion": "Calle 47 Nº 395, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/camas-cruzadas/funcion/la-plata/teatro-la-nonna/28-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261029035726-a74ff7c7.jpg"
+  },
+  {
+    "titulo": "Campi de gira – Monólogos Argentinos",
+    "fecha": "2026-11-07 21:00:00",
+    "lugar": "Teatro La Nonna",
+    "direccion": "Calle 47 Nº 395, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/campi-de-gira-monologos-argentinos/funcion/la-plata/teatro-la-nonna/7-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260728154439-e1cf51e4.webp"
+  },
+  {
     "titulo": "Criminal",
     "fecha": "2026-11-14 20:00:00",
     "lugar": "Telón Negro Teatro",
@@ -110,6 +130,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261006042614-7b43899a.webp"
   },
   {
+    "titulo": "Frida, viva la vida!",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Teatro La Nonna",
+    "direccion": "Calle 47 Nº 395, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/frida-viva-la-vida/funcion/la-plata/teatro-la-nonna/14-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261029035340-f44c31b1.webp"
+  },
+  {
     "titulo": "Habitación Macbeth",
     "fecha": "2026-11-06 21:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -138,6 +168,16 @@
     "url": "https://teatrocerca.com.ar/obra/la-calesita-otra-vuelta/funcion/la-plata/teatro-el-escape/6-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016231856-383787cd.webp"
+  },
+  {
+    "titulo": "La cantante calva",
+    "fecha": "2026-10-30 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "Calle 50 Nº 575, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/la-cantante-calva/funcion/la-plata/pasaje-dardo-rocha/30-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260901073558-a657e47c.webp"
   },
   {
     "titulo": "La cena de los tontos",
@@ -240,6 +280,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261014015833-ea36bb2b.webp"
   },
   {
+    "titulo": "Narices negras",
+    "fecha": "2026-11-01 20:00:00",
+    "lugar": "Viejo Almacén El Obrero",
+    "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/narices-negras/funcion/la-plata/viejo-almacen-el-obrero/1-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261028032045-38f7419b.webp"
+  },
+  {
     "titulo": "Una Jornada Satánica",
     "fecha": "2026-11-07 21:00:00",
     "lugar": "Teatro El Escape",
@@ -270,6 +320,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260808230420-137a0468.webp"
   },
   {
+    "titulo": "El Rotativo Platense - Nuevos Talentos",
+    "fecha": "2026-10-29 21:00:00",
+    "lugar": "Tres Empanadas Comedia",
+    "direccion": "Calle 43 Nº 1349, La Plata",
+    "categoria": "stand-up",
+    "url": "https://teatrocerca.com.ar/obra/el-rotativo-platense-nuevos-talentos/funcion/la-plata/tres-empanadas-comedia-la-plata/29-octubre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/revision/dffa15b73faf6dc250d2bcc7c677790b91d125c2.webp"
+  },
+  {
     "titulo": "Julián Bellese: Standup Comedy",
     "fecha": "2026-10-30 21:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -288,6 +348,16 @@
     "url": "https://teatrocerca.com.ar/obra/nico-de-tracy-purga/funcion/la-plata/teatro-metro-la-plata/5-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260814035555-3dd14e78.webp"
+  },
+  {
+    "titulo": "Pablo Picotto: ¿Quién te conoce?",
+    "fecha": "2026-11-01 20:00:00",
+    "lugar": "Teatro La Nonna",
+    "direccion": "Calle 47 Nº 395, La Plata",
+    "categoria": "stand-up",
+    "url": "https://teatrocerca.com.ar/obra/pablo-picotto-quien-te-conoce/funcion/la-plata/teatro-la-nonna/1-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812030128-10345b79.webp"
   },
   {
     "titulo": "Turco Naim: Un Turco Suelto:",

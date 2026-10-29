@@ -754,6 +754,32 @@
     "tmdb_id": 627661,
     "trailer": ""
   },
+  "estacion zombie": {
+    "anio": "2023",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tqfCPKN92JSXAz5VU33N2yTQef7.jpg",
+    "director": "이수성",
+    "duracion": 81,
+    "elenco": [
+      "지일주",
+      "박지연",
+      "탁트인"
+    ],
+    "generos": [
+      "Terror",
+      "Drama",
+      "Acción"
+    ],
+    "paises": [
+      "South Korea"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/wj2ktqf6hSgZG0MwIrkAarKGRBV.jpg",
+    "score": 5.4,
+    "sinopsis": "Los ciudadanos del lujoso barrio de Gangnam, en Seúl, comienzan a experimentar síntomas inusuales y aterradores, convirtiéndose en criaturas inhumanas, y sólo unos pocos supervivientes tienen la posibilidad de salir con vida.",
+    "titulo": "Gangnam Zombie",
+    "titulo_original": "강남좀비",
+    "tmdb_id": 996525,
+    "trailer": ""
+  },
   "evil dead en llamas": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
@@ -992,6 +1018,32 @@
     "tmdb_id": 1255833,
     "trailer": "https://www.youtube.com/watch?v=5webTf9wplE"
   },
+  "la caja del demonio": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5NO5ZasDjCaRgU1Efmtiv1nwLjq.jpg",
+    "director": "Daniel Stamm",
+    "duracion": 105,
+    "elenco": [
+      "Carla Gugino",
+      "Lou Taylor Pucci",
+      "Katharine Isabelle"
+    ],
+    "generos": [
+      "Terror"
+    ],
+    "paises": [
+      "United States of America",
+      "Canada",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/mS8FN8YtpnzcOeKANWYVOMRRXow.jpg",
+    "score": 6.3,
+    "sinopsis": "Una mujer lo arriesga todo para proteger a su misterioso primo de una fuerza sobrenatural mortal que lo persigue.",
+    "titulo": "Lockbox",
+    "titulo_original": "Lockbox",
+    "tmdb_id": 1500890,
+    "trailer": ""
+  },
   "la casa": {
     "anio": "2026",
     "backdrop": null,
@@ -1014,6 +1066,28 @@
     "titulo": "La casa",
     "titulo_original": "La casa",
     "tmdb_id": 1568759,
+    "trailer": ""
+  },
+  "la cena": {
+    "anio": "2000",
+    "backdrop": null,
+    "director": "Aymar del Amo",
+    "duracion": 14,
+    "elenco": [
+      "Patrícia Bargalló",
+      "Isak Férriz",
+      "Rosalía Martínez"
+    ],
+    "generos": [
+      "Drama"
+    ],
+    "paises": [],
+    "poster": null,
+    "score": 6.0,
+    "sinopsis": "El encuentro de un grupo de amigos alrededor de una cena será quebrado por un hecho inesperado,  que nos desvelará el motivo real de la reunión...",
+    "titulo": "La cena",
+    "titulo_original": "La cena",
+    "tmdb_id": 1314386,
     "trailer": ""
   },
   "la guerra de los ultimos": {
@@ -1589,6 +1663,32 @@
     "tmdb_id": 1634739,
     "trailer": ""
   },
+  "pinocho sin cuerdas": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+    "director": "Rhys Frake-Waterfield",
+    "duracion": 82,
+    "elenco": [
+      "Jude Evan Lloyd",
+      "Cameron Bell",
+      "Richard Brake"
+    ],
+    "generos": [
+      "Terror",
+      "Fantasía",
+      "Misterio"
+    ],
+    "paises": [
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/gdR1YLb7697IQZMdmA1EIJYFm9h.jpg",
+    "score": 6.5,
+    "sinopsis": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+    "titulo": "Pinocho: Desatado",
+    "titulo_original": "Pinocchio: Unstrung",
+    "tmdb_id": 1232569,
+    "trailer": "https://www.youtube.com/watch?v=NPLgD0dNQ8c"
+  },
   "que dios perdona a todos": null,
   "queres ser mi hijo": {
     "anio": "2026",
@@ -1714,6 +1814,32 @@
     "titulo_original": "Scary Movie",
     "tmdb_id": 1273221,
     "trailer": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0"
+  },
+  "sensatez y sentimiento": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+    "director": "Georgia Oakley",
+    "duracion": 131,
+    "elenco": [
+      "Daisy Edgar-Jones",
+      "Esmé Creed-Miles",
+      "Caitríona Balfe"
+    ],
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "paises": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
+    "score": 7.4,
+    "sinopsis": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
+    "titulo": "Sentido y sensibilidad",
+    "titulo_original": "Sense and Sensibility",
+    "tmdb_id": 1503762,
+    "trailer": "https://www.youtube.com/watch?v=GMwdcpKOOyY"
   },
   "sia nostalgia por el presente": null,
   "solo por una noche": {
@@ -1991,6 +2117,35 @@
     "tmdb_id": 1404684,
     "trailer": ""
   },
+  "tierra de mi padre": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zKoBjLggS4v22a9ZiCvmLaZrht7.jpg",
+    "director": "Paweł Pawlikowski",
+    "duracion": 82,
+    "elenco": [
+      "Sandra Hüller",
+      "Hanns Zischler",
+      "August Diehl"
+    ],
+    "generos": [
+      "Drama",
+      "Historia"
+    ],
+    "paises": [
+      "Poland",
+      "Germany",
+      "France",
+      "Italy",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
+    "score": 7.308,
+    "sinopsis": "En 1949, Thomas Mann, premio Nobel de Literatura, regresa por primera vez a Alemania tras el final de la guerra, acompañado por su hija Erika (actriz, escritora y piloto de rallies). A bordo de un Buick negro, emprenden un viaje duro por el país que abandonaron dieciséis años antes, cuando los nazis llegaron al poder. Desde Fráncfort (bajo control estadounidense) hasta Weimar (bajo control soviético), padre e hija atraviesan una Alemania en ruinas, ya partida en dos por la Guerra Fría.",
+    "titulo": "Ojczyzna",
+    "titulo_original": "Ojczyzna",
+    "tmdb_id": 1437696,
+    "trailer": ""
+  },
   "toy story 5": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
@@ -2094,6 +2249,32 @@
     "titulo_original": "Fall 2: Deadpoint",
     "tmdb_id": 1101412,
     "trailer": ""
+  },
+  "wildwood el bosque salvaje": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "director": "Travis Knight",
+    "duracion": 140,
+    "elenco": [
+      "Peyton Elizabeth Lee",
+      "Carey Mulligan",
+      "Jacob Tremblay"
+    ],
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Fantasía"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+    "score": 8.6,
+    "sinopsis": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+    "titulo": "Wildwood: El Bosque Salvaje",
+    "titulo_original": "Wildwood",
+    "tmdb_id": 791523,
+    "trailer": "https://www.youtube.com/watch?v=qWX1ba0f-Qg"
   },
   "yo narciso": {
     "anio": "2026",

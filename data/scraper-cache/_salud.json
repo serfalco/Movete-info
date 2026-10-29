@@ -1,10 +1,10 @@
 {
-  "fecha": "2026-10-27",
-  "total": 249,
+  "fecha": "2026-10-29",
+  "total": 319,
   "por_fuente": {
-    "genda": 171,
+    "genda": 236,
     "livepass": 28,
-    "alternativa": 55,
+    "alternativa": 58,
     "teatro_metro": 17,
     "coliseo": 7,
     "opera": 7,
@@ -12,7 +12,7 @@
     "plateauno": 11,
     "passline": 2,
     "teatrobar": 0,
-    "teatrocerca": 30,
+    "teatrocerca": 37,
     "comunidad": 0
   },
   "estado": {

@@ -1,115 +1,5 @@
 [
   {
-    "titulo": "Halloween - Dir. John Carpenter",
-    "fecha": "2026-10-27 20:00:00",
-    "lugar": "Espacio Rebelión - Casa socialista",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/halloween-dir-john-carpenter-espacio-rebelion-casa-socialista-20261003205319",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261003205320.jpg"
-  },
-  {
-    "titulo": "Corazonada (One From the Heart, Francis Ford Coppola, 1982)",
-    "fecha": "2026-10-27 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/corazonada-one-from-the-heart-francis-ford-coppola-1982-cine-ecoselect-espacio-incaa-20261015035129",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015035130.jpg"
-  },
-  {
-    "titulo": "Harsh Realm (Pilot + Inga Fossa)",
-    "fecha": "2026-10-27 20:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/harsh-realm-pilot-inga-fossa-cine-select-espacio-incaa-20261008020711",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261008020712.jpg"
-  },
-  {
-    "titulo": "La Forrozería",
-    "fecha": "2026-10-27 21:00:00",
-    "lugar": "La Culturosa",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/la-forrozeria-la-culturosa-20261020173148",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261020173149.jpg"
-  },
-  {
-    "titulo": "Nekromantik (1987) Dir. Jörg Buttgereit",
-    "fecha": "2026-10-27 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/nekromantik-1987-dir-jorg-buttgereit-cine-club-proyecciones-terrestres-20261015185917",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015185918.jpg"
-  },
-  {
-    "titulo": "La marcha sobre Roma (Dir. Dino Risi)",
-    "fecha": "2026-10-28 17:30:00",
-    "lugar": "Teatro Bar Cultural La Ferretería",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-marcha-sobre-roma-dir-dino-risi-teatro-bar-cultural-la-ferreteria-20261012224757",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261012224758.jpg"
-  },
-  {
-    "titulo": "¿Sueñan las plantas con poemas?",
-    "fecha": "2026-10-28 18:00:00",
-    "lugar": "Museo Almafuerte",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/suenan-las-plantas-con-poemas-museo-almafuerte-20261019024719",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261019024720.jpg"
-  },
-  {
-    "titulo": "Oktubre",
-    "fecha": "2026-10-28 18:30:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/oktubre-planetario-unlp-20261024025528",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261024025529.jpg"
-  },
-  {
-    "titulo": "Arctic Monkeys - AM",
-    "fecha": "2026-10-28 20:00:00",
-    "lugar": "Bocanada Bar",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/arctic-monkeys-am-bocanada-bar-20261027122848",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261027122849.jpg"
-  },
-  {
-    "titulo": "Mujeres al borde de un ataque de nervios (Dir. Pedro Almodóvar, 1988)",
-    "fecha": "2026-10-28 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/mujeres-al-borde-de-un-ataque-de-nervios-dir-pedro-almodovar-1988-cine-ecoselect-espacio-incaa-20261003232426",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261003232427.jpg"
-  },
-  {
-    "titulo": "Tomates verdes fritos (Dir. Jon Avnet)",
-    "fecha": "2026-10-28 20:00:00",
-    "lugar": "Casa sesentaydos",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/tomates-verdes-fritos-dir-jon-avnet-casa-sesentaydos-20261023130723",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261023130724.jpg"
-  },
-  {
     "titulo": "HAMLET...No quiero morir",
     "fecha": "2026-10-29 15:00:00",
     "lugar": "Escuela de Teatro La Plata",
@@ -130,14 +20,34 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261013151313.jpg"
   },
   {
-    "titulo": "Studio Ghibli - El viento se levanta",
-    "fecha": "2026-10-29 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
+    "titulo": "Susana Rinaldi, libre - Dir. Isabel Marcenaro Bouter",
+    "fecha": "2026-10-29 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/studio-ghibli-el-viento-se-levanta-cine-club-proyecciones-terrestres-20260929014717",
+    "url": "https://agendalaplata.ar/evento/susana-rinaldi-libre-dir-isabel-marcenaro-bouter-cine-ecoselect-espacio-incaa-20261028012405",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260929014718.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261028012406.jpg"
+  },
+  {
+    "titulo": "Revista del Ferrocarril Provincial de Buenos Aires (1926-1937)",
+    "fecha": "2026-10-29 18:00:00",
+    "lugar": "Centro Cultural Estación Provincial",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/revista-del-ferrocarril-provincial-de-buenos-aires-1926-1937-centro-cultural-estacion-provincial-20261028124104",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028124105.jpg"
+  },
+  {
+    "titulo": "Éramos tan flacos - Dir. Carlos Castro",
+    "fecha": "2026-10-29 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/eramos-tan-flacos-dir-carlos-castro-cine-select-espacio-incaa-20261028010508",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028010509.jpg"
   },
   {
     "titulo": "Los colores del tiempo, de Cèdric Klapisch.",
@@ -148,6 +58,26 @@
     "url": "https://agendalaplata.ar/evento/los-colores-del-tiempo-de-cedric-klapisch-teatro-unlp-y-biblioteca-popular-teatral-de-la-plata-alberto-mediza-20261026234614",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261026234615.jpg"
+  },
+  {
+    "titulo": "Violoncello - Muestra de Estudiantes",
+    "fecha": "2026-10-29 19:00:00",
+    "lugar": "Conservatorio de Música Gilardo Gilardi",
+    "direccion": "",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/violoncello-muestra-de-estudiantes-conservatorio-de-musica-gilardo-gilardi-20261028005023",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028005024.jpg"
+  },
+  {
+    "titulo": "Studio Ghibli - El viento se levanta",
+    "fecha": "2026-10-29 19:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/studio-ghibli-el-viento-se-levanta-cine-club-proyecciones-terrestres-20260929014717",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260929014718.jpg"
   },
   {
     "titulo": "8 1⁄2 (Dir. Federico Fellini)",
@@ -180,6 +110,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260905153652.jpg"
   },
   {
+    "titulo": "Eros - Dir. Wong Kar-Wai, Steven Soderbergh, Michelangelo Antonioni",
+    "fecha": "2026-10-29 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/eros-dir-wong-kar-wai-steven-soderbergh-michelangelo-antonioni-cine-ecoselect-espacio-incaa-20261028012546",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028012547.jpg"
+  },
+  {
     "titulo": "Guia t Blues de carrera / Cloro tóxico",
     "fecha": "2026-10-29 20:00:00",
     "lugar": "Blondie Cultural",
@@ -188,16 +128,6 @@
     "url": "https://agendalaplata.ar/evento/guia-t-blues-de-carrera-cloro-toxico-blondie-cultural-20261025235730",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261025235731.jpg"
-  },
-  {
-    "titulo": "EnRevistaDas: La Revista de Calle 51",
-    "fecha": "2026-10-29 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/enrevistadas-la-revista-de-calle-51-pasaje-dardo-rocha-20261009005444",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261009005445.jpg"
   },
   {
     "titulo": "Mugre + Terrores Nocturnos",
@@ -210,14 +140,24 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261009022351.jpg"
   },
   {
-    "titulo": "Stand Up: El Rotativo Platense — Edición Nuevos Talentos",
-    "fecha": "2026-10-29 21:30:00",
-    "lugar": "Tres Empanadas Comedia",
+    "titulo": "EnRevistaDas: La Revista de Calle 51",
+    "fecha": "2026-10-29 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "stand-up",
-    "url": "https://agendalaplata.ar/evento/stand-up-el-rotativo-platense-edicion-nuevos-talentos-tres-empanadas-comedia-20261024212600",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/enrevistadas-la-revista-de-calle-51-pasaje-dardo-rocha-20261009005444",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261024212601.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261009005445.jpg"
+  },
+  {
+    "titulo": "Scream - Dir. Wes Craven",
+    "fecha": "2026-10-29 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/scream-dir-wes-craven-cine-select-espacio-incaa-20261028010650",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028010651.jpg"
   },
   {
     "titulo": "Moebius Dir. Gustavo Mosquera R.",
@@ -230,6 +170,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261003034501.jpg"
   },
   {
+    "titulo": "Stand Up: El Rotativo Platense — Edición Nuevos Talentos",
+    "fecha": "2026-10-29 21:30:00",
+    "lugar": "Tres Empanadas Comedia",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/stand-up-el-rotativo-platense-edicion-nuevos-talentos-tres-empanadas-comedia-20261024212600",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261024212601.jpg"
+  },
+  {
     "titulo": "Desarmar la representación",
     "fecha": "2026-10-30 16:00:00",
     "lugar": "Edificio Karakachoff - Centro de Arte UNLP",
@@ -240,6 +190,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261026233422.jpg"
   },
   {
+    "titulo": "Feria - Espacio fandom",
+    "fecha": "2026-10-30 16:30:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/feria-espacio-fandom-planetario-unlp-20261028145843",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028145844.jpg"
+  },
+  {
+    "titulo": "The channeling - Dir. Maximiliano Contenti",
+    "fecha": "2026-10-30 17:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/the-channeling-dir-maximiliano-contenti-planetario-unlp-20261028124715",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028145400.jpg"
+  },
+  {
     "titulo": "19o Congreso de danzas",
     "fecha": "2026-10-30 18:00:00",
     "lugar": "Espacio de Memoria Comision Provincial por la Memoria ex DIPPBA",
@@ -248,6 +218,36 @@
     "url": "https://agendalaplata.ar/evento/19o-congreso-de-danzas-espacio-de-memoria-comision-provincial-por-la-memoria-ex-dippba-20261019032936",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261019032937.jpg"
+  },
+  {
+    "titulo": "Susana Rinaldi, libre - Dir. Isabel Marcenaro Bouter",
+    "fecha": "2026-10-30 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/susana-rinaldi-libre-dir-isabel-marcenaro-bouter-cine-ecoselect-espacio-incaa-20261028012405",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028012406.jpg"
+  },
+  {
+    "titulo": "La culpa la tiene la imaginación",
+    "fecha": "2026-10-30 18:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-culpa-la-tiene-la-imaginacion-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20261028123524",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028123525.jpg"
+  },
+  {
+    "titulo": "Éramos tan flacos - Dir. Carlos Castro",
+    "fecha": "2026-10-30 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/eramos-tan-flacos-dir-carlos-castro-cine-select-espacio-incaa-20261028010508",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028010509.jpg"
   },
   {
     "titulo": "Ayer creí morir",
@@ -270,6 +270,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261025130012.jpg"
   },
   {
+    "titulo": "Los ojos del abismo - Dir. Daniel de la Vega",
+    "fecha": "2026-10-30 19:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/los-ojos-del-abismo-dir-daniel-de-la-vega-planetario-unlp-20261028124837",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028124838.jpg"
+  },
+  {
+    "titulo": "Encuentro Musical con alumnos y profesores de Facultad de Artes",
+    "fecha": "2026-10-30 19:00:00",
+    "lugar": "Espacio Memoria ex Comisaría 5ta",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/encuentro-musical-con-alumnos-y-profesores-de-facultad-de-artes-espacio-memoria-ex-comisaria-5ta-20261027195810",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261027195811.jpg"
+  },
+  {
     "titulo": "Play, de Samuel Beckett",
     "fecha": "2026-10-30 19:30:00",
     "lugar": "Teatro Argentino - Centro Provincial de las Artes",
@@ -278,26 +298,6 @@
     "url": "https://agendalaplata.ar/evento/play-de-samuel-beckett-teatro-argentino-centro-provincial-de-las-artes-20261018212425",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261018212426.jpg"
-  },
-  {
-    "titulo": "Tangos Redondos",
-    "fecha": "2026-10-30 20:00:00",
-    "lugar": "Desafinado Club",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/tangos-redondos-desafinado-club-20261023130023",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261023130024.jpg"
-  },
-  {
-    "titulo": "La cantante calva",
-    "fecha": "2026-10-30 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/la-cantante-calva-pasaje-dardo-rocha-20261022170000",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261022170001.jpg"
   },
   {
     "titulo": "Juana Rozas",
@@ -310,6 +310,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261019023834.jpg"
   },
   {
+    "titulo": "Ailin en la luna (Dir. Claudia Ruíz) + Malamadre (Dir. Amparo Gonzalez Aguilar)",
+    "fecha": "2026-10-30 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/ailin-en-la-luna-dir-claudia-ruiz-malamadre-dir-amparo-gonzalez-aguilar-cine-ecoselect-espacio-incaa-20261028012808",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028012809.jpg"
+  },
+  {
+    "titulo": "La cantante calva",
+    "fecha": "2026-10-30 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-cantante-calva-pasaje-dardo-rocha-20261022170000",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261022170001.jpg"
+  },
+  {
     "titulo": "Lanzamiento \"WTF Is That\" - Neziel + Come to me + Bjasso",
     "fecha": "2026-10-30 20:00:00",
     "lugar": "Bocanada Bar",
@@ -318,6 +338,16 @@
     "url": "https://agendalaplata.ar/evento/lanzamiento-wtf-is-that-neziel-come-to-me-bjasso-bocanada-bar-20261027123717",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261027123718.jpg"
+  },
+  {
+    "titulo": "Tangos Redondos",
+    "fecha": "2026-10-30 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/tangos-redondos-desafinado-club-20261023130023",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261023130024.jpg"
   },
   {
     "titulo": "Éramos tan flacos",
@@ -340,6 +370,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261025235930.jpg"
   },
   {
+    "titulo": "Una película de Parque Chas",
+    "fecha": "2026-10-30 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/una-pelicula-de-parque-chas-cine-select-espacio-incaa-20261028010756",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028010757.jpg"
+  },
+  {
     "titulo": "Juli Bellese",
     "fecha": "2026-10-30 21:00:00",
     "lugar": "Teatro Metro",
@@ -348,26 +388,6 @@
     "url": "https://agendalaplata.ar/evento/juli-bellese-teatro-metro-20260908174750",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260908174751.jpg"
-  },
-  {
-    "titulo": "Stigma - Classic rock & pop covers",
-    "fecha": "2026-10-30 21:00:00",
-    "lugar": "Espacio Live",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/stigma-classic-rock-pop-covers-espacio-live-20261020164846",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261020164847.jpg"
-  },
-  {
-    "titulo": "¿Querés cantar? - Open mic",
-    "fecha": "2026-10-30 21:00:00",
-    "lugar": "Esquina América",
-    "direccion": "",
-    "categoria": "stand-up",
-    "url": "https://agendalaplata.ar/evento/queres-cantar-open-mic-esquina-america-20261024023605",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261024023606.jpg"
   },
   {
     "titulo": "Noche de clásicos con Esteban “El Cordobés”",
@@ -380,6 +400,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261023180447.jpg"
   },
   {
+    "titulo": "Sierra: El Ábum Mortuorio - Dir. Carlos Ortíz Alarcón",
+    "fecha": "2026-10-30 21:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/sierra-el-abum-mortuorio-dir-carlos-ortiz-alarcon-planetario-unlp-20261028125151",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028125152.jpg"
+  },
+  {
+    "titulo": "¿Querés cantar? - Open mic",
+    "fecha": "2026-10-30 21:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/queres-cantar-open-mic-esquina-america-20261024023605",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261024023606.jpg"
+  },
+  {
     "titulo": "Reunión cumbre del reggae",
     "fecha": "2026-10-30 21:00:00",
     "lugar": "Azulunala",
@@ -388,6 +428,26 @@
     "url": "https://agendalaplata.ar/evento/reunion-cumbre-del-reggae-azulunala-20261001175925",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261001175926.jpg"
+  },
+  {
+    "titulo": "Stigma - Classic rock & pop covers",
+    "fecha": "2026-10-30 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/stigma-classic-rock-pop-covers-espacio-live-20261020164846",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020164847.jpg"
+  },
+  {
+    "titulo": "Epifanía",
+    "fecha": "2026-10-30 21:30:00",
+    "lugar": "Escenario 40",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/epifania-escenario-40-20261028193307",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028193308.jpg"
   },
   {
     "titulo": "Stand Up: Sociedad Platense de Stand Up",
@@ -450,6 +510,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261018213729.jpg"
   },
   {
+    "titulo": "Un trago de infierno - Dir. Pilar Boyle, Mariano Asseff",
+    "fecha": "2026-10-30 23:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/un-trago-de-infierno-dir-pilar-boyle-mariano-asseff-planetario-unlp-20261028125253",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028125254.jpg"
+  },
+  {
     "titulo": "Cantamos fatal",
     "fecha": "2026-10-30 23:55:00",
     "lugar": "Ciudad de Gatos",
@@ -458,16 +528,6 @@
     "url": "https://agendalaplata.ar/evento/cantamos-fatal-ciudad-de-gatos-20260916193403",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260916193404.jpg"
-  },
-  {
-    "titulo": "Encuentro Regional por la Inclusión",
-    "fecha": "2026-10-31 10:00:00",
-    "lugar": "Paseo del Bosque \"René Favaloro\"",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/encuentro-regional-por-la-inclusion-paseo-del-bosque-rene-favaloro-20261013165919",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261013165920.jpg"
   },
   {
     "titulo": "CUGA - Circuito Urbano Gastronómico",
@@ -480,6 +540,56 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261024023116.jpg"
   },
   {
+    "titulo": "Encuentro Regional por la Inclusión",
+    "fecha": "2026-10-31 10:00:00",
+    "lugar": "Paseo del Bosque \"René Favaloro\"",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/encuentro-regional-por-la-inclusion-paseo-del-bosque-rene-favaloro-20261013165919",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261013165920.jpg"
+  },
+  {
+    "titulo": "Feria - Espacio fandom",
+    "fecha": "2026-10-31 14:30:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/feria-espacio-fandom-planetario-unlp-20261028145843",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028145844.jpg"
+  },
+  {
+    "titulo": "Museo encantado",
+    "fecha": "2026-10-31 15:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/museo-encantado-planetario-unlp-20261028150012",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028150013.jpg"
+  },
+  {
+    "titulo": "Covil (Beyond the nest) Dir. Rodrigo Lages",
+    "fecha": "2026-10-31 15:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/covil-beyond-the-nest-dir-rodrigo-lages-planetario-unlp-20261028144252",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028144253.jpg"
+  },
+  {
+    "titulo": "Starfighter: el último guerrero espacial - Dir. Nick Castle",
+    "fecha": "2026-10-31 16:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/starfighter-el-ultimo-guerrero-espacial-dir-nick-castle-planetario-unlp-20261028150149",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028150150.jpg"
+  },
+  {
     "titulo": "Bingo musical con grandes clásicos de los años 60, 70 y 80",
     "fecha": "2026-10-31 16:30:00",
     "lugar": "Museo del Automóvil y Ramos Generales \"Colección Rau\"",
@@ -490,6 +600,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261020175634.jpg"
   },
   {
+    "titulo": "El Principito - Dir. Mark Osborne",
+    "fecha": "2026-10-31 16:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/el-principito-dir-mark-osborne-cine-select-espacio-incaa-20261028011044",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028011045.jpg"
+  },
+  {
     "titulo": "Criaturología - Taller de confección de bestiarios",
     "fecha": "2026-10-31 17:00:00",
     "lugar": "Club de la Pintura",
@@ -498,6 +618,36 @@
     "url": "https://agendalaplata.ar/evento/criaturologia-taller-de-confeccion-de-bestiarios-club-de-la-pintura-20261003232822",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261003232823.jpg"
+  },
+  {
+    "titulo": "La Virgen de la Tosquera - Dir. Javier Lozano",
+    "fecha": "2026-10-31 17:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-virgen-de-la-tosquera-dir-javier-lozano-planetario-unlp-20261028144348",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028144349.jpg"
+  },
+  {
+    "titulo": "Un Mundo Recobrado - Dir. Laura Bondarevsky",
+    "fecha": "2026-10-31 18:00:00",
+    "lugar": "Edificio Karakachoff - Centro de Arte UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/un-mundo-recobrado-dir-laura-bondarevsky-edificio-karakachoff-centro-de-arte-unlp-20261028122506",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028122507.jpg"
+  },
+  {
+    "titulo": "Taller de máscaras",
+    "fecha": "2026-10-31 18:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/taller-de-mascaras-planetario-unlp-20261028150306",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028150307.jpg"
   },
   {
     "titulo": "Concierto en la Catedral de La Plata",
@@ -530,14 +680,34 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260526224521.jpg"
   },
   {
-    "titulo": "Festival de baterias",
-    "fecha": "2026-10-31 19:00:00",
-    "lugar": "Pasaje Dardo Rocha",
+    "titulo": "Éramos tan flacos - Dir. Carlos Castro",
+    "fecha": "2026-10-31 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/festival-de-baterias-pasaje-dardo-rocha-20261015035605",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/eramos-tan-flacos-dir-carlos-castro-cine-select-espacio-incaa-20261028010508",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015035606.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261028010509.jpg"
+  },
+  {
+    "titulo": "Noche de brujas sobre ruedas",
+    "fecha": "2026-10-31 19:00:00",
+    "lugar": "Plaza Moreno",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/noche-de-brujas-sobre-ruedas-plaza-moreno-20261028222054",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028222055.jpg"
+  },
+  {
+    "titulo": "No dejes a los niños solos - Dir. Emilio Portes",
+    "fecha": "2026-10-31 19:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/no-dejes-a-los-ninos-solos-dir-emilio-portes-planetario-unlp-20261028144440",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028144441.jpg"
   },
   {
     "titulo": "Pabloxo",
@@ -550,14 +720,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260914000655.jpg"
   },
   {
-    "titulo": "Fakeland S.A.",
-    "fecha": "2026-10-31 19:30:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "titulo": "Festival de baterias",
+    "fecha": "2026-10-31 19:00:00",
+    "lugar": "Pasaje Dardo Rocha",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/fakeland-s-a-viejo-almacen-el-obrero-cantina-del-obrero-20260929021951",
+    "categoria": "taller",
+    "url": "https://agendalaplata.ar/evento/festival-de-baterias-pasaje-dardo-rocha-20261015035605",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260929021952.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261015035606.jpg"
   },
   {
     "titulo": "Play, de Samuel Beckett",
@@ -570,6 +740,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261018212426.jpg"
   },
   {
+    "titulo": "Fakeland S.A.",
+    "fecha": "2026-10-31 19:30:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/fakeland-s-a-viejo-almacen-el-obrero-cantina-del-obrero-20260929021951",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260929021952.jpg"
+  },
+  {
     "titulo": "Segundo tiempo sexteto",
     "fecha": "2026-10-31 20:00:00",
     "lugar": "Casa Metro",
@@ -578,6 +758,16 @@
     "url": "https://agendalaplata.ar/evento/segundo-tiempo-sexteto-casa-metro-20260831122531",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260831122533.jpg"
+  },
+  {
+    "titulo": "Noche de observación de Saturno",
+    "fecha": "2026-10-31 20:00:00",
+    "lugar": "Facultad de Cs. Astronómicas y Geofísicas - Observatorio de La Plata",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/noche-de-observacion-de-saturno-facultad-de-cs-astronomicas-y-geofisicas-observatorio-de-la-plata-20261028150429",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028150430.jpg"
   },
   {
     "titulo": "Camerata Concertante - Ennio Morricone, Nino Rota y Armando Trovajoli",
@@ -650,14 +840,44 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260921102045.jpg"
   },
   {
-    "titulo": "Halloween (Dir. John Carpenter - 1978)",
+    "titulo": "Juntada monstruosa!",
     "fecha": "2026-10-31 21:00:00",
-    "lugar": "La Casa Multiespacio",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/juntada-monstruosa-planetario-unlp-20261028150552",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028150553.jpg"
+  },
+  {
+    "titulo": "Calle Uno cumple 11 años",
+    "fecha": "2026-10-31 21:00:00",
+    "lugar": "Calle UNO, Casa de Cultura",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/calle-uno-cumple-11-anos-calle-uno-casa-de-cultura-20261027142409",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261027142410.jpg"
+  },
+  {
+    "titulo": "Cantamos a CHARLY",
+    "fecha": "2026-10-31 21:00:00",
+    "lugar": "Casa Cuchá - Asociación Profesional de Músicos (APM)",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/cantamos-a-charly-casa-cucha-asociacion-profesional-de-musicos-apm-20261027144224",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261027144225.jpg"
+  },
+  {
+    "titulo": "Bajo tus pies - Dir. Cristian Bernard",
+    "fecha": "2026-10-31 21:00:00",
+    "lugar": "Planetario UNLP",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/halloween-dir-john-carpenter-1978-la-casa-multiespacio-20261019030828",
+    "url": "https://agendalaplata.ar/evento/bajo-tus-pies-dir-cristian-bernard-planetario-unlp-20261028144550",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261019030829.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261028144551.jpg"
   },
   {
     "titulo": "Antonio Birabent",
@@ -680,6 +900,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261016003634.jpg"
   },
   {
+    "titulo": "Halloween (Dir. John Carpenter - 1978)",
+    "fecha": "2026-10-31 21:00:00",
+    "lugar": "La Casa Multiespacio",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/halloween-dir-john-carpenter-1978-la-casa-multiespacio-20261019030828",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261019030829.jpg"
+  },
+  {
     "titulo": "Fito Páez - Sale el sol tour",
     "fecha": "2026-10-31 21:00:00",
     "lugar": "Estadio Único Diego Armando Maradona",
@@ -688,16 +918,6 @@
     "url": "https://agendalaplata.ar/evento/fito-paez-sale-el-sol-tour-estadio-unico-diego-armando-maradona-20260526014949",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260526014950.jpg"
-  },
-  {
-    "titulo": "El espejo de los deformes",
-    "fecha": "2026-10-31 21:30:00",
-    "lugar": "Casa Hereje",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/el-espejo-de-los-deformes-casa-hereje-20261024025008",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261024025009.jpg"
   },
   {
     "titulo": "Escrito en la piel",
@@ -720,6 +940,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261018214309.jpg"
   },
   {
+    "titulo": "El espejo de los deformes",
+    "fecha": "2026-10-31 21:30:00",
+    "lugar": "Casa Hereje",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/el-espejo-de-los-deformes-casa-hereje-20261024025008",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261024025009.jpg"
+  },
+  {
+    "titulo": "Yndige Mennesker (Adorable Humans) - Dir. Anders Jon, Kasper Juhl, Michael Kunov, Michael Panduro",
+    "fecha": "2026-10-31 23:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/yndige-mennesker-adorable-humans-dir-anders-jon-kasper-juhl-michael-kunov-michael-panduro-planetario-unlp-20261028144644",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028144645.jpg"
+  },
+  {
     "titulo": "Picheo Halloween",
     "fecha": "2026-10-31 23:55:00",
     "lugar": "Estadio UNO Jorge Luis Hirschi - Estudiantes de la Plata",
@@ -740,6 +980,46 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261001013006.jpg"
   },
   {
+    "titulo": "Feria - Espacio fandom",
+    "fecha": "2026-11-01 14:30:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/feria-espacio-fandom-planetario-unlp-20261028145843",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028145844.jpg"
+  },
+  {
+    "titulo": "Museo encantado",
+    "fecha": "2026-11-01 15:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/museo-encantado-planetario-unlp-20261028150012",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028150013.jpg"
+  },
+  {
+    "titulo": "Mitra, apaga la luz para poder ver - Dir. Diego Bellocchio",
+    "fecha": "2026-11-01 15:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/mitra-apaga-la-luz-para-poder-ver-dir-diego-bellocchio-planetario-unlp-20261028144807",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028144808.jpg"
+  },
+  {
+    "titulo": "Los goonies - Dir. Richard Donner",
+    "fecha": "2026-11-01 16:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/los-goonies-dir-richard-donner-planetario-unlp-20261028150702",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028150703.jpg"
+  },
+  {
     "titulo": "Moebius Dir. Gustavo Mosquera R.",
     "fecha": "2026-11-01 17:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
@@ -748,6 +1028,26 @@
     "url": "https://agendalaplata.ar/evento/moebius-dir-gustavo-mosquera-r-cine-club-proyecciones-terrestres-20261003034500",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261003034501.jpg"
+  },
+  {
+    "titulo": "Kuko, Drobček & Raťafák znovu zasahujú (Still Standing, Still Stuffed) - Dir. Juro Šlauka & Andrej Kolenčík",
+    "fecha": "2026-11-01 17:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/kuko-drob-ek-ra-afak-znovu-zasahuju-still-standing-still-stuffed-dir-juro-lauka-andrej-kolen-ik-planetario-unlp-20261028144911",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028144912.jpg"
+  },
+  {
+    "titulo": "Susana Rinaldi, libre - Dir. Isabel Marcenaro Bouter",
+    "fecha": "2026-11-01 17:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/susana-rinaldi-libre-dir-isabel-marcenaro-bouter-cine-ecoselect-espacio-incaa-20261028012405",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028012406.jpg"
   },
   {
     "titulo": "La Flauta Mágica, de W. A. Mozart",
@@ -780,6 +1080,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261015194454.jpg"
   },
   {
+    "titulo": "La casa del minotauro - Dir. Federico Bongiorno",
+    "fecha": "2026-11-01 18:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-casa-del-minotauro-dir-federico-bongiorno-cine-select-espacio-incaa-20261028011236",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028011237.jpg"
+  },
+  {
     "titulo": "Charly Absoluto x REP",
     "fecha": "2026-11-01 18:00:00",
     "lugar": "Veredita Bar",
@@ -790,14 +1100,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261026000437.jpg"
   },
   {
-    "titulo": "El fantasma de la ópera",
-    "fecha": "2026-11-01 19:00:00",
-    "lugar": "La Culturosa",
+    "titulo": "Concurso de cosplay",
+    "fecha": "2026-11-01 18:00:00",
+    "lugar": "Planetario UNLP",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/el-fantasma-de-la-opera-la-culturosa-20261020173305",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/concurso-de-cosplay-planetario-unlp-20261028150753",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261020173306.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261028150754.jpg"
   },
   {
     "titulo": "Muerde - Luciano Cáceres",
@@ -820,6 +1130,56 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261015023525.jpg"
   },
   {
+    "titulo": "El ritual de Lily - Dir. Manu Herrera",
+    "fecha": "2026-11-01 19:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-ritual-de-lily-dir-manu-herrera-planetario-unlp-20261028145006",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028145007.jpg"
+  },
+  {
+    "titulo": "Danza por la identidad",
+    "fecha": "2026-11-01 19:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/danza-por-la-identidad-cine-ecoselect-espacio-incaa-20261028012908",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028012909.jpg"
+  },
+  {
+    "titulo": "El fantasma de la ópera",
+    "fecha": "2026-11-01 19:00:00",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/el-fantasma-de-la-opera-la-culturosa-20261020173305",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020173306.jpg"
+  },
+  {
+    "titulo": "Noche de observación de Saturno",
+    "fecha": "2026-11-01 20:00:00",
+    "lugar": "Facultad de Cs. Astronómicas y Geofísicas - Observatorio de La Plata",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/noche-de-observacion-de-saturno-facultad-de-cs-astronomicas-y-geofisicas-observatorio-de-la-plata-20261028150429",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028150430.jpg"
+  },
+  {
+    "titulo": "El viaje de Chihiro - Dir. Hayao Miyazaki",
+    "fecha": "2026-11-01 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-viaje-de-chihiro-dir-hayao-miyazaki-cine-ecoselect-espacio-incaa-20261028013157",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028013158.jpg"
+  },
+  {
     "titulo": "Leila Harlac + Morrinsons + Verdaderos impostores",
     "fecha": "2026-11-01 20:00:00",
     "lugar": "Blondie Cultural",
@@ -828,6 +1188,16 @@
     "url": "https://agendalaplata.ar/evento/leila-harlac-morrinsons-verdaderos-impostores-blondie-cultural-20261026000112",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261026000113.jpg"
+  },
+  {
+    "titulo": "Cría cuervos... + La prima Angélica - Dir. Carlos Saura",
+    "fecha": "2026-11-01 20:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/cria-cuervos-la-prima-angelica-dir-carlos-saura-cine-select-espacio-incaa-20261028011513",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028011514.jpg"
   },
   {
     "titulo": "Círculo Íntimo: ¿cuantos secretos tenes?",
@@ -840,6 +1210,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261013185741.jpg"
   },
   {
+    "titulo": "Sábado - Dir. Diego Medina",
+    "fecha": "2026-11-01 21:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/sabado-dir-diego-medina-planetario-unlp-20261028145059",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028145100.jpg"
+  },
+  {
     "titulo": "Studio Ghibli - El viento se levanta",
     "fecha": "2026-11-01 21:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
@@ -848,6 +1228,96 @@
     "url": "https://agendalaplata.ar/evento/studio-ghibli-el-viento-se-levanta-cine-club-proyecciones-terrestres-20260929014717",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260929014718.jpg"
+  },
+  {
+    "titulo": "El susurro - Dir. Gustavo Hernández",
+    "fecha": "2026-11-01 23:00:00",
+    "lugar": "Planetario UNLP",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-susurro-dir-gustavo-hernandez-planetario-unlp-20261028145146",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028145147.jpg"
+  },
+  {
+    "titulo": "Lunes Corales",
+    "fecha": "2026-11-02 17:00:00",
+    "lugar": "Conservatorio de Música Gilardo Gilardi",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/lunes-corales-conservatorio-de-musica-gilardo-gilardi-20261028005246",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028005247.jpg"
+  },
+  {
+    "titulo": "La casa del minotauro - Dir. Federico Bongiorno",
+    "fecha": "2026-11-02 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-casa-del-minotauro-dir-federico-bongiorno-cine-select-espacio-incaa-20261028011236",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028011237.jpg"
+  },
+  {
+    "titulo": "Dúo piano, clarinete, conjunto de cámara",
+    "fecha": "2026-11-02 18:30:00",
+    "lugar": "Conservatorio de Música Gilardo Gilardi",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/duo-piano-clarinete-conjunto-de-camara-conservatorio-de-musica-gilardo-gilardi-20261028005409",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028005410.jpg"
+  },
+  {
+    "titulo": "Misa por los Fieles Difuntos",
+    "fecha": "2026-11-02 19:00:00",
+    "lugar": "Basílica del Sagrado Corazón de Jesús",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/misa-por-los-fieles-difuntos-basilica-del-sagrado-corazon-de-jesus-20261027140146",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261027140147.jpg"
+  },
+  {
+    "titulo": "Dios sabe cuanto te amé - Dir. Vincente Minnelli",
+    "fecha": "2026-11-02 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/dios-sabe-cuanto-te-ame-dir-vincente-minnelli-cine-select-espacio-incaa-20261028011622",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028011623.jpg"
+  },
+  {
+    "titulo": "Susana Rinaldi, libre - Dir. Isabel Marcenaro Bouter",
+    "fecha": "2026-11-03 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/susana-rinaldi-libre-dir-isabel-marcenaro-bouter-cine-ecoselect-espacio-incaa-20261028012405",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028012406.jpg"
+  },
+  {
+    "titulo": "La casa del minotauro - Dir. Federico Bongiorno",
+    "fecha": "2026-11-03 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-casa-del-minotauro-dir-federico-bongiorno-cine-select-espacio-incaa-20261028011236",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028011237.jpg"
+  },
+  {
+    "titulo": "Ensamble de percusión",
+    "fecha": "2026-11-03 19:30:00",
+    "lugar": "Conservatorio de Música Gilardo Gilardi",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/ensamble-de-percusion-conservatorio-de-musica-gilardo-gilardi-20261028010009",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028010010.jpg"
   },
   {
     "titulo": "Cuarteto de la UNNOBA - Horacio Lavandera",
@@ -870,6 +1340,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261009005012.jpg"
   },
   {
+    "titulo": "Night Gallery: pilot",
+    "fecha": "2026-11-03 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/night-gallery-pilot-cine-select-espacio-incaa-20261028011745",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028011746.jpg"
+  },
+  {
+    "titulo": "El rol del showrunner: cuando los guionistas tienen la última palabra",
+    "fecha": "2026-11-04 10:00:00",
+    "lugar": "Facultad de Bellas Artes - UNLP (Sede Central)",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/el-rol-del-showrunner-cuando-los-guionistas-tienen-la-ultima-palabra-facultad-de-bellas-artes-unlp-sede-central-20261029120655",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261029120656.jpg"
+  },
+  {
     "titulo": "La ragazza con la pistola (Dir. Mario Monicelli)",
     "fecha": "2026-11-04 17:30:00",
     "lugar": "Teatro Bar Cultural La Ferretería",
@@ -878,6 +1368,76 @@
     "url": "https://agendalaplata.ar/evento/la-ragazza-con-la-pistola-dir-mario-monicelli-teatro-bar-cultural-la-ferreteria-20261012224924",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261012224925.jpg"
+  },
+  {
+    "titulo": "Susana Rinaldi, libre - Dir. Isabel Marcenaro Bouter",
+    "fecha": "2026-11-04 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/susana-rinaldi-libre-dir-isabel-marcenaro-bouter-cine-ecoselect-espacio-incaa-20261028012405",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028012406.jpg"
+  },
+  {
+    "titulo": "La casa del minotauro - Dir. Federico Bongiorno",
+    "fecha": "2026-11-04 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/la-casa-del-minotauro-dir-federico-bongiorno-cine-select-espacio-incaa-20261028011236",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028011237.jpg"
+  },
+  {
+    "titulo": "Veneno para las hadas - Dir. Carlos Enrique Taboada",
+    "fecha": "2026-11-04 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/veneno-para-las-hadas-dir-carlos-enrique-taboada-cine-ecoselect-espacio-incaa-20261028013256",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028013257.jpg"
+  },
+  {
+    "titulo": "Concierto ORVI - Concierto de fin de año",
+    "fecha": "2026-11-04 20:00:00",
+    "lugar": "Conservatorio de Música Gilardo Gilardi",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/concierto-orvi-concierto-de-fin-de-ano-conservatorio-de-musica-gilardo-gilardi-20261028005540",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028005541.jpg"
+  },
+  {
+    "titulo": "Boiling Point",
+    "fecha": "2026-11-04 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/boiling-point-cine-select-espacio-incaa-20261028011903",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028011904.jpg"
+  },
+  {
+    "titulo": "Concierto \"De Italia a la Argentina\"",
+    "fecha": "2026-11-05 19:30:00",
+    "lugar": "Conservatorio de Música Gilardo Gilardi",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/concierto-de-italia-a-la-argentina-conservatorio-de-musica-gilardo-gilardi-20261028005705",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028005706.jpg"
+  },
+  {
+    "titulo": "Salsa y no llores",
+    "fecha": "2026-11-05 20:00:00",
+    "lugar": "Espacio Doble-T",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/salsa-y-no-llores-espacio-doble-t-20261028193456",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028193457.jpg"
   },
   {
     "titulo": "EnRevistaDas: La Revista de Calle 51",
@@ -920,24 +1480,24 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261027124754.jpg"
   },
   {
-    "titulo": "Panchita está de festejo",
-    "fecha": "2026-11-06 20:00:00",
-    "lugar": "Refugio 62",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/panchita-esta-de-festejo-refugio-62-20261025164632",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261025164633.jpg"
-  },
-  {
-    "titulo": "Esencia de blues - Ecos de Sarah Vaughan",
-    "fecha": "2026-11-06 20:00:00",
-    "lugar": "Desafinado Club",
+    "titulo": "Piano - Concierto fin de ciclo",
+    "fecha": "2026-11-06 18:00:00",
+    "lugar": "Conservatorio de Música Gilardo Gilardi",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/esencia-de-blues-ecos-de-sarah-vaughan-desafinado-club-20261006025846",
+    "url": "https://agendalaplata.ar/evento/piano-concierto-fin-de-ciclo-conservatorio-de-musica-gilardo-gilardi-20261028005917",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261006025847.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261028005918.jpg"
+  },
+  {
+    "titulo": "Feria de vinos",
+    "fecha": "2026-11-06 20:00:00",
+    "lugar": "Club Argentino Juvenil",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/feria-de-vinos-club-argentino-juvenil-20261019033249",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261019033250.jpg"
   },
   {
     "titulo": "Las horas perdidas (Southland tales, Richard Kelly, 2006)",
@@ -950,14 +1510,34 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261015035241.jpg"
   },
   {
-    "titulo": "Feria de vinos",
+    "titulo": "Panchita está de festejo",
     "fecha": "2026-11-06 20:00:00",
-    "lugar": "Club Argentino Juvenil",
+    "lugar": "Refugio 62",
     "direccion": "",
     "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/feria-de-vinos-club-argentino-juvenil-20261019033249",
+    "url": "https://agendalaplata.ar/evento/panchita-esta-de-festejo-refugio-62-20261025164632",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261019033250.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261025164633.jpg"
+  },
+  {
+    "titulo": "Canto Lírico - Concierto final de ciclo",
+    "fecha": "2026-11-06 20:00:00",
+    "lugar": "Conservatorio de Música Gilardo Gilardi",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/canto-lirico-concierto-final-de-ciclo-conservatorio-de-musica-gilardo-gilardi-20261028005818",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028005819.jpg"
+  },
+  {
+    "titulo": "Esencia de blues - Ecos de Sarah Vaughan",
+    "fecha": "2026-11-06 20:00:00",
+    "lugar": "Desafinado Club",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/esencia-de-blues-ecos-de-sarah-vaughan-desafinado-club-20261006025846",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261006025847.jpg"
   },
   {
     "titulo": "Habitación Macbeth",
@@ -978,6 +1558,16 @@
     "url": "https://agendalaplata.ar/evento/tio-valen-centro-cultural-omar-favero-20261023182419",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261023182420.jpg"
+  },
+  {
+    "titulo": "Shitstem - Idioma de infancia",
+    "fecha": "2026-11-06 21:00:00",
+    "lugar": "Calle UNO, Casa de Cultura",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/shitstem-idioma-de-infancia-calle-uno-casa-de-cultura-20261027142627",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261027142628.jpg"
   },
   {
     "titulo": "Queen + Elton John",
@@ -1010,14 +1600,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260826142509.jpg"
   },
   {
-    "titulo": "Las aventuras del príncipe Achmed, de Lotte Reiniger",
+    "titulo": "La Mississippi",
     "fecha": "2026-11-07 20:00:00",
-    "lugar": "Teatro de Cámara City Bell",
+    "lugar": "Teatro René Favaloro",
     "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/las-aventuras-del-principe-achmed-de-lotte-reiniger-teatro-de-camara-city-bell-20261015194324",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-mississippi-teatro-rene-favaloro-20261021131304",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015194325.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261021131305.jpg"
   },
   {
     "titulo": "Bicicletero Indie club vol. 4",
@@ -1030,14 +1620,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261026232728.jpg"
   },
   {
-    "titulo": "La Mississippi",
+    "titulo": "Las aventuras del príncipe Achmed, de Lotte Reiniger",
     "fecha": "2026-11-07 20:00:00",
-    "lugar": "Teatro René Favaloro",
+    "lugar": "Teatro de Cámara City Bell",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-mississippi-teatro-rene-favaloro-20261021131304",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/las-aventuras-del-principe-achmed-de-lotte-reiniger-teatro-de-camara-city-bell-20261015194324",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261021131305.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261015194325.jpg"
   },
   {
     "titulo": "Diego Frenkel",
@@ -1068,6 +1658,16 @@
     "url": "https://agendalaplata.ar/evento/victor-medina-nanutria-teatro-argentino-centro-provincial-de-las-artes-20260914164351",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260914164352.jpg"
+  },
+  {
+    "titulo": "Nosotras Dos",
+    "fecha": "2026-11-07 20:30:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/nosotras-dos-teatro-espacio-44-20261028194056",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028194057.jpg"
   },
   {
     "titulo": "Alorsa Eterno",
@@ -1170,16 +1770,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261026233232.jpg"
   },
   {
-    "titulo": "Luna Sujatovich e Inbal Comedi",
-    "fecha": "2026-11-08 20:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/luna-sujatovich-e-inbal-comedi-casa-suiza-20261006033821",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261006033822.jpg"
-  },
-  {
     "titulo": "Dementes vagas: homecoming",
     "fecha": "2026-11-08 20:00:00",
     "lugar": "Mush Room",
@@ -1200,6 +1790,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261024023410.jpg"
   },
   {
+    "titulo": "Luna Sujatovich e Inbal Comedi",
+    "fecha": "2026-11-08 20:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/luna-sujatovich-e-inbal-comedi-casa-suiza-20261006033821",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261006033822.jpg"
+  },
+  {
     "titulo": "Círculo Íntimo: ¿cuantos secretos tenes?",
     "fecha": "2026-11-08 20:30:00",
     "lugar": "Espacio Doble-T",
@@ -1218,16 +1818,6 @@
     "url": "https://agendalaplata.ar/evento/mestre-esguleba-batuque-dos-ancestrais-espacio-sudaka-20261024022309",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261024022310.jpg"
-  },
-  {
-    "titulo": "Shakespeare Echoes - Teatro en inglés para adultos",
-    "fecha": "2026-11-10 21:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/shakespeare-echoes-teatro-en-ingles-para-adultos-espacio-doble-t-20260926164555",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260926164556.jpg"
   },
   {
     "titulo": "Los años rugientes",
@@ -1300,14 +1890,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260807020200.jpg"
   },
   {
-    "titulo": "Villanos",
+    "titulo": "La cofradía del Rey Lagarto",
     "fecha": "2026-11-13 20:00:00",
-    "lugar": "Casa Unclan",
+    "lugar": "Teatro René Favaloro",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/villanos-casa-unclan-20261026234746",
+    "url": "https://agendalaplata.ar/evento/la-cofradia-del-rey-lagarto-teatro-rene-favaloro-20261021130600",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261026234747.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261021130601.jpg"
   },
   {
     "titulo": "Nacha Guevara - “Seamos realistas, soñemos lo imposible”",
@@ -1320,14 +1910,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261026231448.jpg"
   },
   {
-    "titulo": "La cofradía del Rey Lagarto",
+    "titulo": "Mujer Cebra",
     "fecha": "2026-11-13 20:00:00",
-    "lugar": "Teatro René Favaloro",
+    "lugar": "Ciudad de Gatos",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-cofradia-del-rey-lagarto-teatro-rene-favaloro-20261021130600",
+    "url": "https://agendalaplata.ar/evento/mujer-cebra-ciudad-de-gatos-20261023172701",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261021130601.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261023172702.jpg"
   },
   {
     "titulo": "Green River Band",
@@ -1340,14 +1930,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261023183258.jpg"
   },
   {
-    "titulo": "Mujer Cebra",
+    "titulo": "Villanos",
     "fecha": "2026-11-13 20:00:00",
-    "lugar": "Ciudad de Gatos",
+    "lugar": "Casa Unclan",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mujer-cebra-ciudad-de-gatos-20261023172701",
+    "url": "https://agendalaplata.ar/evento/villanos-casa-unclan-20261026234746",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261023172702.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261026234747.jpg"
   },
   {
     "titulo": "Murgas al galpón",
@@ -1368,6 +1958,16 @@
     "url": "https://agendalaplata.ar/evento/la-lengua-espanola-en-el-marco-de-las-culturas-digitales-20260612001936",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260612001937.jpg"
+  },
+  {
+    "titulo": "Inframundo",
+    "fecha": "2026-11-14 20:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/inframundo-sala-420-20261028193813",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028193814.jpg"
   },
   {
     "titulo": "Chic@s de Oro",
@@ -1420,16 +2020,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260429013313.jpg"
   },
   {
-    "titulo": "Proyecto 10",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "El Medio Aljibe",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/proyecto-10-el-medio-aljibe-20261025174856",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261025174857.jpg"
-  },
-  {
     "titulo": "Fabriquera - Julieta Laso",
     "fecha": "2026-11-14 21:00:00",
     "lugar": "Casa Metro",
@@ -1450,14 +2040,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261023172531.jpg"
   },
   {
-    "titulo": "Segunda Mano",
+    "titulo": "Proyecto 10",
     "fecha": "2026-11-14 21:00:00",
-    "lugar": "Espacio Live",
+    "lugar": "El Medio Aljibe",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/segunda-mano-espacio-live-20261020164231",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/proyecto-10-el-medio-aljibe-20261025174856",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261020164232.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261025174857.jpg"
   },
   {
     "titulo": "Agustin Dettbarn - Multiverso Dettbarn",
@@ -1478,6 +2068,16 @@
     "url": "https://agendalaplata.ar/evento/la-chilinga-teatro-opera-20260930032611",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260930032612.jpg"
+  },
+  {
+    "titulo": "Segunda Mano",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/segunda-mano-espacio-live-20261020164231",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020164232.jpg"
   },
   {
     "titulo": "Babasónicos",
@@ -1520,6 +2120,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261025130229.jpg"
   },
   {
+    "titulo": "Inframundo",
+    "fecha": "2026-11-15 20:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/inframundo-sala-420-20261028193813",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028193814.jpg"
+  },
+  {
     "titulo": "Fábrica de chicas",
     "fecha": "2026-11-15 20:00:00",
     "lugar": "Escenario 40",
@@ -1538,6 +2148,16 @@
     "url": "https://agendalaplata.ar/evento/circulo-intimo-cuantos-secretos-tenes-espacio-doble-t-20261013185740",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261013185741.jpg"
+  },
+  {
+    "titulo": "Shakespeare Echoes - Teatro en inglés para adultos",
+    "fecha": "2026-11-17 20:00:00",
+    "lugar": "Espacio Doble-T",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/shakespeare-echoes-teatro-en-ingles-para-adultos-espacio-doble-t-20260926164555",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261029120258.jpg"
   },
   {
     "titulo": "La armada Brancaleone (Dir. Mario Monicelli)",
@@ -1640,16 +2260,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260425005946.jpg"
   },
   {
-    "titulo": "Proyecto 10",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "El Medio Aljibe",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/proyecto-10-el-medio-aljibe-20261025174856",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261025174857.jpg"
-  },
-  {
     "titulo": "Etiqueta Negra - Tributo a los redondos",
     "fecha": "2026-11-21 21:00:00",
     "lugar": "Teatro René Favaloro",
@@ -1658,6 +2268,16 @@
     "url": "https://agendalaplata.ar/evento/etiqueta-negra-tributo-a-los-redondos-teatro-rene-favaloro-20261021130440",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261021130441.jpg"
+  },
+  {
+    "titulo": "Proyecto 10",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "El Medio Aljibe",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/proyecto-10-el-medio-aljibe-20261025174856",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261025174857.jpg"
   },
   {
     "titulo": "El turco naim",
@@ -1678,6 +2298,16 @@
     "url": "https://agendalaplata.ar/evento/malena-muyala-casa-metro-20261024025141",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261024025142.jpg"
+  },
+  {
+    "titulo": "Inframundo",
+    "fecha": "2026-11-22 20:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/inframundo-sala-420-20261028193813",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028193814.jpg"
   },
   {
     "titulo": "Fábrica de chicas",
@@ -1708,5 +2338,25 @@
     "url": "https://agendalaplata.ar/evento/divididos-club-atenas-20260720232252",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260720232253.jpg"
+  },
+  {
+    "titulo": "Velada Sinfónica - Sindicato Argentino de Boleros con Julián y Juan Carlos Baglietto + Luisa Kuliok",
+    "fecha": "2026-11-27 20:00:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/velada-sinfonica-sindicato-argentino-de-boleros-con-julian-y-juan-carlos-baglietto-luisa-kuliok-teatro-y-museo-coliseo-podesta-20261022203545",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261022203546.jpg"
+  },
+  {
+    "titulo": "Kissme",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/kissme-espacio-live-20261020164625",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020164626.jpg"
   }
 ]

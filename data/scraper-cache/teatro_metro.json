@@ -30,16 +30,6 @@
     "imagen": ""
   },
   {
-    "titulo": "Show Doctora Queen",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/show-doctora-queen-100722",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260616194513_500x400.png"
-  },
-  {
     "titulo": "NICO DE TRACY | PURGA",
     "fecha": "2026-11-05 21:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -168,5 +158,15 @@
     "url": "https://www.teatrometrolp.com.ar/entrada/ballet-de-san-petersburgo-cascanueces-100993",
     "fuente": "teatro-metro",
     "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20261022005622_web_cascanuec.png"
+  },
+  {
+    "titulo": "LAS HIJAS",
+    "fecha": "2026-11-08 21:30:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 entre 51 y 53, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.teatrometrolp.com.ar/entrada/las-hijas-101000",
+    "fuente": "teatro-metro",
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20261027133851_copia-de-600x450.jpg"
   }
 ]

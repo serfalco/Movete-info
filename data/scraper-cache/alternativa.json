@@ -91,11 +91,11 @@
   },
   {
     "titulo": "Puzzle",
-    "fecha": "2026-11-21 21:00:00",
+    "fecha": "2026-11-20 21:00:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra92621-puzzle",
+    "url": "https://publico.alternativateatral.com/entradas92621-puzzle?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/28/000290928.jpg"
   },
@@ -165,7 +165,7 @@
     "lugar": "LA MERCERIA TEATRO",
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra97717-la-cantante-calva",
+    "url": "https://publico.alternativateatral.com/entradas97717-la-cantante-calva?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/56/000305356.jpg"
   },
@@ -217,7 +217,7 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas100218-maybe?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/31/000312231.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/33/000312233.jpg"
   },
   {
     "titulo": "La calesita (otra vuelta)",
@@ -228,6 +228,16 @@
     "url": "https://publico.alternativateatral.com/entradas100290-la-calesita-otra-vuelta?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/13/000312713.jpg"
+  },
+  {
+    "titulo": "Todas Somos YO?",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra100545-todas-somos-yo",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/32/000318232.jpg"
   },
   {
     "titulo": "Roja",
@@ -275,7 +285,7 @@
     "lugar": "LA MERCERIA TEATRO",
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra101592-donde-estare-atrapado",
+    "url": "https://publico.alternativateatral.com/entradas101592-donde-estare-atrapado?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/36/000316536.jpg"
   },
@@ -335,7 +345,7 @@
     "lugar": "LA MERCERIA TEATRO",
     "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102765-patsia-mis-dialogos-con-el",
+    "url": "https://publico.alternativateatral.com/entradas102765-patsia-mis-dialogos-con-el?o=6",
     "fuente": "alternativa",
     "imagen": ""
   },
@@ -405,7 +415,7 @@
     "lugar": "TELON NEGRO TEATRO",
     "direccion": "13 e/ 32 y 33, La Plata",
     "categoria": "musica",
-    "url": "https://www.alternativateatral.com.ar/obra103130-el-ultimo-tango-un-crimen-en-2x4",
+    "url": "https://publico.alternativateatral.com/entradas103130-el-ultimo-tango-un-crimen-en-2x4?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/36/000321036.jpg"
   },
@@ -438,6 +448,16 @@
     "url": "https://publico.alternativateatral.com/entradas103462-kosa-y-la-guerra?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/62/000321962.jpg"
+  },
+  {
+    "titulo": "Venecia",
+    "fecha": "2026-11-15 19:30:00",
+    "lugar": "TELON NEGRO TEATRO",
+    "direccion": "13 e/ 32 y 33, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas103521-venecia?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/79/000322279.jpg"
   },
   {
     "titulo": "La industria del amo(r)",
@@ -540,6 +560,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/55/000323055.jpg"
   },
   {
+    "titulo": "Frutilla",
+    "fecha": "2026-12-03 20:30:00",
+    "lugar": "TACEC - TEATRO ARGENTINO CENTRO DE EXPERIMENTACIÓN Y CREACIÓN",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra103852-frutilla",
+    "fuente": "alternativa",
+    "imagen": ""
+  },
+  {
     "titulo": "Ciclo de obras cortas El Escape - Noviembre",
     "fecha": "2026-11-23 20:00:00",
     "lugar": "TEATRO EL ESCAPE",
@@ -547,6 +577,6 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas103899-ciclo-de-obras-cortas-el-escape-noviembre?o=6",
     "fuente": "alternativa",
-    "imagen": ""
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/85/000323485.jpg"
   }
 ]

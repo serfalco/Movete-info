@@ -1,110 +1,254 @@
 [
   {
-    "titulo": "Lost Highway [Carretera perdida] (David Lynch, 1997)",
-    "hora": "19:00",
-    "espacio": "Espacio Satélite",
-    "fecha": "2026-10-23"
+    "titulo": "The channeling - Dir. Maximiliano Contenti",
+    "hora": "17:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-30"
   },
   {
-    "titulo": "FESTICALP - Ramón Vázquez (Dir. Gustavo Fontán)",
-    "hora": "19:30",
+    "titulo": "Susana Rinaldi, libre - Dir. Isabel Marcenaro Bouter",
+    "hora": "18:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-10-23"
+    "fecha": "2026-10-30"
   },
   {
-    "titulo": "FESTICALP - Introducción a la catástrofe (Dir. Priya Govinda)",
-    "hora": "20:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-23"
-  },
-  {
-    "titulo": "FESTICALP - Ramón Vázquez (Dir. Gustavo Fontán)",
-    "hora": "20:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-24"
-  },
-  {
-    "titulo": "FESTICALP - Weser (Dir. Fernando Spiner)",
-    "hora": "20:30",
+    "titulo": "Éramos tan flacos - Dir. Carlos Castro",
+    "hora": "18:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-24"
+    "fecha": "2026-10-30"
   },
   {
-    "titulo": "Ruge (2026) Dir. Diego Stickar",
-    "hora": "23:55",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-24"
-  },
-  {
-    "titulo": "Todos los nombres empiezan con M (2026) Dir. Carla Scolari",
-    "hora": "23:55",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-24"
-  },
-  {
-    "titulo": "Las fuerzas extrañas (2026) Dir. Santiago Charriere",
-    "hora": "18:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-25"
-  },
-  {
-    "titulo": "La espera (2026) Dir. Darío Doria",
-    "hora": "18:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-25"
-  },
-  {
-    "titulo": "Studio Ghibli - El increíble Castillo Vagabundo",
+    "titulo": "Los ojos del abismo - Dir. Daniel de la Vega",
     "hora": "19:00",
-    "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-26"
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-30"
   },
   {
-    "titulo": "The Fisher King (Dir. Terry Gilliam)",
-    "hora": "20:30",
-    "espacio": "La Culturosa",
-    "fecha": "2026-10-26"
+    "titulo": "Ailin en la luna (Dir. Claudia Ruíz) + Malamadre (Dir. Amparo Gonzalez Aguilar)",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-10-30"
   },
   {
     "titulo": "Éramos tan flacos",
-    "hora": "21:00",
+    "hora": "20:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-26"
+    "fecha": "2026-10-30"
   },
   {
-    "titulo": "Halloween - Dir. John Carpenter",
-    "hora": "20:00",
-    "espacio": "Espacio Rebelión - Casa socialista",
-    "fecha": "2026-10-27"
-  },
-  {
-    "titulo": "Corazonada (One From the Heart, Francis Ford Coppola, 1982)",
-    "hora": "20:00",
-    "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-10-27"
-  },
-  {
-    "titulo": "Harsh Realm (Pilot + Inga Fossa)",
+    "titulo": "Una película de Parque Chas",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-10-27"
+    "fecha": "2026-10-30"
   },
   {
-    "titulo": "Nekromantik (1987) Dir. Jörg Buttgereit",
+    "titulo": "Sierra: El Ábum Mortuorio - Dir. Carlos Ortíz Alarcón",
     "hora": "21:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-30"
+  },
+  {
+    "titulo": "Studio Ghibli - El increíble Castillo Vagabundo",
+    "hora": "22:00",
     "espacio": "Cine Club Proyecciones Terrestres",
-    "fecha": "2026-10-27"
+    "fecha": "2026-10-30"
   },
   {
-    "titulo": "La marcha sobre Roma (Dir. Dino Risi)",
-    "hora": "17:30",
-    "espacio": "Teatro Bar Cultural La Ferretería",
-    "fecha": "2026-10-28"
+    "titulo": "Un trago de infierno - Dir. Pilar Boyle, Mariano Asseff",
+    "hora": "23:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-30"
   },
   {
-    "titulo": "Mujeres al borde de un ataque de nervios (Dir. Pedro Almodóvar, 1988)",
+    "titulo": "Covil (Beyond the nest) Dir. Rodrigo Lages",
+    "hora": "15:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "Starfighter: el último guerrero espacial - Dir. Nick Castle",
+    "hora": "16:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "La Virgen de la Tosquera - Dir. Javier Lozano",
+    "hora": "17:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "Un Mundo Recobrado - Dir. Laura Bondarevsky",
+    "hora": "18:00",
+    "espacio": "Edificio Karakachoff - Centro de Arte UNLP",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "Éramos tan flacos - Dir. Carlos Castro",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "No dejes a los niños solos - Dir. Emilio Portes",
+    "hora": "19:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "House — Nobuhiko Obayashi, 1977",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "Bajo tus pies - Dir. Cristian Bernard",
+    "hora": "21:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "Halloween (Dir. John Carpenter - 1978)",
+    "hora": "21:00",
+    "espacio": "La Casa Multiespacio",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "Yndige Mennesker (Adorable Humans) - Dir. Anders Jon, Kasper Juhl, Michael Kunov, Michael Panduro",
+    "hora": "23:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-10-31"
+  },
+  {
+    "titulo": "Mitra, apaga la luz para poder ver - Dir. Diego Bellocchio",
+    "hora": "15:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "Los goonies - Dir. Richard Donner",
+    "hora": "16:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "Moebius Dir. Gustavo Mosquera R.",
+    "hora": "17:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "Kuko, Drobček & Raťafák znovu zasahujú (Still Standing, Still Stuffed) - Dir. Juro Šlauka & Andrej Kolenčík",
+    "hora": "17:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "Susana Rinaldi, libre - Dir. Isabel Marcenaro Bouter",
+    "hora": "17:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "La casa del minotauro - Dir. Federico Bongiorno",
+    "hora": "18:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "El ritual de Lily - Dir. Manu Herrera",
+    "hora": "19:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "El viaje de Chihiro - Dir. Hayao Miyazaki",
     "hora": "20:00",
     "espacio": "Cine Ecoselect (Espacio INCAA)",
-    "fecha": "2026-10-28"
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "Cría cuervos... + La prima Angélica - Dir. Carlos Saura",
+    "hora": "20:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "Sábado - Dir. Diego Medina",
+    "hora": "21:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "Studio Ghibli - El viento se levanta",
+    "hora": "21:00",
+    "espacio": "Cine Club Proyecciones Terrestres",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "El susurro - Dir. Gustavo Hernández",
+    "hora": "23:00",
+    "espacio": "Planetario UNLP",
+    "fecha": "2026-11-01"
+  },
+  {
+    "titulo": "La casa del minotauro - Dir. Federico Bongiorno",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-02"
+  },
+  {
+    "titulo": "Dios sabe cuanto te amé - Dir. Vincente Minnelli",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-02"
+  },
+  {
+    "titulo": "Susana Rinaldi, libre - Dir. Isabel Marcenaro Bouter",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-03"
+  },
+  {
+    "titulo": "La casa del minotauro - Dir. Federico Bongiorno",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-03"
+  },
+  {
+    "titulo": "Night Gallery: pilot",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-03"
+  },
+  {
+    "titulo": "La ragazza con la pistola (Dir. Mario Monicelli)",
+    "hora": "17:30",
+    "espacio": "Teatro Bar Cultural La Ferretería",
+    "fecha": "2026-11-04"
+  },
+  {
+    "titulo": "Susana Rinaldi, libre - Dir. Isabel Marcenaro Bouter",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-04"
+  },
+  {
+    "titulo": "La casa del minotauro - Dir. Federico Bongiorno",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-04"
+  },
+  {
+    "titulo": "Veneno para las hadas - Dir. Carlos Enrique Taboada",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-04"
+  },
+  {
+    "titulo": "Boiling Point",
+    "hora": "20:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-04"
   }
 ]
