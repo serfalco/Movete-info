@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "454639": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1666712": {
     "tmdb": {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "18775": {
     "tmdb": {
@@ -4306,7 +4306,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1101383": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1698443": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "8392": {
     "tmdb": {
@@ -7593,7 +7593,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1140521": {
     "tmdb": {
@@ -8631,7 +8631,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1469342": {
     "tmdb": {
@@ -9762,7 +9762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1563588": {
     "tmdb": {
@@ -10040,7 +10040,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1380417": {
     "tmdb": {
@@ -10426,7 +10426,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1568759": {
     "tmdb": {
@@ -10509,7 +10509,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "79372": {
     "tmdb": {
@@ -11275,7 +11275,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1153576": {
     "tmdb": {
@@ -12171,7 +12171,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1281331": {
     "tmdb": {
@@ -12893,7 +12893,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "996525": {
     "tmdb": {
@@ -13568,7 +13568,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1500890": {
     "tmdb": {
@@ -13735,7 +13735,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1437696": {
     "tmdb": {
@@ -13923,7 +13923,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
   },
   "1314386": {
     "tmdb": {
@@ -14075,6 +14075,1061 @@
         }
       ]
     },
-    "ultima_semana": "2026-10-29"
+    "ultima_semana": "2026-11-05"
+  },
+  "1117898": {
+    "tmdb": {
+      "tmdb_id": 1117898,
+      "titulo": "El gato con sombrero",
+      "titulo_original": "The Cat in the Hat",
+      "tagline": "Se ha descubierto el pastel.",
+      "anio": "2026",
+      "estreno": "2026-11-04",
+      "duracion": 108,
+      "generos": [
+        "Animación",
+        "Fantasía",
+        "Comedia"
+      ],
+      "score": 7.4,
+      "votos": 8,
+      "certificacion": "ATP",
+      "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/l2r1ZKootwBnFMz1EKo8OP04UsK.jpg",
+        "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+        "https://image.tmdb.org/t/p/w780/w5vd8wIEGsPi4YJFBxCAnJUdK5I.jpg",
+        "https://image.tmdb.org/t/p/w780/3F071klXyQN5pu1WTMUlzEdivfy.jpg",
+        "https://image.tmdb.org/t/p/w780/wXVLWFWO9MHkj4KKHMOB48fwR9A.jpg",
+        "https://image.tmdb.org/t/p/w780/tqaEZxmZyzvN0bPXHRKmJHxXVVe.jpg"
+      ],
+      "director": "Erica Rivinoja",
+      "guionistas": [
+        "Alessandro Carloni",
+        "Erica Rivinoja"
+      ],
+      "musica": "Lorne Balfe",
+      "elenco": [
+        {
+          "nombre": "Bill Hader",
+          "personaje": "The Cat in the Hat (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg",
+          "iniciales": "BH"
+        },
+        {
+          "nombre": "Xochitl Gomez",
+          "personaje": "Gabby (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/q39DOx44YHrGF1h88R9HxRNZS3.jpg",
+          "iniciales": "XG"
+        },
+        {
+          "nombre": "Tiago Martinez",
+          "personaje": "Sebastian (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/hqbi17NIqvNmBhI2KiazHtdpS8j.jpg",
+          "iniciales": "TM"
+        },
+        {
+          "nombre": "Matt Berry",
+          "personaje": "Waffles the Fish (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/1UCAuXgzQfeANlLnZFVSuq0OFhR.jpg",
+          "iniciales": "MB"
+        },
+        {
+          "nombre": "Quinta Brunson",
+          "personaje": "Sherrie (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/1oEdBc88XAN3Z9n2pdNvH1XIT71.jpg",
+          "iniciales": "QB"
+        },
+        {
+          "nombre": "Bowen Yang",
+          "personaje": "Gary (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/qzjyaEe7jjLaKSmzQ2dmtcjyCpe.jpg",
+          "iniciales": "BY"
+        },
+        {
+          "nombre": "America Ferrera",
+          "personaje": "Carmen (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg",
+          "iniciales": "AF"
+        },
+        {
+          "nombre": "Paula Pell",
+          "personaje": "Patty (voice)",
+          "foto": "https://image.tmdb.org/t/p/w185/aQZsAcaac2zzLBMhb15O2mrSrpx.jpg",
+          "iniciales": "PP"
+        }
+      ],
+      "paises": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "DNEG",
+        "Dr. Seuss Enterprises",
+        "Warner Bros. Pictures Animation",
+        "A Stern Talking To",
+        "Domain Entertainment"
+      ],
+      "temas": [
+        "Sibling relationship",
+        "Based on novel or book",
+        "Hat",
+        "Cat",
+        "Based on children's book",
+        "Goldfish",
+        "New town",
+        "Talking cat"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
+      "teaser": "",
+      "imdb_id": "tt2321555",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 475220,
+          "titulo": "In Fabric",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/mIH9mS7tZXBaEoL6LAHZL6TgktW.jpg",
+          "score": 5.624
+        },
+        {
+          "tmdb_id": 475303,
+          "titulo": "Día de lluvia en Nueva York",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/ya9ojfuWylP4P6iiaIaxz67Chu0.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 286940,
+          "titulo": "The Boxcar Children",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/t184N3Tl7JtwBynjhva18o8EBHN.jpg",
+          "score": 7.5
+        },
+        {
+          "tmdb_id": 22582,
+          "titulo": "Tom y Jerry: la película",
+          "anio": "1992",
+          "poster": "https://image.tmdb.org/t/p/w342/7LVlL5My8lftjb3HKJdrxcDE586.jpg",
+          "score": 6.345
+        },
+        {
+          "tmdb_id": 22584,
+          "titulo": "Tener y no tener",
+          "anio": "1945",
+          "poster": "https://image.tmdb.org/t/p/w342/fJwEC7BXCWNlqNlovZXImLRhpSI.jpg",
+          "score": 7.449
+        },
+        {
+          "tmdb_id": 856289,
+          "titulo": "La creación de los dioses: El reino de las tormentas",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/p1p3KHxTeKYvZG3KTJYDYSVygJs.jpg",
+          "score": 7.067
+        },
+        {
+          "tmdb_id": 285974,
+          "titulo": "Otra vez salto sobre charcos",
+          "anio": "1971",
+          "poster": "https://image.tmdb.org/t/p/w342/viF3PqH7jT33XUXZ8BhF3A7RujW.jpg",
+          "score": 6.3
+        },
+        {
+          "tmdb_id": 21334,
+          "titulo": "Los niños del paraíso",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/sPRwqDKuM4rKCT4GUbPdEVMxVaa.jpg",
+          "score": 7.874
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-05"
+  },
+  "1377237": {
+    "tmdb": {
+      "tmdb_id": 1377237,
+      "titulo": "Entrega al límite",
+      "titulo_original": "Runner",
+      "tagline": "La entrega al día siguiente no es una opción.",
+      "anio": "2026",
+      "estreno": "2026-09-07",
+      "duracion": 97,
+      "generos": [
+        "Acción",
+        "Comedia"
+      ],
+      "score": 8.282,
+      "votos": 796,
+      "certificacion": "+13",
+      "sinopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "poster": "https://image.tmdb.org/t/p/w342/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+        "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+        "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+        "https://image.tmdb.org/t/p/w780/71FfOJaPZV3TKemtgm8A38DMUJf.jpg",
+        "https://image.tmdb.org/t/p/w780/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
+        "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg"
+      ],
+      "director": "Scott Waugh",
+      "guionistas": [
+        "Tommy White",
+        "Miles Hubley"
+      ],
+      "musica": "Charlie Nguyen Kim",
+      "elenco": [
+        {
+          "nombre": "Alan Ritchson",
+          "personaje": "Hank Malone",
+          "foto": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+          "iniciales": "AR"
+        },
+        {
+          "nombre": "Owen Wilson",
+          "personaje": "Ben Bishop",
+          "foto": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg",
+          "iniciales": "OW"
+        },
+        {
+          "nombre": "Rodrigo Santoro",
+          "personaje": "Damian Zaldivar",
+          "foto": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg",
+          "iniciales": "RS"
+        },
+        {
+          "nombre": "Leila George",
+          "personaje": "Kate Baker",
+          "foto": "https://image.tmdb.org/t/p/w185/s46DMiPDGSMq6qad5TL8mG5qfdy.jpg",
+          "iniciales": "LG"
+        },
+        {
+          "nombre": "Kate Box",
+          "personaje": "Dr. Ainsley",
+          "foto": "https://image.tmdb.org/t/p/w185/zv4NckgNBn6Tc2xhCdNFFx9o9EZ.jpg",
+          "iniciales": "KB"
+        },
+        {
+          "nombre": "Peta Sergeant",
+          "personaje": "Nurse Julie",
+          "foto": "https://image.tmdb.org/t/p/w185/owkSN29t7P6hpazZKsUMt7FybrP.jpg",
+          "iniciales": "PS"
+        },
+        {
+          "nombre": "Cecilia Toussaint",
+          "personaje": "Donna Zaldivar",
+          "foto": "https://image.tmdb.org/t/p/w185/2dZRblt3alR4ihcBNasYDI1gwc0.jpg",
+          "iniciales": "CT"
+        },
+        {
+          "nombre": "Geraldine Hakewill",
+          "personaje": "Monica",
+          "foto": "https://image.tmdb.org/t/p/w185/cMzkT78ZH4qluKg2VumKkF3eTia.jpg",
+          "iniciales": "GH"
+        }
+      ],
+      "paises": [
+        "United States of America",
+        "Australia",
+        "United Kingdom"
+      ],
+      "idiomas": [
+        "English",
+        "Português",
+        "Español",
+        "Français"
+      ],
+      "productoras": [
+        "Broken Road Productions",
+        "AllyCat Entertainment",
+        "Nickel City Pictures",
+        "A Higher Standard",
+        "G2 Dispatch",
+        "International Media Funds Management",
+        "Bright White Light",
+        "2521 Entertainment"
+      ],
+      "temas": [
+        "Race against time",
+        "Black market",
+        "Drug cartel",
+        "Organ transplant",
+        "Brisbane",
+        "Grand",
+        "Assertive"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt31349844",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 5492,
+          "titulo": "Furia",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/AciCwxRVdWSa6qpaewmrZU7KZ7i.jpg",
+          "score": 5.257
+        },
+        {
+          "tmdb_id": 604,
+          "titulo": "Matrix Reloaded",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/7IZk3Xp3HIpRJGXFYNvzmyRwDlt.jpg",
+          "score": 7.087
+        },
+        {
+          "tmdb_id": 458594,
+          "titulo": "Matar o morir (Peppermint)",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg",
+          "score": 6.743
+        },
+        {
+          "tmdb_id": 1428857,
+          "titulo": "On the Hunt",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/gkscqnZZrCT5lLsniw1KNL9iiJ0.jpg",
+          "score": 4.528
+        },
+        {
+          "tmdb_id": 1428913,
+          "titulo": "Chuck Barril Adventure",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/g81eRirSGmy18sVzzpR0jVblYmF.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 13777,
+          "titulo": "He Died with a Felafel in His Hand",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/ceB5SP5dmoeaQUq2RM1uANAwu0L.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 8409,
+          "titulo": "Diablo (A Man Apart)",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/9hREB66cSUOLAtHpXLjpApz421n.jpg",
+          "score": 6.171
+        },
+        {
+          "tmdb_id": 14306,
+          "titulo": "Una pareja de tres",
+          "anio": "2008",
+          "poster": "https://image.tmdb.org/t/p/w342/CD4RJkRcje5NcUZdoQWDY96GjS.jpg",
+          "score": 7.173
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-05"
+  },
+  "1284186": {
+    "tmdb": {
+      "tmdb_id": 1284186,
+      "titulo": "Sacrificio",
+      "titulo_original": "Sacrifice",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-04-09",
+      "duracion": 103,
+      "generos": [
+        "Aventura",
+        "Comedia",
+        "Acción"
+      ],
+      "score": 5.5,
+      "votos": 132,
+      "certificacion": "+13",
+      "sinopsis": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "poster": "https://image.tmdb.org/t/p/w342/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uBRVzvMlNlKsegUCDXIwP7W6Ygb.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/uBRVzvMlNlKsegUCDXIwP7W6Ygb.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/uBRVzvMlNlKsegUCDXIwP7W6Ygb.jpg",
+        "https://image.tmdb.org/t/p/w780/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+        "https://image.tmdb.org/t/p/w780/kCJTGGlEEJPZ1EpZJyLGXMHtAxI.jpg",
+        "https://image.tmdb.org/t/p/w780/dkQ95ve1iEyt738io4AJOmQgijJ.jpg",
+        "https://image.tmdb.org/t/p/w780/x3hAXFjdQPwccW8AMIrqpgJV9gv.jpg",
+        "https://image.tmdb.org/t/p/w780/3kYnfR6PN20bD4zshZfGza6jA6f.jpg"
+      ],
+      "director": "Romain Gavras",
+      "guionistas": [
+        "Will Arbery",
+        "Romain Gavras"
+      ],
+      "musica": "Surkin",
+      "elenco": [
+        {
+          "nombre": "Chris Evans",
+          "personaje": "Mike Tyler",
+          "foto": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
+          "iniciales": "CE"
+        },
+        {
+          "nombre": "Anya Taylor-Joy",
+          "personaje": "Joan",
+          "foto": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
+          "iniciales": "AT"
+        },
+        {
+          "nombre": "Vincent Cassel",
+          "personaje": "Ben Bracken",
+          "foto": "https://image.tmdb.org/t/p/w185/ivUQfhn5olOmR5hthN8C8GThBV4.jpg",
+          "iniciales": "VC"
+        },
+        {
+          "nombre": "Salma Hayek Pinault",
+          "personaje": "Gloria Bracken",
+          "foto": "https://image.tmdb.org/t/p/w185/3j8MpAjyopkAc8mbNiDeXyqBmcS.jpg",
+          "iniciales": "SP"
+        },
+        {
+          "nombre": "John Malkovich",
+          "personaje": "Gunnar",
+          "foto": "https://image.tmdb.org/t/p/w185/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg",
+          "iniciales": "JM"
+        },
+        {
+          "nombre": "Charli xcx",
+          "personaje": "Mother Nature",
+          "foto": "https://image.tmdb.org/t/p/w185/xnYIKjdP2anSMmDlFbJN3zZQMkC.jpg",
+          "iniciales": "CX"
+        },
+        {
+          "nombre": "Sam Richardson",
+          "personaje": "Oliver",
+          "foto": "https://image.tmdb.org/t/p/w185/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+          "iniciales": "SR"
+        },
+        {
+          "nombre": "Zarene Dallas",
+          "personaje": "Freyja",
+          "foto": "https://image.tmdb.org/t/p/w185/pCpRhGfErWK0jkagdmGQGpy0hLl.jpg",
+          "iniciales": "ZD"
+        }
+      ],
+      "paises": [
+        "France",
+        "Greece",
+        "Cyprus",
+        "United Kingdom"
+      ],
+      "idiomas": [],
+      "productoras": [
+        "Mid March Media",
+        "Heretic",
+        "Iconoclast",
+        "Film4 Productions",
+        "Head Gear Films",
+        "Metrol Technology",
+        "RocketScience",
+        "Solent",
+        "ERT"
+      ],
+      "temas": [
+        "Self-fulfilling prophecy",
+        "Volcano",
+        "Cult",
+        "Satire",
+        "End of the world",
+        "Hostage situation",
+        "Radical",
+        "Movie star"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt32268992",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 838720,
+          "titulo": "Una semana en el Paraíso",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/dYmlqJeBkO2B9Aa2VCbzETtCS9X.jpg",
+          "score": 5.3
+        },
+        {
+          "tmdb_id": 1612472,
+          "titulo": "The Projectionist",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/gDbZTEoqnoT2a5H1r8tnufoDN75.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 583,
+          "titulo": "La vida de Brian",
+          "anio": "1979",
+          "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
+          "score": 7.762
+        },
+        {
+          "tmdb_id": 775,
+          "titulo": "El viaje a la Luna",
+          "anio": "1902",
+          "poster": "https://image.tmdb.org/t/p/w342/l58KDN46lKx5RPzu1encomzSuJU.jpg",
+          "score": 7.9
+        },
+        {
+          "tmdb_id": 266964,
+          "titulo": "От нищо нещо",
+          "anio": "1979",
+          "poster": "https://image.tmdb.org/t/p/w342/mc3fKtzaYOct6uBSwEKpKQtyQbo.jpg",
+          "score": 7.5
+        },
+        {
+          "tmdb_id": 6116,
+          "titulo": "Spice World: La película",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/a7fTAAextDgBR0PKzSJz0r57kdB.jpg",
+          "score": 4.909
+        },
+        {
+          "tmdb_id": 6172,
+          "titulo": "Mein Führer",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/4iqSoCI7ItSj5N3DqPqg3MdfUzy.jpg",
+          "score": 5.58
+        },
+        {
+          "tmdb_id": 1619119,
+          "titulo": "Locationista",
+          "anio": "",
+          "poster": "https://image.tmdb.org/t/p/w342/xZq0ocsy9k2MgSy6KRrxmzTdCLL.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-05"
+  },
+  "4584": {
+    "tmdb": {
+      "tmdb_id": 4584,
+      "titulo": "Sentido y sensibilidad",
+      "titulo_original": "Sense and Sensibility",
+      "tagline": "Dos hermanas. Una es la razón. La otra, la pasión. Pero cuando el amor llega, ambas siguen el dictado del corazón.",
+      "anio": "1995",
+      "estreno": "1995-12-13",
+      "duracion": 131,
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "score": 7.416,
+      "votos": 1933,
+      "certificacion": "PG",
+      "sinopsis": "Inglaterra, siglo XIX. Dos hermanas completamente distintas: una, pura razón y sentido común; la otra, pura sensibilidad y pasión, se enfrentan al amor y a las adversidades de la vida. Al morir su padre, deben abandonar su hogar, que pasa a manos de un hermanastro, hijo del primer matrimonio de su padre. Se mudan al campo y, allí, tendrán experiencias amorosas que producirán en ellas un cambio profundo.",
+      "poster": "https://image.tmdb.org/t/p/w342/eAhOt2FExPlLRtkln6mAZEOFU3T.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+        "https://image.tmdb.org/t/p/w780/7oaMtkM9P4u5DWDkedeUlKnleYK.jpg",
+        "https://image.tmdb.org/t/p/w780/kT3XwEag0hs5VCZraHRsizdWBVY.jpg",
+        "https://image.tmdb.org/t/p/w780/aiInkWLYpFeReQhQpIpD4uXu9Y.jpg",
+        "https://image.tmdb.org/t/p/w780/r4TL5GE5zexj0neTNhPoydPqhMc.jpg",
+        "https://image.tmdb.org/t/p/w780/iHR9miZb29XiiIFaG963EUpsZPs.jpg"
+      ],
+      "director": "Ang Lee",
+      "guionistas": [
+        "Emma Thompson"
+      ],
+      "musica": "Patrick Doyle",
+      "elenco": [
+        {
+          "nombre": "Emma Thompson",
+          "personaje": "Elinor Dashwood",
+          "foto": "https://image.tmdb.org/t/p/w185/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg",
+          "iniciales": "ET"
+        },
+        {
+          "nombre": "Kate Winslet",
+          "personaje": "Marianne Dashwood",
+          "foto": "https://image.tmdb.org/t/p/w185/6qNnMsKtKz9si5rabpUEG85UfHp.jpg",
+          "iniciales": "KW"
+        },
+        {
+          "nombre": "Alan Rickman",
+          "personaje": "Colonel Christopher Brandon",
+          "foto": "https://image.tmdb.org/t/p/w185/1EearzPgXkmYFKvECfWNrctIFT9.jpg",
+          "iniciales": "AR"
+        },
+        {
+          "nombre": "Hugh Grant",
+          "personaje": "Edward Ferrars",
+          "foto": "https://image.tmdb.org/t/p/w185/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg",
+          "iniciales": "HG"
+        },
+        {
+          "nombre": "Gemma Jones",
+          "personaje": "Mrs. Dashwood",
+          "foto": "https://image.tmdb.org/t/p/w185/hFApnOEWXyE55ONGGXis6a0PPHM.jpg",
+          "iniciales": "GJ"
+        },
+        {
+          "nombre": "Greg Wise",
+          "personaje": "John Willoughby",
+          "foto": "https://image.tmdb.org/t/p/w185/3yjzOyFVc8TpPW0Q8svr4ykD2kW.jpg",
+          "iniciales": "GW"
+        },
+        {
+          "nombre": "Elizabeth Spriggs",
+          "personaje": "Mrs. Jennings",
+          "foto": "https://image.tmdb.org/t/p/w185/aXyhNX3nqrtrwtIHTwU8brmbdrq.jpg",
+          "iniciales": "ES"
+        },
+        {
+          "nombre": "Imogen Stubbs",
+          "personaje": "Lucy Steele",
+          "foto": "https://image.tmdb.org/t/p/w185/gdhBQfUMZbEs1XH3qozHLXoYhzM.jpg",
+          "iniciales": "IS"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Columbia Pictures",
+        "Mirage Enterprises"
+      ],
+      "temas": [
+        "Secret love",
+        "London, england",
+        "Countryside",
+        "Based on novel or book",
+        "Widow",
+        "Military officer",
+        "Servant",
+        "Country life"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt0114388",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 5769,
+          "titulo": "Tom Jones",
+          "anio": "1963",
+          "poster": "https://image.tmdb.org/t/p/w342/jKlKNxu79GnQKJuHEJUloyzU4GQ.jpg",
+          "score": 5.9
+        },
+        {
+          "tmdb_id": 5928,
+          "titulo": "Los rateros",
+          "anio": "1969",
+          "poster": "https://image.tmdb.org/t/p/w342/cJXSYqm3rMFXTSIheXkClhHxHPR.jpg",
+          "score": 6.4
+        },
+        {
+          "tmdb_id": 5951,
+          "titulo": "Conociendo a Jane Austen",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/8vJgNXzTqbJq7kjUNP1BkCigLh9.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 5916,
+          "titulo": "La huida",
+          "anio": "1972",
+          "poster": "https://image.tmdb.org/t/p/w342/jf83VqRRFpZte67FiZviq6U3Nfs.jpg",
+          "score": 7.151
+        },
+        {
+          "tmdb_id": 5925,
+          "titulo": "La gran evasión",
+          "anio": "1963",
+          "poster": "https://image.tmdb.org/t/p/w342/zyXTt4nDNBbS0oULtDuiFpzhA4x.jpg",
+          "score": 7.922
+        },
+        {
+          "tmdb_id": 5972,
+          "titulo": "Testigo de cargo",
+          "anio": "1982",
+          "poster": "https://image.tmdb.org/t/p/w342/kw7hn71Lxx88FhHcpg14HsCIFT4.jpg",
+          "score": 6.6
+        },
+        {
+          "tmdb_id": 5991,
+          "titulo": "El último",
+          "anio": "1924",
+          "poster": "https://image.tmdb.org/t/p/w342/r23jNChGtptT7elVDbBaBH6TwsK.jpg",
+          "score": 7.763
+        },
+        {
+          "tmdb_id": 6000,
+          "titulo": "Kiss of Life",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/m5b9mnelmdD6HwMmLTGeolafLL0.jpg",
+          "score": 5.7
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-05"
+  },
+  "1381071": {
+    "tmdb": {
+      "tmdb_id": 1381071,
+      "titulo": "Godzilla Minus Zero",
+      "titulo_original": "ゴジラ-0.0",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-11-03",
+      "duracion": 135,
+      "generos": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "score": 8.224,
+      "votos": 29,
+      "certificacion": "+13",
+      "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+      "poster": "https://image.tmdb.org/t/p/w342/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+        "https://image.tmdb.org/t/p/w780/cWs5aTvPDeh1QCgauVReTw3teyr.jpg",
+        "https://image.tmdb.org/t/p/w780/hyFjwZslMzCQlt7FByPvJciVf4C.jpg",
+        "https://image.tmdb.org/t/p/w780/drSQQgzsgXt9NIO9I2n6Bp4lBci.jpg",
+        "https://image.tmdb.org/t/p/w780/cYxQ5Q9IyHf6gZoXCrzOFOErMNw.jpg",
+        "https://image.tmdb.org/t/p/w780/6Qz4lkQR34myr5tsOnAQFdcbuuX.jpg"
+      ],
+      "director": "Takashi Yamazaki",
+      "guionistas": [
+        "Takashi Yamazaki"
+      ],
+      "musica": "佐藤直紀",
+      "elenco": [
+        {
+          "nombre": "Ryunosuke Kamiki",
+          "personaje": "Koichi Shikishima",
+          "foto": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg",
+          "iniciales": "RK"
+        },
+        {
+          "nombre": "浜辺美波",
+          "personaje": "Noriko Oishi",
+          "foto": "https://image.tmdb.org/t/p/w185/eQN8N2chINckvQDiNqzDXI0v9vN.jpg",
+          "iniciales": "浜辺"
+        },
+        {
+          "nombre": "山田裕貴",
+          "personaje": "Shiro Mizushima",
+          "foto": "https://image.tmdb.org/t/p/w185/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg",
+          "iniciales": "山田"
+        },
+        {
+          "nombre": "Kuranosuke Sasaki",
+          "personaje": "Seiji Akitsu",
+          "foto": "https://image.tmdb.org/t/p/w185/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg",
+          "iniciales": "KS"
+        },
+        {
+          "nombre": "Jun Kunimura",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg",
+          "iniciales": "JK"
+        },
+        {
+          "nombre": "Mio Tanaka",
+          "personaje": "Captain Tatsuo Hotta",
+          "foto": "https://image.tmdb.org/t/p/w185/4dXKZqcF1K6n6yVAGVVRlsc1RU0.jpg",
+          "iniciales": "MT"
+        },
+        {
+          "nombre": "Sakura Ando",
+          "personaje": "Sumiko Ota",
+          "foto": "https://image.tmdb.org/t/p/w185/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg",
+          "iniciales": "SA"
+        },
+        {
+          "nombre": "Masami Nagasawa",
+          "personaje": "Aoyama",
+          "foto": "https://image.tmdb.org/t/p/w185/yvHhfDOral1DeyBRSzpxsoHz60t.jpg",
+          "iniciales": "MN"
+        }
+      ],
+      "paises": [
+        "Japan"
+      ],
+      "idiomas": [
+        "日本語",
+        "English"
+      ],
+      "productoras": [
+        "TOHO",
+        "Robot Communications",
+        "TOHO Studios"
+      ],
+      "temas": [
+        "Sequel",
+        "Kaiju",
+        "Monster movie",
+        "Godzilla",
+        "Tokusatsu"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt34384661",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Godzilla (Minus) Colección",
+        "partes": [
+          {
+            "tmdb_id": 940721,
+            "titulo": "Godzilla Minus One",
+            "anio": "2023",
+            "poster": "https://image.tmdb.org/t/p/w342/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+            "fecha": "2023-11-03"
+          },
+          {
+            "tmdb_id": 1381071,
+            "titulo": "Godzilla Minus Zero",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
+            "fecha": "2026-11-03"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 87,
+          "titulo": "Indiana Jones y el templo maldito",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+          "score": 7.308
+        },
+        {
+          "tmdb_id": 89,
+          "titulo": "Indiana Jones y la última cruzada",
+          "anio": "1989",
+          "poster": "https://image.tmdb.org/t/p/w342/5h45gK147AAJpLLC7Cicr597urz.jpg",
+          "score": 7.858
+        },
+        {
+          "tmdb_id": 96,
+          "titulo": "Superdetective en Hollywood II",
+          "anio": "1987",
+          "poster": "https://image.tmdb.org/t/p/w342/19fU9cD8nBp3riUgKZi6nLSMO88.jpg",
+          "score": 6.534
+        },
+        {
+          "tmdb_id": 58,
+          "titulo": "Piratas del Caribe: El cofre del hombre muerto",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+          "score": 7.392
+        },
+        {
+          "tmdb_id": 189,
+          "titulo": "Sin City: Una dama por la que matar",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/xmCF5CB8ogqUy9K6AmYaAL7x0jV.jpg",
+          "score": 6.398
+        },
+        {
+          "tmdb_id": 244,
+          "titulo": "King Kong",
+          "anio": "1933",
+          "poster": "https://image.tmdb.org/t/p/w342/wlRhyQOC67Q9dxqd2Fpsh64kFHh.jpg",
+          "score": 7.589
+        },
+        {
+          "tmdb_id": 214,
+          "titulo": "Saw III",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/raUejCvrhUl0VTjcj8b0gJLBUhQ.jpg",
+          "score": 6.419
+        },
+        {
+          "tmdb_id": 215,
+          "titulo": "Saw II",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg",
+          "score": 6.615
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-05"
+  },
+  "1356474": {
+    "tmdb": {
+      "tmdb_id": 1356474,
+      "titulo": "Babystar",
+      "titulo_original": "Babystar",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-04-17",
+      "duracion": 98,
+      "generos": [
+        "Drama"
+      ],
+      "score": 7.4,
+      "votos": 5,
+      "certificacion": "+13",
+      "sinopsis": "Luca es una influencer. Desde que tiene uso de razón, ha sido la estrella del negocio familiar de sus padres en redes sociales, además de su único orgullo y alegría. Cuando sus padres deciden tener otro hijo, las cosas cambian. Luca se siente traicionada y teme que sus padres ya no la necesiten, dado que la atención de ellos sigue estando ligada al desempeño de ella en la cuenta familiar.",
+      "poster": "https://image.tmdb.org/t/p/w342/tmcgngRJvI8D1Y18ls7yv2XY8dP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1BAJ0SuTM2mtPNSRHMHTFHABGj3.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/1BAJ0SuTM2mtPNSRHMHTFHABGj3.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/1BAJ0SuTM2mtPNSRHMHTFHABGj3.jpg",
+        "https://image.tmdb.org/t/p/w780/m3oLdpc02Nt4gan987Ey5hmvDTr.jpg",
+        "https://image.tmdb.org/t/p/w780/zPHqlGHyDCeRfVng0FSGQeMRqjt.jpg",
+        "https://image.tmdb.org/t/p/w780/a2O2AwuFbRLBrbm1fs1xYYcnmBv.jpg"
+      ],
+      "director": "Joscha Bongard",
+      "guionistas": [
+        "Joscha Bongard",
+        "Nicole Rüthers"
+      ],
+      "musica": "Jonas Vogler",
+      "elenco": [
+        {
+          "nombre": "Maja Bons",
+          "personaje": "Luca",
+          "foto": "https://image.tmdb.org/t/p/w185/mWdXOxuMy4IYRYUQiYO0pgDkmjO.jpg",
+          "iniciales": "MB"
+        },
+        {
+          "nombre": "Bea Brocks",
+          "personaje": "Stella Sommer",
+          "foto": "https://image.tmdb.org/t/p/w185/wYUrH3WqFGq9bbHb7Pe1Cb46WQ8.jpg",
+          "iniciales": "BB"
+        },
+        {
+          "nombre": "Liliom Lewald",
+          "personaje": "Chris Sommer",
+          "foto": "https://image.tmdb.org/t/p/w185/hUCGbQlvTySubo1aLy9qdzXbhjB.jpg",
+          "iniciales": "LL"
+        },
+        {
+          "nombre": "Joy Ewulu",
+          "personaje": "Julie",
+          "foto": "https://image.tmdb.org/t/p/w185/aZP3bmPqzKyQ0qi3w8KWzDy22DT.jpg",
+          "iniciales": "JE"
+        },
+        {
+          "nombre": "Maximilian Mundt",
+          "personaje": "Simon",
+          "foto": "https://image.tmdb.org/t/p/w185/8pqjkuQU2JtEyhSBRmidwAkaaij.jpg",
+          "iniciales": "MM"
+        },
+        {
+          "nombre": "Verena Altenberger",
+          "personaje": "AI CEO",
+          "foto": "https://image.tmdb.org/t/p/w185/A2y0GYbpw85jcc3LL4V8OdQJQ6w.jpg",
+          "iniciales": "VA"
+        },
+        {
+          "nombre": "Tiana Vanitha R.",
+          "personaje": "Lilly",
+          "foto": null,
+          "iniciales": "TR"
+        },
+        {
+          "nombre": "Katharina Ley",
+          "personaje": "Sandra",
+          "foto": null,
+          "iniciales": "KL"
+        }
+      ],
+      "paises": [
+        "Germany"
+      ],
+      "idiomas": [
+        "Deutsch"
+      ],
+      "productoras": [
+        "LiseLotte Films",
+        "ZDF",
+        "Filmakademie Baden-Württemberg"
+      ],
+      "temas": [
+        "Family drama",
+        "Debut",
+        "Vlogger",
+        "Social media influencer",
+        "Drama"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt34998116",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 1226307,
+          "titulo": "Out of Focus",
+          "anio": "2024",
+          "poster": "https://image.tmdb.org/t/p/w342/o0pF8ekUg9IKD6Imi1FAwSFMP4B.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1425703,
+          "titulo": "Sombras chinas",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/x9hsXbM0DVpP1C14gmNGC1zLqBm.jpg",
+          "score": 10.0
+        },
+        {
+          "tmdb_id": 1037156,
+          "titulo": "Bharata",
+          "anio": "",
+          "poster": "https://image.tmdb.org/t/p/w342/m8cXX2bJKH11a9JYot1I1xNTYj5.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1037174,
+          "titulo": "Veer-Isha Nu Seemant",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/mbSJE2455uL4PkLZ2KznZiRxuxU.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 641683,
+          "titulo": "Azules Turquesas",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/yVmM9GzdIn8LflGbUlvNOgYyhCB.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 3475,
+          "titulo": "El tren",
+          "anio": "1973",
+          "poster": "https://image.tmdb.org/t/p/w342/o55Dv4Fs3oqfXgjPPU81m6TAVko.jpg",
+          "score": 6.6
+        },
+        {
+          "tmdb_id": 1619286,
+          "titulo": "காலம்",
+          "anio": "",
+          "poster": "https://image.tmdb.org/t/p/w342/z2W39qTtwy4VLj434iJOEWMT963.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 837778,
+          "titulo": "Rain Dog Garden Home",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/yhNyo1dYV3F1Ss4yek5tFXaRfdW.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-05"
   }
 }

@@ -156,6 +156,30 @@
     "tmdb_id": 299534,
     "trailer": "https://www.youtube.com/watch?v=Ib847Q7C9AU"
   },
+  "babystar": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1BAJ0SuTM2mtPNSRHMHTFHABGj3.jpg",
+    "director": "Joscha Bongard",
+    "duracion": 98,
+    "elenco": [
+      "Maja Bons",
+      "Bea Brocks",
+      "Liliom Lewald"
+    ],
+    "generos": [
+      "Drama"
+    ],
+    "paises": [
+      "Germany"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/tmcgngRJvI8D1Y18ls7yv2XY8dP.jpg",
+    "score": 7.4,
+    "sinopsis": "Luca es una influencer. Desde que tiene uso de razón, ha sido la estrella del negocio familiar de sus padres en redes sociales, además de su único orgullo y alegría. Cuando sus padres deciden tener otro hijo, las cosas cambian. Luca se siente traicionada y teme que sus padres ya no la necesiten, dado que la atención de ellos sigue estando ligada al desempeño de ella en la cuenta familiar.",
+    "titulo": "Babystar",
+    "titulo_original": "Babystar",
+    "tmdb_id": 1356474,
+    "trailer": ""
+  },
   "backrooms": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
@@ -543,6 +567,33 @@
     "tmdb_id": 1101383,
     "trailer": "https://www.youtube.com/watch?v=pKtm-_iOivI"
   },
+  "el gato con sombrero": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+    "director": "Erica Rivinoja",
+    "duracion": 108,
+    "elenco": [
+      "Bill Hader",
+      "Xochitl Gomez",
+      "Tiago Martinez"
+    ],
+    "generos": [
+      "Animación",
+      "Fantasía",
+      "Comedia"
+    ],
+    "paises": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+    "score": 6.8,
+    "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+    "titulo": "El gato con sombrero",
+    "titulo_original": "The Cat in the Hat",
+    "tmdb_id": 1117898,
+    "trailer": "https://www.youtube.com/watch?v=bRMu8S6FQ9c"
+  },
   "el gran falsificador": {
     "anio": "2014",
     "backdrop": "https://image.tmdb.org/t/p/w780/brb00GEHqtkDetey1nNSsOEvDq8.jpg",
@@ -699,6 +750,33 @@
     "tmdb_id": 18775,
     "trailer": ""
   },
+  "entrega al limite": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+    "director": "Scott Waugh",
+    "duracion": 97,
+    "elenco": [
+      "Alan Ritchson",
+      "Owen Wilson",
+      "Rodrigo Santoro"
+    ],
+    "generos": [
+      "Acción",
+      "Comedia"
+    ],
+    "paises": [
+      "United States of America",
+      "Australia",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+    "score": 8.286,
+    "sinopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+    "titulo": "Entrega al límite",
+    "titulo_original": "Runner",
+    "tmdb_id": 1377237,
+    "trailer": ""
+  },
   "escondida en mi cabeza": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/yyeLKMyd2tqr36R0dMzFe9BQo2r.jpg",
@@ -806,6 +884,32 @@
     "trailer": "https://www.youtube.com/watch?v=xs9rmpoEzNs"
   },
   "evil dead en llamas 23 10 minions y monstruos": null,
+  "godzilla minus zero": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "director": "Takashi Yamazaki",
+    "duracion": 135,
+    "elenco": [
+      "Ryunosuke Kamiki",
+      "浜辺美波",
+      "山田裕貴"
+    ],
+    "generos": [
+      "Ciencia ficción",
+      "Terror",
+      "Acción"
+    ],
+    "paises": [
+      "Japan"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
+    "score": 8.3,
+    "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+    "titulo": "Godzilla Minus Zero",
+    "titulo_original": "ゴジラ-0.0",
+    "tmdb_id": 1381071,
+    "trailer": ""
+  },
   "guardianes del museo 2": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/cEq9KqXxkGVFV5d7h5uP9ZMKg8d.jpg",
@@ -1791,6 +1895,35 @@
     "tmdb_id": 1423191,
     "trailer": "https://www.youtube.com/watch?v=d6oszs7f5aI"
   },
+  "sacrificio los elegidos": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uBRVzvMlNlKsegUCDXIwP7W6Ygb.jpg",
+    "director": "Romain Gavras",
+    "duracion": 103,
+    "elenco": [
+      "Chris Evans",
+      "Anya Taylor-Joy",
+      "Vincent Cassel"
+    ],
+    "generos": [
+      "Aventura",
+      "Comedia",
+      "Acción"
+    ],
+    "paises": [
+      "France",
+      "Greece",
+      "Cyprus",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+    "score": 5.5,
+    "sinopsis": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+    "titulo": "Sacrificio",
+    "titulo_original": "Sacrifice",
+    "tmdb_id": 1284186,
+    "trailer": ""
+  },
   "scary movie terrorificamente incorrecta": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
@@ -1840,6 +1973,31 @@
     "titulo_original": "Sense and Sensibility",
     "tmdb_id": 1503762,
     "trailer": "https://www.youtube.com/watch?v=GMwdcpKOOyY"
+  },
+  "sensatez y sentimientos": {
+    "anio": "1995",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+    "director": "Ang Lee",
+    "duracion": 131,
+    "elenco": [
+      "Emma Thompson",
+      "Kate Winslet",
+      "Alan Rickman"
+    ],
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/eAhOt2FExPlLRtkln6mAZEOFU3T.jpg",
+    "score": 7.416,
+    "sinopsis": "Inglaterra, siglo XIX. Dos hermanas completamente distintas: una, pura razón y sentido común; la otra, pura sensibilidad y pasión, se enfrentan al amor y a las adversidades de la vida. Al morir su padre, deben abandonar su hogar, que pasa a manos de un hermanastro, hijo del primer matrimonio de su padre. Se mudan al campo y, allí, tendrán experiencias amorosas que producirán en ellas un cambio profundo.",
+    "titulo": "Sentido y sensibilidad",
+    "titulo_original": "Sense and Sensibility",
+    "tmdb_id": 4584,
+    "trailer": ""
   },
   "sia nostalgia por el presente": null,
   "solo por una noche": {
