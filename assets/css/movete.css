@@ -30,6 +30,8 @@
   --c-impro: #2f8fd6;
   --c-taller: #5b6b2f;
   --c-a-plasticas: #b0468c;
+  --c-ferias: #a0522d;
+  --c-charlas: #4a5f8a;
   --c-otros: #8fae1f;
 }
 
@@ -56,6 +58,8 @@
     --c-impro: #63b8ff;
     --c-taller: #a7bd63;
     --c-a-plasticas: #e57ac0;
+    --c-ferias: #e0915f;
+    --c-charlas: #9db2e0;
     --c-otros: #c6e24f;
   }
 }
@@ -607,6 +611,8 @@ p {
 .event-card[data-category="impro"] { --cat: var(--c-impro); }
 .event-card[data-category="taller"] { --cat: var(--c-taller); }
 .event-card[data-category="a-plasticas"] { --cat: var(--c-a-plasticas); }
+.event-card[data-category="ferias"] { --cat: var(--c-ferias); }
+.event-card[data-category="charlas"] { --cat: var(--c-charlas); }
 .event-card[data-category="otros"] { --cat: var(--c-otros); }
 
 .event-card .pill {
