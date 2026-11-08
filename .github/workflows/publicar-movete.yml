@@ -74,6 +74,13 @@ jobs:
         working-directory: movete-espectaculos
         run: python generar_edicion.py --eventos eventos.json --output ../Movete-info/en-vivo
 
+      - name: Armar piezas para redes
+        # Carrusel del finde e historias de cada dia en Movete-info/redes/<jueves>/.
+        # Solo dibuja: publica redes.yml. Si falla, la edicion sale igual.
+        continue-on-error: true
+        working-directory: movete-espectaculos
+        run: python generar_redes.py --eventos eventos.json --salida ../Movete-info/redes --afiches ../Movete-info/assets/afiches
+
       - name: Generar Cine
         working-directory: movete-cine
         env:
