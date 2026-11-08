@@ -1,0 +1,68 @@
+name: Publicar en redes
+
+# Publica en Instagram y Facebook las piezas que arma el workflow del jueves
+# (Movete-info/redes/<jueves>/). Usa la API oficial de Meta, sin servicios pagos.
+#
+# APAGADO hasta que exista la variable de repo REDES_ACTIVAS = true y los
+# secrets META_TOKEN, META_PAGE_ID y META_IG_ID (ver redes/LEEME.md).
+#
+# Corre a la mañana todos los días y tambien apenas termina "Publicar semanal":
+# el jueves el carrusel sale en cuanto la edicion esta en linea, aunque GitHub
+# demore el cron. Lo ya publicado queda anotado en publicado.json y no se repite.
+
+on:
+  schedule:
+    # 08:43 Argentina (11:43 UTC)
+    - cron: "43 11 * * *"
+    # 18:43 Argentina: segunda pasada por si a la mañana la edicion no estaba.
+    - cron: "43 21 * * *"
+  workflow_run:
+    workflows: ["Publicar semanal"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: redes
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    if: vars.REDES_ACTIVAS == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Movete-info
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: Movete-info
+
+      - name: Checkout movete-espectaculos
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-espectaculos
+          path: movete-espectaculos
+
+      - name: Publicar lo de hoy
+        id: publicar
+        working-directory: movete-espectaculos
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_IG_ID: ${{ secrets.META_IG_ID }}
+        run: python3 publicar_redes.py --redes ../Movete-info/redes
+
+      - name: Guardar lo publicado
+        # Aunque haya fallado una red, lo que si salio queda anotado.
+        if: always()
+        working-directory: Movete-info
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add redes/*/publicado.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Redes: anotar lo publicado"
+          git pull --rebase origin main
+          git push
