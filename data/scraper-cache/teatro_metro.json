@@ -1,45 +1,5 @@
 [
   {
-    "titulo": "NICO DE TRACY | PURGA",
-    "fecha": "2026-11-05 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "Las Hijas",
-    "fecha": "2026-11-08 19:30:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "LAS HIJAS",
-    "fecha": "2026-11-08 21:30:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
-    "titulo": "LA BIBLIOTECA PERDIDA",
-    "fecha": "2026-11-14 18:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
     "titulo": "NI MEDIA PALABRA.",
     "fecha": "2026-11-15 20:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -100,26 +60,6 @@
     "imagen": ""
   },
   {
-    "titulo": "NICO DE TRACY | PURGA",
-    "fecha": "2026-11-05 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/nico-de-tracy-purga-100764",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260708164032_5-de-noviembre-la-plata-500x450-1.png"
-  },
-  {
-    "titulo": "LA BIBLIOTECA PERDIDA",
-    "fecha": "2026-11-14 18:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/la-biblioteca-perdida-100765",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20261030125109_3447.jpeg"
-  },
-  {
     "titulo": "NI MEDIA PALABRA.",
     "fecha": "2026-11-15 20:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -138,16 +78,6 @@
     "url": "https://www.teatrometrolp.com.ar/entrada/julian-hernandez-moscoso-100941",
     "fuente": "teatro-metro",
     "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260928162633_1600x1000_jh.png"
-  },
-  {
-    "titulo": "Las Hijas",
-    "fecha": "2026-11-08 19:30:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/las-hijas-100958",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20261006193759_copia-de-600x450.jpg"
   },
   {
     "titulo": "Lisandro Aristimuño  Experiencia Coral",
@@ -200,13 +130,13 @@
     "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20261022005622_web_cascanuec.png"
   },
   {
-    "titulo": "LAS HIJAS",
-    "fecha": "2026-11-08 21:30:00",
+    "titulo": "GUERRERAS GOLDEN: UNA NAVIDAD DORADA",
+    "fecha": "2026-12-05 19:00:00",
     "lugar": "Teatro Metro La Plata",
     "direccion": "Calle 4 entre 51 y 53, La Plata",
     "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/las-hijas-101000",
+    "url": "https://www.teatrometrolp.com.ar/entrada/guerreras-golden-una-navidad-dorada-101026",
     "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20261027133851_copia-de-600x450.jpg"
+    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20261106111904_var.jpg"
   }
 ]

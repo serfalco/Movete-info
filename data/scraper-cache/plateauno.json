@@ -1,45 +1,5 @@
 [
   {
-    "titulo": "NICO DE TRACY PURGA..",
-    "fecha": "2026-11-05 21:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/9942/nico-de-tracy-purga",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3330.jpeg"
-  },
-  {
-    "titulo": "LAS HIJAS",
-    "fecha": "2026-11-08 19:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/10079/las-hijas",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3427.jpeg"
-  },
-  {
-    "titulo": "LAS HIJAS",
-    "fecha": "2026-11-08 21:30:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/10124/las-hijas",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3427.jpeg"
-  },
-  {
-    "titulo": "LA BIBLIOTECA PERDIDA.",
-    "fecha": "2026-11-14 18:00:00",
-    "lugar": "Metro",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://www.plateaunotickets.com/obra/10104/la-biblioteca-perdida",
-    "fuente": "plateauno",
-    "imagen": "https://ventas.plateaunotickets.com/img/obras/3447.jpeg"
-  },
-  {
     "titulo": "NI MEDIA PALABRA.",
     "fecha": "2026-11-15 20:00:00",
     "lugar": "Metro",
@@ -68,5 +28,15 @@
     "url": "https://www.plateaunotickets.com/obra/10088/copa-c-l-plata-century-21",
     "fuente": "plateauno",
     "imagen": "https://ventas.plateaunotickets.com/img/obras/3430.jpeg"
+  },
+  {
+    "titulo": "GUERRERAS GOLDEN",
+    "fecha": "2026-12-05 19:00:00",
+    "lugar": "Metro",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://www.plateaunotickets.com/obra/10141/guerreras-golden",
+    "fuente": "plateauno",
+    "imagen": "https://ventas.plateaunotickets.com/img/obras/3486.jpeg"
   }
 ]

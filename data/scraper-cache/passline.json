@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "Todo Queen y Elton John, por Martin Babenco",
-    "fecha": "2026-11-06 21:00:00",
-    "lugar": "Espacio Live",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/todo-queen-y-elton-john-por-martin-babenco",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/todo-queen-y-elton-john-por-martin-babenco-567606-rec.jpg"
-  },
-  {
-    "titulo": "Fulanas Trio + El Engrupe, en Espacio Live",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Espacio Live",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/fulanas-trio-el-engrupe-en-espacio-live",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/fulanas-trio-el-engrupe-en-espacio-live-567604-rec.jpg"
-  },
-  {
     "titulo": "Segunda Mano en Espacio Live La Plata - Clásicos lado B",
     "fecha": "2026-11-14 21:00:00",
     "lugar": "Espacio Live",
@@ -48,26 +28,6 @@
     "url": "https://www.passline.com/eventos/la-magdalena-noche-sabinera-en-espacio-live-la-plata-575106",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/la-magdalena-noche-sabinera-en-espacio-live-la-plata-575106-rec.jpg"
-  },
-  {
-    "titulo": "Greatest Hits de los 80",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/greatest-hits-de-los-80",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/greatest-hits-de-los-80-570658-rec.jpg"
-  },
-  {
-    "titulo": "Luna Sujatovich + Inbal Comedi",
-    "fecha": "2026-11-08 20:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/luna-sujatovich-inbal-comedi",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/luna-sujatovich-inbal-comedi-561147-rec.jpg"
   },
   {
     "titulo": "Priscila Rauto",
@@ -160,6 +120,26 @@
     "imagen": "https://www.passline.com/imagenes/eventos/la-fiestone-nada-mal-los-burritos-573302-rec.jpg"
   },
   {
+    "titulo": "Jorge Araujo Jazz Trío",
+    "fecha": "2026-12-05 21:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/jorge-araujo-jazz-trio",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/-824400-rec.jpg"
+  },
+  {
+    "titulo": "The Shouts",
+    "fecha": "2026-12-06 21:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/the-shouts-576550",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/the-shouts-576550-rec.jpg"
+  },
+  {
     "titulo": "La Manzana Cromática Protoplasmática",
     "fecha": "2026-12-07 21:00:00",
     "lugar": "Casa Suiza",
@@ -168,6 +148,16 @@
     "url": "https://www.passline.com/eventos/la-manzana-cromatica-protoplasmatica-574756",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/-821752-rec.jpg"
+  },
+  {
+    "titulo": "PATANES + CORAZONES",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/patanes-corazones",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/patanes-corazones-576521-rec.jpg"
   },
   {
     "titulo": "LA MANCHA DE ROLANDO EN LA PLATA",
@@ -190,16 +180,6 @@
     "imagen": "https://www.passline.com/imagenes/eventos/-792658-rec.jpg"
   },
   {
-    "titulo": "LA MAGICA en ESTADIO UNO (LA PLATA) - Sabado 07 de noviembre",
-    "fecha": "2026-11-07 23:30:00",
-    "lugar": "Estadio UNO",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/lamagica0711",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/-809383-rec.jpg"
-  },
-  {
     "titulo": "Oliver Kozlov en vivo en La Plata",
     "fecha": "2026-11-14 20:00:00",
     "lugar": "Pampa Cultural",
@@ -208,15 +188,5 @@
     "url": "https://www.passline.com/eventos/oliver-kozlov-en-vivo-en-la-plata",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/oliver-kozlov-en-vivo-en-la-plata-552286-rec.jpg"
-  },
-  {
-    "titulo": "¿Por que somos asi? La Plata 6/11/21hs",
-    "fecha": "2026-11-06 21:00:00",
-    "lugar": "Teatro La Nonna",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://www.passline.com/eventos/por-que-somos-asi-la-plata-61121hs",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/por-que-somos-asi-la-plata-61121hs-562592-rec.jpg"
   }
 ]

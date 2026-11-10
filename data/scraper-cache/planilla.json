@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Nico de Tracy: Purga",
-    "fecha": "2026-11-05 21:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "Calle 4 entre 51 y 53",
-    "categoria": "stand-up",
-    "url": "https://www.teatrometrolp.com.ar/entrada/nico-de-tracy-purga-100764",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
     "titulo": "La biblioteca perdida",
     "fecha": "2026-11-14 18:00:00",
     "lugar": "Teatro Metro",
@@ -36,46 +26,6 @@
     "direccion": "Calle 4 entre 51 y 53",
     "categoria": "teatro",
     "url": "https://www.teatrometrolp.com.ar/entrada/ni-media-palabra.-100920",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "¿Por qué somos así?",
-    "fecha": "2026-11-06 21:00:00",
-    "lugar": "Teatro La Nonna",
-    "direccion": "Calle 47 Nº 395",
-    "categoria": "otros",
-    "url": "https://www.passline.com/eventos/por-que-somos-asi-la-plata-61121hs",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Greatest Hits de los 80",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/greatest-hits-de-los-80",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Fulanas Trío + El Engrupe",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Espacio Live",
-    "direccion": "Calle 56 Nº 685",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/fulanas-trio-el-engrupe-en-espacio-live",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Luna Sujatovich + Inbal Comedi",
-    "fecha": "2026-11-08 20:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/luna-sujatovich-inbal-comedi",
     "fuente": "planilla",
     "imagen": ""
   },
@@ -190,26 +140,6 @@
     "imagen": ""
   },
   {
-    "titulo": "Bicicletero Indie Club Vol.4: Sucia y Seca + Pikaflores + Kawai",
-    "fecha": "2026-11-07 20:00:00",
-    "lugar": "La Bicicletería creación colectiva",
-    "direccion": "Calle 40 esquina 117",
-    "categoria": "musica",
-    "url": "https://www.casualpass.net/e/bicicletero-indie-club-04",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Salí del Garaje — cuarta fecha",
-    "fecha": "2026-11-08 19:00:00",
-    "lugar": "Raíces del Dawson",
-    "direccion": "Nueva York y Marsella",
-    "categoria": "musica",
-    "url": "https://elmundodeberisso.com.ar/2026/10/18/sali-del-gararje-se-viene-la-segunda/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
     "titulo": "La Burguesía del Fuck You + Chabona + Síntoma",
     "fecha": "2026-11-14 20:00:00",
     "lugar": "La Bicicletería creación colectiva",
@@ -236,16 +166,6 @@
     "direccion": "Nueva York y Marsella",
     "categoria": "musica",
     "url": "https://elmundodeberisso.com.ar/2026/10/18/sali-del-gararje-se-viene-la-segunda/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Huéspedes: un día ya no se oyó ningún ruido",
-    "fecha": "2026-11-06 21:00:00",
-    "lugar": "Teatro Comunitario de Berisso",
-    "direccion": "Nueva York y Marsella",
-    "categoria": "teatro",
-    "url": "https://elmundodeberisso.com.ar/2026/10/29/la-sala-tcb-anuncia-funcion-de-huespedes-un-dia-ya-no-se-oyo-ningun-ruido/",
     "fuente": "planilla",
     "imagen": ""
   },
@@ -296,6 +216,46 @@
     "direccion": "",
     "categoria": "musica",
     "url": "https://www.berissociudad.com.ar/Llega-el-11-Encuentro-de-Acordeonistas-del-Rio-de-la-Plata-404704",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Fernando Borroni — Del sueño a la poesía",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "Puerta B",
+    "direccion": "Montevideo y 18",
+    "categoria": "musica",
+    "url": "https://elmundodeberisso.com.ar/2026/11/05/noviembre-multigenero-en-puerta-b/",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Fiore Ayllón Grupo + Tritono",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Puerta B",
+    "direccion": "Montevideo y 18",
+    "categoria": "musica",
+    "url": "https://elmundodeberisso.com.ar/2026/11/05/noviembre-multigenero-en-puerta-b/",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Milonga Pa’ Recordarte",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "Puerta B",
+    "direccion": "Montevideo y 18",
+    "categoria": "danza",
+    "url": "https://elmundodeberisso.com.ar/2026/11/05/noviembre-multigenero-en-puerta-b/",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Morenas Flamencas — tablao con Martín Sebastián Tovar y Ani García",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Puerta B",
+    "direccion": "Montevideo y 18",
+    "categoria": "danza",
+    "url": "https://elmundodeberisso.com.ar/2026/11/05/noviembre-multigenero-en-puerta-b/",
     "fuente": "planilla",
     "imagen": ""
   }

@@ -1,11 +1,11 @@
 [
   {
     "titulo": "¡Actúen!",
-    "fecha": "2026-11-07 21:00:00",
+    "fecha": "2026-11-14 21:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/actuen/funcion/la-plata/teatro-abierto/7-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/actuen/funcion/la-plata/teatro-abierto/14-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908003447-773bf579.webp"
   },
@@ -50,14 +50,14 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261029035726-a74ff7c7.jpg"
   },
   {
-    "titulo": "Campi de gira – Monólogos Argentinos",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Teatro La Nonna",
-    "direccion": "Calle 47 Nº 395, La Plata",
+    "titulo": "Con las manos atadas",
+    "fecha": "2026-11-14 18:00:00",
+    "lugar": "Espacio 44",
+    "direccion": "Av. 44 N° 496, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/campi-de-gira-monologos-argentinos/funcion/la-plata/teatro-la-nonna/7-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/con-las-manos-atadas/funcion/la-plata/espacio-44/14-noviembre-2026",
     "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260728154439-e1cf51e4.webp"
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109024104-6db72f11.webp"
   },
   {
     "titulo": "Criminal",
@@ -71,13 +71,23 @@
   },
   {
     "titulo": "Disforia",
-    "fecha": "2026-11-08 19:30:00",
+    "fecha": "2026-11-15 19:30:00",
     "lugar": "Fabrica CITA",
     "direccion": "Calle 115 Nº1467, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/disforia/funcion/la-plata/c-115-no1467/8-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/disforia/funcion/la-plata/c-115-no1467/15-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261014014911-ea18e385.webp"
+  },
+  {
+    "titulo": "Donde estaré atrapado",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "La Mercería Teatro",
+    "direccion": "Av. 1 Nº 210, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/donde-estare-atrapado-tango-milonga-teatro/funcion/la-plata/la-merceria-teatro/13-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930194000-2c0d5856.webp"
   },
   {
     "titulo": "El jefe del jefe",
@@ -100,14 +110,34 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261103060350-66163aa7.webp"
   },
   {
+    "titulo": "Error 4 : amor",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "Espacio 44",
+    "direccion": "Av. 44 N° 496, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/error-4-amor/funcion/la-plata/espacio-44/13-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109021916-83d6b3ab.webp"
+  },
+  {
     "titulo": "Escrito en la piel",
-    "fecha": "2026-11-07 21:30:00",
+    "fecha": "2026-11-14 21:30:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/7-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/14-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930051440-d15db00b.webp"
+  },
+  {
+    "titulo": "Fingir",
+    "fecha": "2026-11-10 20:30:00",
+    "lugar": "Teatro Abierto",
+    "direccion": "Calle 38 entre 20 y 21, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/fingir/funcion/la-plata/teatro-abierto/10-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109021511-d3d1c47f.webp"
   },
   {
     "titulo": "Frida, viva la vida!",
@@ -118,16 +148,6 @@
     "url": "https://teatrocerca.com.ar/obra/frida-viva-la-vida/funcion/la-plata/teatro-la-nonna/14-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261029035340-f44c31b1.webp"
-  },
-  {
-    "titulo": "Habitación Macbeth",
-    "fecha": "2026-11-06 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 Nº 78, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/habitacion-macbeth/funcion/la-plata/teatro-metro-la-plata/6-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260618032349-e5ebd622.webp"
   },
   {
     "titulo": "Juampi Gonzalez: Oveja Negra",
@@ -150,16 +170,6 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261103060839-b1de7dc2.webp"
   },
   {
-    "titulo": "La calesita (otra vuelta)",
-    "fecha": "2026-11-06 20:30:00",
-    "lugar": "Teatro El Escape",
-    "direccion": "Calle 44 Nº 1443, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-calesita-otra-vuelta/funcion/la-plata/teatro-el-escape/6-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016231856-383787cd.webp"
-  },
-  {
     "titulo": "La cena de los tontos",
     "fecha": "2026-11-12 19:30:00",
     "lugar": "Teatro Municipal Coliseo Podestá",
@@ -171,11 +181,11 @@
   },
   {
     "titulo": "La Facunda",
-    "fecha": "2026-11-07 19:30:00",
+    "fecha": "2026-11-14 19:30:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-facunda/funcion/la-plata/viejo-almacen-el-obrero/7-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/la-facunda/funcion/la-plata/viejo-almacen-el-obrero/14-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261031162540-e23a1263.webp"
   },
@@ -191,23 +201,33 @@
   },
   {
     "titulo": "La Nona del Teatro UNLP",
-    "fecha": "2026-11-07 21:00:00",
+    "fecha": "2026-11-14 21:00:00",
     "lugar": "Teatro de la UNLP",
     "direccion": "Calle 10 Nº 1076, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-nona-del-teatro-unlp/funcion/la-plata/teatro-de-la-unlp/7-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/la-nona-del-teatro-unlp/funcion/la-plata/teatro-de-la-unlp/14-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260819131718-c4fc4565.webp"
   },
   {
-    "titulo": "Las hijas",
-    "fecha": "2026-11-07 20:00:00",
-    "lugar": "Teatro Municipal Coliseo Podestá",
-    "direccion": "Calle 10 Nº 733, La Plata",
+    "titulo": "Lady Godiva la diva",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "Teatro El Escape",
+    "direccion": "Calle 44 Nº 1443, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/las-hijas-florencia-pena-villamil/funcion/la-plata/teatro-municipal-coliseo-podesta/7-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/lady-godiva-la-diva/funcion/la-plata/teatro-el-escape/13-noviembre-2026",
     "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260815002359-99a1d245.webp"
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109022252-3f750ff4.webp"
+  },
+  {
+    "titulo": "Los acompañantes",
+    "fecha": "2026-11-13 21:30:00",
+    "lugar": "Escenario 40",
+    "direccion": "Calle 40 Nº 1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/los-acompanantes/funcion/la-plata/escenario-40/13-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109023303-507e7a5f.webp"
   },
   {
     "titulo": "Los amantes de la casa azul",
@@ -220,22 +240,22 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016232050-6cf26c21.webp"
   },
   {
-    "titulo": "Luces en el espejo",
-    "fecha": "2026-11-08 20:00:00",
+    "titulo": "Miracolosa",
+    "fecha": "2026-11-14 21:30:00",
     "lugar": "Escenario 40",
     "direccion": "Calle 40 Nº 1180, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/luces-en-el-espejo/funcion/la-plata/escenario-40/8-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/miracolosa/funcion/la-plata/escenario-40/14-noviembre-2026",
     "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260831182315-a0708146.webp"
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109030259-626a9e2f.webp"
   },
   {
     "titulo": "Narices negras",
-    "fecha": "2026-11-08 20:00:00",
+    "fecha": "2026-11-15 20:00:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/narices-negras/funcion/la-plata/viejo-almacen-el-obrero/8-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/narices-negras/funcion/la-plata/viejo-almacen-el-obrero/15-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261028032045-38f7419b.webp"
   },
@@ -250,14 +270,34 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812034459-0141d983.webp"
   },
   {
-    "titulo": "Una Jornada Satánica",
-    "fecha": "2026-11-07 21:00:00",
-    "lugar": "Teatro El Escape",
-    "direccion": "Calle 44 Nº 1443, La Plata",
+    "titulo": "Otra estúpida razón para no morir (en otoño)",
+    "fecha": "2026-11-15 20:00:00",
+    "lugar": "Teatro Abierto",
+    "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/una-jornada-satanica/funcion/la-plata/teatro-el-escape/7-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/otra-estupida-razon-para-no-morir-en-otono/funcion/la-plata/teatro-abierto/15-noviembre-2026",
     "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016231650-a8a704c7.webp"
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109024958-f4a6ed55.webp"
+  },
+  {
+    "titulo": "Proyecto 10",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "El Medio Aljibe",
+    "direccion": "Calle 11 Nº 1674, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/proyecto-10/funcion/la-plata/el-medio-aljibe/14-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109025914-d993416c.webp"
+  },
+  {
+    "titulo": "Roja",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Espacio 44",
+    "direccion": "Av. 44 N° 496, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/roja/funcion/la-plata/espacio-44/14-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109030017-91e9919a.webp"
   },
   {
     "titulo": "Connie Ballarini: Tour 2026",
@@ -278,16 +318,6 @@
     "url": "https://teatrocerca.com.ar/obra/dan-tumburus-estoy-bien-gracias/funcion/la-plata/teatro-metro-la-plata/3-diciembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261031144505-44606256.webp"
-  },
-  {
-    "titulo": "Nico de Tracy: Purga",
-    "fecha": "2026-11-05 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 Nº 78, La Plata",
-    "categoria": "stand-up",
-    "url": "https://teatrocerca.com.ar/obra/nico-de-tracy-purga/funcion/la-plata/teatro-metro-la-plata/5-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260814035555-3dd14e78.webp"
   },
   {
     "titulo": "Turco Naim: Un Turco Suelto:",
