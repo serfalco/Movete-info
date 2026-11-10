@@ -3,8 +3,10 @@ name: Publicar en redes
 # Publica en Instagram y Facebook las piezas que arma el workflow del jueves
 # (Movete-info/redes/<jueves>/). Usa la API oficial de Meta, sin servicios pagos.
 #
-# APAGADO hasta que exista la variable de repo REDES_ACTIVAS = true y los
-# secrets META_TOKEN, META_PAGE_ID y META_IG_ID (ver redes/LEEME.md).
+# Los horarios corren solo con la variable de repo REDES_ACTIVAS = true.
+# "Run workflow" a mano corre siempre (para probar). Necesita el secret
+# META_TOKEN (ver redes/LEEME.md). Los IDs de la página y de Instagram son
+# públicos y van fijos acá.
 #
 # Corre a la mañana todos los días y tambien apenas termina "Publicar semanal":
 # el jueves el carrusel sale en cuanto la edicion esta en linea, aunque GitHub
@@ -30,7 +32,7 @@ concurrency:
 
 jobs:
   publicar:
-    if: vars.REDES_ACTIVAS == 'true'
+    if: vars.REDES_ACTIVAS == 'true' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Movete-info
@@ -50,8 +52,8 @@ jobs:
         working-directory: movete-espectaculos
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
-          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
-          META_IG_ID: ${{ secrets.META_IG_ID }}
+          META_PAGE_ID: "1488996694288959"   # página Movete La Plata
+          META_IG_ID: "17841441843041753"    # Instagram @movete.info
         run: python3 publicar_redes.py --redes ../Movete-info/redes
 
       - name: Guardar lo publicado
