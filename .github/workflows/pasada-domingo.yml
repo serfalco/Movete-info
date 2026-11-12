@@ -1,0 +1,100 @@
+name: Pasada domingo
+
+# Una de las tres pasadas de la semana (martes, jueves y domingo).
+# Refresco liviano: entran los shows que las salas cargaron en el finde y lo
+# anunciado para la semana que viene, en la portada de En Vivo, rubros,
+# salas, obras, hoy y finde.
+#
+# Lo que NO hace:
+#  - No reescribe la edicion fechada vigente (/en-vivo/<jueves>/): queda como
+#    la publico el jueves. Si la reescribiera, perderia los dias que ya
+#    pasaron, porque el scraper descarta lo pasado.
+#  - No toca cine, redes ni newsletter: eso es del jueves.
+#  - No scrapea passline: sale de su respaldo, para no pegarle mas que antes.
+#  - No pone la corrida en rojo si una fuente se cae: el aviso queda en el
+#    log y, si sigue caida, la pasada del martes manda el mail (el domingo
+#    no guarda su salud: el martes se compara contra el jueves).
+
+on:
+  schedule:
+    # Domingo 07:23 Argentina (10:23 UTC). GitHub puede demorar los cron.
+    - cron: "23 10 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-movete
+  cancel-in-progress: false
+
+jobs:
+  pasada-domingo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Movete-info
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: Movete-info
+
+      - name: Checkout movete-scraper
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-scraper
+          path: movete-scraper
+
+      - name: Checkout movete-espectaculos
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-espectaculos
+          path: movete-espectaculos
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias del scraper
+        working-directory: movete-scraper
+        run: pip install -r requirements.txt Pillow  # Pillow: copias livianas de imagenes
+
+      - name: Generar eventos.json
+        working-directory: movete-scraper
+        env:
+          SALIDA_JSON: ../movete-espectaculos/eventos.json
+          MOVETE_CACHE_DIR: ../Movete-info/data/scraper-cache
+          MOVETE_ALERTA: ${{ github.workspace }}/_alerta.txt
+          MOVETE_FUENTES_EN_PAUSA: passline
+          MOVETE_SALUD_SOLO_LECTURA: "1"
+        run: python main.py
+
+      - name: Actualizar lo vigente sin tocar la edicion fechada
+        working-directory: movete-espectaculos
+        run: python generar_edicion.py --eventos eventos.json --output ../Movete-info/en-vivo --sin-fechada
+
+      - name: Actualizar portada
+        working-directory: Movete-info
+        run: python actualizar_portada.py
+
+      - name: Commit en Movete-info
+        working-directory: Movete-info
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Pasada del domingo MoVeTe"
+          git pull --rebase origin main
+          git push
+
+      - name: Dejar anotado si una fuente se cayo
+        # Solo aviso en el log (no rojo): el domingo no manda mail.
+        if: always()
+        run: |
+          if [ -f "$GITHUB_WORKSPACE/_alerta.txt" ]; then
+            echo "::warning::$(head -1 "$GITHUB_WORKSPACE/_alerta.txt")"
+            cat "$GITHUB_WORKSPACE/_alerta.txt"
+          else
+            echo "Pasada del domingo publicada: ninguna fuente troncal se cayo."
+          fi

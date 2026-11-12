@@ -52,7 +52,10 @@ def actualizar_portada(index_path: Path, hoy: date) -> date:
 MARCA_SEMANA = re.compile(r'(<!-- PORTADA:SEMANA -->)(.*?)(<!-- /PORTADA:SEMANA -->)', re.S)
 MARCA_VIENE = re.compile(r'(<!-- PORTADA:VIENE -->)(.*?)(<!-- /PORTADA:VIENE -->)', re.S)
 DAY_RE = re.compile(r'<section class="day-block"[^>]*>\s*<h2>[^<]*?(\d{1,2}) de (\w+)</h2>(.*?)</section>', re.S)
-CARD_RE = re.compile(r'<article class="event-card[^"]*" data-category="([^"]+)">.*?</article>', re.S)
+# Las tarjetas traen mas atributos despues de data-category (data-dia,
+# data-texto... del buscador, desde el 06/11/2026). Si el regex exige ">" justo
+# despues, no encuentra ninguna y "Esta semana" de la portada queda congelada.
+CARD_RE = re.compile(r'<article class="event-card[^"]*" data-category="([^"]+)"[^>]*>.*?</article>', re.S)
 FUTURE_RE = re.compile(r'<article class="event-card future"[^>]*>.*?</article>', re.S)
 TITLE_RE = re.compile(r'<h3><a [^>]*>([^<]+)</a>')
 MAX_SEMANA = 48
