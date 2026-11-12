@@ -4,9 +4,14 @@ on:
   schedule:
     # Martes 04:00 Argentina (07:00 UTC). GitHub puede demorar los cron varias horas.
     # Para el martes los teatros (Teatro Cerca) y las boleterias ya cargaron casi toda
-    # la semana siguiente. Se publica SOLO la edicion fechada del proximo jueves
-    # (/en-vivo/AAAA-MM-DD/), sin tocar la edicion vigente ni la portada. El jueves
-    # la corrida completa (Publicar semanal) la reemplaza con cine y el resto.
+    # la semana siguiente. Dos cosas:
+    #  1. Pasada intermedia: entran los shows nuevos en la portada de En Vivo,
+    #     rubros, salas, obras, hoy y finde. NO se reescribe la edicion fechada
+    #     vigente (/en-vivo/<jueves pasado>/): queda como la publico el jueves.
+    #  2. Pre-edicion: la edicion fechada del proximo jueves sale como URL propia
+    #     para que Google la descubra antes. El jueves la corrida completa
+    #     (Publicar semanal) la reemplaza con cine y el resto.
+    # Es una de las tres pasadas de la semana: martes, jueves y domingo.
     - cron: "0 7 * * 2"
   workflow_dispatch:
 
@@ -65,6 +70,10 @@ jobs:
           MOVETE_ALERTA: ${{ github.workspace }}/_alerta.txt
         run: python main.py
 
+      - name: Actualizar lo vigente sin tocar la edicion fechada
+        working-directory: movete-espectaculos
+        run: python generar_edicion.py --eventos eventos.json --output ../Movete-info/en-vivo --sin-fechada
+
       - name: Generar pre-edicion fechada
         working-directory: movete-espectaculos
         run: |
@@ -72,13 +81,18 @@ jobs:
             --output ../Movete-info/en-vivo \
             --hoy "${{ steps.jueves.outputs.fecha }}" --solo-fechada
 
+      - name: Actualizar portada
+        working-directory: Movete-info
+        run: python actualizar_portada.py
+
       - name: Commit en Movete-info
         working-directory: Movete-info
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Pre-edicion MoVeTe ${{ steps.jueves.outputs.fecha }}"
+          git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Pasada del martes y pre-edicion MoVeTe ${{ steps.jueves.outputs.fecha }}"
+          git pull --rebase origin main
           git push
 
       - name: Avisar si la cartelera salio incompleta
