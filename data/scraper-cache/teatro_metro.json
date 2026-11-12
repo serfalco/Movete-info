@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "NI MEDIA PALABRA.",
-    "fecha": "2026-11-15 20:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "teatro-metro",
-    "imagen": ""
-  },
-  {
     "titulo": "EL CUARTO DE VERONICA",
     "fecha": "2026-11-20 21:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -58,16 +48,6 @@
     "url": "",
     "fuente": "teatro-metro",
     "imagen": ""
-  },
-  {
-    "titulo": "NI MEDIA PALABRA.",
-    "fecha": "2026-11-15 20:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 entre 51 y 53, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/ni-media-palabra.-100920",
-    "fuente": "teatro-metro",
-    "imagen": "https://www.teatrometrolp.com.ar/sistema/uploads/366/entradas/20260917104949_nmp-15-11-la-plata-ticketera-600x450.jpg"
   },
   {
     "titulo": "Julián Hernández",

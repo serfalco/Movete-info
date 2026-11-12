@@ -90,16 +90,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/05/000322605.jpg"
   },
   {
-    "titulo": "Puzzle",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
-    "direccion": "Av 13 1900 esquina 71, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas92621-puzzle?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/28/000290928.jpg"
-  },
-  {
     "titulo": "Disforia",
     "fecha": "2026-11-15 19:30:00",
     "lugar": "FÁBRICA CITA",
@@ -170,6 +160,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/32/000318232.jpg"
   },
   {
+    "titulo": "Laberinto Borges",
+    "fecha": "2026-12-04 20:30:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra100577-laberinto-borges",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/61/000313361.jpg"
+  },
+  {
     "titulo": "Los acompañantes",
     "fecha": "2026-11-13 21:30:00",
     "lugar": "ESCENARIO-40",
@@ -201,7 +201,7 @@
   },
   {
     "titulo": "Muestra del taller del match de improvisacion",
-    "fecha": "2026-11-10 20:00:00",
+    "fecha": "2026-11-24 20:00:00",
     "lugar": "SALA 420",
     "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
     "categoria": "impro",
@@ -391,7 +391,7 @@
   },
   {
     "titulo": "Fingir",
-    "fecha": "2026-11-10 20:30:00",
+    "fecha": "2026-11-13 21:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -451,10 +451,10 @@
   },
   {
     "titulo": "ADICTOS IA - Muestra de avanzada 2026-TALLER DE ENTRENAMIENTO ACTORAL Y CREACIONES ESCÉNICAS de Blas Arrese Igor.",
-    "fecha": "2026-11-11 21:00:00",
+    "fecha": "2026-11-18 21:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
-    "categoria": "taller",
+    "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas104058-adictos-ia-muestra-de-avanzada-2026taller-de-entrenamiento-actoral-y-creaciones-escenicas-de-blas-arrese-igor?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/30/000323930.jpg"
@@ -488,5 +488,25 @@
     "url": "https://publico.alternativateatral.com/entradas104176-fuerte-y-al-medio-vol-ii?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/26/000324226.jpg"
+  },
+  {
+    "titulo": "Insignificante: el peso de lo que no se ve",
+    "fecha": "2026-12-13 20:00:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas104224-insignificante-el-peso-de-lo-que-no-se-ve?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/43/000324343.jpg"
+  },
+  {
+    "titulo": "Estado de crisis VI - Docentes",
+    "fecha": "2026-11-15 19:30:00",
+    "lugar": "ESPACIO 44",
+    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra104242-estado-de-crisis-vi-docentes",
+    "fuente": "alternativa",
+    "imagen": ""
   }
 ]

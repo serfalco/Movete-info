@@ -10,6 +10,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908003447-773bf579.webp"
   },
   {
+    "titulo": "Alicia (o como narrar el olvido)",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "Calle 50 Nº 575, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/alicia-o-como-narrar-el-olvido/funcion/la-plata/pasaje-dardo-rocha/13-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260824184442-b8a909b8.webp"
+  },
+  {
     "titulo": "Alonso y Frankillo: Pan con manteca",
     "fecha": "2026-11-21 21:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -131,11 +141,11 @@
   },
   {
     "titulo": "Fingir",
-    "fecha": "2026-11-10 20:30:00",
+    "fecha": "2026-11-13 21:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/fingir/funcion/la-plata/teatro-abierto/10-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/fingir/funcion/la-plata/teatro-abierto/13-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109021511-d3d1c47f.webp"
   },
@@ -148,6 +158,16 @@
     "url": "https://teatrocerca.com.ar/obra/frida-viva-la-vida/funcion/la-plata/teatro-la-nonna/14-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261029035340-f44c31b1.webp"
+  },
+  {
+    "titulo": "Invisible: Unipersonal de Juan Sola",
+    "fecha": "2026-12-05 20:00:00",
+    "lugar": "Teatro Metro La Plata",
+    "direccion": "Calle 4 Nº 78, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/invisible-unipersonal-de-juan-sola/funcion/la-plata/teatro-metro-la-plata/5-diciembre-2026-20-00",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260813191433-f3cfd3d2.webp"
   },
   {
     "titulo": "Juampi Gonzalez: Oveja Negra",
@@ -300,6 +320,16 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109030017-91e9919a.webp"
   },
   {
+    "titulo": "Venecia",
+    "fecha": "2026-11-15 19:30:00",
+    "lugar": "Telón Negro Teatro",
+    "direccion": "Av. 13 Nº 26, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/venecia/funcion/la-plata/telon-negro-teatro/15-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261112023552-2345ef2f.webp"
+  },
+  {
     "titulo": "Connie Ballarini: Tour 2026",
     "fecha": "2026-11-14 20:00:00",
     "lugar": "Teatro Municipal Coliseo Podestá",
@@ -310,7 +340,7 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260808230420-137a0468.webp"
   },
   {
-    "titulo": "Dan Tumburús; Estoy bien, gracias",
+    "titulo": "Dan Tumburús: Estoy bien, gracias",
     "fecha": "2026-12-03 21:00:00",
     "lugar": "Teatro Metro La Plata",
     "direccion": "Calle 4 Nº 78, La Plata",

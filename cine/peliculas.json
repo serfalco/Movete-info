@@ -130,6 +130,32 @@
     "tmdb_id": 454639,
     "trailer": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo"
   },
+  "aniquilacion": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+    "director": "Adam Wingard",
+    "duracion": 92,
+    "elenco": [
+      "Adria Arjona",
+      "Dan Stevens",
+      "Eric Wareheim"
+    ],
+    "generos": [
+      "Acción",
+      "Suspense",
+      "Terror"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg",
+    "score": 5.5,
+    "sinopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
+    "titulo": "Aniquilación",
+    "titulo_original": "Onslaught",
+    "tmdb_id": 1284046,
+    "trailer": ""
+  },
   "avengers endgame": {
     "anio": "2019",
     "backdrop": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
@@ -279,6 +305,33 @@
     "tmdb_id": 430357,
     "trailer": ""
   },
+  "caballo salvaje nueve": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+    "director": "Martin McDonagh",
+    "duracion": 117,
+    "elenco": [
+      "John Malkovich",
+      "Sam Rockwell",
+      "Steve Buscemi"
+    ],
+    "generos": [
+      "Comedia",
+      "Crimen",
+      "Suspense"
+    ],
+    "paises": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+    "score": 8.1,
+    "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
+    "titulo": "Wild Horse Nine",
+    "titulo_original": "Wild Horse Nine",
+    "tmdb_id": 891621,
+    "trailer": ""
+  },
   "cars": {
     "anio": "2006",
     "backdrop": "https://image.tmdb.org/t/p/w780/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
@@ -355,6 +408,32 @@
     "tmdb_id": 188834,
     "trailer": ""
   },
+  "como robar un banco": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+    "director": "David Leitch",
+    "duracion": 122,
+    "elenco": [
+      "Nicholas Hoult",
+      "Zoë Kravitz",
+      "Anna Sawai"
+    ],
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "paises": [
+      "United States of America"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+    "score": 6.917,
+    "sinopsis": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+    "titulo": "Como robar un banco",
+    "titulo_original": "How to Rob a Bank",
+    "tmdb_id": 1437511,
+    "trailer": "https://www.youtube.com/watch?v=tKtg0S1rm2M"
+  },
   "coyote contra acme": null,
   "digger": {
     "anio": "2026",
@@ -380,6 +459,32 @@
     "titulo_original": "Digger",
     "tmdb_id": 1248832,
     "trailer": "https://www.youtube.com/watch?v=xU2jWSsaWY0"
+  },
+  "ebenezer los fantasmas de navidad": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+    "director": "Ti West",
+    "duracion": 115,
+    "elenco": [
+      "Johnny Depp",
+      "Rupert Grint",
+      "Daisy Ridley"
+    ],
+    "generos": [
+      "Fantasía",
+      "Comedia"
+    ],
+    "paises": [
+      "United States of America",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+    "score": 8.5,
+    "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+    "titulo": "Scrooge y los fantasmas de la Navidad",
+    "titulo_original": "Ebenezer",
+    "tmdb_id": 1567605,
+    "trailer": "https://www.youtube.com/watch?v=H8awcDUhl84"
   },
   "el afinador": {
     "anio": "2005",
@@ -1096,6 +1201,30 @@
     "tmdb_id": 1612018,
     "trailer": "https://www.youtube.com/watch?v=1Wd2Awev2jk"
   },
+  "ju on el grito": {
+    "anio": "2014",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8v7CBqnCIyaQejMV8rh87NjX5sE.jpg",
+    "director": "落合正幸",
+    "duracion": 91,
+    "elenco": [
+      "Nozomi Sasaki",
+      "青柳翔",
+      "トリンドル玲奈"
+    ],
+    "generos": [
+      "Terror"
+    ],
+    "paises": [
+      "Japan"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/wJHee7DW3NACAsBXsEqlTofbb0Q.jpg",
+    "score": 6.0,
+    "sinopsis": "Una maestra de escuela llamada Yui visita la casa de un chico llamado Toshio Saeki, que ha estado ausente del colegio por un largo periodo de tiempo. Cuando llega, revive el terrible drama que se produjo en el hogar de Saeki hace 10 años. Una caja de carton en un armario es la clave para revelar una verdad oculta por mucho tiempo.",
+    "titulo": "Ju-on: Beginning of the End",
+    "titulo_original": "呪怨－終わりの始まり－",
+    "tmdb_id": 259233,
+    "trailer": "https://www.youtube.com/watch?v=Hvw5oOiIpHo"
+  },
   "jue 12 30 17 30 20 00 el diablo viste a la moda 2": null,
   "jueves a viernes 21 30 minions y monstruos": null,
   "la caida de la ballena": {
@@ -1792,6 +1921,39 @@
     "titulo_original": "Pinocchio: Unstrung",
     "tmdb_id": 1232569,
     "trailer": "https://www.youtube.com/watch?v=NPLgD0dNQ8c"
+  },
+  "por el bien de adam": {
+    "anio": "2013",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pf4SWYA5LH0Byho5PusLTtfZljq.jpg",
+    "director": "Felix Herngren",
+    "duracion": 114,
+    "elenco": [
+      "Robert Gustafsson",
+      "Iwar Wiklander",
+      "David Wiberg"
+    ],
+    "generos": [
+      "Aventura",
+      "Comedia",
+      "Drama"
+    ],
+    "paises": [
+      "Sweden",
+      "Hungary",
+      "Croatia",
+      "Turkey",
+      "Denmark",
+      "Netherlands",
+      "United States of America",
+      "France"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/qLspQ1VFWeR4tFPnXCZwih2qjBv.jpg",
+    "score": 6.816,
+    "sinopsis": "Allan Karlsson acaba de cumplir 100 años. Durante su larga vida, le han pasado muchas cosas y ha conocido a mucha gente. Puede presumir de haberse encontrado con personas de todo tipo, como, por ejemplo, Franco, Churchill, Stalin o incluso con la mujer de Mao, con la que estableció una comprometedora amistad. Por si eso no fuese suficiente, Allan también participó en la creación de la bomba atómica, ayudando a Oppenheimer a elaborarla, y trabajó como agente de la CIA, aparte de otras muchas actividades peligrosas que hicieron de su vida toda una aventura.",
+    "titulo": "El abuelo que saltó por la ventana y se largó",
+    "titulo_original": "Hundraåringen som klev ut genom fönstret och försvann",
+    "tmdb_id": 145247,
+    "trailer": ""
   },
   "que dios perdona a todos": null,
   "queres ser mi hijo": {

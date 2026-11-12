@@ -1,135 +1,5 @@
 [
   {
-    "titulo": "Pertenencias - Dir. Gabriela González Fuentes",
-    "fecha": "2026-11-10 18:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/pertenencias-dir-gabriela-gonzalez-fuentes-cine-ecoselect-espacio-incaa-20261105090756",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105090757.jpg"
-  },
-  {
-    "titulo": "Soy ella - Dir. Cecilia Pinotti",
-    "fecha": "2026-11-10 18:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/soy-ella-dir-cecilia-pinotti-cine-select-espacio-incaa-20261105090013",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105090014.jpg"
-  },
-  {
-    "titulo": "Mestre Esguleba - Batuque dos Ancestrais",
-    "fecha": "2026-11-10 19:00:00",
-    "lugar": "Espacio Sudaka",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/mestre-esguleba-batuque-dos-ancestrais-espacio-sudaka-20261024022309",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261024022310.jpg"
-  },
-  {
-    "titulo": "Festi Clip",
-    "fecha": "2026-11-10 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/festi-clip-cine-ecoselect-espacio-incaa-20261105091138",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105091139.jpg"
-  },
-  {
-    "titulo": "To wong foo, thanks for everything Julie Newmar! (Dir. Beeban Kidron)",
-    "fecha": "2026-11-10 20:00:00",
-    "lugar": "Espacio Rebelión - Casa socialista",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/to-wong-foo-thanks-for-everything-julie-newmar-dir-beeban-kidron-espacio-rebelion-casa-socialista-20261109122639",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261109122640.jpg"
-  },
-  {
-    "titulo": "Columbo: Homicidio de acuerdo con el libro - Dir. Steven Spielberg",
-    "fecha": "2026-11-10 20:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/columbo-homicidio-de-acuerdo-con-el-libro-dir-steven-spielberg-cine-select-espacio-incaa-20261105090400",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105090401.jpg"
-  },
-  {
-    "titulo": "Last Shift - Dir. Anthony DiBlasi",
-    "fecha": "2026-11-10 21:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/last-shift-dir-anthony-diblasi-cine-club-proyecciones-terrestres-20261105082606",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105082607.jpg"
-  },
-  {
-    "titulo": "Lucas Finocchi + Kubilai Medina (con un especial de Mostruo!)",
-    "fecha": "2026-11-10 21:00:00",
-    "lugar": "Miraflores",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/lucas-finocchi-kubilai-medina-con-un-especial-de-mostruo-miraflores-20261109125141",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261109125142.jpg"
-  },
-  {
-    "titulo": "Los años rugientes",
-    "fecha": "2026-11-11 17:30:00",
-    "lugar": "Teatro Bar Cultural La Ferretería",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/los-anos-rugientes-teatro-bar-cultural-la-ferreteria-20261012225043",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261012225044.jpg"
-  },
-  {
-    "titulo": "Mestre Esguleba - Batuque dos Ancestrais",
-    "fecha": "2026-11-11 19:00:00",
-    "lugar": "Espacio Sudaka",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/mestre-esguleba-batuque-dos-ancestrais-espacio-sudaka-20261024022309",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261024022310.jpg"
-  },
-  {
-    "titulo": "Clínica de sonidos en inglés",
-    "fecha": "2026-11-11 19:30:00",
-    "lugar": "Centro Cultural Estación Provincial",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/clinica-de-sonidos-en-ingles-centro-cultural-estacion-provincial-20261105092634",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105092635.jpg"
-  },
-  {
-    "titulo": "Rancheo literario",
-    "fecha": "2026-11-11 20:00:00",
-    "lugar": "La Bicicletería creación colectiva",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/rancheo-literario-la-bicicleteria-creacion-colectiva-20261023183455",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261023183456.jpg"
-  },
-  {
-    "titulo": "A 50 años del ataque a la casa mariani teruggi",
-    "fecha": "2026-11-12 10:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/a-50-anos-del-ataque-a-la-casa-mariani-teruggi-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20261105091927",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105091928.jpg"
-  },
-  {
     "titulo": "2° Encuentro Bonaerense Tradicionalista de Canto y Danza \"Francisco Chamorro\"",
     "fecha": "2026-11-12 17:00:00",
     "lugar": "Teatro Argentino - Centro Provincial de las Artes",
@@ -180,6 +50,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260928223855.jpg"
   },
   {
+    "titulo": "Majo Fernández Molina",
+    "fecha": "2026-11-12 21:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/majo-fernandez-molina-sala-420-20261013190502",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261013190503.jpg"
+  },
+  {
     "titulo": "Llegando los monos por la Manija",
     "fecha": "2026-11-12 21:00:00",
     "lugar": "Casa Metro",
@@ -190,14 +70,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261030115025.jpg"
   },
   {
-    "titulo": "Majo Fernández Molina",
+    "titulo": "Jam de Jazz",
     "fecha": "2026-11-12 21:00:00",
-    "lugar": "Sala 420",
+    "lugar": "Estudio 71",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/majo-fernandez-molina-sala-420-20261013190502",
+    "url": "https://agendalaplata.ar/evento/jam-de-jazz-estudio-71-20261112111700",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261013190503.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261112111701.jpg"
   },
   {
     "titulo": "A 50 años del ataque a la casa mariani teruggi",
@@ -230,6 +110,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261107233953.jpg"
   },
   {
+    "titulo": "Julio Ferrer - “Pasión por el Quijote. Welles, Gades, Brando, Olivier”",
+    "fecha": "2026-11-13 19:30:00",
+    "lugar": "La Salamanca Centro de Cultura y Peña",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/julio-ferrer-pasion-por-el-quijote-welles-gades-brando-olivier-la-salamanca-centro-de-cultura-y-pena-20261112112152",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261112112153.jpg"
+  },
+  {
     "titulo": "Giros - Lo malo del después",
     "fecha": "2026-11-13 20:00:00",
     "lugar": "Teatro Opera",
@@ -238,56 +128,6 @@
     "url": "https://agendalaplata.ar/evento/giros-lo-malo-del-despues-teatro-opera-20260807020159",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260807020200.jpg"
-  },
-  {
-    "titulo": "La cofradía del Rey Lagarto",
-    "fecha": "2026-11-13 20:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-cofradia-del-rey-lagarto-teatro-rene-favaloro-20261021130600",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261021130601.jpg"
-  },
-  {
-    "titulo": "Alicia (o cómo narrar el olvido)",
-    "fecha": "2026-11-13 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/alicia-o-como-narrar-el-olvido-pasaje-dardo-rocha-20261108095637",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261108095638.jpg"
-  },
-  {
-    "titulo": "Green River Band",
-    "fecha": "2026-11-13 20:00:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/green-river-band-teatro-de-camara-city-bell-20261023183257",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261023183258.jpg"
-  },
-  {
-    "titulo": "Nacha Guevara - “Seamos realistas, soñemos lo imposible”",
-    "fecha": "2026-11-13 20:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "charlas",
-    "url": "https://agendalaplata.ar/evento/nacha-guevara-seamos-realistas-sonemos-lo-imposible-teatro-argentino-centro-provincial-de-las-artes-20261026231447",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261026231448.jpg"
-  },
-  {
-    "titulo": "Mujer Cebra",
-    "fecha": "2026-11-13 20:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mujer-cebra-ciudad-de-gatos-20261023172701",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261023172702.jpg"
   },
   {
     "titulo": "Villanos",
@@ -300,14 +140,74 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261026234747.jpg"
   },
   {
-    "titulo": "Murgas al galpón",
-    "fecha": "2026-11-13 20:30:00",
-    "lugar": "Comunidad Ferroviaria",
+    "titulo": "Nacha Guevara - “Seamos realistas, soñemos lo imposible”",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "charlas",
+    "url": "https://agendalaplata.ar/evento/nacha-guevara-seamos-realistas-sonemos-lo-imposible-teatro-argentino-centro-provincial-de-las-artes-20261026231447",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261026231448.jpg"
+  },
+  {
+    "titulo": "La cofradía del Rey Lagarto",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-cofradia-del-rey-lagarto-teatro-rene-favaloro-20261021130600",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261021130601.jpg"
+  },
+  {
+    "titulo": "Mujer Cebra",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/mujer-cebra-ciudad-de-gatos-20261023172701",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261023172702.jpg"
+  },
+  {
+    "titulo": "Green River Band",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/green-river-band-teatro-de-camara-city-bell-20261023183257",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261023183258.jpg"
+  },
+  {
+    "titulo": "Alicia (o cómo narrar el olvido)",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/alicia-o-como-narrar-el-olvido-pasaje-dardo-rocha-20261108095637",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261108095638.jpg"
+  },
+  {
+    "titulo": "F2F - The Date",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "La Plata",
     "direccion": "",
     "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/murgas-al-galpon-comunidad-ferroviaria-20261009004513",
+    "url": "https://agendalaplata.ar/evento/f2f-the-date-20261112111402",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261009004514.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261112111403.jpg"
+  },
+  {
+    "titulo": "Pulpo + La danza las bestias",
+    "fecha": "2026-11-13 20:30:00",
+    "lugar": "Calle UNO, Casa de Cultura",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/pulpo-la-danza-las-bestias-calle-uno-casa-de-cultura-20261112105244",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261112105245.jpg"
   },
   {
     "titulo": "Liga de improvisadores",
@@ -320,6 +220,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261104185008.jpg"
   },
   {
+    "titulo": "Murgas al galpón",
+    "fecha": "2026-11-13 20:30:00",
+    "lugar": "Comunidad Ferroviaria",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/murgas-al-galpon-comunidad-ferroviaria-20261009004513",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261009004514.jpg"
+  },
+  {
     "titulo": "Juampi González - Oveja negra",
     "fecha": "2026-11-13 21:00:00",
     "lugar": "El Teatro BAR",
@@ -330,14 +240,64 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261103000208.jpg"
   },
   {
-    "titulo": "A 50 años del ataque a la casa mariani teruggi",
-    "fecha": "2026-11-14 10:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
+    "titulo": "JAZZ en la Bici",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "La Bicicletería creación colectiva",
     "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/a-50-anos-del-ataque-a-la-casa-mariani-teruggi-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20261105091927",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/jazz-en-la-bici-la-bicicleteria-creacion-colectiva-20261112110108",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105091928.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261112110109.jpg"
+  },
+  {
+    "titulo": "Ramiro González - Conjuros",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "La Salamanca Centro de Cultura y Peña",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/ramiro-gonzalez-conjuros-la-salamanca-centro-de-cultura-y-pena-20261112112351",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261112112352.jpg"
+  },
+  {
+    "titulo": "Triangular",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/triangular-sala-420-20261111112910",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111112911.jpg"
+  },
+  {
+    "titulo": "Noche Beatle",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "Casa popular Chicha Mariani",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/noche-beatle-casa-popular-chicha-mariani-20261111121049",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111121050.jpg"
+  },
+  {
+    "titulo": "Teatro - Maybe",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "Área Chica",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/teatro-maybe-area-chica-20261110234946",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261110234947.jpg"
+  },
+  {
+    "titulo": "Oscuro y bailable",
+    "fecha": "2026-11-13 23:55:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/oscuro-y-bailable-ciudad-de-gatos-20261111113221",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111113222.jpg"
   },
   {
     "titulo": "II Encuentro de La lectura: una forma de hospitalidad",
@@ -350,14 +310,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261109124549.jpg"
   },
   {
-    "titulo": "11vo Encuentro de Acordeonistas del Río de la Plata",
-    "fecha": "2026-11-14 11:00:00",
-    "lugar": "La Plata",
+    "titulo": "A 50 años del ataque a la casa mariani teruggi",
+    "fecha": "2026-11-14 10:00:00",
+    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
     "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/11vo-encuentro-de-acordeonistas-del-rio-de-la-plata-20261108100336",
+    "categoria": "a-plasticas",
+    "url": "https://agendalaplata.ar/evento/a-50-anos-del-ataque-a-la-casa-mariani-teruggi-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20261105091927",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261108100337.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261105091928.jpg"
   },
   {
     "titulo": "Paseo de los artesanos",
@@ -368,6 +328,16 @@
     "url": "https://agendalaplata.ar/evento/paseo-de-los-artesanos-republica-de-los-ninos-20261105092134",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
+  },
+  {
+    "titulo": "11vo Encuentro de Acordeonistas del Río de la Plata",
+    "fecha": "2026-11-14 11:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/11vo-encuentro-de-acordeonistas-del-rio-de-la-plata-20261108100336",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261108100337.jpg"
   },
   {
     "titulo": "2° Encuentro Bonaerense Tradicionalista de Canto y Danza \"Francisco Chamorro\"",
@@ -390,6 +360,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261109122412.jpg"
   },
   {
+    "titulo": "La Retroferia - Karaoke",
+    "fecha": "2026-11-14 15:00:00",
+    "lugar": "Centro de Fomento Social y Cultural Progresista de La Loma - Espacio Belgrano",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-retroferia-karaoke-centro-de-fomento-social-y-cultural-progresista-de-la-loma-espacio-belgrano-20261111113109",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111113110.jpg"
+  },
+  {
     "titulo": "La lengua española en el marco de las culturas digitales",
     "fecha": "2026-11-14 17:00:00",
     "lugar": "La Plata",
@@ -398,6 +378,46 @@
     "url": "https://agendalaplata.ar/evento/la-lengua-espanola-en-el-marco-de-las-culturas-digitales-20260612001936",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260612001937.jpg"
+  },
+  {
+    "titulo": "Quimicalandia",
+    "fecha": "2026-11-14 19:00:00",
+    "lugar": "Biblioteca Museo de Química y Farmacia",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/quimicalandia-biblioteca-museo-de-quimica-y-farmacia-20261111105834",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111105835.jpg"
+  },
+  {
+    "titulo": "Noctámbula 3ra edición",
+    "fecha": "2026-11-14 19:00:00",
+    "lugar": "Biblioteca Pública Universidad Nacional de La Plata",
+    "direccion": "",
+    "categoria": "ferias",
+    "url": "https://agendalaplata.ar/evento/noctambula-3ra-edicion-biblioteca-publica-universidad-nacional-de-la-plata-20261112105701",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261112105702.jpg"
+  },
+  {
+    "titulo": "Museos a la luz de la luna",
+    "fecha": "2026-11-14 19:00:00",
+    "lugar": "Museo de Ciencias Naturales de La Plata",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/museos-a-la-luz-de-la-luna-museo-de-ciencias-naturales-de-la-plata-20261111111848",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111111849.jpg"
+  },
+  {
+    "titulo": "Anatomía Humana a la Luz de la Luna",
+    "fecha": "2026-11-14 19:00:00",
+    "lugar": "Museo De Historia De La Medicina Dr. Santiago Garostiague",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/anatomia-humana-a-la-luz-de-la-luna-museo-de-historia-de-la-medicina-dr-santiago-garostiague-20261111113520",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111113521.jpg"
   },
   {
     "titulo": "Salón oficial Aniversario ciudad de La Plata",
@@ -410,6 +430,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261109190009.jpg"
   },
   {
+    "titulo": "Homenaje a Mercedes Sosa",
+    "fecha": "2026-11-14 19:00:00",
+    "lugar": "Catedral de La Plata - Museo Eclesiástico Catedral",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/homenaje-a-mercedes-sosa-catedral-de-la-plata-museo-eclesiastico-catedral-20261111111552",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111111553.jpg"
+  },
+  {
     "titulo": "Chic@s de Oro",
     "fecha": "2026-11-14 20:00:00",
     "lugar": "Casa Unclan",
@@ -420,16 +450,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261020194048.jpg"
   },
   {
-    "titulo": "Inframundo",
-    "fecha": "2026-11-14 20:00:00",
-    "lugar": "Sala 420",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/inframundo-sala-420-20261028193813",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261028193814.jpg"
-  },
-  {
     "titulo": "Carolina Peleritti - Canciones que me enamoran",
     "fecha": "2026-11-14 20:00:00",
     "lugar": "Desafinado Club",
@@ -438,6 +458,16 @@
     "url": "https://agendalaplata.ar/evento/carolina-peleritti-canciones-que-me-enamoran-desafinado-club-20260930032730",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260930032731.jpg"
+  },
+  {
+    "titulo": "Inframundo",
+    "fecha": "2026-11-14 20:00:00",
+    "lugar": "Sala 420",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/inframundo-sala-420-20261028193813",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261028193814.jpg"
   },
   {
     "titulo": "Fiesta carinhosa",
@@ -470,46 +500,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260429013313.jpg"
   },
   {
-    "titulo": "Chabona + Síntoma + La Burguesía del Fuck You",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "La Bicicletería creación colectiva",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/chabona-sintoma-la-burguesia-del-fuck-you-la-bicicleteria-creacion-colectiva-20261102235456",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261102235457.jpg"
-  },
-  {
-    "titulo": "Yacu Yacta + Toxygang + El gran fogón",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Mush Room",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/yacu-yacta-toxygang-el-gran-fogon-mush-room-20261108110429",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261108110430.jpg"
-  },
-  {
-    "titulo": "Guita",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Marimacha",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/guita-marimacha-20261103144935",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261103144936.jpg"
-  },
-  {
-    "titulo": "Fabriquera - Julieta Laso",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Casa Metro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/fabriquera-julieta-laso-casa-metro-20260913173514",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260913173515.jpg"
-  },
-  {
     "titulo": "La chilinga",
     "fecha": "2026-11-14 21:00:00",
     "lugar": "Teatro Opera",
@@ -530,14 +520,24 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261001020134.jpg"
   },
   {
-    "titulo": "Segunda Mano",
+    "titulo": "Guita",
     "fecha": "2026-11-14 21:00:00",
-    "lugar": "Espacio Live",
+    "lugar": "Marimacha",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/segunda-mano-espacio-live-20261020164231",
+    "url": "https://agendalaplata.ar/evento/guita-marimacha-20261103144935",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261020164232.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261103144936.jpg"
+  },
+  {
+    "titulo": "Yacu Yacta + Toxygang + El gran fogón",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Mush Room",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/yacu-yacta-toxygang-el-gran-fogon-mush-room-20261108110429",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261108110430.jpg"
   },
   {
     "titulo": "Camionero",
@@ -548,6 +548,46 @@
     "url": "https://agendalaplata.ar/evento/camionero-comunidad-ferroviaria-20261023172530",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261023172531.jpg"
+  },
+  {
+    "titulo": "Romanceros Duo",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "La Salamanca Centro de Cultura y Peña",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/romanceros-duo-la-salamanca-centro-de-cultura-y-pena-20261112112606",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261112112607.jpg"
+  },
+  {
+    "titulo": "Segunda Mano",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Espacio Live",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/segunda-mano-espacio-live-20261020164231",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261020164232.jpg"
+  },
+  {
+    "titulo": "Fabriquera - Julieta Laso",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Casa Metro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/fabriquera-julieta-laso-casa-metro-20260913173514",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260913173515.jpg"
+  },
+  {
+    "titulo": "Chabona + Síntoma + La Burguesía del Fuck You",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "La Bicicletería creación colectiva",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/chabona-sintoma-la-burguesia-del-fuck-you-la-bicicleteria-creacion-colectiva-20261102235456",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261102235457.jpg"
   },
   {
     "titulo": "Proyecto 10",
@@ -568,6 +608,26 @@
     "url": "https://agendalaplata.ar/evento/babasonicos-hipodromo-de-la-plata-20260519193241",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260519193242.jpg"
+  },
+  {
+    "titulo": "Titerejía - Varieté de títeres",
+    "fecha": "2026-11-14 21:30:00",
+    "lugar": "Casa Hereje",
+    "direccion": "",
+    "categoria": "infantil",
+    "url": "https://agendalaplata.ar/evento/titerejia-variete-de-titeres-casa-hereje-20261111112107",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111112108.jpg"
+  },
+  {
+    "titulo": "Vacio - Improvisación Teatral con dirección en vivo",
+    "fecha": "2026-11-14 22:00:00",
+    "lugar": "Área Chica",
+    "direccion": "",
+    "categoria": "impro",
+    "url": "https://agendalaplata.ar/evento/vacio-improvisacion-teatral-con-direccion-en-vivo-area-chica-20261110235152",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261110235153.jpg"
   },
   {
     "titulo": "Fiesta delirante",
@@ -600,6 +660,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
   },
   {
+    "titulo": "Posta querandíes: un encuentro con nuestras raíces",
+    "fecha": "2026-11-15 11:00:00",
+    "lugar": "Camping Municipal - Predio Municipal del Tradicionalismo",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/posta-querandies-un-encuentro-con-nuestras-raices-camping-municipal-predio-municipal-del-tradicionalismo-20261112113029",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261112113030.jpg"
+  },
+  {
     "titulo": "Italia in Piazza",
     "fecha": "2026-11-15 12:00:00",
     "lugar": "Plaza Italia",
@@ -620,6 +690,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261108100642.jpg"
   },
   {
+    "titulo": "Una feria colectiva Vol. 5",
+    "fecha": "2026-11-15 17:00:00",
+    "lugar": "Calle UNO, Casa de Cultura",
+    "direccion": "",
+    "categoria": "ferias",
+    "url": "https://agendalaplata.ar/evento/una-feria-colectiva-vol-5-calle-uno-casa-de-cultura-20261112110258",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261112110259.jpg"
+  },
+  {
+    "titulo": "Plataforma Bienal de Arte La Plata",
+    "fecha": "2026-11-15 18:30:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/plataforma-bienal-de-arte-la-plata-pasaje-dardo-rocha-20261112111908",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261112111909.jpg"
+  },
+  {
     "titulo": "Te invito a mi velorio",
     "fecha": "2026-11-15 19:00:00",
     "lugar": "Teatro de Cámara City Bell",
@@ -638,6 +728,16 @@
     "url": "https://agendalaplata.ar/evento/fabrica-de-chicas-escenario-40-20261015204345",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261015204346.jpg"
+  },
+  {
+    "titulo": "Otra estúpida razón para no morir (en otoño)",
+    "fecha": "2026-11-15 20:00:00",
+    "lugar": "Teatro Abierto",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/otra-estupida-razon-para-no-morir-en-otono-teatro-abierto-20261111151204",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111151205.jpg"
   },
   {
     "titulo": "Inframundo",
@@ -688,6 +788,16 @@
     "url": "https://agendalaplata.ar/evento/shakespeare-echoes-teatro-en-ingles-para-adultos-espacio-doble-t-20260926164555",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261029120258.jpg"
+  },
+  {
+    "titulo": "Bailando Forró",
+    "fecha": "2026-11-17 21:00:00",
+    "lugar": "La Culturosa",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/bailando-forro-la-culturosa-20261111111436",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111111437.jpg"
   },
   {
     "titulo": "A 50 años del ataque a la casa mariani teruggi",
@@ -750,6 +860,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261109190525.jpg"
   },
   {
+    "titulo": "Dillom y Los Palmeras",
+    "fecha": "2026-11-19 20:00:00",
+    "lugar": "Plaza Moreno",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/dillom-y-los-palmeras-plaza-moreno-20261111121326",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111121327.jpg"
+  },
+  {
     "titulo": "A 50 años del ataque a la casa mariani teruggi",
     "fecha": "2026-11-20 10:00:00",
     "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
@@ -768,6 +888,16 @@
     "url": "https://agendalaplata.ar/evento/festival-de-la-gastronomia-italiana-parque-alberti-20261105082200",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261105082201.jpg"
+  },
+  {
+    "titulo": "¿Dónde va el sistema cuando cae?",
+    "fecha": "2026-11-20 20:00:00",
+    "lugar": "Casa de Cultura - Agremiación Médica Platense (AMP)",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/donde-va-el-sistema-cuando-cae-casa-de-cultura-agremiacion-medica-platense-amp-20261111161907",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111161908.jpg"
   },
   {
     "titulo": "Liga de improvisadores",
@@ -790,16 +920,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260824234054.jpg"
   },
   {
-    "titulo": "Agustina Aguilar - Casi presente",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "El Teatro BAR",
-    "direccion": "",
-    "categoria": "stand-up",
-    "url": "https://agendalaplata.ar/evento/agustina-aguilar-casi-presente-el-teatro-bar-20261103004903",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261103004904.jpg"
-  },
-  {
     "titulo": "El Profe Borda",
     "fecha": "2026-11-20 21:00:00",
     "lugar": "Esquina América",
@@ -808,6 +928,16 @@
     "url": "https://agendalaplata.ar/evento/el-profe-borda-esquina-america-20261009020205",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261009020206.jpg"
+  },
+  {
+    "titulo": "Agustina Aguilar - Casi presente",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "El Teatro BAR",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/agustina-aguilar-casi-presente-el-teatro-bar-20261103004903",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261103004904.jpg"
   },
   {
     "titulo": "Proyecto 10",
@@ -860,16 +990,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105091928.jpg"
   },
   {
-    "titulo": "Festival de la Gastronomía Italiana",
-    "fecha": "2026-11-21 11:00:00",
-    "lugar": "Parque Alberti",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/festival-de-la-gastronomia-italiana-parque-alberti-20261105082200",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105082201.jpg"
-  },
-  {
     "titulo": "Paseo de los artesanos",
     "fecha": "2026-11-21 11:00:00",
     "lugar": "República de los Niños",
@@ -878,6 +998,16 @@
     "url": "https://agendalaplata.ar/evento/paseo-de-los-artesanos-republica-de-los-ninos-20261105092134",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
+  },
+  {
+    "titulo": "Festival de la Gastronomía Italiana",
+    "fecha": "2026-11-21 11:00:00",
+    "lugar": "Parque Alberti",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/festival-de-la-gastronomia-italiana-parque-alberti-20261105082200",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261105082201.jpg"
   },
   {
     "titulo": "Que No Pare De Sonar! - 6ta edición",
@@ -900,16 +1030,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260814134810.jpg"
   },
   {
-    "titulo": "Ensamble juvenil Neo Levare, dirigido por Hernán Quintela",
-    "fecha": "2026-11-21 20:00:00",
-    "lugar": "Teatro de Cámara City Bell",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/ensamble-juvenil-neo-levare-dirigido-por-hernan-quintela-teatro-de-camara-city-bell-20261105092405",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105092406.jpg"
-  },
-  {
     "titulo": "Roberto Antier",
     "fecha": "2026-11-21 20:00:00",
     "lugar": "Desafinado Club",
@@ -918,6 +1038,16 @@
     "url": "https://agendalaplata.ar/evento/roberto-antier-desafinado-club-20261023125450",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261023125451.jpg"
+  },
+  {
+    "titulo": "Ensamble juvenil Neo Levare, dirigido por Hernán Quintela",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Teatro de Cámara City Bell",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/ensamble-juvenil-neo-levare-dirigido-por-hernan-quintela-teatro-de-camara-city-bell-20261105092405",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261105092406.jpg"
   },
   {
     "titulo": "¡Actúen!",
@@ -940,6 +1070,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260425005946.jpg"
   },
   {
+    "titulo": "Alex Freidig y Noelia Miranda",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "La Salamanca Centro de Cultura y Peña",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/alex-freidig-y-noelia-miranda-la-salamanca-centro-de-cultura-y-pena-20261112112501",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261112112502.jpg"
+  },
+  {
+    "titulo": "Etiqueta Negra - Tributo a los redondos",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/etiqueta-negra-tributo-a-los-redondos-teatro-rene-favaloro-20261021130440",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261021130441.jpg"
+  },
+  {
     "titulo": "El turco naim",
     "fecha": "2026-11-21 21:00:00",
     "lugar": "Teatro La Nonna",
@@ -958,16 +1108,6 @@
     "url": "https://agendalaplata.ar/evento/proyecto-10-el-medio-aljibe-20261025174856",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261025174857.jpg"
-  },
-  {
-    "titulo": "Etiqueta Negra - Tributo a los redondos",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/etiqueta-negra-tributo-a-los-redondos-teatro-rene-favaloro-20261021130440",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261021130441.jpg"
   },
   {
     "titulo": "Malena Muyala",
@@ -990,16 +1130,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105091928.jpg"
   },
   {
-    "titulo": "Festival de la Gastronomía Italiana",
-    "fecha": "2026-11-22 11:00:00",
-    "lugar": "Parque Alberti",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/festival-de-la-gastronomia-italiana-parque-alberti-20261105082200",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105082201.jpg"
-  },
-  {
     "titulo": "Paseo de los artesanos",
     "fecha": "2026-11-22 11:00:00",
     "lugar": "República de los Niños",
@@ -1008,6 +1138,16 @@
     "url": "https://agendalaplata.ar/evento/paseo-de-los-artesanos-republica-de-los-ninos-20261105092134",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
+  },
+  {
+    "titulo": "Festival de la Gastronomía Italiana",
+    "fecha": "2026-11-22 11:00:00",
+    "lugar": "Parque Alberti",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/festival-de-la-gastronomia-italiana-parque-alberti-20261105082200",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261105082201.jpg"
   },
   {
     "titulo": "El lago de los cisnes",
@@ -1020,6 +1160,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
   },
   {
+    "titulo": "Irene, yo y mi otro yo - Dir. Hermanos Farrelly",
+    "fecha": "2026-11-22 19:00:00",
+    "lugar": "La Plata",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/irene-yo-y-mi-otro-yo-dir-hermanos-farrelly-20261111123310",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111123311.jpg"
+  },
+  {
     "titulo": "Fábrica de chicas",
     "fecha": "2026-11-22 20:00:00",
     "lugar": "Escenario 40",
@@ -1028,6 +1178,16 @@
     "url": "https://agendalaplata.ar/evento/fabrica-de-chicas-escenario-40-20261015204345",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261015204346.jpg"
+  },
+  {
+    "titulo": "Otra estúpida razón para no morir (en otoño)",
+    "fecha": "2026-11-22 20:00:00",
+    "lugar": "Teatro Abierto",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/otra-estupida-razon-para-no-morir-en-otono-teatro-abierto-20261111151204",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111151205.jpg"
   },
   {
     "titulo": "Inframundo",
@@ -1080,16 +1240,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
   },
   {
-    "titulo": "El lago de los cisnes",
-    "fecha": "2026-11-27 20:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/el-lago-de-los-cisnes-teatro-argentino-centro-provincial-de-las-artes-20261105084134",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
-  },
-  {
     "titulo": "Velada Sinfónica - Sindicato Argentino de Boleros con Julián y Juan Carlos Baglietto + Luisa Kuliok",
     "fecha": "2026-11-27 20:00:00",
     "lugar": "Teatro y Museo Coliseo Podestá",
@@ -1098,6 +1248,16 @@
     "url": "https://agendalaplata.ar/evento/velada-sinfonica-sindicato-argentino-de-boleros-con-julian-y-juan-carlos-baglietto-luisa-kuliok-teatro-y-museo-coliseo-podesta-20261022203545",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261022203546.jpg"
+  },
+  {
+    "titulo": "El lago de los cisnes",
+    "fecha": "2026-11-27 20:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/el-lago-de-los-cisnes-teatro-argentino-centro-provincial-de-las-artes-20261105084134",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
   },
   {
     "titulo": "Kissme",
@@ -1130,16 +1290,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260817221438.jpg"
   },
   {
-    "titulo": "El lago de los cisnes",
-    "fecha": "2026-11-28 20:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/el-lago-de-los-cisnes-teatro-argentino-centro-provincial-de-las-artes-20261105084134",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
-  },
-  {
     "titulo": "Edu Schmidt y Los Enroscaos",
     "fecha": "2026-11-28 20:00:00",
     "lugar": "Casa Unclan",
@@ -1148,6 +1298,16 @@
     "url": "https://agendalaplata.ar/evento/edu-schmidt-y-los-enroscaos-casa-unclan-20261026233610",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261026233611.jpg"
+  },
+  {
+    "titulo": "El lago de los cisnes",
+    "fecha": "2026-11-28 20:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/el-lago-de-los-cisnes-teatro-argentino-centro-provincial-de-las-artes-20261105084134",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
   },
   {
     "titulo": "¡Actúen!",
@@ -1208,6 +1368,16 @@
     "url": "https://agendalaplata.ar/evento/fabrica-de-chicas-escenario-40-20261015204345",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261015204346.jpg"
+  },
+  {
+    "titulo": "Otra estúpida razón para no morir (en otoño)",
+    "fecha": "2026-11-29 20:00:00",
+    "lugar": "Teatro Abierto",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/otra-estupida-razon-para-no-morir-en-otono-teatro-abierto-20261111151204",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261111151205.jpg"
   },
   {
     "titulo": "Modelo vivo muerto",
@@ -1288,5 +1458,15 @@
     "url": "https://agendalaplata.ar/evento/elena-roger-teatro-y-museo-coliseo-podesta-20260815144112",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260815144113.jpg"
+  },
+  {
+    "titulo": "Estelares",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/estelares-teatro-argentino-centro-provincial-de-las-artes-20261021131700",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261021131701.jpg"
   }
 ]

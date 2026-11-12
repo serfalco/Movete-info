@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "454639": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1666712": {
     "tmdb": {
@@ -4477,7 +4477,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1698443": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "8392": {
     "tmdb": {
@@ -7593,7 +7593,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1140521": {
     "tmdb": {
@@ -8631,7 +8631,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1469342": {
     "tmdb": {
@@ -9762,7 +9762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1563588": {
     "tmdb": {
@@ -10040,7 +10040,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1380417": {
     "tmdb": {
@@ -10426,7 +10426,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1568759": {
     "tmdb": {
@@ -10509,7 +10509,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "79372": {
     "tmdb": {
@@ -12171,7 +12171,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1281331": {
     "tmdb": {
@@ -13568,7 +13568,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1500890": {
     "tmdb": {
@@ -13923,7 +13923,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1314386": {
     "tmdb": {
@@ -14250,7 +14250,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1377237": {
     "tmdb": {
@@ -14778,7 +14778,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1381071": {
     "tmdb": {
@@ -14965,7 +14965,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-05"
+    "ultima_semana": "2026-11-12"
   },
   "1356474": {
     "tmdb": {
@@ -15131,5 +15131,1088 @@
       ]
     },
     "ultima_semana": "2026-11-05"
+  },
+  "1284046": {
+    "tmdb": {
+      "tmdb_id": 1284046,
+      "titulo": "Aniquilación",
+      "titulo_original": "Onslaught",
+      "tagline": "Desataron su arma más mortal sobre nosotros.",
+      "anio": "2026",
+      "estreno": "2026-09-02",
+      "duracion": 92,
+      "generos": [
+        "Acción",
+        "Suspense",
+        "Terror"
+      ],
+      "score": 5.5,
+      "votos": 146,
+      "certificacion": "+16",
+      "sinopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
+      "poster": "https://image.tmdb.org/t/p/w342/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+        "https://image.tmdb.org/t/p/w780/xQsXkPdk5RHY65EyjZZQW7qrScf.jpg",
+        "https://image.tmdb.org/t/p/w780/ewe8HWEMBpACziYjcDkNN7uUxa5.jpg",
+        "https://image.tmdb.org/t/p/w780/1jrDzYLt7qGSoZJhBOdRqOarjF9.jpg",
+        "https://image.tmdb.org/t/p/w780/g5wfsAMLeA2FFyqlPtJPLptyrR6.jpg",
+        "https://image.tmdb.org/t/p/w780/v0PUPVPKt2mGtUW7eNcdcv5LHhW.jpg"
+      ],
+      "director": "Adam Wingard",
+      "guionistas": [
+        "Simon Barrett"
+      ],
+      "musica": "Matthew Pusti",
+      "elenco": [
+        {
+          "nombre": "Adria Arjona",
+          "personaje": "Celeste",
+          "foto": "https://image.tmdb.org/t/p/w185/hzu7OqTmNCT1xdCdmwBSf2yJvaO.jpg",
+          "iniciales": "AA"
+        },
+        {
+          "nombre": "Dan Stevens",
+          "personaje": "Hans Kammler",
+          "foto": "https://image.tmdb.org/t/p/w185/fFsgginZKH527o38ZfdDxuzx7Ew.jpg",
+          "iniciales": "DS"
+        },
+        {
+          "nombre": "Eric Wareheim",
+          "personaje": "Kovacks",
+          "foto": "https://image.tmdb.org/t/p/w185/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg",
+          "iniciales": "EW"
+        },
+        {
+          "nombre": "Reginald VelJohnson",
+          "personaje": "Josiah",
+          "foto": "https://image.tmdb.org/t/p/w185/dZtIIOI0PpD3dmTVfUOWiQzOY28.jpg",
+          "iniciales": "RV"
+        },
+        {
+          "nombre": "Michael Biehn",
+          "personaje": "Baylor",
+          "foto": "https://image.tmdb.org/t/p/w185/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg",
+          "iniciales": "MB"
+        },
+        {
+          "nombre": "Blake Kennedy",
+          "personaje": "Daisy",
+          "foto": "https://image.tmdb.org/t/p/w185/uHyvjWY6oQ9gs9zzpcLYMS0nF9D.jpg",
+          "iniciales": "BK"
+        },
+        {
+          "nombre": "Alex Pereira",
+          "personaje": "The Butcher",
+          "foto": "https://image.tmdb.org/t/p/w185/2CbbPCRIv0bTMvVBgOzo6PeWdMi.jpg",
+          "iniciales": "AP"
+        },
+        {
+          "nombre": "Drew Starkey",
+          "personaje": "Cyrus",
+          "foto": "https://image.tmdb.org/t/p/w185/iUPJrhsqgvF6CydzGfRzJG0wLiF.jpg",
+          "iniciales": "DS"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "A24",
+        "Ryder Picture Company",
+        "Lyrical Media",
+        "Breakaway Civilization",
+        "828 Productions"
+      ],
+      "temas": [
+        "Gore",
+        "Serial killer",
+        "Super soldier",
+        "Mercilessness",
+        "Slasher",
+        "Soldier",
+        "Survival horror",
+        "Military"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt32268691",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 919,
+          "titulo": "Blood: El último vampiro",
+          "anio": "2000",
+          "poster": "https://image.tmdb.org/t/p/w342/zG4woL5SKyjKUrRq5GIjkyJlaBe.jpg",
+          "score": 6.9
+        },
+        {
+          "tmdb_id": 923,
+          "titulo": "Zombi",
+          "anio": "1978",
+          "poster": "https://image.tmdb.org/t/p/w342/fT7qwRHlDfnIXK4su8DKFxbsiQk.jpg",
+          "score": 7.478
+        },
+        {
+          "tmdb_id": 924,
+          "titulo": "Amanecer de los muertos",
+          "anio": "2004",
+          "poster": "https://image.tmdb.org/t/p/w342/6aue0EtBfftVryNP11acJqOZu2h.jpg",
+          "score": 7.09
+        },
+        {
+          "tmdb_id": 828,
+          "titulo": "Ultimátum a la Tierra",
+          "anio": "1951",
+          "poster": "https://image.tmdb.org/t/p/w342/o9T3uBAUEoAykes1DTVedeloPrh.jpg",
+          "score": 7.444
+        },
+        {
+          "tmdb_id": 832,
+          "titulo": "M, el vampiro de Düsseldorf",
+          "anio": "1931",
+          "poster": "https://image.tmdb.org/t/p/w342/drwll2kXZpmRYBEtWMWZbHcFkJF.jpg",
+          "score": 8.059
+        },
+        {
+          "tmdb_id": 267927,
+          "titulo": "Dirty Love",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/vxrAPmpjMAeNhy0nIV138jm7htp.jpg",
+          "score": 4.9
+        },
+        {
+          "tmdb_id": 267928,
+          "titulo": "Curriculum",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/nI88WgIgrucYUTNZ1s01qzxqzMW.jpg",
+          "score": 4.2
+        },
+        {
+          "tmdb_id": 1091,
+          "titulo": "La cosa (El enigma de otro mundo)",
+          "anio": "1982",
+          "poster": "https://image.tmdb.org/t/p/w342/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+          "score": 8.075
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-12"
+  },
+  "259233": {
+    "tmdb": {
+      "tmdb_id": 259233,
+      "titulo": "Ju-on: Beginning of the End",
+      "titulo_original": "呪怨－終わりの始まり－",
+      "tagline": "",
+      "anio": "2014",
+      "estreno": "2014-06-28",
+      "duracion": 91,
+      "generos": [
+        "Terror"
+      ],
+      "score": 6.0,
+      "votos": 82,
+      "certificacion": "",
+      "sinopsis": "Una maestra de escuela llamada Yui visita la casa de un chico llamado Toshio Saeki, que ha estado ausente del colegio por un largo periodo de tiempo. Cuando llega, revive el terrible drama que se produjo en el hogar de Saeki hace 10 años. Una caja de carton en un armario es la clave para revelar una verdad oculta por mucho tiempo.",
+      "poster": "https://image.tmdb.org/t/p/w342/wJHee7DW3NACAsBXsEqlTofbb0Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8v7CBqnCIyaQejMV8rh87NjX5sE.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/8v7CBqnCIyaQejMV8rh87NjX5sE.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/8v7CBqnCIyaQejMV8rh87NjX5sE.jpg",
+        "https://image.tmdb.org/t/p/w780/lexf8Uiw9SfhcfcX4Wlm7gRR7hf.jpg",
+        "https://image.tmdb.org/t/p/w780/qpKbMy8kW8HqQyQu7MtO6n7pTdH.jpg",
+        "https://image.tmdb.org/t/p/w780/vbFLT6qg5vgQpO05fHmEQfvB8nO.jpg",
+        "https://image.tmdb.org/t/p/w780/e11KofsEK1EfsW1rSH10oQHLdMw.jpg",
+        "https://image.tmdb.org/t/p/w780/tXDGBpOZ4F3jLOYJsGxILfTEhDc.jpg"
+      ],
+      "director": "落合正幸",
+      "guionistas": [
+        "一瀬隆重",
+        "落合正幸"
+      ],
+      "musica": "上野耕路",
+      "elenco": [
+        {
+          "nombre": "Nozomi Sasaki",
+          "personaje": "Yui Shono",
+          "foto": "https://image.tmdb.org/t/p/w185/k5WCvK8Zrakp6uPizXYxPoPrxIq.jpg",
+          "iniciales": "NS"
+        },
+        {
+          "nombre": "青柳翔",
+          "personaje": "Naoto Miyakoshi",
+          "foto": "https://image.tmdb.org/t/p/w185/pN2JQVg5OyNSdxSLAHE8ncSAnpT.jpg",
+          "iniciales": "青柳"
+        },
+        {
+          "nombre": "トリンドル玲奈",
+          "personaje": "Nanami",
+          "foto": "https://image.tmdb.org/t/p/w185/avsYzZD97RVMwRMkgfUJTK4cMw6.jpg",
+          "iniciales": "トリ"
+        },
+        {
+          "nombre": "金澤美穂",
+          "personaje": "Rina",
+          "foto": "https://image.tmdb.org/t/p/w185/fNsq3u2Sne6iuQSIAQ3TS2JouDM.jpg",
+          "iniciales": "金澤"
+        },
+        {
+          "nombre": "Haori Takahashi",
+          "personaje": "Aoi",
+          "foto": "https://image.tmdb.org/t/p/w185/70pwiTWf3YX01XQGB3DBKUCLunv.jpg",
+          "iniciales": "HT"
+        },
+        {
+          "nombre": "黒島結菜",
+          "personaje": "Yayoi",
+          "foto": "https://image.tmdb.org/t/p/w185/AlWBUgpb2hQUMc7O3901PbFr0JU.jpg",
+          "iniciales": "黒島"
+        },
+        {
+          "nombre": "小林颯",
+          "personaje": "Toshio Saeki",
+          "foto": "https://image.tmdb.org/t/p/w185/fRE3hD8QcWIIIqOLeWcs6fplxPj.jpg",
+          "iniciales": "小林"
+        },
+        {
+          "nombre": "Misaki Saisho",
+          "personaje": "Kayako Saeki",
+          "foto": "https://image.tmdb.org/t/p/w185/v4kTzs2tbdhH60FsAHwFs5q8gyr.jpg",
+          "iniciales": "MS"
+        }
+      ],
+      "paises": [
+        "Japan"
+      ],
+      "idiomas": [
+        "日本語"
+      ],
+      "productoras": [
+        "Altemate",
+        "Fujishoji",
+        "Gambit",
+        "NBCUniversal Entertainment Japan",
+        "Showgate",
+        "W Field"
+      ],
+      "temas": [
+        "Japan"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=Hvw5oOiIpHo",
+      "teaser": "",
+      "imdb_id": "tt3572132",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Ju-on (Reboot) Collection",
+        "partes": [
+          {
+            "tmdb_id": 259233,
+            "titulo": "Ju-on: Beginning of the End",
+            "anio": "2014",
+            "poster": "https://image.tmdb.org/t/p/w342/wJHee7DW3NACAsBXsEqlTofbb0Q.jpg",
+            "fecha": "2014-06-28"
+          },
+          {
+            "tmdb_id": 347946,
+            "titulo": "Ju-on 4: The Final Curse",
+            "anio": "2015",
+            "poster": "https://image.tmdb.org/t/p/w342/myzAeMLToWV9CGXdbB85vfYra7X.jpg",
+            "fecha": "2015-06-20"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 2671,
+          "titulo": "El círculo",
+          "anio": "1998",
+          "poster": "https://image.tmdb.org/t/p/w342/hOSYIl1y76ZxGJR72urrtD1fKCN.jpg",
+          "score": 7.101
+        },
+        {
+          "tmdb_id": 26693,
+          "titulo": "The Grudge: Old Lady in White",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/rDBxCaUyRl8rfiUMUBPLLdd0nLu.jpg",
+          "score": 6.2
+        },
+        {
+          "tmdb_id": 297186,
+          "titulo": "Fatal Frame",
+          "anio": "2014",
+          "poster": "https://image.tmdb.org/t/p/w342/qKmsC2Gw0aTqo3OtS35AfKc5Yo5.jpg",
+          "score": 5.991
+        },
+        {
+          "tmdb_id": 488008,
+          "titulo": "The Viper's Hex",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/mJvbteurtsaMaBOYl0G5eqXaFnh.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 30959,
+          "titulo": "El más allá",
+          "anio": "1965",
+          "poster": "https://image.tmdb.org/t/p/w342/l22SG9evZiz3wp7E29dpl16XSO5.jpg",
+          "score": 7.738
+        },
+        {
+          "tmdb_id": 29909,
+          "titulo": "La bestia y la espada mágica",
+          "anio": "1983",
+          "poster": "https://image.tmdb.org/t/p/w342/wz8fFeVHZGzreZ4xzE6ttO8ZvRE.jpg",
+          "score": 5.333
+        },
+        {
+          "tmdb_id": 42712,
+          "titulo": "X del Espacio Exterior, The X from Outer Space",
+          "anio": "1967",
+          "poster": "https://image.tmdb.org/t/p/w342/qWy25F7iM0HMePcD8I6wK2SMlMk.jpg",
+          "score": 5.2
+        },
+        {
+          "tmdb_id": 10885,
+          "titulo": "Retratos del más allá",
+          "anio": "2008",
+          "poster": "https://image.tmdb.org/t/p/w342/llLDEE5fEEtW8zQwnwzjSVPtGXN.jpg",
+          "score": 5.527
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-12"
+  },
+  "1567605": {
+    "tmdb": {
+      "tmdb_id": 1567605,
+      "titulo": "Scrooge y los fantasmas de la Navidad",
+      "titulo_original": "Ebenezer",
+      "tagline": "Antes de ser Scrooge, fue…",
+      "anio": "2026",
+      "estreno": "2026-11-11",
+      "duracion": 115,
+      "generos": [
+        "Fantasía",
+        "Comedia"
+      ],
+      "score": 8.6,
+      "votos": 15,
+      "certificacion": "ATP",
+      "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+        "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+        "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
+        "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+        "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
+        "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg"
+      ],
+      "director": "Ti West",
+      "guionistas": [
+        "Nathaniel Halpern"
+      ],
+      "musica": "Tyler Bates",
+      "elenco": [
+        {
+          "nombre": "Johnny Depp",
+          "personaje": "Ebenezer Scrooge",
+          "foto": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg",
+          "iniciales": "JD"
+        },
+        {
+          "nombre": "Rupert Grint",
+          "personaje": "Bob Cratchit",
+          "foto": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg",
+          "iniciales": "RG"
+        },
+        {
+          "nombre": "Daisy Ridley",
+          "personaje": "Emily Cratchit",
+          "foto": "https://image.tmdb.org/t/p/w185/A8QZBHZjlbWDiUXBvCTk4Zv5oBs.jpg",
+          "iniciales": "DR"
+        },
+        {
+          "nombre": "Tramell Tillman",
+          "personaje": "Ghost of Christmas Present",
+          "foto": "https://image.tmdb.org/t/p/w185/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg",
+          "iniciales": "TT"
+        },
+        {
+          "nombre": "Ian McKellen",
+          "personaje": "Jacob Marley",
+          "foto": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg",
+          "iniciales": "IM"
+        },
+        {
+          "nombre": "Andrea Riseborough",
+          "personaje": "Ghost of Christmas Past",
+          "foto": "https://image.tmdb.org/t/p/w185/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg",
+          "iniciales": "AR"
+        },
+        {
+          "nombre": "Sam Claflin",
+          "personaje": "Fred",
+          "foto": "https://image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg",
+          "iniciales": "SC"
+        },
+        {
+          "nombre": "Arthur Conti",
+          "personaje": "Young Ebenezer",
+          "foto": "https://image.tmdb.org/t/p/w185/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg",
+          "iniciales": "AC"
+        }
+      ],
+      "paises": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Paramount Pictures",
+        "Domain Entertainment",
+        "Wattsco",
+        "IN.2 FILM",
+        "Black Label Media"
+      ],
+      "temas": [
+        "London, england",
+        "Based on novel or book",
+        "Holiday",
+        "Redemption",
+        "Spirit",
+        "Gothic",
+        "Ghost",
+        "Dark fantasy"
+      ],
+      "trailer": "",
+      "teaser": "https://www.youtube.com/watch?v=H8awcDUhl84",
+      "imdb_id": "tt38773219",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 439,
+          "titulo": "La dolce vita",
+          "anio": "1960",
+          "poster": "https://image.tmdb.org/t/p/w342/zjtrLL2cFlBWnAL1z4qrokRU0ZT.jpg",
+          "score": 8.021
+        },
+        {
+          "tmdb_id": 455,
+          "titulo": "Quiero ser como Beckham",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/2fjTH8W40bR6GqdYM1fbXmO4e9k.jpg",
+          "score": 6.322
+        },
+        {
+          "tmdb_id": 497,
+          "titulo": "La milla verde",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+          "score": 8.504
+        },
+        {
+          "tmdb_id": 271,
+          "titulo": "Ronja Rövardotter",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/wJYkdYN4OzS5s9kiF4EtGvvnFm3.jpg",
+          "score": 7.03
+        },
+        {
+          "tmdb_id": 342,
+          "titulo": "Tormenta de verano",
+          "anio": "2004",
+          "poster": "https://image.tmdb.org/t/p/w342/inkqF9lEQy9uryC75uGnthQZ77l.jpg",
+          "score": 6.805
+        },
+        {
+          "tmdb_id": 349,
+          "titulo": "Crustacés et coquillages",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/cddLDg4CTg0g7QItlSCEyEagzPY.jpg",
+          "score": 6.0
+        },
+        {
+          "tmdb_id": 350,
+          "titulo": "El diablo viste de Prada",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg",
+          "score": 7.432
+        },
+        {
+          "tmdb_id": 364,
+          "titulo": "Batman vuelve",
+          "anio": "1992",
+          "poster": "https://image.tmdb.org/t/p/w342/i5xLIx2vkisiLPQqaeI3uiSaG1b.jpg",
+          "score": 6.955
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-12"
+  },
+  "145247": {
+    "tmdb": {
+      "tmdb_id": 145247,
+      "titulo": "El abuelo que saltó por la ventana y se largó",
+      "titulo_original": "Hundraåringen som klev ut genom fönstret och försvann",
+      "tagline": "Durante un siglo ha generado incertidumbre en el mundo y ahora vuelve a andar suelto.",
+      "anio": "2013",
+      "estreno": "2013-12-25",
+      "duracion": 114,
+      "generos": [
+        "Aventura",
+        "Comedia",
+        "Drama"
+      ],
+      "score": 6.816,
+      "votos": 1055,
+      "certificacion": "PG",
+      "sinopsis": "Allan Karlsson acaba de cumplir 100 años. Durante su larga vida, le han pasado muchas cosas y ha conocido a mucha gente. Puede presumir de haberse encontrado con personas de todo tipo, como, por ejemplo, Franco, Churchill, Stalin o incluso con la mujer de Mao, con la que estableció una comprometedora amistad. Por si eso no fuese suficiente, Allan también participó en la creación de la bomba atómica, ayudando a Oppenheimer a elaborarla, y trabajó como agente de la CIA, aparte de otras muchas actividades peligrosas que hicieron de su vida toda una aventura.",
+      "poster": "https://image.tmdb.org/t/p/w342/qLspQ1VFWeR4tFPnXCZwih2qjBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pf4SWYA5LH0Byho5PusLTtfZljq.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/pf4SWYA5LH0Byho5PusLTtfZljq.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/y5svXc8urnyPihMBbd0PFDd3ZPq.jpg",
+        "https://image.tmdb.org/t/p/w780/pf4SWYA5LH0Byho5PusLTtfZljq.jpg",
+        "https://image.tmdb.org/t/p/w780/xEwzTC86KVp8sbwsYZZX2sNTkWR.jpg",
+        "https://image.tmdb.org/t/p/w780/xG6os6i71B8hNbwGyecnT74rWf4.jpg",
+        "https://image.tmdb.org/t/p/w780/xxYziYqk7aq9OVXK9BCx6aA9d3J.jpg"
+      ],
+      "director": "Felix Herngren",
+      "guionistas": [
+        "Hans Ingemansson",
+        "Felix Herngren"
+      ],
+      "musica": "Matti Bye",
+      "elenco": [
+        {
+          "nombre": "Robert Gustafsson",
+          "personaje": "Allan Karlsson",
+          "foto": "https://image.tmdb.org/t/p/w185/uiNOp6QjVjaQTDJjbAtpNgZQXQr.jpg",
+          "iniciales": "RG"
+        },
+        {
+          "nombre": "Iwar Wiklander",
+          "personaje": "Julius",
+          "foto": "https://image.tmdb.org/t/p/w185/s0EjghuTpefXlof3AvRDNZOkuzA.jpg",
+          "iniciales": "IW"
+        },
+        {
+          "nombre": "David Wiberg",
+          "personaje": "Benny",
+          "foto": "https://image.tmdb.org/t/p/w185/hcob7OvvtwG107j2suu5Z0GYAqt.jpg",
+          "iniciales": "DW"
+        },
+        {
+          "nombre": "Mia Skäringer",
+          "personaje": "Gunilla",
+          "foto": "https://image.tmdb.org/t/p/w185/382hw1VL4x7cTl8kxnRRsavCoXB.jpg",
+          "iniciales": "MS"
+        },
+        {
+          "nombre": "Jens Hultén",
+          "personaje": "Gunnar \"Gäddan\" Gärdin",
+          "foto": "https://image.tmdb.org/t/p/w185/iw8oSLUaKl0zjjwRHXkpeGmtAfk.jpg",
+          "iniciales": "JH"
+        },
+        {
+          "nombre": "Sven Lönn",
+          "personaje": "Hans \"Hinken\" Claesson",
+          "foto": null,
+          "iniciales": "SL"
+        },
+        {
+          "nombre": "Bianca Cruzeiro",
+          "personaje": "Caracas",
+          "foto": "https://image.tmdb.org/t/p/w185/bj6Y7kvFoNOf2jCwHU2UeL2pLHv.jpg",
+          "iniciales": "BC"
+        },
+        {
+          "nombre": "Alan Ford",
+          "personaje": "Pim",
+          "foto": "https://image.tmdb.org/t/p/w185/nSlngfcFsCPENxiqCwZnB1twKuC.jpg",
+          "iniciales": "AF"
+        }
+      ],
+      "paises": [
+        "Sweden",
+        "Hungary",
+        "Croatia",
+        "Turkey",
+        "Denmark",
+        "Netherlands",
+        "United States of America",
+        "France"
+      ],
+      "idiomas": [
+        "svenska",
+        "Deutsch",
+        "English",
+        "Español",
+        "Français",
+        "Pусский"
+      ],
+      "productoras": [
+        "FLX",
+        "Nice Drama",
+        "Nice FLX Pictures",
+        "Film i Väst",
+        "TV4",
+        "Svenska Filminstitutet",
+        "Buena Vista International",
+        "Elmalma Marka Iletisim",
+        "Embassy Films Associates",
+        "Film i Västerbotten",
+        "Nordisk Film & TV Fond",
+        "Wild Bunch",
+        "Creative Europe Media",
+        "StudioCanal",
+        "MEDIA Programme of the European Union"
+      ],
+      "temas": [
+        "Escape",
+        "Cold war",
+        "Dark comedy",
+        "Old man",
+        "Nonlinear timeline",
+        "Retirement home"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt2113681",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "El abuelo que - Colección",
+        "partes": [
+          {
+            "tmdb_id": 145247,
+            "titulo": "El abuelo que saltó por la ventana y se largó",
+            "anio": "2013",
+            "poster": "https://image.tmdb.org/t/p/w342/qLspQ1VFWeR4tFPnXCZwih2qjBv.jpg",
+            "fecha": "2013-12-25"
+          },
+          {
+            "tmdb_id": 404791,
+            "titulo": "El abuelo que no pagó la cuenta y se largó",
+            "anio": "2016",
+            "poster": "https://image.tmdb.org/t/p/w342/1Pwx5glj8ho22ak1RmR2JFyCq3f.jpg",
+            "fecha": "2016-12-25"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 446,
+          "titulo": "Distant Lights",
+          "anio": "2003",
+          "poster": "https://image.tmdb.org/t/p/w342/AaXd5vObMDJVle4cVwquz8gnqZR.jpg",
+          "score": 7.4
+        },
+        {
+          "tmdb_id": 275,
+          "titulo": "Fargo",
+          "anio": "1996",
+          "poster": "https://image.tmdb.org/t/p/w342/e25EHAVCA16rnbeAYl8qrSrc942.jpg",
+          "score": 7.849
+        },
+        {
+          "tmdb_id": 289,
+          "titulo": "Casablanca",
+          "anio": "1943",
+          "poster": "https://image.tmdb.org/t/p/w342/a7EjycGNSYw6QqJqDooD9eQGZ4r.jpg",
+          "score": 8.143
+        },
+        {
+          "tmdb_id": 430,
+          "titulo": "Uno, dos, tres",
+          "anio": "1961",
+          "poster": "https://image.tmdb.org/t/p/w342/toTjc11iO3tgdKLAIeLGse1LTk9.jpg",
+          "score": 7.497
+        },
+        {
+          "tmdb_id": 300,
+          "titulo": "La ciencia del sueño",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/ThCUP7DrSyQtpzJ4obUQzapjB5.jpg",
+          "score": 7.0
+        },
+        {
+          "tmdb_id": 1429044,
+          "titulo": "Chameleon",
+          "anio": "2025",
+          "poster": "https://image.tmdb.org/t/p/w342/tug85NN2dVnnjVer32eIbT40rFR.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 502,
+          "titulo": "Punto límite",
+          "anio": "1964",
+          "poster": "https://image.tmdb.org/t/p/w342/qu15bkb6ii5LVnMjS8UVcO17G7a.jpg",
+          "score": 7.833
+        },
+        {
+          "tmdb_id": 503,
+          "titulo": "Poseidón",
+          "anio": "2006",
+          "poster": "https://image.tmdb.org/t/p/w342/4OlwVoSxeeP9TuZ5OdKWnIPLvsO.jpg",
+          "score": 5.908
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-12"
+  },
+  "891621": {
+    "tmdb": {
+      "tmdb_id": 891621,
+      "titulo": "Wild Horse Nine",
+      "titulo_original": "Wild Horse Nine",
+      "tagline": "A veces tienes que hacer algo terrible por el bien mayor.",
+      "anio": "2026",
+      "estreno": "2026-10-30",
+      "duracion": 117,
+      "generos": [
+        "Comedia",
+        "Crimen",
+        "Suspense"
+      ],
+      "score": 8.069,
+      "votos": 153,
+      "certificacion": "+16",
+      "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
+      "poster": "https://image.tmdb.org/t/p/w342/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+        "https://image.tmdb.org/t/p/w780/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg",
+        "https://image.tmdb.org/t/p/w780/phYik8dKyN85d2iB2K3CphCsugL.jpg",
+        "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+        "https://image.tmdb.org/t/p/w780/1SpBo9uZ68nMEKbOxEHTf1tIc6d.jpg",
+        "https://image.tmdb.org/t/p/w780/d1Gqj58MO2fIBqqjSGf8zD215bB.jpg"
+      ],
+      "director": "Martin McDonagh",
+      "guionistas": [
+        "Martin McDonagh"
+      ],
+      "musica": "Carter Burwell",
+      "elenco": [
+        {
+          "nombre": "John Malkovich",
+          "personaje": "Chris",
+          "foto": "https://image.tmdb.org/t/p/w185/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg",
+          "iniciales": "JM"
+        },
+        {
+          "nombre": "Sam Rockwell",
+          "personaje": "Lee",
+          "foto": "https://image.tmdb.org/t/p/w185/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg",
+          "iniciales": "SR"
+        },
+        {
+          "nombre": "Steve Buscemi",
+          "personaje": "MJ",
+          "foto": "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg",
+          "iniciales": "SB"
+        },
+        {
+          "nombre": "Mariana di Girolamo",
+          "personaje": "Monica",
+          "foto": "https://image.tmdb.org/t/p/w185/niEEPw3RezaA0SvMXbaZXl3rqvD.jpg",
+          "iniciales": "MG"
+        },
+        {
+          "nombre": "Ailín Salas",
+          "personaje": "Alicia",
+          "foto": "https://image.tmdb.org/t/p/w185/bZWFFUdjs8oMX4sVfCaKi17aFrd.jpg",
+          "iniciales": "AS"
+        },
+        {
+          "nombre": "Parker Posey",
+          "personaje": "Marge",
+          "foto": "https://image.tmdb.org/t/p/w185/rLtUcJyLpS6cEA8lcbICIafgXf.jpg",
+          "iniciales": "PP"
+        },
+        {
+          "nombre": "Tom Waits",
+          "personaje": "Jim",
+          "foto": "https://image.tmdb.org/t/p/w185/kmPOnRmxUgL0rjIUF98uToQrQKB.jpg",
+          "iniciales": "TW"
+        },
+        {
+          "nombre": "Paola Giannini",
+          "personaje": "Rosa",
+          "foto": "https://image.tmdb.org/t/p/w185/7ljKqWLdp95ys1VL9i2eubUiDwP.jpg",
+          "iniciales": "PG"
+        }
+      ],
+      "paises": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "idiomas": [
+        "English",
+        "Español"
+      ],
+      "productoras": [
+        "Searchlight Pictures",
+        "Blueprint Pictures",
+        "Film4 Productions",
+        "TSG Entertainment"
+      ],
+      "temas": [
+        "Central intelligence agency (cia)",
+        "1970s",
+        "Easter island",
+        "Joyous",
+        "Amused",
+        "Tragic"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt15799564",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 2750,
+          "titulo": "24 Hour Party People",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/qypP64i3zjplHGod8wfYc1N9Rkc.jpg",
+          "score": 6.974
+        },
+        {
+          "tmdb_id": 644756,
+          "titulo": "e-Virus",
+          "anio": "2015",
+          "poster": "https://image.tmdb.org/t/p/w342/h9GRl2vYMvz2wR5QmIF4zXjs36M.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 270109,
+          "titulo": "Peluru dan Wanita",
+          "anio": "1988",
+          "poster": "https://image.tmdb.org/t/p/w342/4rWjTrSZRMHhUfHjR5sl25qq5BT.jpg",
+          "score": 4.9
+        },
+        {
+          "tmdb_id": 840430,
+          "titulo": "Los que se quedan",
+          "anio": "2023",
+          "poster": "https://image.tmdb.org/t/p/w342/aZj21Kcmazecm6VDBn4bYU4evi3.jpg",
+          "score": 7.649
+        },
+        {
+          "tmdb_id": 4133,
+          "titulo": "Blow",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/mKchBmaj69q1hTDWOpXLxZ26cVw.jpg",
+          "score": 7.353
+        },
+        {
+          "tmdb_id": 4032,
+          "titulo": "Mi chica",
+          "anio": "1991",
+          "poster": "https://image.tmdb.org/t/p/w342/6iYlGQ82uM2l5Jjor0axXB30J3J.jpg",
+          "score": 7.429
+        },
+        {
+          "tmdb_id": 4105,
+          "titulo": "Black Rain",
+          "anio": "1989",
+          "poster": "https://image.tmdb.org/t/p/w342/lXxHkjwIVyvIhOi2eCRkzgFYfT8.jpg",
+          "score": 6.575
+        },
+        {
+          "tmdb_id": 3981,
+          "titulo": "¿En qué piensan las mujeres?",
+          "anio": "2000",
+          "poster": "https://image.tmdb.org/t/p/w342/l0KNP8jaWYfiYY2wfUQTptVS4nN.jpg",
+          "score": 6.448
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-12"
+  },
+  "1437511": {
+    "tmdb": {
+      "tmdb_id": 1437511,
+      "titulo": "Como robar un banco",
+      "titulo_original": "How to Rob a Bank",
+      "tagline": "¿Quién está robando a quién?.",
+      "anio": "2026",
+      "estreno": "2026-11-10",
+      "duracion": 122,
+      "generos": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "score": 6.917,
+      "votos": 6,
+      "certificacion": "+16",
+      "sinopsis": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+        "https://image.tmdb.org/t/p/w780/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
+        "https://image.tmdb.org/t/p/w780/x9ECIcqnsen26beC1MSfrgAOveE.jpg",
+        "https://image.tmdb.org/t/p/w780/Aty5VwipBDGcq3HbzELWXxtMpjp.jpg",
+        "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+        "https://image.tmdb.org/t/p/w780/AmN54pznGRnMcY88ihbMZl3DHeW.jpg"
+      ],
+      "director": "David Leitch",
+      "guionistas": [
+        "Mark Bianculli"
+      ],
+      "musica": "Dominic Lewis",
+      "elenco": [
+        {
+          "nombre": "Nicholas Hoult",
+          "personaje": "Ryan",
+          "foto": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg",
+          "iniciales": "NH"
+        },
+        {
+          "nombre": "Zoë Kravitz",
+          "personaje": "Reagan Gardner",
+          "foto": "https://image.tmdb.org/t/p/w185/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg",
+          "iniciales": "ZK"
+        },
+        {
+          "nombre": "Anna Sawai",
+          "personaje": "Emi",
+          "foto": "https://image.tmdb.org/t/p/w185/6uFaCOupDTPRnTiedveTUvjOikC.jpg",
+          "iniciales": "AS"
+        },
+        {
+          "nombre": "Rhenzy Feliz",
+          "personaje": "Hugo",
+          "foto": "https://image.tmdb.org/t/p/w185/9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg",
+          "iniciales": "RF"
+        },
+        {
+          "nombre": "Pete Davidson",
+          "personaje": "Vince",
+          "foto": "https://image.tmdb.org/t/p/w185/f3kubnZu3KgMniExcq9nJy8RwjW.jpg",
+          "iniciales": "PD"
+        },
+        {
+          "nombre": "John C. Reilly",
+          "personaje": "Agent West",
+          "foto": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg",
+          "iniciales": "JR"
+        },
+        {
+          "nombre": "Christian Slater",
+          "personaje": "Walton",
+          "foto": "https://image.tmdb.org/t/p/w185/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg",
+          "iniciales": "CS"
+        },
+        {
+          "nombre": "Tati Gabrielle",
+          "personaje": "Skyler",
+          "foto": "https://image.tmdb.org/t/p/w185/txZTL1HkPVxliTilbjlwR51VIt6.jpg",
+          "iniciales": "TG"
+        }
+      ],
+      "paises": [
+        "United States of America"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "87North Productions",
+        "Imagine Entertainment",
+        "Amazon MGM Studios"
+      ],
+      "temas": [
+        "Heist",
+        "Bank robbery",
+        "Armed robbery",
+        "Action comedy",
+        "Livestream",
+        "Comedy thriller",
+        "Heist comedy"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=tKtg0S1rm2M",
+      "teaser": "",
+      "imdb_id": "tt35866986",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 161,
+          "titulo": "Ocean's Eleven. Hagan juego",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg",
+          "score": 7.467
+        },
+        {
+          "tmdb_id": 247,
+          "titulo": "Atraco perfecto",
+          "anio": "1956",
+          "poster": "https://image.tmdb.org/t/p/w342/1NL92xMCQRK254IVSPkpsG0ErZG.jpg",
+          "score": 7.643
+        },
+        {
+          "tmdb_id": 250,
+          "titulo": "I Kina spiser de hunde",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/2qU5gQfgD086R5lVHeWcgU9SJ0h.jpg",
+          "score": 7.3
+        },
+        {
+          "tmdb_id": 184,
+          "titulo": "Jackie Brown",
+          "anio": "1997",
+          "poster": "https://image.tmdb.org/t/p/w342/vNrJ3ODvu2dvqIdHHbzgsVjgp4X.jpg",
+          "score": 7.356
+        },
+        {
+          "tmdb_id": 163,
+          "titulo": "Ocean's Twelve",
+          "anio": "2004",
+          "poster": "https://image.tmdb.org/t/p/w342/guLJDVIqumv9C4iEpuuzqZIhEi1.jpg",
+          "score": 6.571
+        },
+        {
+          "tmdb_id": 299,
+          "titulo": "La cuadrilla de los once",
+          "anio": "1960",
+          "poster": "https://image.tmdb.org/t/p/w342/wDJzbzmcv02ZqutDr2MwredPN0y.jpg",
+          "score": 6.371
+        },
+        {
+          "tmdb_id": 507,
+          "titulo": "Killing Zoe",
+          "anio": "1993",
+          "poster": "https://image.tmdb.org/t/p/w342/8znqXHh4W1l4qgLimEsHlQdPdG6.jpg",
+          "score": 6.201
+        },
+        {
+          "tmdb_id": 562,
+          "titulo": "Jungla de cristal",
+          "anio": "1988",
+          "poster": "https://image.tmdb.org/t/p/w342/m54tK4wKjc1w2dp7QInG0munGao.jpg",
+          "score": 7.818
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-12"
   }
 }

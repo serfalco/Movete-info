@@ -123,7 +123,7 @@
     "titulo": "La Mancha de Rolando + Voltaje",
     "fecha": "2026-11-28 21:00:00",
     "lugar": "Teatro René Favaloro",
-    "direccion": "Calle 67 y 139 (según Passline)",
+    "direccion": "Calle 67 N° 139 e/ 116 y 117",
     "categoria": "musica",
     "url": "https://www.passline.com/eventos/la-mancha-de-rolando-en-la-plata",
     "fuente": "planilla",
@@ -256,6 +256,416 @@
     "direccion": "Montevideo y 18",
     "categoria": "danza",
     "url": "https://elmundodeberisso.com.ar/2026/11/05/noviembre-multigenero-en-puerta-b/",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Etiqueta Negra: tributo a los Redondos",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Teatro René Favaloro",
+    "direccion": "Calle 67 N° 139 e/ 116 y 117",
+    "categoria": "musica",
+    "url": "https://teatrina.com/salas/teatro-rene-favaloro",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La Matilde - Cumbia Club",
+    "fecha": "2026-11-12 20:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 Nº 565, entre 43 y 44",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/la-matilde-cumbia-club",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Mujer Cebra presenta Inhibidor, con Miedo Puro",
+    "fecha": "2026-11-13 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 Nº 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/mujer-cebra-presenta-inhibidor-con-miedo-puro",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Euge Rodríguez",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "Sala A - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/euge-rodriguez",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Oveja negra - Juampi González",
+    "fecha": "2026-11-13 21:00:00",
+    "lugar": "El Teatro Bar",
+    "direccion": "Calle 43 Nº 632, entre 7 y 8",
+    "categoria": "stand-up",
+    "url": "https://teatrina.com/obras/oveja-negra-juampi-gonzalez",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Factory: MissLupe, Andrés Sabat y amigxs",
+    "fecha": "2026-11-13 23:59:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 Nº 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/factory-misslupe-andres-sabat-y-amigxs",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Oscuro y bailable: Cobra Rod",
+    "fecha": "2026-11-13 23:59:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 Nº 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/oscuro-y-bailable-cobra-rod",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Sueños curiosos: teatro para bebés",
+    "fecha": "2026-11-14 16:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 Nº 565, entre 43 y 44",
+    "categoria": "infantil",
+    "url": "https://teatrina.com/obras/suenos-curiosos-teatro-para-bebes",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Babasónicos",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Avenida 44 y 115",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/babasonicos",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Dar paso",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 Nº 565, entre 43 y 44",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/dar-paso",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Julieta Laso presenta Fabriquera",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Sala C - Juan Falú - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/julieta-laso-presenta-fabriquera",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La nona",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Teatro de la UNLP",
+    "direccion": "Calle 10 Nº 1076, entre 54 y 55",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/la-nona",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Mortal Punky",
+    "fecha": "2026-11-14 21:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 Nº 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/mortal-punky",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Bailó toda la noche, tomó agua fría y se murió",
+    "fecha": "2026-11-15 19:00:00",
+    "lugar": "Sala A - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/bailo-toda-la-noche-tomo-agua-fria-y-se-murio",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Los vínculos",
+    "fecha": "2026-11-15 20:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "Calle 17 Nº 1754, esquina 68",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/los-vinculos",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Círculo íntimo: ¿cuántos secretos tenés?",
+    "fecha": "2026-11-15 20:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 Nº 565, entre 43 y 44",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/circulo-intimo-cuantos-secretos-tenes",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Shakespearean Echoes",
+    "fecha": "2026-11-17 20:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 Nº 565, entre 43 y 44",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/shakespearean-echoes",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Laylat al Sharq",
+    "fecha": "2026-11-19 20:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 Nº 565, entre 43 y 44",
+    "categoria": "danza",
+    "url": "https://teatrina.com/obras/laylat-al-sharq",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "India Bombay, Casualcasual y Laureano y las Valkirias",
+    "fecha": "2026-11-20 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 Nº 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/india-bombay-casualcasual-y-laureano-y-las-valkirias",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Casi presente - Agustina Aguilar",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "El Teatro Bar",
+    "direccion": "Calle 43 Nº 632, entre 7 y 8",
+    "categoria": "stand-up",
+    "url": "https://teatrina.com/obras/casi-presente-agustina-aguilar",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Memphis La Blusera",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "Auditorio Charly García - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/memphis-la-blusera",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Hombres en liquidación (stand up)",
+    "fecha": "2026-11-20 22:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "Calle 17 Nº 1754, esquina 68",
+    "categoria": "stand-up",
+    "url": "https://teatrina.com/obras/hombres-en-liquidacion-stand-up",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Casi Corales: concierto",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "Calle 17 Nº 1754, esquina 68",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/casi-corales-concierto",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La Vela Puerca + Las Pelotas",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Avenida 44 y 115",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/la-vela-puerca-las-pelotas",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Canciones de Cisterna - Historias de un amor",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 Nº 565, entre 43 y 44",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/canciones-de-cisterna-historias-de-un-amor",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La nona",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Teatro de la UNLP",
+    "direccion": "Calle 10 Nº 1076, entre 54 y 55",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/la-nona",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Malena Muyala",
+    "fecha": "2026-11-21 22:00:00",
+    "lugar": "Sala A - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/malena-muyala",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Agridulce Exprés",
+    "fecha": "2026-11-22 20:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "Calle 17 Nº 1754, esquina 68",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/agridulce-expres",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Chakras, meditación sensorial en completa oscuridad",
+    "fecha": "2026-11-26 20:00:00",
+    "lugar": "Sala A - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/chakras-meditacion-sensorial-en-completa-oscuridad",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Kamada en La Plata",
+    "fecha": "2026-11-26 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 Nº 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/kamada-en-la-plata",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Esperanzah., Moah y Kiki Victoria: R&B y soul criollo",
+    "fecha": "2026-11-27 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 Nº 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/esperanzah-moah-y-kiki-victoria-ryb-y-soul-criollo",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Agridulce Exprés",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "Calle 17 Nº 1754, esquina 68",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/agridulce-expres",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La Trasnochada: Los falsificadores de siempre",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "Auditorio Charly García - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/la-trasnochada-los-falsificadores-de-siempre",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Muestra compañía Zafarrancho",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 Nº 565, entre 43 y 44",
+    "categoria": "danza",
+    "url": "https://teatrina.com/obras/muestra-compania-zafarrancho",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Caracol a Contramano: 20 años",
+    "fecha": "2026-11-28 20:30:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 Nº 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/caracol-a-contramano-20-anos",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La nona",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "Teatro de la UNLP",
+    "direccion": "Calle 10 Nº 1076, entre 54 y 55",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/la-nona",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Plan Blues",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 Nº 565, entre 43 y 44",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/plan-blues",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Sueño Stereo",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "Sala C - Juan Falú - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/sueno-stereo",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Un Poco de Ruido",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Avenida 44 y 115",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/un-poco-de-ruido-30373f",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Manual: Drama en tres audios",
+    "fecha": "2026-11-29 20:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "Calle 17 Nº 1754, esquina 68",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/manual-drama-en-tres-audios",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Fernando Cabrera & Hugo Fattoruso",
+    "fecha": "2026-12-01 21:00:00",
+    "lugar": "Auditorio Charly García - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/fernando-cabrera-y-hugo-fattoruso-82ef91",
     "fuente": "planilla",
     "imagen": ""
   }
