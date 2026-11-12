@@ -1,40 +1,31 @@
 # ROADMAP
 
-## V1
+Actualizado el 12/11/2026. El plan vivo está en dos documentos:
 
-- [ ] Cloudflare Pages conectado a `Movete-info`.
-- [ ] Home base.
-- [ ] Cine en `/cine/`.
-- [ ] En Vivo en `/en-vivo/`.
-- [ ] Ediciones semanales.
-- [ ] Ads básicos.
-- [ ] Eliminar WordPress.
-- [ ] Eliminar FTP.
+- Plan de posicionamiento: https://claude.ai/artifact/LdC8eqNBqznCLLpekTCihK
+- Informe integral y plan de mejoras (noviembre 2026): https://claude.ai/artifact/5jvQABAiuJe3Rh4J2JzPQ1
 
-## V1.1
+## Hecho
 
-- [ ] “Lo que se viene” dentro de cada edición.
-- [ ] Eventos futuros de venues grandes.
+- [x] Sitio estático en Cloudflare Workers conectado a `Movete-info` (sin WordPress, FTP ni base de datos).
+- [x] Portada, Cine en `/cine/` y En Vivo en `/en-vivo/`, con ediciones semanales.
+- [x] "Lo que se viene" y eventos futuros de salas grandes.
+- [x] Base de salas con nombres normalizados y dirección (`movete-espectaculos/venues.py`).
+- [x] Páginas por sala, por obra y por película; rubros con URL propia.
+- [x] Formulario `/sumar/` y planilla como fuentes propias.
+- [x] Tres pasadas por semana: martes, jueves (edición completa, cine y newsletter) y domingo.
+- [x] Newsletter semanal y publicación automática en redes.
+- [x] Buscador y filtros en la cartelera.
 
-## V1.2
+## En curso (noviembre 2026)
 
-- [ ] Base de venues.
-- [ ] Normalización definitiva de nombres.
-- [ ] Dirección.
-- [ ] Coordenadas.
-- [ ] Capacidad aproximada.
-- [ ] `venue_grande`.
+- [ ] Higiene del índice: alias de obra con 301, ediciones viejas en `noindex`, `lastmod` real, `alt` en afiches, `_headers`.
+- [ ] Medir el cambio de títulos de salas (~20/11) y de obras (~4/12).
 
-## V1.3
+## Después
 
-- [ ] Páginas por venue.
-- [ ] Mapa por venue.
-- [ ] Próximos eventos.
-- [ ] Eventos de la semana.
-- [ ] Histórico.
-
-## V2
-
-- [ ] Categorías con URLs propias.
-- [ ] Navegación avanzada.
-- [ ] SEO ampliado.
+- [ ] Control automático del HTML en cada pasada.
+- [ ] Salas con historial y datos fijos.
+- [ ] Obras pasadas: contenido propio y regla de salida del índice.
+- [ ] Una tarjeta por show con todas sus fechas.
+- [ ] Coordenadas y capacidad de las salas; mapa por sala.

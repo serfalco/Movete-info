@@ -1,0 +1,11 @@
+# Cabeceras de Cloudflare Workers (static assets) para movete.info.
+# Las redirecciones (_redirects) se aplican antes que este archivo.
+
+# Los afiches llevan por nombre una huella de su URL de origen: el mismo
+# nombre es siempre la misma imagen, asi que el navegador puede guardarla un ano.
+/assets/afiches/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
