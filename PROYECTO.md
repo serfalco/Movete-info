@@ -30,7 +30,7 @@ Ejemplo: edición `2026-06-25`, desde jueves 25 de junio hasta miércoles 1 de j
 - `movete-scraper`: obtiene y normaliza eventos. Salida: `eventos.json`.
 - `movete-cine`: genera HTML estático de cine.
 - `movete-espectaculos`: genera HTML estático de En Vivo.
-- `Movete-info`: sitio final publicado por Cloudflare Pages.
+- `Movete-info`: sitio final. Lo publica un Worker de Cloudflare con static assets (no Pages): cada push a `main` dispara el deploy.
 
 ## Tecnologías descartadas
 
