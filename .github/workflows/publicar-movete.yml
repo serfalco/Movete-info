@@ -74,6 +74,11 @@ jobs:
         working-directory: movete-espectaculos
         run: python generar_edicion.py --eventos eventos.json --output ../Movete-info/en-vivo
 
+      - name: Instalar ffmpeg (para el Reel)
+        # Las imagenes nuevas de GitHub ya no lo traen.
+        continue-on-error: true
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
       - name: Armar piezas para redes
         # Carrusel del finde e historias de cada dia en Movete-info/redes/<jueves>/.
         # Solo dibuja: publica redes.yml. Si falla, la edicion sale igual.
