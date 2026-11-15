@@ -46,7 +46,7 @@ def armar(texto_fb, fecha, dia_semana):
     pie = f"Todos los planes de hoy 👉 {link}"
     if dia_semana in (2, 6):  # miercoles y domingo
         pie += f"\n📬 La agenda, cada jueves en tu mail: {NEWSLETTER}"
-    pie += "\n#LaPlata"
+    pie += "\n#LaPlata #QuéHacerEnLaPlata #AgendaCultural"
 
     if not texto_fb:
         cabeza = "¿Qué hacer hoy en La Plata? Teatro, música, stand up, cine y más 👇"
