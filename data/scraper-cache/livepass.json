@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "GIROS",
-    "fecha": "2026-11-13 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "LUCHO SSJ",
     "fecha": "2026-11-20 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -58,36 +48,6 @@
     "url": "",
     "fuente": "livepass",
     "imagen": ""
-  },
-  {
-    "titulo": "GIROS",
-    "fecha": "2026-11-13 20:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/giros-en-el-teatro-opera-lp-13-11",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/b4a7cf831898d88cf5dde07a51e0de21e862967f.jpg?1785786134"
-  },
-  {
-    "titulo": "ESQUINA LIBERTAD - Tributo a Los Piojos",
-    "fecha": "2026-11-14 20:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/esquina-libertad-tributo-a-los-piojos-en-el-teatro-opera-lp",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/e3a361853c0547c518b055d5a9c80153097ee4ad.png?1793115491"
-  },
-  {
-    "titulo": "BABASONICOS",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Av. 44 y 115, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/babasonicos-en-el-hipodromo-de-la-plata",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/4b8fc9f1fba8d4c5f1d0273868441b9a9686dd1b.png?1779123258"
   },
   {
     "titulo": "LUCHO SSJ",

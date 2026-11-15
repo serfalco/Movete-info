@@ -15,3 +15,30 @@
 # la seccion equivalente recupera las visitas y las senales de esos enlaces.
 /evento/*    /en-vivo/   301
 /eventos/*   /en-vivo/   301
+
+# --- Alias de obra (generado por movete-espectaculos, no editar a mano) ---
+/en-vivo/obra/anemonas-un-plan-imperfecto/ /en-vivo/obra/anemonas/ 301
+/en-vivo/obra/bicicletero-indie-club-vol-4-sucia-y-seca-pikaflores-kawai/ /en-vivo/obra/bicicletero-indie-club-vol-4/ 301
+/en-vivo/obra/emanero-todo-por-un-beso/ /en-vivo/obra/emanero/ 301
+/en-vivo/obra/escalandrum-jazz-tango-folclore/ /en-vivo/obra/escalandrum/ 301
+/en-vivo/obra/fulanas-trio-el-engrupe-en-espacio-live/ /en-vivo/obra/fulanas-trio-el-engrupe/ 301
+/en-vivo/obra/gabriel-rolon-palabra-plena/ /en-vivo/obra/gabriel-rolon/ 301
+/en-vivo/obra/huespedes-un-dia-ya-no-se-oyo-ningun-ruido/ /en-vivo/obra/huespedes/ 301
+/en-vivo/obra/ivan-noble-2026/ /en-vivo/obra/ivan-noble/ 301
+/en-vivo/obra/la-facunda-farsa-rural/ /en-vivo/obra/la-facunda/ 301
+/en-vivo/obra/la-la-la-40-anos-en-espacio-live/ /en-vivo/obra/la-la-la-40-anos/ 301
+/en-vivo/obra/la-nona-del-teatro-unlp/ /en-vivo/obra/la-nona/ 301
+/en-vivo/obra/la-retroferia-karaoke/ /en-vivo/obra/la-retroferia/ 301
+/en-vivo/obra/liga-de-improvisadores-vs-el-match/ /en-vivo/obra/liga-de-improvisadores/ 301
+/en-vivo/obra/los-secretos-del-ciudadano-k-pablo-morosi/ /en-vivo/obra/los-secretos-del-ciudadano-k/ 301
+/en-vivo/obra/monstruos-cual-es-el-tuyo/ /en-vivo/obra/monstruos/ 301
+/en-vivo/obra/muerde-luciano-caceres/ /en-vivo/obra/muerde/ 301
+/en-vivo/obra/mujer-cebra-presenta-inhibidor-con-miedo-puro/ /en-vivo/obra/mujer-cebra/ 301
+/en-vivo/obra/no-te-vayas-con-amor-o-sin-el-de-norman-briski/ /en-vivo/obra/no-te-vayas-con-amor-o-sin-el/ 301
+/en-vivo/obra/oscuro-y-bailable-cobra-rod/ /en-vivo/obra/oscuro-y-bailable/ 301
+/en-vivo/obra/poema-criollo-versos-del-subsuelo/ /en-vivo/obra/poema-criollo/ 301
+/en-vivo/obra/puzzle-drama-absurdo-en-un-acto/ /en-vivo/obra/puzzle/ 301
+/en-vivo/obra/rompiendo-espejos-tributo-a-callejeros/ /en-vivo/obra/rompiendo-espejos/ 301
+/en-vivo/obra/salsa-y-no-llores-el-conjunto-la-saoko/ /en-vivo/obra/salsa-y-no-llores/ 301
+/en-vivo/obra/segunda-mano-en-espacio-live-la-plata-clasicos-lado-b/ /en-vivo/obra/segunda-mano/ 301
+# --- fin alias de obra ---

@@ -1,51 +1,11 @@
 [
   {
-    "titulo": "La biblioteca perdida",
-    "fecha": "2026-11-14 18:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "Calle 4 entre 51 y 53",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/la-biblioteca-perdida-100765",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Segunda Mano: Clásicos lado B",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Espacio Live",
-    "direccion": "Calle 56 Nº 685",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/segunda-mano-en-espacio-live-la-plata-clasicos-lado-b",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
     "titulo": "Ni media palabra",
     "fecha": "2026-11-15 20:00:00",
     "lugar": "Teatro Metro",
     "direccion": "Calle 4 entre 51 y 53",
     "categoria": "teatro",
     "url": "https://www.teatrometrolp.com.ar/entrada/ni-media-palabra.-100920",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Priscila Rauto",
-    "fecha": "2026-11-13 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/priscila-rauto",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Multiverso Dettbarn",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/multiverso-dettbarn",
     "fuente": "planilla",
     "imagen": ""
   },
@@ -140,16 +100,6 @@
     "imagen": ""
   },
   {
-    "titulo": "La Burguesía del Fuck You + Chabona + Síntoma",
-    "fecha": "2026-11-14 20:00:00",
-    "lugar": "La Bicicletería creación colectiva",
-    "direccion": "Calle 40 esquina 117",
-    "categoria": "musica",
-    "url": "https://www.casualpass.net/e/la-burguesia-del-fuck-you-chabona-sintoma",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
     "titulo": "Salí del Garaje — quinta fecha",
     "fecha": "2026-11-15 19:00:00",
     "lugar": "Raíces del Dawson",
@@ -170,72 +120,12 @@
     "imagen": ""
   },
   {
-    "titulo": "Dimotteando: chamamé entrerriano — taller con Facundo Torresán",
-    "fecha": "2026-11-14 11:00:00",
-    "lugar": "Centro Cultural Estación Provincial",
-    "direccion": "17 y 71",
-    "categoria": "taller",
-    "url": "https://fmfutura.com.ar/2026/10/26/acordeones-historias-y-encuentros-el-rio-de-la-plata-se-prepara-para-celebrar-la-musica-compartida/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Círculo circasiano y baile folk francés — taller con Isabelle Bazin",
-    "fecha": "2026-11-14 15:00:00",
-    "lugar": "Centro Cultural Estación Provincial",
-    "direccion": "17 y 71",
-    "categoria": "taller",
-    "url": "https://fmfutura.com.ar/2026/10/26/acordeones-historias-y-encuentros-el-rio-de-la-plata-se-prepara-para-celebrar-la-musica-compartida/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Ronda de acordeonistas — XI Encuentro de Acordeonistas del Río de la Plata",
-    "fecha": "2026-11-14 18:00:00",
-    "lugar": "Centro Cultural Estación Provincial",
-    "direccion": "17 y 71",
-    "categoria": "musica",
-    "url": "https://fmfutura.com.ar/2026/10/26/acordeones-historias-y-encuentros-el-rio-de-la-plata-se-prepara-para-celebrar-la-musica-compartida/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Natalio Sturla e Isabelle Bazin, con Noelia Sinkunas",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Club Unión y Perseverancia",
-    "direccion": "13 y 153",
-    "categoria": "musica",
-    "url": "https://fmfutura.com.ar/2026/10/26/acordeones-historias-y-encuentros-el-rio-de-la-plata-se-prepara-para-celebrar-la-musica-compartida/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
     "titulo": "Concierto para el humedal — XI Encuentro de Acordeonistas",
     "fecha": "2026-11-15 15:00:00",
     "lugar": "Beressia / Territorio Isleño",
     "direccion": "",
     "categoria": "musica",
     "url": "https://www.berissociudad.com.ar/Llega-el-11-Encuentro-de-Acordeonistas-del-Rio-de-la-Plata-404704",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Fernando Borroni — Del sueño a la poesía",
-    "fecha": "2026-11-13 21:00:00",
-    "lugar": "Puerta B",
-    "direccion": "Montevideo y 18",
-    "categoria": "musica",
-    "url": "https://elmundodeberisso.com.ar/2026/11/05/noviembre-multigenero-en-puerta-b/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Fiore Ayllón Grupo + Tritono",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Puerta B",
-    "direccion": "Montevideo y 18",
-    "categoria": "musica",
-    "url": "https://elmundodeberisso.com.ar/2026/11/05/noviembre-multigenero-en-puerta-b/",
     "fuente": "planilla",
     "imagen": ""
   },
@@ -266,126 +156,6 @@
     "direccion": "Calle 67 N° 139 e/ 116 y 117",
     "categoria": "musica",
     "url": "https://teatrina.com/salas/teatro-rene-favaloro",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "La Matilde - Cumbia Club",
-    "fecha": "2026-11-12 20:30:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 Nº 565, entre 43 y 44",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/la-matilde-cumbia-club",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Mujer Cebra presenta Inhibidor, con Miedo Puro",
-    "fecha": "2026-11-13 20:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "Calle 71 Nº 1099, esquina 17",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/mujer-cebra-presenta-inhibidor-con-miedo-puro",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Euge Rodríguez",
-    "fecha": "2026-11-13 21:00:00",
-    "lugar": "Sala A - Casa Metro",
-    "direccion": "Calle 4, entre 51 y 53",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/euge-rodriguez",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Oveja negra - Juampi González",
-    "fecha": "2026-11-13 21:00:00",
-    "lugar": "El Teatro Bar",
-    "direccion": "Calle 43 Nº 632, entre 7 y 8",
-    "categoria": "stand-up",
-    "url": "https://teatrina.com/obras/oveja-negra-juampi-gonzalez",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Factory: MissLupe, Andrés Sabat y amigxs",
-    "fecha": "2026-11-13 23:59:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "Calle 71 Nº 1099, esquina 17",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/factory-misslupe-andres-sabat-y-amigxs",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Oscuro y bailable: Cobra Rod",
-    "fecha": "2026-11-13 23:59:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "Calle 71 Nº 1099, esquina 17",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/oscuro-y-bailable-cobra-rod",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Sueños curiosos: teatro para bebés",
-    "fecha": "2026-11-14 16:30:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 Nº 565, entre 43 y 44",
-    "categoria": "infantil",
-    "url": "https://teatrina.com/obras/suenos-curiosos-teatro-para-bebes",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Babasónicos",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Avenida 44 y 115",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/babasonicos",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Dar paso",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 Nº 565, entre 43 y 44",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/dar-paso",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Julieta Laso presenta Fabriquera",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Sala C - Juan Falú - Casa Metro",
-    "direccion": "Calle 4, entre 51 y 53",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/julieta-laso-presenta-fabriquera",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "La nona",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Teatro de la UNLP",
-    "direccion": "Calle 10 Nº 1076, entre 54 y 55",
-    "categoria": "teatro",
-    "url": "https://teatrina.com/obras/la-nona",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Mortal Punky",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "Calle 71 Nº 1099, esquina 17",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/mortal-punky",
     "fuente": "planilla",
     "imagen": ""
   },
