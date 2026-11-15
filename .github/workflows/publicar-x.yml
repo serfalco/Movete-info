@@ -1,0 +1,50 @@
+name: Publicar en X
+
+# MoVeTe: un post por dia a las 11:00 ART con los planes del dia (redes/<jueves>/manifest.json).
+# Publica en X a traves de Buffer (plan gratis). Necesita el secret
+# BUFFER_API_KEY (vence al año: se regenera en publish.buffer.com/settings/api).
+# Scripts en .github/x/. Si un dia falla, ese dia no sale nada y listo.
+#
+# "Run workflow" a mano con "prueba" tildado: muestra el texto y verifica la
+# clave contra Buffer, sin publicar.
+
+on:
+  schedule:
+    - cron: "20 13 * * *"
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: "Prueba en seco (no publica)"
+        type: boolean
+        default: true
+      fecha:
+        description: "Fecha a simular (AAAA-MM-DD, opcional)"
+        required: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publicar-x
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            .github/x
+            redes
+      - name: Publicar
+        working-directory: .github/x
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.prueba && '1' || '' }}
+        run: |
+          if [ -n "$DRY_RUN" ]; then
+            python3 -c "import buffer_x,sys; sys.exit(0 if buffer_x.verificar('6af9df56ece6dfde5fd48569') else 1)" || true
+          fi
+          python3 movete_x.py --redes ../../redes ${{ inputs.fecha && format('--fecha {0}', inputs.fecha) || '' }}
