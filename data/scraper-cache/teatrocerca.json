@@ -10,14 +10,14 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908003447-773bf579.webp"
   },
   {
-    "titulo": "Beguinas (Ni Esposas Ni Monjas)",
-    "fecha": "2026-11-15 20:00:00",
-    "lugar": "Teatro El Escape",
-    "direccion": "Calle 44 Nº 1443, La Plata",
+    "titulo": "ADICTOS, Reunion de adictos IA",
+    "fecha": "2026-11-18 21:00:00",
+    "lugar": "Teatro Abierto",
+    "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/beguinas-ni-esposas-ni-monjas/funcion/la-plata/teatro-el-escape/15-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/adictos-reunion-de-adictos-ia/funcion/la-plata/teatro-abierto/18-noviembre-2026",
     "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260907235800-1f220ace.webp"
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261117043306-31e93b13.webp"
   },
   {
     "titulo": "Camas Cruzadas",
@@ -48,16 +48,6 @@
     "url": "https://teatrocerca.com.ar/obra/dan-tumburus-estoy-bien-gracias/funcion/la-plata/teatro-metro-la-plata/3-diciembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261031144505-44606256.webp"
-  },
-  {
-    "titulo": "Disforia",
-    "fecha": "2026-11-15 19:30:00",
-    "lugar": "Fabrica CITA",
-    "direccion": "Calle 115 Nº1467, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/disforia/funcion/la-plata/c-115-no1467/15-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261014014911-ea18e385.webp"
   },
   {
     "titulo": "El cuarto de veronica",
@@ -141,31 +131,21 @@
   },
   {
     "titulo": "Narices negras",
-    "fecha": "2026-11-15 20:00:00",
+    "fecha": "2026-11-22 20:00:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/narices-negras/funcion/la-plata/viejo-almacen-el-obrero/15-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/narices-negras/funcion/la-plata/viejo-almacen-el-obrero/22-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261028032045-38f7419b.webp"
   },
   {
-    "titulo": "Ni media palabra",
-    "fecha": "2026-11-15 20:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 Nº 78, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/ni-media-palabra/funcion/la-plata/teatro-metro-la-plata/15-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260812034459-0141d983.webp"
-  },
-  {
     "titulo": "Otra estúpida razón para no morir (en otoño)",
-    "fecha": "2026-11-15 20:00:00",
+    "fecha": "2026-11-22 20:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/otra-estupida-razon-para-no-morir-en-otono/funcion/la-plata/teatro-abierto/15-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/otra-estupida-razon-para-no-morir-en-otono/funcion/la-plata/teatro-abierto/22-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109024958-f4a6ed55.webp"
   },
@@ -188,15 +168,5 @@
     "url": "https://teatrocerca.com.ar/obra/turco-naim-un-turco-suelto/funcion/la-plata/teatro-la-nonna/21-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260901022602-8c03d999.webp"
-  },
-  {
-    "titulo": "Venecia",
-    "fecha": "2026-11-15 19:30:00",
-    "lugar": "Telón Negro Teatro",
-    "direccion": "Av. 13 Nº 26, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/venecia/funcion/la-plata/telon-negro-teatro/15-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261112023552-2345ef2f.webp"
   }
 ]

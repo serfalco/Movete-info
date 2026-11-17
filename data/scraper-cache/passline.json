@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Segunda Mano en Espacio Live La Plata - Clásicos lado B",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Espacio Live",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/segunda-mano-en-espacio-live-la-plata-clasicos-lado-b",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/clasicos-alado-b-x-segunda-mano-567611-rec.jpg"
-  },
-  {
     "titulo": "Kiss Me, en Espacio Live!",
     "fecha": "2026-11-27 21:00:00",
     "lugar": "Espacio Live",
@@ -30,24 +20,14 @@
     "imagen": "https://www.passline.com/imagenes/eventos/la-magdalena-noche-sabinera-en-espacio-live-la-plata-575106-rec.jpg"
   },
   {
-    "titulo": "Priscila Rauto",
-    "fecha": "2026-11-13 21:00:00",
-    "lugar": "Casa Suiza",
+    "titulo": "Syrah y Doble Gota en Espacio Live",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "Espacio Live La Plata",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://www.passline.com/eventos/priscila-rauto",
+    "url": "https://www.passline.com/eventos/syrah-y-doble-gota-en-espacio-live",
     "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/-814249-rec.jpg"
-  },
-  {
-    "titulo": "MULTIVERSO DETTBARN",
-    "fecha": "2026-11-14 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/multiverso-dettbarn",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/multiverso-dettbarn-560716-rec.jpg"
+    "imagen": "https://www.passline.com/imagenes/eventos/syrah-y-doble-gota-en-espacio-live-579051-rec.jpg"
   },
   {
     "titulo": "SOL BASSA - RAMIRO SAGASTI - SEBA ROSELLO",
@@ -170,6 +150,16 @@
     "imagen": "https://www.passline.com/imagenes/eventos/patanes-corazones-576521-rec.jpg"
   },
   {
+    "titulo": "La Navidad de Baccarat",
+    "fecha": "2026-12-19 21:00:00",
+    "lugar": "Casa Suiza",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://www.passline.com/eventos/la-navidad-de-baccarat",
+    "fuente": "passline",
+    "imagen": "https://www.passline.com/imagenes/eventos/la-navidad-de-baccarat-579773-rec.jpg"
+  },
+  {
     "titulo": "LA MANCHA DE ROLANDO EN LA PLATA",
     "fecha": "2026-11-28 21:00:00",
     "lugar": "Teatro Rene Favaloro",
@@ -178,25 +168,5 @@
     "url": "https://www.passline.com/eventos/la-mancha-de-rolando-en-la-plata",
     "fuente": "passline",
     "imagen": "https://www.passline.com/imagenes/eventos/la-mancha-de-rolando-en-la-plata-566769-rec.jpg"
-  },
-  {
-    "titulo": "LA TM - VONHARV VOLUMEN 2",
-    "fecha": "2026-11-13 22:00:00",
-    "lugar": "Vonharv",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/la-tm-vonharv-volumen-2",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/-792658-rec.jpg"
-  },
-  {
-    "titulo": "Oliver Kozlov en vivo en La Plata",
-    "fecha": "2026-11-14 20:00:00",
-    "lugar": "Pampa Cultural",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://www.passline.com/eventos/oliver-kozlov-en-vivo-en-la-plata",
-    "fuente": "passline",
-    "imagen": "https://www.passline.com/imagenes/eventos/oliver-kozlov-en-vivo-en-la-plata-552286-rec.jpg"
   }
 ]

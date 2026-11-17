@@ -51,23 +51,13 @@
   },
   {
     "titulo": "Fábrica de chicas",
-    "fecha": "2026-11-15 20:00:00",
+    "fecha": "2026-11-22 20:00:00",
     "lugar": "ESCENARIO-40",
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas88170-fabrica-de-chicas?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/05/000322605.jpg"
-  },
-  {
-    "titulo": "Disforia",
-    "fecha": "2026-11-15 19:30:00",
-    "lugar": "FÁBRICA CITA",
-    "direccion": "C. 115 Nº1467, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas93258-disforia?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/01/000320401.jpg"
   },
   {
     "titulo": "Los amantes de la casa azul",
@@ -130,16 +120,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000314138.jpg"
   },
   {
-    "titulo": "Beguinas (ni esposas ni monjas)",
-    "fecha": "2026-11-15 20:00:00",
-    "lugar": "TEATRO EL ESCAPE",
-    "direccion": "44 1443 entre 23 y 24, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas100991-beguinas-ni-esposas-ni-monjas?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/73/000314673.jpg"
-  },
-  {
     "titulo": "Muestra del taller del match de improvisacion",
     "fecha": "2026-11-24 20:00:00",
     "lugar": "SALA 420",
@@ -151,7 +131,7 @@
   },
   {
     "titulo": "Narices negras",
-    "fecha": "2026-11-15 20:00:00",
+    "fecha": "2026-11-22 20:00:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -180,16 +160,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/10/000319610.jpg"
   },
   {
-    "titulo": "Patsía: mis diálogos con él",
-    "fecha": "2026-11-15 20:00:00",
-    "lugar": "LA MERCERIA TEATRO",
-    "direccion": "Calle 1 Nº 210, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas102765-patsia-mis-dialogos-con-el?o=6",
-    "fuente": "alternativa",
-    "imagen": ""
-  },
-  {
     "titulo": "Criminal",
     "fecha": "2026-11-21 20:00:00",
     "lugar": "TELON NEGRO TEATRO",
@@ -207,7 +177,17 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas102973-las-del-lirio-tullido-retrato-familiar?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/47/000323747.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/22/000324622.jpg"
+  },
+  {
+    "titulo": "Las del Lirio. Tullido retrato familiar",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "EN ESO ESTAMOS",
+    "direccion": "Calle 62 No. 274 e/ 1 y 115, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas102973-las-del-lirio-tullido-retrato-familiar?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/22/000324622.jpg"
   },
   {
     "titulo": "EL ÚLTIMO TANGO, un crimen en 2x4",
@@ -240,16 +220,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/09/000323309.jpg"
   },
   {
-    "titulo": "Venecia",
-    "fecha": "2026-11-15 19:30:00",
-    "lugar": "TELON NEGRO TEATRO",
-    "direccion": "13 e/ 32 y 33, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas103521-venecia?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/07/000323807.jpg"
-  },
-  {
     "titulo": "Error 4 : amor",
     "fecha": "2026-11-20 21:00:00",
     "lugar": "ESPACIO 44",
@@ -271,7 +241,7 @@
   },
   {
     "titulo": "Otra estúpida razón para no morir (en otoño)",
-    "fecha": "2026-11-15 20:00:00",
+    "fecha": "2026-11-22 20:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -401,7 +371,7 @@
   },
   {
     "titulo": "Estado de crisis VI - Docentes",
-    "fecha": "2026-11-15 19:30:00",
+    "fecha": "2026-11-22 19:30:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
@@ -528,16 +498,6 @@
     "url": "https://publico.alternativateatral.com/entradas104447-el-guionista-no-aparece-en-la-foto?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/41/000324541.jpg"
-  },
-  {
-    "titulo": "Círculo íntimo: ¿Cuántos secretos tenés?",
-    "fecha": "2026-11-15 20:30:00",
-    "lugar": "DOBLE-T",
-    "direccion": "Calle 23 N°565 entre 43 y 44, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra104448-circulo-intimo-cuantos-secretos-tenes",
-    "fuente": "alternativa",
-    "imagen": ""
   },
   {
     "titulo": "Ex, la mesa y la mesada",

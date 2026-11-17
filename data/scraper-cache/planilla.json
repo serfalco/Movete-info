@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Ni media palabra",
-    "fecha": "2026-11-15 20:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "Calle 4 entre 51 y 53",
-    "categoria": "teatro",
-    "url": "https://www.teatrometrolp.com.ar/entrada/ni-media-palabra.-100920",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
     "titulo": "Sol Bassa + Ramiro Sagasti + Seba Rosello",
     "fecha": "2026-11-19 20:00:00",
     "lugar": "Casa Suiza",
@@ -100,32 +90,12 @@
     "imagen": ""
   },
   {
-    "titulo": "Salí del Garaje — quinta fecha",
-    "fecha": "2026-11-15 19:00:00",
-    "lugar": "Raíces del Dawson",
-    "direccion": "Nueva York y Marsella",
-    "categoria": "musica",
-    "url": "https://elmundodeberisso.com.ar/2026/10/18/sali-del-gararje-se-viene-la-segunda/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
     "titulo": "Salí del Garaje — sexta fecha",
     "fecha": "2026-11-22 19:00:00",
     "lugar": "Raíces del Dawson",
     "direccion": "Nueva York y Marsella",
     "categoria": "musica",
     "url": "https://elmundodeberisso.com.ar/2026/10/18/sali-del-gararje-se-viene-la-segunda/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Concierto para el humedal — XI Encuentro de Acordeonistas",
-    "fecha": "2026-11-15 15:00:00",
-    "lugar": "Beressia / Territorio Isleño",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://www.berissociudad.com.ar/Llega-el-11-Encuentro-de-Acordeonistas-del-Rio-de-la-Plata-404704",
     "fuente": "planilla",
     "imagen": ""
   },
@@ -156,36 +126,6 @@
     "direccion": "Calle 67 N° 139 e/ 116 y 117",
     "categoria": "musica",
     "url": "https://teatrina.com/salas/teatro-rene-favaloro",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Bailó toda la noche, tomó agua fría y se murió",
-    "fecha": "2026-11-15 19:00:00",
-    "lugar": "Sala A - Casa Metro",
-    "direccion": "Calle 4, entre 51 y 53",
-    "categoria": "teatro",
-    "url": "https://teatrina.com/obras/bailo-toda-la-noche-tomo-agua-fria-y-se-murio",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Los vínculos",
-    "fecha": "2026-11-15 20:00:00",
-    "lugar": "Dynamo Teatro",
-    "direccion": "Calle 17 Nº 1754, esquina 68",
-    "categoria": "teatro",
-    "url": "https://teatrina.com/obras/los-vinculos",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Círculo íntimo: ¿cuántos secretos tenés?",
-    "fecha": "2026-11-15 20:30:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 Nº 565, entre 43 y 44",
-    "categoria": "teatro",
-    "url": "https://teatrina.com/obras/circulo-intimo-cuantos-secretos-tenes",
     "fuente": "planilla",
     "imagen": ""
   },
@@ -436,6 +376,236 @@
     "direccion": "Calle 4, entre 51 y 53",
     "categoria": "musica",
     "url": "https://teatrina.com/obras/fernando-cabrera-y-hugo-fattoruso-82ef91",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Antonio! Muestra La Flor Amarilla",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "danza",
+    "url": "https://teatrina.com/obras/antonio-muestra-la-flor-amarilla",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Westerburg — Muestra del taller de montaje Dracma",
+    "fecha": "2026-11-22 17:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/westerburg-muestra-del-taller-de-montaje-dracma",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La fábrica de chocolate — Muestra Dracma",
+    "fecha": "2026-11-23 15:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/la-fabrica-de-chocolate-muestra-dracma",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Westerburg — Muestra del taller de montaje Dracma",
+    "fecha": "2026-11-23 19:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/westerburg-muestra-del-taller-de-montaje-dracma",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Muestra anual - LoStudio",
+    "fecha": "2026-11-26 20:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "danza",
+    "url": "https://teatrina.com/obras/muestra-anual-lostudio",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Caryl Chessman",
+    "fecha": "2026-12-03 21:00:00",
+    "lugar": "Dynamo Teatro",
+    "direccion": "Calle 17 1754, esquina 68",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/caryl-chessman",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Dan Tumburús: Estoy bien, gracias",
+    "fecha": "2026-12-03 21:00:00",
+    "lugar": "Sala C - Juan Falú - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "stand-up",
+    "url": "https://teatrina.com/obras/dan-tumburus-estoy-bien-gracias",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La Banda de Carlitos y Euge Quevedo",
+    "fecha": "2026-12-04 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Avenida 44 y 115",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/la-banda-de-carlitos-y-euge-quevedo-c8b1e7",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Casanovas y Norma",
+    "fecha": "2026-12-04 21:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/casanovas-y-norma",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Viva el ciclo",
+    "fecha": "2026-12-04 21:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "danza",
+    "url": "https://teatrina.com/obras/viva-el-ciclo",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Juan Solá: Invisible",
+    "fecha": "2026-12-05 20:00:00",
+    "lugar": "Sala A - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/juan-sola-invisible",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Música como en casa: Gato Luna",
+    "fecha": "2026-12-05 21:00:00",
+    "lugar": "Sala A - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/musica-como-en-casa-gato-luna",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La nona",
+    "fecha": "2026-12-05 21:00:00",
+    "lugar": "Teatro de la UNLP",
+    "direccion": "Calle 10 1076, entre 54 y 55",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/la-nona",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Serú Girán por Lebón y Aznar",
+    "fecha": "2026-12-05 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Avenida 44 y 115",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/seru-giran-por-lebon-y-aznar",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Diya Al Hilal",
+    "fecha": "2026-12-06 20:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "danza",
+    "url": "https://teatrina.com/obras/diya-al-hilal",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Noches de Varieté",
+    "fecha": "2026-12-07 20:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "humor",
+    "url": "https://teatrina.com/obras/noches-de-variete",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Abel Pintos: Buenaventura Tour",
+    "fecha": "2026-12-07 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Avenida 44 y 115",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/abel-pintos-buenaventura-tour",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Fiesta de los Provincianos — Grupo Municipal de Danzas Folklóricas de Berisso y Los Maldo",
+    "fecha": "2026-11-27 18:00:00",
+    "lugar": "Centro de Residentes Santiagueños",
+    "direccion": "Av. Génova y 149",
+    "categoria": "danza",
+    "url": "https://berisso.gob.ar/noticia/23-edicion-de-la-fiesta-de-los-provincianos",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Fiesta de los Provincianos — Encuentro literario y presentación de Los Hermanos Herrera",
+    "fecha": "2026-11-27 20:00:00",
+    "lugar": "Centro de Residentes Santiagueños",
+    "direccion": "Av. Génova y 149",
+    "categoria": "musica",
+    "url": "https://berisso.gob.ar/noticia/23-edicion-de-la-fiesta-de-los-provincianos",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Fiesta de los Provincianos — Festival de música y danza",
+    "fecha": "2026-11-28 18:00:00",
+    "lugar": "Playón Municipal",
+    "direccion": "Av. Montevideo y 11",
+    "categoria": "danza",
+    "url": "https://berisso.gob.ar/noticia/23-edicion-de-la-fiesta-de-los-provincianos",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Fiesta de los Provincianos — Pericón Nacional y desfile tradicionalista",
+    "fecha": "2026-11-29 17:00:00",
+    "lugar": "Av. Montevideo",
+    "direccion": "Av. Montevideo entre 8 y 12",
+    "categoria": "danza",
+    "url": "https://berisso.gob.ar/noticia/23-edicion-de-la-fiesta-de-los-provincianos",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Fiesta de los Provincianos — Festival de música y danza",
+    "fecha": "2026-11-29 18:00:00",
+    "lugar": "Playón Municipal",
+    "direccion": "Av. Montevideo y 11",
+    "categoria": "danza",
+    "url": "https://berisso.gob.ar/noticia/23-edicion-de-la-fiesta-de-los-provincianos",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Salí del Garaje — Festival de cierre",
+    "fecha": "2026-12-27 21:00:00",
+    "lugar": "Calle Nueva York",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://elmundodeberisso.com.ar/2026/10/18/sali-del-gararje-se-viene-la-segunda/",
     "fuente": "planilla",
     "imagen": ""
   }

@@ -1,7 +1,7 @@
 {
 "/": {
-"fecha": "2026-11-15",
-"huella": "596a91c7b7252ab6"
+"fecha": "2026-11-17",
+"huella": "809f91b7741bd767"
 },
 "/cine/": {
 "fecha": "2026-11-15",
@@ -52,8 +52,8 @@
 "huella": "81696e54bd2a1cbc"
 },
 "/en-vivo/": {
-"fecha": "2026-11-15",
-"huella": "29754b4a78fc382c"
+"fecha": "2026-11-17",
+"huella": "8179149a4c83b9c9"
 },
 "/en-vivo/2026-10-15/": {
 "fecha": "2026-10-15",
@@ -75,37 +75,33 @@
 "fecha": "2026-11-12",
 "huella": "23263e497f99d93e"
 },
+"/en-vivo/2026-11-19/": {
+"fecha": "2026-11-19",
+"huella": "2789313889d78d39"
+},
 "/en-vivo/a-plasticas/": {
-"fecha": "2026-11-15",
-"huella": "a57b9ec9a49ff449"
+"fecha": "2026-11-17",
+"huella": "8876a8455db46dc5"
 },
 "/en-vivo/archivo/": {
-"fecha": "2026-11-15",
-"huella": "19b97b0847d230cd"
+"fecha": "2026-11-17",
+"huella": "9ba67e70f7833a42"
 },
 "/en-vivo/danza/": {
-"fecha": "2026-11-15",
-"huella": "34cdb7c18449636b"
-},
-"/en-vivo/ferias/": {
-"fecha": "2026-11-15",
-"huella": "2ca1dd7c10a5c3b5"
+"fecha": "2026-11-17",
+"huella": "0c1675ed9f60a6c2"
 },
 "/en-vivo/fin-de-semana/": {
-"fecha": "2026-11-15",
-"huella": "4df8b75ba08cbd04"
+"fecha": "2026-11-17",
+"huella": "9740ab492f903192"
 },
 "/en-vivo/hoy/": {
-"fecha": "2026-11-15",
-"huella": "b07806e47f8a6078"
+"fecha": "2026-11-17",
+"huella": "eaa3f51ad2ec0054"
 },
 "/en-vivo/lo-que-se-viene/": {
-"fecha": "2026-11-15",
-"huella": "da2529c117006a37"
-},
-"/en-vivo/musica/": {
-"fecha": "2026-11-15",
-"huella": "5fc28e911e7b9312"
+"fecha": "2026-11-17",
+"huella": "d9eb9611586add33"
 },
 "/en-vivo/obra/10-anos-de-rey-de-espadas/": {
 "fecha": "2026-11-15",
@@ -172,8 +168,8 @@
 "huella": "29e9d4a5b3e0220a"
 },
 "/en-vivo/obra/a-50-anos-del-ataque-a-la-casa-mariani-teruggi/": {
-"fecha": "2026-11-15",
-"huella": "6c531e1d66e372a0"
+"fecha": "2026-11-17",
+"huella": "e1c1d417ce544893"
 },
 "/en-vivo/obra/a-nadie-le-importa-una-senora-que-barre/": {
 "fecha": "2026-11-15",
@@ -190,6 +186,10 @@
 "/en-vivo/obra/adictos-ia-muestra-de-avanzada-2026-taller-de-entrenamiento-actoral-y/": {
 "fecha": "2026-11-15",
 "huella": "0a8d7bd9d12fdb7f"
+},
+"/en-vivo/obra/adictos-reunion-de-adictos-ia/": {
+"fecha": "2026-11-17",
+"huella": "e67c74a59202b4de"
 },
 "/en-vivo/obra/after-chabon/": {
 "fecha": "2026-11-15",
@@ -259,6 +259,10 @@
 "fecha": "2026-11-15",
 "huella": "f1a11d962aafb821"
 },
+"/en-vivo/obra/antonio-muestra-la-flor-amarilla/": {
+"fecha": "2026-11-17",
+"huella": "ea8b13d6731aaec4"
+},
 "/en-vivo/obra/aquelarre-abierto/": {
 "fecha": "2026-11-15",
 "huella": "3192dce1ba036a58"
@@ -304,8 +308,8 @@
 "huella": "9990c731baa2910e"
 },
 "/en-vivo/obra/bailo-toda-la-noche-tomo-agua-fria-y-se-murio/": {
-"fecha": "2026-11-15",
-"huella": "30de2cdf5380b709"
+"fecha": "2026-11-17",
+"huella": "d12c0d526d5ec5bd"
 },
 "/en-vivo/obra/bajo-la-tormenta/": {
 "fecha": "2026-11-15",
@@ -320,16 +324,16 @@
 "huella": "33ee9390bc3dd0ca"
 },
 "/en-vivo/obra/batalla-de-lagrimas/": {
-"fecha": "2026-11-15",
-"huella": "935a813a02352886"
+"fecha": "2026-11-17",
+"huella": "0a327e640a71fd33"
 },
 "/en-vivo/obra/beatles-in-blue-beatles-swing/": {
 "fecha": "2026-11-15",
 "huella": "f7a0d313a1b3e93f"
 },
 "/en-vivo/obra/beguinas-ni-esposas-ni-monjas/": {
-"fecha": "2026-11-15",
-"huella": "a420215cd9158825"
+"fecha": "2026-11-17",
+"huella": "18462d66ff80402c"
 },
 "/en-vivo/obra/benjamin-amadeo/": {
 "fecha": "2026-11-15",
@@ -499,13 +503,17 @@
 "fecha": "2026-11-15",
 "huella": "1633244b1b290a04"
 },
-"/en-vivo/obra/caryl-chessman-el-asesino-de-la-luz-roja/": {
-"fecha": "2026-11-15",
-"huella": "05ffb88bd7474179"
+"/en-vivo/obra/caryl-chessman/": {
+"fecha": "2026-11-17",
+"huella": "5d7b6edeecb4906e"
 },
 "/en-vivo/obra/casanovas-si-la-banda-de-los-80/": {
 "fecha": "2026-11-15",
 "huella": "9bf50b5499afad99"
+},
+"/en-vivo/obra/casanovas-y-norma/": {
+"fecha": "2026-11-17",
+"huella": "cec0d8ea7bb58233"
 },
 "/en-vivo/obra/casi-corales-concierto/": {
 "fecha": "2026-11-15",
@@ -568,8 +576,8 @@
 "huella": "fb03e139f80b5013"
 },
 "/en-vivo/obra/chicago-jazz-tras-las-rejas/": {
-"fecha": "2026-11-15",
-"huella": "6acde685d020ca7f"
+"fecha": "2026-11-17",
+"huella": "fdb0f82b3cb1c418"
 },
 "/en-vivo/obra/chispa-vereda/": {
 "fecha": "2026-11-15",
@@ -596,8 +604,8 @@
 "huella": "33fdbd7dd06bc019"
 },
 "/en-vivo/obra/circulo-intimo-cuantos-secretos-tenes/": {
-"fecha": "2026-11-15",
-"huella": "6277a0d376999c34"
+"fecha": "2026-11-17",
+"huella": "8dba8fa6724ab2a6"
 },
 "/en-vivo/obra/ciudad-violenta-antropologia-urbana/": {
 "fecha": "2026-11-15",
@@ -640,12 +648,12 @@
 "huella": "f08ba71944fd7405"
 },
 "/en-vivo/obra/concierto-para-el-humedal-recorrida-inmersiva/": {
-"fecha": "2026-11-15",
-"huella": "da45b12f3253baef"
+"fecha": "2026-11-17",
+"huella": "112fd672377dbc4f"
 },
 "/en-vivo/obra/concierto-para-el-humedal-xi-encuentro-de-acordeonistas/": {
-"fecha": "2026-11-15",
-"huella": "08e5e36266b74487"
+"fecha": "2026-11-17",
+"huella": "ea4697619ccb0b7b"
 },
 "/en-vivo/obra/concierto-para-violoncello-de-antonin-dvorak/": {
 "fecha": "2026-11-15",
@@ -864,12 +872,16 @@
 "huella": "46d05abe1eb0c9ff"
 },
 "/en-vivo/obra/disforia/": {
-"fecha": "2026-11-15",
-"huella": "fd3861b3fb6de5c1"
+"fecha": "2026-11-17",
+"huella": "eca5c7f2fda1b005"
 },
 "/en-vivo/obra/divididos/": {
 "fecha": "2026-11-15",
 "huella": "910a55d3a938337c"
+},
+"/en-vivo/obra/diya-al-hilal/": {
+"fecha": "2026-11-17",
+"huella": "656c4b8854b003e8"
 },
 "/en-vivo/obra/dj-demonio/": {
 "fecha": "2026-11-15",
@@ -1008,8 +1020,8 @@
 "huella": "0cd1de6a0e1102a4"
 },
 "/en-vivo/obra/el-mismo-error-dos-veces/": {
-"fecha": "2026-11-15",
-"huella": "d0e3350137f17da6"
+"fecha": "2026-11-17",
+"huella": "992c702176719dcf"
 },
 "/en-vivo/obra/el-origen-de-los-guardianes-dir-peter-ramsey/": {
 "fecha": "2026-11-15",
@@ -1196,12 +1208,12 @@
 "huella": "6ce1dd0d1294f56c"
 },
 "/en-vivo/obra/estado-de-crisis-vi-docentes/": {
-"fecha": "2026-11-15",
-"huella": "216c4dbd159c9903"
+"fecha": "2026-11-17",
+"huella": "8819763a549c14de"
 },
 "/en-vivo/obra/estelares/": {
-"fecha": "2026-11-15",
-"huella": "6b0926f34271f73e"
+"fecha": "2026-11-17",
+"huella": "a5bc6f0884684561"
 },
 "/en-vivo/obra/esto-no-da-para-mas-comedia-sobrenaturalista-en-un-acto/": {
 "fecha": "2026-11-15",
@@ -1227,6 +1239,10 @@
 "fecha": "2026-11-15",
 "huella": "7a9e80c0ff60120f"
 },
+"/en-vivo/obra/exenta-2026/": {
+"fecha": "2026-11-17",
+"huella": "4f52cbf4755fc82a"
+},
 "/en-vivo/obra/expo-vivero-feria-de-plantas-flores-y-jardin/": {
 "fecha": "2026-11-15",
 "huella": "3057c3c38255622f"
@@ -1244,8 +1260,8 @@
 "huella": "5a8f4ce31e21c95b"
 },
 "/en-vivo/obra/fabrica-de-chicas/": {
-"fecha": "2026-11-15",
-"huella": "e5eb193605f828b6"
+"fecha": "2026-11-17",
+"huella": "91b6072fc5e0b4e4"
 },
 "/en-vivo/obra/fabriquera-julieta-laso/": {
 "fecha": "2026-11-15",
@@ -1280,8 +1296,8 @@
 "huella": "54ccba234e22688a"
 },
 "/en-vivo/obra/feria-antidomingo/": {
-"fecha": "2026-11-15",
-"huella": "2f2f036dd4d7e027"
+"fecha": "2026-11-17",
+"huella": "07af00917b04fc21"
 },
 "/en-vivo/obra/feria-de-octubre/": {
 "fecha": "2026-11-15",
@@ -1310,6 +1326,10 @@
 "/en-vivo/obra/feria-espacio-fandom/": {
 "fecha": "2026-11-15",
 "huella": "61d786219f15dd6b"
+},
+"/en-vivo/obra/feria-miga/": {
+"fecha": "2026-11-17",
+"huella": "1e75b4cadf492cd9"
 },
 "/en-vivo/obra/feria-otros-aires/": {
 "fecha": "2026-11-15",
@@ -1370,6 +1390,22 @@
 "/en-vivo/obra/fiesta-carinhosa/": {
 "fecha": "2026-11-15",
 "huella": "f0024205d0683572"
+},
+"/en-vivo/obra/fiesta-de-los-provincianos-encuentro-literario-y-presentacion-de-los-h/": {
+"fecha": "2026-11-17",
+"huella": "387927a73ef2d679"
+},
+"/en-vivo/obra/fiesta-de-los-provincianos-festival-de-musica-y-danza/": {
+"fecha": "2026-11-17",
+"huella": "78b26b55a9b63fd7"
+},
+"/en-vivo/obra/fiesta-de-los-provincianos-grupo-municipal-de-danzas-folkloricas-de-be/": {
+"fecha": "2026-11-17",
+"huella": "6204db63eadbb40b"
+},
+"/en-vivo/obra/fiesta-de-los-provincianos-pericon-nacional-y-desfile-tradicionalista/": {
+"fecha": "2026-11-17",
+"huella": "0d58c6ee0074af87"
 },
 "/en-vivo/obra/fiesta-de-poesia/": {
 "fecha": "2026-11-15",
@@ -1568,8 +1604,8 @@
 "huella": "8ab1792051fea661"
 },
 "/en-vivo/obra/inframundo/": {
-"fecha": "2026-11-15",
-"huella": "d982af4e93c290f4"
+"fecha": "2026-11-17",
+"huella": "e396f23f502600b7"
 },
 "/en-vivo/obra/insignificante-el-peso-de-lo-que-no-se-ve/": {
 "fecha": "2026-11-15",
@@ -1803,6 +1839,10 @@
 "fecha": "2026-11-15",
 "huella": "a56d98afed87924b"
 },
+"/en-vivo/obra/la-fabrica-de-chocolate-muestra-dracma/": {
+"fecha": "2026-11-17",
+"huella": "b7ccce532f0ebfe3"
+},
 "/en-vivo/obra/la-facunda/": {
 "fecha": "2026-11-15",
 "huella": "df589ada26b66629"
@@ -1895,13 +1935,17 @@
 "fecha": "2026-11-15",
 "huella": "6b701072b2879d24"
 },
+"/en-vivo/obra/la-navidad-de-baccarat/": {
+"fecha": "2026-11-17",
+"huella": "5b560942dd695f18"
+},
 "/en-vivo/obra/la-noche-de-las-librerias-platenses/": {
 "fecha": "2026-11-15",
 "huella": "183dd3d82e95c73f"
 },
 "/en-vivo/obra/la-nona/": {
-"fecha": "2026-11-15",
-"huella": "632eb219ca46543f"
+"fecha": "2026-11-17",
+"huella": "532a97085fbb180f"
 },
 "/en-vivo/obra/la-obra-que-no-se-puede-nombrar/": {
 "fecha": "2026-11-15",
@@ -2004,8 +2048,8 @@
 "huella": "cc3b71efe26cf62a"
 },
 "/en-vivo/obra/las-del-lirio-tullido-retrato-familiar/": {
-"fecha": "2026-11-15",
-"huella": "88eea3bbafa8d768"
+"fecha": "2026-11-17",
+"huella": "7d8bae63c02df796"
 },
 "/en-vivo/obra/las-del-lirio/": {
 "fecha": "2026-11-15",
@@ -2136,8 +2180,8 @@
 "huella": "8236b7afe600a41d"
 },
 "/en-vivo/obra/los-vinculos/": {
-"fecha": "2026-11-15",
-"huella": "4504fa041153c75b"
+"fecha": "2026-11-17",
+"huella": "add68c0cc7d55aa7"
 },
 "/en-vivo/obra/lucas-cordeiro-brasil-festival-timbre-stage-dive/": {
 "fecha": "2026-11-15",
@@ -2172,8 +2216,8 @@
 "huella": "52b1f0bddd07d7eb"
 },
 "/en-vivo/obra/luz-gaggi/": {
-"fecha": "2026-11-15",
-"huella": "f592aaac207e3967"
+"fecha": "2026-11-17",
+"huella": "36014197662fc442"
 },
 "/en-vivo/obra/majo-fernandez-molina/": {
 "fecha": "2026-11-15",
@@ -2299,6 +2343,10 @@
 "fecha": "2026-11-15",
 "huella": "5d471910a38d58cd"
 },
+"/en-vivo/obra/muestra-anual-lostudio/": {
+"fecha": "2026-11-17",
+"huella": "a70697c6fd2d8997"
+},
 "/en-vivo/obra/muestra-compania-zafarrancho/": {
 "fecha": "2026-11-15",
 "huella": "d527e6a8cc5bee0a"
@@ -2371,6 +2419,10 @@
 "fecha": "2026-11-15",
 "huella": "4e04fc85b9027686"
 },
+"/en-vivo/obra/musica-como-en-casa-gato-luna/": {
+"fecha": "2026-11-17",
+"huella": "a478d88930254753"
+},
 "/en-vivo/obra/musica-sin-fronteras-klapa-beeuwsaert-silva/": {
 "fecha": "2026-11-15",
 "huella": "3450af4260ebf98b"
@@ -2396,8 +2448,8 @@
 "huella": "1854a05ccddd1e17"
 },
 "/en-vivo/obra/narices-negras/": {
-"fecha": "2026-11-15",
-"huella": "69ce04fdaa40488e"
+"fecha": "2026-11-17",
+"huella": "2180eff7e419bd36"
 },
 "/en-vivo/obra/narrar-la-patria/": {
 "fecha": "2026-11-15",
@@ -2420,8 +2472,8 @@
 "huella": "7f58c70f90340d59"
 },
 "/en-vivo/obra/ni-media-palabra/": {
-"fecha": "2026-11-15",
-"huella": "2990a129031fe9dc"
+"fecha": "2026-11-17",
+"huella": "5d0757b1d1d7f735"
 },
 "/en-vivo/obra/nico-de-tracy-purga/": {
 "fecha": "2026-11-15",
@@ -2479,6 +2531,10 @@
 "fecha": "2026-11-15",
 "huella": "95c4b9b931f0fd00"
 },
+"/en-vivo/obra/noches-de-variete/": {
+"fecha": "2026-11-17",
+"huella": "fd38eee8b0cde7ff"
+},
 "/en-vivo/obra/noctambula-3ra-edicion/": {
 "fecha": "2026-11-15",
 "huella": "9c80cc7d37be9c2a"
@@ -2532,8 +2588,8 @@
 "huella": "5816bf9e75e34dc8"
 },
 "/en-vivo/obra/otra-estupida-razon-para-no-morir-en-otono/": {
-"fecha": "2026-11-15",
-"huella": "36d0f799852faec1"
+"fecha": "2026-11-17",
+"huella": "847fa43495a5a6a9"
 },
 "/en-vivo/obra/pablo-fabregas-inestable/": {
 "fecha": "2026-11-15",
@@ -2588,8 +2644,8 @@
 "huella": "ea5cfd439e15f6d6"
 },
 "/en-vivo/obra/patsia-mis-dialogos-con-el/": {
-"fecha": "2026-11-15",
-"huella": "eabc01aef8b9ace0"
+"fecha": "2026-11-17",
+"huella": "a6db2634cf85acfa"
 },
 "/en-vivo/obra/payaso-manotas/": {
 "fecha": "2026-11-15",
@@ -2664,8 +2720,8 @@
 "huella": "512a02583a5a8b07"
 },
 "/en-vivo/obra/plataforma-bienal-de-arte-la-plata/": {
-"fecha": "2026-11-15",
-"huella": "44e84efb1c7728fc"
+"fecha": "2026-11-17",
+"huella": "030be5d5521c2607"
 },
 "/en-vivo/obra/play-de-samuel-beckett/": {
 "fecha": "2026-11-15",
@@ -2883,9 +2939,13 @@
 "fecha": "2026-11-15",
 "huella": "05b21f946dd6616c"
 },
+"/en-vivo/obra/sali-del-garaje-festival-de-cierre/": {
+"fecha": "2026-11-17",
+"huella": "a6ec4d87e67039cd"
+},
 "/en-vivo/obra/sali-del-garaje-quinta-fecha/": {
-"fecha": "2026-11-15",
-"huella": "338b6f546f488a68"
+"fecha": "2026-11-17",
+"huella": "874fba9c1b986c39"
 },
 "/en-vivo/obra/sali-del-garaje-sexta-fecha/": {
 "fecha": "2026-11-15",
@@ -2928,8 +2988,8 @@
 "huella": "ebe96b5bae89baf9"
 },
 "/en-vivo/obra/seru-giran-por-lebon-y-aznar/": {
-"fecha": "2026-11-15",
-"huella": "81f12279d1b799dd"
+"fecha": "2026-11-17",
+"huella": "d816913f2a830c16"
 },
 "/en-vivo/obra/sesiones-secretas/": {
 "fecha": "2026-11-15",
@@ -3039,6 +3099,10 @@
 "fecha": "2026-11-15",
 "huella": "e9ce148ba83fd779"
 },
+"/en-vivo/obra/syrah-y-doble-gota-en-espacio-live/": {
+"fecha": "2026-11-17",
+"huella": "552582cdf1bf8f4f"
+},
 "/en-vivo/obra/tablao-flamenco/": {
 "fecha": "2026-11-15",
 "huella": "b855a4a92f492be6"
@@ -3072,8 +3136,8 @@
 "huella": "83643b0e2528d7a7"
 },
 "/en-vivo/obra/tan-bionica/": {
-"fecha": "2026-11-15",
-"huella": "d159d995139a8695"
+"fecha": "2026-11-17",
+"huella": "dc746c88094c803c"
 },
 "/en-vivo/obra/tango-para-tres/": {
 "fecha": "2026-11-15",
@@ -3096,8 +3160,8 @@
 "huella": "06200958f0a20b92"
 },
 "/en-vivo/obra/te-invito-a-mi-velorio/": {
-"fecha": "2026-11-15",
-"huella": "7b80d28719621be6"
+"fecha": "2026-11-17",
+"huella": "39b2439e32469d7d"
 },
 "/en-vivo/obra/te-pido-mil-disculpas/": {
 "fecha": "2026-11-15",
@@ -3146,6 +3210,10 @@
 "/en-vivo/obra/todo-led-zeppelin-x-physical-graffiti-en-espacio-live/": {
 "fecha": "2026-11-15",
 "huella": "adc5d3cefae59f79"
+},
+"/en-vivo/obra/torneo-de-rompecabezas/": {
+"fecha": "2026-11-17",
+"huella": "51061f66b83c9a2d"
 },
 "/en-vivo/obra/torneos-zeppelin-torneos-de-rompacabezas/": {
 "fecha": "2026-11-15",
@@ -3216,8 +3284,8 @@
 "huella": "f20269f8e7dee00d"
 },
 "/en-vivo/obra/una-feria-colectiva-vol-5/": {
-"fecha": "2026-11-15",
-"huella": "4f17bf7313bc19d2"
+"fecha": "2026-11-17",
+"huella": "f1ef0a819cdf2cf3"
 },
 "/en-vivo/obra/una-jornada-satanica/": {
 "fecha": "2026-11-15",
@@ -3248,8 +3316,8 @@
 "huella": "b5f16d7f65a51956"
 },
 "/en-vivo/obra/venecia/": {
-"fecha": "2026-11-15",
-"huella": "4dd48096fac638d6"
+"fecha": "2026-11-17",
+"huella": "a6d8170b9d907a04"
 },
 "/en-vivo/obra/version-animal-homenaje-a-soda-stereo/": {
 "fecha": "2026-11-15",
@@ -3279,6 +3347,10 @@
 "fecha": "2026-11-15",
 "huella": "92f76a54bdf782d3"
 },
+"/en-vivo/obra/viernes-de-jazz-en-la-compostera/": {
+"fecha": "2026-11-17",
+"huella": "3ecf58289f687d41"
+},
 "/en-vivo/obra/vii-concurso-lumen-artis/": {
 "fecha": "2026-11-15",
 "huella": "00ad1680a82c5397"
@@ -3295,6 +3367,10 @@
 "fecha": "2026-11-15",
 "huella": "7851aa71765adedc"
 },
+"/en-vivo/obra/viva-el-ciclo/": {
+"fecha": "2026-11-17",
+"huella": "61711a0209514946"
+},
 "/en-vivo/obra/vivalto-da-camera/": {
 "fecha": "2026-11-15",
 "huella": "f01a99de74cd4202"
@@ -3310,6 +3386,10 @@
 "/en-vivo/obra/walking-tour-especial/": {
 "fecha": "2026-11-15",
 "huella": "e7d11d2879afecfb"
+},
+"/en-vivo/obra/westerburg-muestra-del-taller-de-montaje-dracma/": {
+"fecha": "2026-11-17",
+"huella": "0664ee7f30baf49a"
 },
 "/en-vivo/obra/wili-sin-manos/": {
 "fecha": "2026-11-15",
@@ -3339,10 +3419,6 @@
 "fecha": "2026-11-15",
 "huella": "79d3faea69208a76"
 },
-"/en-vivo/otros/": {
-"fecha": "2026-11-15",
-"huella": "d03375625dae7bb7"
-},
 "/en-vivo/sala/area-chica/": {
 "fecha": "2026-11-15",
 "huella": "7f1ecad8ade27476"
@@ -3368,24 +3444,24 @@
 "huella": "a8cb0467e2448c0e"
 },
 "/en-vivo/sala/casa-suiza/": {
-"fecha": "2026-11-15",
-"huella": "33df34c00982e19d"
+"fecha": "2026-11-17",
+"huella": "ff51280e5be4975d"
 },
 "/en-vivo/sala/casa-unclan/": {
 "fecha": "2026-11-15",
 "huella": "6141af3c1b95ff1e"
 },
 "/en-vivo/sala/centro-cultural-islas-malvinas/": {
-"fecha": "2026-11-15",
-"huella": "0ce973f918ff38b0"
+"fecha": "2026-11-17",
+"huella": "88ed88bc776041d2"
 },
 "/en-vivo/sala/centro-cultural-pasaje-dardo-rocha/": {
-"fecha": "2026-11-15",
-"huella": "542bf16628d7c616"
+"fecha": "2026-11-17",
+"huella": "719b52cfa8b1a153"
 },
 "/en-vivo/sala/centro-cultural-viejo-almacen-el-obrero/": {
-"fecha": "2026-11-15",
-"huella": "d583aed8fe2b25c7"
+"fecha": "2026-11-17",
+"huella": "1120c1de82c61010"
 },
 "/en-vivo/sala/centro-de-arte-unlp/": {
 "fecha": "2026-11-15",
@@ -3404,8 +3480,8 @@
 "huella": "df8797d58b9682de"
 },
 "/en-vivo/sala/ciudad-de-gatos/": {
-"fecha": "2026-11-15",
-"huella": "23e31e9156f10c1e"
+"fecha": "2026-11-17",
+"huella": "262b8efef9ef5ac0"
 },
 "/en-vivo/sala/colibri-arte-y-cultura/": {
 "fecha": "2026-11-15",
@@ -3432,24 +3508,24 @@
 "huella": "31cc9c488d6f541a"
 },
 "/en-vivo/sala/escenario-40/": {
-"fecha": "2026-11-15",
-"huella": "a289b6cd5a7262a0"
+"fecha": "2026-11-17",
+"huella": "7e5106272ffbd90a"
 },
 "/en-vivo/sala/espacio-44/": {
-"fecha": "2026-11-15",
-"huella": "b3decf56a5226098"
+"fecha": "2026-11-17",
+"huella": "c424205cf3a70dfe"
 },
 "/en-vivo/sala/espacio-cultural-la-hormiguera/": {
 "fecha": "2026-11-15",
 "huella": "184dff04bd90a26e"
 },
 "/en-vivo/sala/espacio-doble-t/": {
-"fecha": "2026-11-15",
-"huella": "e0da1132adbfe505"
+"fecha": "2026-11-17",
+"huella": "dac97fdb9e2469d6"
 },
 "/en-vivo/sala/espacio-live/": {
-"fecha": "2026-11-15",
-"huella": "b6a1aa8beb85fcf2"
+"fecha": "2026-11-17",
+"huella": "e14c237b342e6bcb"
 },
 "/en-vivo/sala/espacio-medusa/": {
 "fecha": "2026-11-15",
@@ -3476,8 +3552,8 @@
 "huella": "baeca6a53ff306c9"
 },
 "/en-vivo/sala/estadio-uno/": {
-"fecha": "2026-11-15",
-"huella": "5328110df0585f26"
+"fecha": "2026-11-17",
+"huella": "9ba9c0a8111e2381"
 },
 "/en-vivo/sala/estudio-71/": {
 "fecha": "2026-11-15",
@@ -3492,16 +3568,16 @@
 "huella": "e8c68a94efdc2fb6"
 },
 "/en-vivo/sala/hipodromo-de-la-plata/": {
-"fecha": "2026-11-15",
-"huella": "2431a23a7ecca068"
+"fecha": "2026-11-17",
+"huella": "e4944ce8d0b4e6f7"
 },
 "/en-vivo/sala/jardin-botanico-del-parque-saavedra/": {
 "fecha": "2026-11-15",
 "huella": "acbb2932e2707051"
 },
 "/en-vivo/sala/la-compostera/": {
-"fecha": "2026-11-15",
-"huella": "9ad0ed1ff4be0837"
+"fecha": "2026-11-17",
+"huella": "12bd7516fe460bed"
 },
 "/en-vivo/sala/la-culturosa/": {
 "fecha": "2026-11-15",
@@ -3516,8 +3592,8 @@
 "huella": "db4c4dd328827023"
 },
 "/en-vivo/sala/la-merceria-teatro/": {
-"fecha": "2026-11-15",
-"huella": "46c970713fd0fd53"
+"fecha": "2026-11-17",
+"huella": "466b9f82ab2af20c"
 },
 "/en-vivo/sala/la-salamanca-centro-de-cultura-y-pena/": {
 "fecha": "2026-11-15",
@@ -3568,20 +3644,20 @@
 "huella": "e2863c81ce41a9d0"
 },
 "/en-vivo/sala/sala-420/": {
-"fecha": "2026-11-15",
-"huella": "87510e972dd616ec"
+"fecha": "2026-11-17",
+"huella": "1f15430537e32d85"
 },
 "/en-vivo/sala/tcb-teatro-comunitario-de-berisso/": {
 "fecha": "2026-11-15",
 "huella": "ad3d848c674b0ccf"
 },
 "/en-vivo/sala/teatro-abierto/": {
-"fecha": "2026-11-15",
-"huella": "273235dc45c814c5"
+"fecha": "2026-11-17",
+"huella": "7775a04babdc09ff"
 },
 "/en-vivo/sala/teatro-argentino-de-la-plata/": {
-"fecha": "2026-11-15",
-"huella": "72067cad7cfe62d6"
+"fecha": "2026-11-17",
+"huella": "bbeb77e359b5524e"
 },
 "/en-vivo/sala/teatro-armando-discepolo/": {
 "fecha": "2026-11-15",
@@ -3596,16 +3672,16 @@
 "huella": "74d6e547728118ad"
 },
 "/en-vivo/sala/teatro-de-camara-de-city-bell/": {
-"fecha": "2026-11-15",
-"huella": "03e3628a51576c31"
+"fecha": "2026-11-17",
+"huella": "7cd7e5204e6e9f12"
 },
 "/en-vivo/sala/teatro-el-altillo-del-sur/": {
 "fecha": "2026-11-15",
 "huella": "aaf8fdc5b091556c"
 },
 "/en-vivo/sala/teatro-el-escape/": {
-"fecha": "2026-11-15",
-"huella": "a213a368bdf4ca25"
+"fecha": "2026-11-17",
+"huella": "35bb1c9393fb9290"
 },
 "/en-vivo/sala/teatro-la-lechuza/": {
 "fecha": "2026-11-15",
@@ -3616,12 +3692,12 @@
 "huella": "fb962cbf6a0ca491"
 },
 "/en-vivo/sala/teatro-metro/": {
-"fecha": "2026-11-15",
-"huella": "10602b979c5ca837"
+"fecha": "2026-11-17",
+"huella": "85f9e095f9c2cea3"
 },
 "/en-vivo/sala/teatro-opera-la-plata/": {
-"fecha": "2026-11-15",
-"huella": "21065071ba26b36e"
+"fecha": "2026-11-17",
+"huella": "a3a0d1e69386d93c"
 },
 "/en-vivo/sala/teatro-rene-favaloro/": {
 "fecha": "2026-11-15",
@@ -3632,8 +3708,8 @@
 "huella": "711e358059b2f964"
 },
 "/en-vivo/sala/telon-negro-teatro/": {
-"fecha": "2026-11-15",
-"huella": "63d024dbebb7180e"
+"fecha": "2026-11-17",
+"huella": "770db3fd9a9d743b"
 },
 "/en-vivo/sala/tres-empanadas-comedia/": {
 "fecha": "2026-11-15",
@@ -3648,7 +3724,7 @@
 "huella": "97bf7ab98a4a9bfa"
 },
 "/en-vivo/teatro/": {
-"fecha": "2026-11-15",
-"huella": "d56ed65a29b4b854"
+"fecha": "2026-11-17",
+"huella": "d7ffe3507d0a7c69"
 }
 }
