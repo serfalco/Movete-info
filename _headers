@@ -6,6 +6,10 @@
 /assets/afiches/*
   Cache-Control: public, max-age=31536000, immutable
 
+# max-image-preview:large deja que Google Discover (el feed del celular)
+# muestre la tarjeta con imagen grande. Sin esto casi no muestra el sitio.
+# No cambia la indexacion: un noindex de la pagina sigue mandando.
 /*
+  X-Robots-Tag: max-image-preview:large
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
