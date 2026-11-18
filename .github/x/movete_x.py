@@ -12,9 +12,9 @@ import glob
 import json
 import os
 import re
-from datetime import datetime, time
+from datetime import datetime, time, timedelta
 
-from buffer_x import AR, ahora_ar, ajustar, publicar
+from buffer_x import AR, ahora_ar, ajustar, marcar, proxima, publicar, ya_hecho
 
 CANAL = "6af9df56ece6dfde5fd48569"  # @MoVeTeLaPlata en Buffer
 HORA = time(11, 0)
@@ -63,10 +63,20 @@ def main():
     ap.add_argument("--redes", required=True)
     ap.add_argument("--fecha")
     a = ap.parse_args()
-    hoy = datetime.strptime(a.fecha, "%Y-%m-%d").date() if a.fecha else ahora_ar().date()
+    # Programa el proximo post de las 11:00 (hoy o mañana) para que Buffer lo saque en hora.
+    hoy = datetime.strptime(a.fecha, "%Y-%m-%d").date() if a.fecha else proxima(HORA)
     fecha = hoy.isoformat()
-    texto = armar(historia_del_dia(a.redes, fecha), fecha, hoy.weekday())
-    publicar(CANAL, texto, datetime.combine(hoy, HORA, tzinfo=AR))
+    cuando = datetime.combine(hoy, HORA, tzinfo=AR)
+    clave = f"movete-{fecha}"
+    if ya_hecho(clave):
+        print(f"{clave}: ya programado.")
+        return
+    historia = historia_del_dia(a.redes, fecha)
+    if not historia and not a.fecha and cuando - ahora_ar() > timedelta(hours=6):
+        print(f"Todavía no hay agenda del {fecha}; espero la próxima corrida.")
+        return
+    if publicar(CANAL, armar(historia, fecha, hoy.weekday()), cuando):
+        marcar(clave)
 
 
 if __name__ == "__main__":

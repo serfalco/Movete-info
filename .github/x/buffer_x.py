@@ -34,6 +34,39 @@ def ahora_ar():
     return datetime.now(AR)
 
 
+ESTADO = os.environ.get("X_ESTADO", ".x-estado/hechos.json")
+
+
+def ya_hecho(clave):
+    """True si ese post ya se programo en una corrida anterior."""
+    try:
+        return clave in json.load(open(ESTADO, encoding="utf-8"))
+    except Exception:
+        return False
+
+
+def marcar(clave):
+    """Anota que el post `clave` ya se programo (guarda solo las ultimas 60)."""
+    if os.environ.get("DRY_RUN", "") not in ("", "0", "false"):
+        return  # una prueba en seco no cuenta como programado
+    try:
+        hechos = json.load(open(ESTADO, encoding="utf-8"))
+    except Exception:
+        hechos = {}
+    hechos[clave] = datetime.now(timezone.utc).isoformat()
+    hechos = dict(sorted(hechos.items(), key=lambda kv: kv[1])[-60:])
+    os.makedirs(os.path.dirname(ESTADO) or ".", exist_ok=True)
+    json.dump(hechos, open(ESTADO, "w", encoding="utf-8"), indent=1)
+
+
+def proxima(hora):
+    """Fecha (date) de la proxima vez que toca `hora` ART: hoy si no paso, si no mañana."""
+    ahora = ahora_ar()
+    if ahora.time() < hora:
+        return ahora.date()
+    return (ahora + timedelta(days=1)).date()
+
+
 def largo_x(texto):
     """Largo aproximado como lo cuenta X: links = 23, emojis/CJK = 2."""
     t = URL_RE.sub("x" * 23, texto)
