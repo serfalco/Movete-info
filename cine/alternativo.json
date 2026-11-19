@@ -1,14 +1,194 @@
 [
   {
-    "titulo": "La armada Brancaleone (Dir. Mario Monicelli)",
-    "hora": "17:30",
-    "espacio": "Teatro Bar Cultural La Ferretería",
-    "fecha": "2026-11-18"
+    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-20"
   },
   {
-    "titulo": "Birdman - Dir. Alejandro González Iñárritu",
+    "titulo": "Carne - Dir. Tomas Marichal Urban",
+    "hora": "18:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-20"
+  },
+  {
+    "titulo": "Carrera sin fin - Dir. Monte Hellman",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-20"
+  },
+  {
+    "titulo": "El club de la pelea - Dir. David Fincher",
     "hora": "20:30",
     "espacio": "Cine Select (Espacio INCAA)",
-    "fecha": "2026-11-18"
+    "fecha": "2026-11-20"
+  },
+  {
+    "titulo": "Carne - Dir. Tomas Marichal Urban",
+    "hora": "16:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-21"
+  },
+  {
+    "titulo": "La mancha - Dir. Ramiro García Bogliano, Adrián Garcia Bogliano",
+    "hora": "21:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-21"
+  },
+  {
+    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
+    "hora": "16:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "Carne - Dir. Tomas Marichal Urban",
+    "hora": "16:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "Para los contrincantes - Dir. Federico Luis",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "El tango de José - Dir. Mario Verón",
+    "hora": "18:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "Irene, yo y mi otro yo - Dir. Hermanos Farrelly",
+    "hora": "19:00",
+    "espacio": "+ Info",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "Los días libres - Dir. Lucila Mariani",
+    "hora": "19:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "Barrio triste - Dir. De Stillz",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "Funk - Dir. Aly Muritiba",
+    "hora": "21:00",
+    "espacio": "Pasaje Dardo Rocha",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "Algún Algo - Dir. Facundo Nicolás Casale",
+    "hora": "21:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "El Boseo - Dir. Leonel Fastovsky, Pablo Viti",
+    "hora": "21:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "El desvelo - Dir. Flor Cárdenas",
+    "hora": "21:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-22"
+  },
+  {
+    "titulo": "Cuarto de flores - Dir. Sofía Guerrini",
+    "hora": "18:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-23"
+  },
+  {
+    "titulo": "Persistencia: un informe inconcluso - Dir. Equipo docente de RE4",
+    "hora": "20:00",
+    "espacio": "Pasaje Dardo Rocha",
+    "fecha": "2026-11-23"
+  },
+  {
+    "titulo": "La Maldición de los Gobernadores -  Dir. Marcos H. Rodríguez",
+    "hora": "20:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-23"
+  },
+  {
+    "titulo": "Movimiento - Dir. Federico Barrios",
+    "hora": "21:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-23"
+  },
+  {
+    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
+    "hora": "16:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-24"
+  },
+  {
+    "titulo": "Carne - Dir. Tomas Marichal Urban",
+    "hora": "16:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-24"
+  },
+  {
+    "titulo": "A veces me entra tristeza, otras veces rebelión",
+    "hora": "19:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-24"
+  },
+  {
+    "titulo": "El camino contrario - Dir. Daniel Flores, Martín Wain",
+    "hora": "20:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-24"
+  },
+  {
+    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
+    "hora": "16:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-25"
+  },
+  {
+    "titulo": "Nunkui - Dir. Verenice Benítez",
+    "hora": "18:00",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-25"
+  },
+  {
+    "titulo": "Violencia Invisible - Dir. Pedro Romero, Florencia Nizzo",
+    "hora": "19:30",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-25"
+  },
+  {
+    "titulo": "Pedro en el país - Dir. María Alché, Benjamín Naishtat",
+    "hora": "20:00",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-25"
+  },
+  {
+    "titulo": "Accidente - Dir. Valentine Torre",
+    "hora": "20:30",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-25"
+  },
+  {
+    "titulo": "Agua fría - Dir. Antonia Martínez Valls, Meme Cabello",
+    "hora": "20:45",
+    "espacio": "Cine Ecoselect (Espacio INCAA)",
+    "fecha": "2026-11-25"
+  },
+  {
+    "titulo": "El Fantasma - Dir. Ignacio Masllorens, David Lamelas",
+    "hora": "21:30",
+    "espacio": "Cine Select (Espacio INCAA)",
+    "fecha": "2026-11-25"
   }
 ]

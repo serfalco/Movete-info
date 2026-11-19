@@ -332,6 +332,32 @@
     "tmdb_id": 891621,
     "trailer": ""
   },
+  "carne": {
+    "anio": "1991",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jJYpZPEZazrJ1nDv6Q3wRPtmQuC.jpg",
+    "director": "Gaspar Noé",
+    "duracion": 38,
+    "elenco": [
+      "Philippe Nahon",
+      "Blandine Lenoir",
+      "Marie Berto"
+    ],
+    "generos": [
+      "Drama",
+      "Suspense",
+      "Crimen"
+    ],
+    "paises": [
+      "France"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/7QNHk05hoi3dXaLFiZyXoj1I81b.jpg",
+    "score": 6.774,
+    "sinopsis": "Historia de un carnicero de carne de caballos francés que queda encargado de velar por su hija, una joven que sufre de autismo, cuyas vidas siguen una rutina monótona aparentemente infinita.",
+    "titulo": "Carne",
+    "titulo_original": "Carne",
+    "tmdb_id": 1568,
+    "trailer": ""
+  },
   "cars": {
     "anio": "2006",
     "backdrop": "https://image.tmdb.org/t/p/w780/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
@@ -1602,6 +1628,33 @@
     "tmdb_id": 1443576,
     "trailer": "https://www.youtube.com/watch?v=yyLrtKGQ5KA"
   },
+  "los juegos del hambre amanecer en la cosecha": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "director": "Francis Lawrence",
+    "duracion": 159,
+    "elenco": [
+      "Joseph Zada",
+      "Mckenna Grace",
+      "Ralph Fiennes"
+    ],
+    "generos": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "paises": [
+      "United States of America",
+      "Germany"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+    "score": 7.6,
+    "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+    "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
+    "titulo_original": "The Hunger Games: Sunrise on the Reaping",
+    "tmdb_id": 1300968,
+    "trailer": "https://www.youtube.com/watch?v=71wxo7pAKVE"
+  },
   "los juegos del hambre en llamas": {
     "anio": "2013",
     "backdrop": "https://image.tmdb.org/t/p/w780/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
@@ -1733,6 +1786,36 @@
     "trailer": "https://www.youtube.com/watch?v=o1HQSh6zZ8s"
   },
   "minions y monstruos": null,
+  "minotauro": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+    "director": "Андрей Звягинцев",
+    "duracion": 141,
+    "elenco": [
+      "Дмитрий Мазуров",
+      "Ирис Лебедева",
+      "Варвара Шмыкова"
+    ],
+    "generos": [
+      "Drama",
+      "Crimen",
+      "Suspense"
+    ],
+    "paises": [
+      "France",
+      "Latvia",
+      "United States of America",
+      "Switzerland",
+      "Germany"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg",
+    "score": 7.452,
+    "sinopsis": "Es la contemplación del director sobre la naturaleza de las relaciones humanas, el estado del hombre moderno y la fragilidad de la vida humana.",
+    "titulo": "Minotauro",
+    "titulo_original": "Minotaure",
+    "tmdb_id": 848700,
+    "trailer": ""
+  },
   "moana": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
@@ -2005,6 +2088,28 @@
     "titulo_original": "I Want Your Sex",
     "tmdb_id": 1288059,
     "trailer": ""
+  },
+  "recen por mi la historia de francisco": {
+    "anio": "2025",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fma2xTmJ0UUG0AyJpjHU83gfwH.jpg",
+    "director": "Facundo Bartucci",
+    "duracion": 110,
+    "elenco": [
+      "Francisco"
+    ],
+    "generos": [
+      "Documental"
+    ],
+    "paises": [
+      "Argentina"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/gnmbwuCoGwFblQ0tvvxHHh8LhTU.jpg",
+    "score": 0.0,
+    "sinopsis": "",
+    "titulo": "Recen por mí: la historia de Francisco",
+    "titulo_original": "Recen por mí: la historia de Francisco",
+    "tmdb_id": 1510295,
+    "trailer": "https://www.youtube.com/watch?v=vUrr8oRNmP4"
   },
   "relajadas y muy peligrosas": {
     "anio": "2026",
@@ -2620,6 +2725,32 @@
     "titulo_original": "Yo, narciso",
     "tmdb_id": 1698443,
     "trailer": ""
+  },
+  "yo soy rocky": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+    "director": "Peter Farrelly",
+    "duracion": 128,
+    "elenco": [
+      "Anthony Ippolito",
+      "AnnaSophia Robb",
+      "P.J. Byrne"
+    ],
+    "generos": [
+      "Drama",
+      "Historia"
+    ],
+    "paises": [
+      "United States of America",
+      "Australia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+    "score": 8.5,
+    "sinopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
+    "titulo": "Yo soy Rocky",
+    "titulo_original": "I Play Rocky",
+    "tmdb_id": 1286656,
+    "trailer": "https://www.youtube.com/watch?v=JtkPJREm_9o"
   },
   "zona cero": {
     "anio": "2009",

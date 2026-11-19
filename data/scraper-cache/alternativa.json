@@ -261,7 +261,7 @@
   },
   {
     "titulo": "Fingir",
-    "fecha": "2026-11-17 20:30:00",
+    "fecha": "2026-11-20 21:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -320,16 +320,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/62/000323762.jpg"
   },
   {
-    "titulo": "ADICTOS IA - Muestra de avanzada 2026-TALLER DE ENTRENAMIENTO ACTORAL Y CREACIONES ESCÉNICAS de Blas Arrese Igor.",
-    "fecha": "2026-11-18 21:00:00",
-    "lugar": "TEATRO ABIERTO",
-    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas104058-adictos-ia-muestra-de-avanzada-2026taller-de-entrenamiento-actoral-y-creaciones-escenicas-de-blas-arrese-igor?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/30/000323930.jpg"
-  },
-  {
     "titulo": "Sancho, ¡a la carga!",
     "fecha": "2026-11-22 16:00:00",
     "lugar": "TEATRO ABIERTO",
@@ -357,7 +347,7 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas104224-insignificante-el-peso-de-lo-que-no-se-ve?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/47/000324447.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/96/000324696.jpg"
   },
   {
     "titulo": "Insignificante: el peso de lo que no se ve",
@@ -367,7 +357,7 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas104224-insignificante-el-peso-de-lo-que-no-se-ve?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/47/000324447.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/96/000324696.jpg"
   },
   {
     "titulo": "Estado de crisis VI - Docentes",
@@ -506,6 +496,46 @@
     "direccion": "Montevideo 1053, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra104453-ex-la-mesa-y-la-mesada",
+    "fuente": "alternativa",
+    "imagen": ""
+  },
+  {
+    "titulo": "El lago de los cisnes",
+    "fecha": "2026-11-22 18:00:00",
+    "lugar": "CENTRO PROVINCIAL DE LAS ARTES TEATRO ARGENTINO",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra104527-el-lago-de-los-cisnes",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/37/000324737.jpg"
+  },
+  {
+    "titulo": "Dúo Vivalto da Camera",
+    "fecha": "2026-11-22 17:00:00",
+    "lugar": "CENTRO PROVINCIAL DE LAS ARTES TEATRO ARGENTINO",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra104528-duo-vivalto-da-camera",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000324738.jpg"
+  },
+  {
+    "titulo": "Noche de Tipica y Jazz",
+    "fecha": "2026-12-06 20:30:00",
+    "lugar": "SALA 420",
+    "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
+    "categoria": "musica",
+    "url": "https://publico.alternativateatral.com/entradas104544-noche-de-tipica-y-jazz?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/96/000324796.jpg"
+  },
+  {
+    "titulo": "Derecho al Drama - Quinta Sesión",
+    "fecha": "2026-12-04 21:30:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra104550-derecho-al-drama-quinta-sesion-",
     "fuente": "alternativa",
     "imagen": ""
   }

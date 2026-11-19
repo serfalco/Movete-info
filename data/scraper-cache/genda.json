@@ -1,133 +1,23 @@
 [
   {
-    "titulo": "Xul - Dir. Cristián Costantini",
-    "fecha": "2026-11-17 18:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "titulo": "Voltaje",
+    "fecha": "2026-11-19 16:30:00",
+    "lugar": "Plaza Moreno",
     "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/xul-dir-cristian-costantini-cine-ecoselect-espacio-incaa-20261116095151",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/voltaje-plaza-moreno-20261118011339",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116095152.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261118011340.jpg"
   },
   {
-    "titulo": "Sucesos en la cuarta fase - Dir. Saul Bass",
-    "fecha": "2026-11-17 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "titulo": "Isla Mujeres",
+    "fecha": "2026-11-19 17:30:00",
+    "lugar": "Plaza Moreno",
     "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/sucesos-en-la-cuarta-fase-dir-saul-bass-cine-ecoselect-espacio-incaa-20261116095356",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/isla-mujeres-plaza-moreno-20261118011308",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116095357.jpg"
-  },
-  {
-    "titulo": "Shakespeare Echoes - Teatro en inglés para adultos",
-    "fecha": "2026-11-17 20:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/shakespeare-echoes-teatro-en-ingles-para-adultos-espacio-doble-t-20260926164555",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261029120258.jpg"
-  },
-  {
-    "titulo": "Shakespearean Echoes",
-    "fecha": "2026-11-17 20:00:00",
-    "lugar": "Espacio Doble-T",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/shakespearean-echoes-espacio-doble-t-20261116220257",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116220258.jpg"
-  },
-  {
-    "titulo": "Bailando Forró",
-    "fecha": "2026-11-17 21:00:00",
-    "lugar": "La Culturosa",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/bailando-forro-la-culturosa-20261111111436",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261111111437.jpg"
-  },
-  {
-    "titulo": "A 50 años del ataque a la casa mariani teruggi",
-    "fecha": "2026-11-18 10:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/a-50-anos-del-ataque-a-la-casa-mariani-teruggi-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20261105091927",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105091928.jpg"
-  },
-  {
-    "titulo": "La armada Brancaleone (Dir. Mario Monicelli)",
-    "fecha": "2026-11-18 17:30:00",
-    "lugar": "Teatro Bar Cultural La Ferretería",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-armada-brancaleone-dir-mario-monicelli-teatro-bar-cultural-la-ferreteria-20261012225153",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261012225154.jpg"
-  },
-  {
-    "titulo": "Xul - Dir. Cristián Costantini",
-    "fecha": "2026-11-18 18:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/xul-dir-cristian-costantini-cine-ecoselect-espacio-incaa-20261116095151",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116095152.jpg"
-  },
-  {
-    "titulo": "Clínica de sonidos en inglés",
-    "fecha": "2026-11-18 19:30:00",
-    "lugar": "Centro Cultural Estación Provincial",
-    "direccion": "",
-    "categoria": "taller",
-    "url": "https://agendalaplata.ar/evento/clinica-de-sonidos-en-ingles-centro-cultural-estacion-provincial-20261105092634",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105092635.jpg"
-  },
-  {
-    "titulo": "El Grito - Dir. Jerzy Skolimowski",
-    "fecha": "2026-11-18 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-grito-dir-jerzy-skolimowski-cine-ecoselect-espacio-incaa-20261116095549",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116095550.jpg"
-  },
-  {
-    "titulo": "Birdman - Dir. Alejandro González Iñárritu",
-    "fecha": "2026-11-18 20:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/birdman-dir-alejandro-gonzalez-inarritu-cine-select-espacio-incaa-20261105085231",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105085232.jpg"
-  },
-  {
-    "titulo": "A 50 años del ataque a la casa mariani teruggi",
-    "fecha": "2026-11-19 10:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
-    "direccion": "",
-    "categoria": "a-plasticas",
-    "url": "https://agendalaplata.ar/evento/a-50-anos-del-ataque-a-la-casa-mariani-teruggi-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20261105091927",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105091928.jpg"
-  },
-  {
-    "titulo": "Walking tour especial",
-    "fecha": "2026-11-19 11:00:00",
-    "lugar": "Plaza Dardo Rocha",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/walking-tour-especial-plaza-dardo-rocha-20261109190524",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261109190525.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261118011309.jpg"
   },
   {
     "titulo": "Exenta 2026",
@@ -140,14 +30,44 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261116095754.jpg"
   },
   {
-    "titulo": "Dillom y Los Palmeras",
-    "fecha": "2026-11-19 20:00:00",
+    "titulo": "La Cumparsita",
+    "fecha": "2026-11-19 18:30:00",
     "lugar": "Plaza Moreno",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/dillom-y-los-palmeras-plaza-moreno-20261111121326",
+    "url": "https://agendalaplata.ar/evento/la-cumparsita-plaza-moreno-20261118011236",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261111121327.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261118011237.jpg"
+  },
+  {
+    "titulo": "Etiqueta Negra + Orquesta sinfónica juvenil de PBA",
+    "fecha": "2026-11-19 19:30:00",
+    "lugar": "Plaza Moreno",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/etiqueta-negra-orquesta-sinfonica-juvenil-de-pba-plaza-moreno-20261118011200",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261118011201.jpg"
+  },
+  {
+    "titulo": "Los Palmeras",
+    "fecha": "2026-11-19 20:30:00",
+    "lugar": "Plaza Moreno",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/los-palmeras-plaza-moreno-20261118011054",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261118011055.jpg"
+  },
+  {
+    "titulo": "Dillom",
+    "fecha": "2026-11-19 21:30:00",
+    "lugar": "Plaza Moreno",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/dillom-plaza-moreno-20261118010957",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261118010958.jpg"
   },
   {
     "titulo": "A 50 años del ataque a la casa mariani teruggi",
@@ -170,6 +90,36 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105082201.jpg"
   },
   {
+    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
+    "fecha": "2026-11-20 18:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
+  },
+  {
+    "titulo": "Carne - Dir. Tomas Marichal Urban",
+    "fecha": "2026-11-20 18:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/carne-dir-tomas-marichal-urban-cine-select-espacio-incaa-20261119182459",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182500.jpg"
+  },
+  {
+    "titulo": "Carrera sin fin - Dir. Monte Hellman",
+    "fecha": "2026-11-20 20:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/carrera-sin-fin-dir-monte-hellman-cine-ecoselect-espacio-incaa-20261119183047",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119183048.jpg"
+  },
+  {
     "titulo": "¿Dónde va el sistema cuando cae?",
     "fecha": "2026-11-20 20:00:00",
     "lugar": "Casa de Cultura - Agremiación Médica Platense (AMP)",
@@ -190,14 +140,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261104185008.jpg"
   },
   {
-    "titulo": "El cuarto de Verónica",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Teatro Metro",
+    "titulo": "El club de la pelea - Dir. David Fincher",
+    "fecha": "2026-11-20 20:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/el-cuarto-de-veronica-teatro-metro-20261114211824",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-club-de-la-pelea-dir-david-fincher-cine-select-espacio-incaa-20261119182625",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261114211825.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182626.jpg"
   },
   {
     "titulo": "Proyecto 10",
@@ -218,6 +168,16 @@
     "url": "https://agendalaplata.ar/evento/el-profe-borda-esquina-america-20261009020205",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261009020206.jpg"
+  },
+  {
+    "titulo": "El cuarto de Verónica",
+    "fecha": "2026-11-20 21:00:00",
+    "lugar": "Teatro Metro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/el-cuarto-de-veronica-teatro-metro-20261114211824",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261114211825.jpg"
   },
   {
     "titulo": "Agustina Aguilar - Casi presente",
@@ -290,6 +250,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105091928.jpg"
   },
   {
+    "titulo": "Paseo de los artesanos",
+    "fecha": "2026-11-21 11:00:00",
+    "lugar": "República de los Niños",
+    "direccion": "",
+    "categoria": "ferias",
+    "url": "https://agendalaplata.ar/evento/paseo-de-los-artesanos-republica-de-los-ninos-20261105092134",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
+  },
+  {
     "titulo": "Festival de la Gastronomía Italiana",
     "fecha": "2026-11-21 11:00:00",
     "lugar": "Parque Alberti",
@@ -300,14 +270,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105082201.jpg"
   },
   {
-    "titulo": "Paseo de los artesanos",
-    "fecha": "2026-11-21 11:00:00",
-    "lugar": "República de los Niños",
+    "titulo": "Carne - Dir. Tomas Marichal Urban",
+    "fecha": "2026-11-21 16:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
-    "categoria": "ferias",
-    "url": "https://agendalaplata.ar/evento/paseo-de-los-artesanos-republica-de-los-ninos-20261105092134",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/carne-dir-tomas-marichal-urban-cine-select-espacio-incaa-20261119182459",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182500.jpg"
   },
   {
     "titulo": "El mercado del arte - ¿Quién produce, quién vende, quién legima?",
@@ -338,6 +308,116 @@
     "url": "https://agendalaplata.ar/evento/la-vela-puerca-las-pelotas-con-barbi-recanati-hipodromo-de-la-plata-20260814134809",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260814134810.jpg"
+  },
+  {
+    "titulo": "Iglesia San Francisco",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Iglesia San Francisco de Asís",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/iglesia-san-francisco-iglesia-san-francisco-de-asis-20261119133107",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119133108.jpg"
+  },
+  {
+    "titulo": "Iglesia Pentecostal Puerta del Cielo",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Iglesia Pentecostal Puerta del Cielo",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/iglesia-pentecostal-puerta-del-cielo-iglesia-pentecostal-puerta-del-cielo-20261119132859",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119132900.jpg"
+  },
+  {
+    "titulo": "Iglesia Evangélica Luterana",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Iglesia Luterana en La Plata - Congregación San Timoteo",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/iglesia-evangelica-luterana-iglesia-luterana-en-la-plata-congregacion-san-timoteo-20261119133032",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119133033.jpg"
+  },
+  {
+    "titulo": "Iglesia Adventista del Séptimo Día",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Iglesia Adventista del Séptimo Día",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/iglesia-adventista-del-septimo-dia-iglesia-adventista-del-septimo-dia-20261119133141",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119133142.jpg"
+  },
+  {
+    "titulo": "Capilla Nuestra Señora de la Misericordia",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Capilla Nuestra Señora de la Misericordia",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/capilla-nuestra-senora-de-la-misericordia-capilla-nuestra-senora-de-la-misericordia-20261119133219",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119133220.jpg"
+  },
+  {
+    "titulo": "Iglesia Evangélica Metodista",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Iglesia Evangelica Metodista",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/iglesia-evangelica-metodista-iglesia-evangelica-metodista-20261119133424",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119133425.jpg"
+  },
+  {
+    "titulo": "Iglesia Jesucristo de los Santos de los Ultimos Días",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/iglesia-jesucristo-de-los-santos-de-los-ultimos-dias-la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-20261119132935",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119133607.jpg"
+  },
+  {
+    "titulo": "Masoneria",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Plaza Moreno",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/masoneria-plaza-moreno-20261119132823",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119132824.jpg"
+  },
+  {
+    "titulo": "Santuario Nuestra Señora de Schoenstatt",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Santuario Nuestra Señora de Schoenstatt",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/santuario-nuestra-senora-de-schoenstatt-santuario-nuestra-senora-de-schoenstatt-20261119132744",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119132745.jpg"
+  },
+  {
+    "titulo": "Catedral de La Plata",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Catedral de La Plata - Museo Eclesiástico Catedral",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/catedral-de-la-plata-catedral-de-la-plata-museo-eclesiastico-catedral-20261119131652",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119131653.jpg"
+  },
+  {
+    "titulo": "Sikh, Fe Baháí, Asrau y AMIA",
+    "fecha": "2026-11-21 20:00:00",
+    "lugar": "Plaza Moreno",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/sikh-fe-bahai-asrau-y-amia-plaza-moreno-20261119132700",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119132701.jpg"
   },
   {
     "titulo": "Roberto Antier",
@@ -410,16 +490,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261002175315.jpg"
   },
   {
-    "titulo": "¡Actúen!",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/actuen-teatro-abierto-20260827013949",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260827013950.jpg"
-  },
-  {
     "titulo": "Benjamín Amadeo",
     "fecha": "2026-11-21 21:00:00",
     "lugar": "Teatro Opera",
@@ -428,6 +498,16 @@
     "url": "https://agendalaplata.ar/evento/benjamin-amadeo-teatro-opera-20260425005945",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260425005946.jpg"
+  },
+  {
+    "titulo": "¡Actúen!",
+    "fecha": "2026-11-21 21:00:00",
+    "lugar": "Teatro Abierto",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/actuen-teatro-abierto-20260827013949",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20260827013950.jpg"
   },
   {
     "titulo": "La mancha - Dir. Ramiro García Bogliano, Adrián Garcia Bogliano",
@@ -460,16 +540,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105091928.jpg"
   },
   {
-    "titulo": "Festival de la Gastronomía Italiana",
-    "fecha": "2026-11-22 11:00:00",
-    "lugar": "Parque Alberti",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/festival-de-la-gastronomia-italiana-parque-alberti-20261105082200",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105082201.jpg"
-  },
-  {
     "titulo": "Paseo de los artesanos",
     "fecha": "2026-11-22 11:00:00",
     "lugar": "República de los Niños",
@@ -480,14 +550,34 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
   },
   {
-    "titulo": "El lago de los cisnes",
-    "fecha": "2026-11-22 18:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "titulo": "Festival de la Gastronomía Italiana",
+    "fecha": "2026-11-22 11:00:00",
+    "lugar": "Parque Alberti",
     "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/el-lago-de-los-cisnes-teatro-argentino-centro-provincial-de-las-artes-20261105084134",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/festival-de-la-gastronomia-italiana-parque-alberti-20261105082200",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261105082201.jpg"
+  },
+  {
+    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
+    "fecha": "2026-11-22 16:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
+  },
+  {
+    "titulo": "Carne - Dir. Tomas Marichal Urban",
+    "fecha": "2026-11-22 16:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/carne-dir-tomas-marichal-urban-cine-select-espacio-incaa-20261119182459",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182500.jpg"
   },
   {
     "titulo": "Para los contrincantes - Dir. Federico Luis",
@@ -498,6 +588,16 @@
     "url": "https://agendalaplata.ar/evento/para-los-contrincantes-dir-federico-luis-cine-ecoselect-espacio-incaa-20261116145712",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261116145713.jpg"
+  },
+  {
+    "titulo": "El lago de los cisnes",
+    "fecha": "2026-11-22 18:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/el-lago-de-los-cisnes-teatro-argentino-centro-provincial-de-las-artes-20261105084134",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
   },
   {
     "titulo": "El tango de José - Dir. Mario Verón",
@@ -540,16 +640,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261116125930.jpg"
   },
   {
-    "titulo": "Fábrica de chicas",
-    "fecha": "2026-11-22 20:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/fabrica-de-chicas-escenario-40-20261015204345",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015204346.jpg"
-  },
-  {
     "titulo": "Ballet de San Petersburgo – El Cascanueces",
     "fecha": "2026-11-22 20:00:00",
     "lugar": "Teatro Metro",
@@ -558,6 +648,16 @@
     "url": "https://agendalaplata.ar/evento/ballet-de-san-petersburgo-el-cascanueces-teatro-metro-20261114211943",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261114211944.jpg"
+  },
+  {
+    "titulo": "Fábrica de chicas",
+    "fecha": "2026-11-22 20:00:00",
+    "lugar": "Escenario 40",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/fabrica-de-chicas-escenario-40-20261015204345",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261015204346.jpg"
   },
   {
     "titulo": "Inframundo",
@@ -590,16 +690,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261116130308.jpg"
   },
   {
-    "titulo": "El desvelo - Dir. Flor Cárdenas",
-    "fecha": "2026-11-22 21:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-desvelo-dir-flor-cardenas-cine-select-espacio-incaa-20261116150226",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116150227.jpg"
-  },
-  {
     "titulo": "Algún Algo - Dir. Facundo Nicolás Casale",
     "fecha": "2026-11-22 21:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -618,6 +708,16 @@
     "url": "https://agendalaplata.ar/evento/el-boseo-dir-leonel-fastovsky-pablo-viti-cine-select-espacio-incaa-20261116150138",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261116150139.jpg"
+  },
+  {
+    "titulo": "El desvelo - Dir. Flor Cárdenas",
+    "fecha": "2026-11-22 21:30:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-desvelo-dir-flor-cardenas-cine-select-espacio-incaa-20261116150226",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261116150227.jpg"
   },
   {
     "titulo": "Los invisibles — Tributo a Callejeros + Aplanadora - Tributo a Divididos",
@@ -660,6 +760,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260720232253.jpg"
   },
   {
+    "titulo": "Persistencia: un informe inconcluso - Dir. Equipo docente de RE4",
+    "fecha": "2026-11-23 20:00:00",
+    "lugar": "Pasaje Dardo Rocha",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/persistencia-un-informe-inconcluso-dir-equipo-docente-de-re4-pasaje-dardo-rocha-20261116202813",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261116202814.jpg"
+  },
+  {
     "titulo": "La Maldición de los Gobernadores - Dir. Marcos H. Rodríguez",
     "fecha": "2026-11-23 20:00:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -680,16 +790,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261114211555.jpg"
   },
   {
-    "titulo": "Persistencia: un informe inconcluso - Dir. Equipo docente de RE4",
-    "fecha": "2026-11-23 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/persistencia-un-informe-inconcluso-dir-equipo-docente-de-re4-pasaje-dardo-rocha-20261116202813",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116202814.jpg"
-  },
-  {
     "titulo": "Movimiento - Dir. Federico Barrios",
     "fecha": "2026-11-23 21:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -698,6 +798,26 @@
     "url": "https://agendalaplata.ar/evento/movimiento-dir-federico-barrios-cine-select-espacio-incaa-20261116150517",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261116150518.jpg"
+  },
+  {
+    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
+    "fecha": "2026-11-24 16:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
+  },
+  {
+    "titulo": "Carne - Dir. Tomas Marichal Urban",
+    "fecha": "2026-11-24 16:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/carne-dir-tomas-marichal-urban-cine-select-espacio-incaa-20261119182459",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182500.jpg"
   },
   {
     "titulo": "A veces me entra tristeza, otras veces rebelión",
@@ -718,6 +838,16 @@
     "url": "https://agendalaplata.ar/evento/el-camino-contrario-dir-daniel-flores-martin-wain-cine-ecoselect-espacio-incaa-20261116202431",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261116202432.jpg"
+  },
+  {
+    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
+    "fecha": "2026-11-25 16:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
   },
   {
     "titulo": "Nunkui - Dir. Verenice Benítez",
@@ -1090,16 +1220,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260921110121.jpg"
   },
   {
-    "titulo": "Mapai - Homero",
-    "fecha": "2026-12-04 21:00:00",
-    "lugar": "La Salamanca Centro de Cultura y Peña",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mapai-homero-la-salamanca-centro-de-cultura-y-pena-20261115111243",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261115111244.jpg"
-  },
-  {
     "titulo": "Chango spasiuk",
     "fecha": "2026-12-04 21:00:00",
     "lugar": "Teatro Metro",
@@ -1108,6 +1228,16 @@
     "url": "https://agendalaplata.ar/evento/chango-spasiuk-teatro-metro-20261114211439",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261114211440.jpg"
+  },
+  {
+    "titulo": "Mapai - Homero",
+    "fecha": "2026-12-04 21:00:00",
+    "lugar": "La Salamanca Centro de Cultura y Peña",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/mapai-homero-la-salamanca-centro-de-cultura-y-pena-20261115111243",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261115111244.jpg"
   },
   {
     "titulo": "Serú Girán por Lebón y Aznar",

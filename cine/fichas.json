@@ -208,7 +208,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "454639": {
     "tmdb": {
@@ -2869,7 +2869,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1666712": {
     "tmdb": {
@@ -4963,7 +4963,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "8392": {
     "tmdb": {
@@ -7593,7 +7593,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1140521": {
     "tmdb": {
@@ -8631,7 +8631,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1469342": {
     "tmdb": {
@@ -9762,7 +9762,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1563588": {
     "tmdb": {
@@ -10040,7 +10040,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1380417": {
     "tmdb": {
@@ -10509,7 +10509,7 @@
       "coleccion": null,
       "similares": []
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "79372": {
     "tmdb": {
@@ -12171,7 +12171,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1281331": {
     "tmdb": {
@@ -13568,7 +13568,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1500890": {
     "tmdb": {
@@ -13923,7 +13923,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1314386": {
     "tmdb": {
@@ -14250,7 +14250,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1377237": {
     "tmdb": {
@@ -14778,7 +14778,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1381071": {
     "tmdb": {
@@ -14965,7 +14965,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1356474": {
     "tmdb": {
@@ -15660,7 +15660,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "145247": {
     "tmdb": {
@@ -16043,7 +16043,7 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
   },
   "1437511": {
     "tmdb": {
@@ -16213,6 +16213,856 @@
         }
       ]
     },
-    "ultima_semana": "2026-11-12"
+    "ultima_semana": "2026-11-19"
+  },
+  "1286656": {
+    "tmdb": {
+      "tmdb_id": 1286656,
+      "titulo": "Yo soy Rocky",
+      "titulo_original": "I Play Rocky",
+      "tagline": "Toda su vida fue una apuesta de un millón contra uno.",
+      "anio": "2026",
+      "estreno": "2026-11-06",
+      "duracion": 128,
+      "generos": [
+        "Drama",
+        "Historia"
+      ],
+      "score": 8.5,
+      "votos": 47,
+      "certificacion": "ATP",
+      "sinopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
+      "poster": "https://image.tmdb.org/t/p/w342/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+        "https://image.tmdb.org/t/p/w780/iQkFjJu8JzNRi8qvvHZs1HvF9Lr.jpg",
+        "https://image.tmdb.org/t/p/w780/s8rbN31SVv0lo7cg9aAJb9Pb2VU.jpg",
+        "https://image.tmdb.org/t/p/w780/psRHA3Rfpn6MpOy0lPeFDCsIo6T.jpg",
+        "https://image.tmdb.org/t/p/w780/qi8B7qAspRH2W2bi2DYPrKyfCj7.jpg",
+        "https://image.tmdb.org/t/p/w780/l1zZeR99c0tC3QWz9bYYIO05rbU.jpg"
+      ],
+      "director": "Peter Farrelly",
+      "guionistas": [
+        "Peter Gamble"
+      ],
+      "musica": "Dave Palmer",
+      "elenco": [
+        {
+          "nombre": "Anthony Ippolito",
+          "personaje": "Sylvester Stallone",
+          "foto": "https://image.tmdb.org/t/p/w185/a5wHhLA0HwOHnoajmFGpMRtY6OT.jpg",
+          "iniciales": "AI"
+        },
+        {
+          "nombre": "AnnaSophia Robb",
+          "personaje": "Sasha Czack",
+          "foto": "https://image.tmdb.org/t/p/w185/okjWYbypCkPWvTxdKrv0Kyh3atX.jpg",
+          "iniciales": "AR"
+        },
+        {
+          "nombre": "P.J. Byrne",
+          "personaje": "Irwin Winkler",
+          "foto": "https://image.tmdb.org/t/p/w185/1JVBaxRy3OxkHymD3nwBd5kVWWL.jpg",
+          "iniciales": "PB"
+        },
+        {
+          "nombre": "Toby Kebbell",
+          "personaje": "Robert Chartoff",
+          "foto": "https://image.tmdb.org/t/p/w185/mlYytYJvoEHmhDH2enLtES1098Q.jpg",
+          "iniciales": "TK"
+        },
+        {
+          "nombre": "Jay Duplass",
+          "personaje": "John Avildsen",
+          "foto": "https://image.tmdb.org/t/p/w185/eUY0JDlqzf5pE9pmdvv4IPU3NYn.jpg",
+          "iniciales": "JD"
+        },
+        {
+          "nombre": "Tracy Letts",
+          "personaje": "Sandy Maddox",
+          "foto": "https://image.tmdb.org/t/p/w185/x318yEddF10ASORC5U958C2kowf.jpg",
+          "iniciales": "TL"
+        },
+        {
+          "nombre": "Matt Dillon",
+          "personaje": "Frank Stallone Sr.",
+          "foto": "https://image.tmdb.org/t/p/w185/wVoSUexYH79igPgxIXKWRlV2uBk.jpg",
+          "iniciales": "MD"
+        },
+        {
+          "nombre": "Stephan James",
+          "personaje": "Carl Weathers",
+          "foto": "https://image.tmdb.org/t/p/w185/itWiVFI7uE8s4QQjcQBbVO0hY7K.jpg",
+          "iniciales": "SJ"
+        }
+      ],
+      "paises": [
+        "United States of America",
+        "Australia"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Eden Rock Media",
+        "Baha Productions",
+        "Fireside Films",
+        "FilmNation Entertainment",
+        "International Media Funds Management"
+      ],
+      "temas": [
+        "Philadelphia, pennsylvania",
+        "Sports",
+        "Based on true story",
+        "Hollywood",
+        "Filmmaking",
+        "Boxing",
+        "Meta cinema"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=JtkPJREm_9o",
+      "teaser": "",
+      "imdb_id": "tt11995650",
+      "homepage": "https://vercineo.net/movie/yo-soy-rocky/",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 470878,
+          "titulo": "La canción de mi padre",
+          "anio": "2018",
+          "poster": "https://image.tmdb.org/t/p/w342/ipAe6in3Pqr4Jnt454liUu7z5b2.jpg",
+          "score": 7.5
+        },
+        {
+          "tmdb_id": 15660,
+          "titulo": "Queridísima mamá",
+          "anio": "1981",
+          "poster": "https://image.tmdb.org/t/p/w342/3Amv5uQfadEonn7SmYLfNnoeOSu.jpg",
+          "score": 6.4
+        },
+        {
+          "tmdb_id": 15669,
+          "titulo": "The Final Season",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/jW0IQOUE3YN9WOxn3yUdLhL6bgV.jpg",
+          "score": 5.4
+        },
+        {
+          "tmdb_id": 15685,
+          "titulo": "Nitro Circus 3",
+          "anio": "2005",
+          "poster": "https://image.tmdb.org/t/p/w342/6qtVvOTFbpwGPZNOpffaxbggmKp.jpg",
+          "score": 7.3
+        },
+        {
+          "tmdb_id": 856437,
+          "titulo": "Farha",
+          "anio": "2021",
+          "poster": "https://image.tmdb.org/t/p/w342/2qQUPI6LjNZrPk0bdyAo5GN3A5n.jpg",
+          "score": 7.103
+        },
+        {
+          "tmdb_id": 1249494,
+          "titulo": "Eedam",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/8Aulhig5nXoSRhMP68Wxp7th8bX.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 1249508,
+          "titulo": "Grizzly Night",
+          "anio": "2026",
+          "poster": "https://image.tmdb.org/t/p/w342/3ppOwa6PEtGsIiDPdZHUbEqgIY7.jpg",
+          "score": 4.55
+        },
+        {
+          "tmdb_id": 16103,
+          "titulo": "La soledad del corredor de fondo",
+          "anio": "1962",
+          "poster": "https://image.tmdb.org/t/p/w342/slerSTodWpKwQJ0QBFbC2x8pjm5.jpg",
+          "score": 7.208
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-19"
+  },
+  "1568": {
+    "tmdb": {
+      "tmdb_id": 1568,
+      "titulo": "Carne",
+      "titulo_original": "Carne",
+      "tagline": "",
+      "anio": "1991",
+      "estreno": "1991-11-10",
+      "duracion": 38,
+      "generos": [
+        "Drama",
+        "Suspense",
+        "Crimen"
+      ],
+      "score": 6.774,
+      "votos": 259,
+      "certificacion": "",
+      "sinopsis": "Historia de un carnicero de carne de caballos francés que queda encargado de velar por su hija, una joven que sufre de autismo, cuyas vidas siguen una rutina monótona aparentemente infinita.",
+      "poster": "https://image.tmdb.org/t/p/w342/7QNHk05hoi3dXaLFiZyXoj1I81b.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jJYpZPEZazrJ1nDv6Q3wRPtmQuC.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/jJYpZPEZazrJ1nDv6Q3wRPtmQuC.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/jJYpZPEZazrJ1nDv6Q3wRPtmQuC.jpg",
+        "https://image.tmdb.org/t/p/w780/oWTl0qZv05THJ6402E0QxHNW707.jpg",
+        "https://image.tmdb.org/t/p/w780/rz66efamwtqajULRptXu19NcRk3.jpg",
+        "https://image.tmdb.org/t/p/w780/1T1GbDwMgTHA7918yxZbhrxD2kI.jpg",
+        "https://image.tmdb.org/t/p/w780/am8Xdmkpl2h40YHoNAo0PTRX3Ey.jpg",
+        "https://image.tmdb.org/t/p/w780/cCXH9lx7h1jxr3JUeMpJHK9ndhi.jpg"
+      ],
+      "director": "Gaspar Noé",
+      "guionistas": [
+        "Gaspar Noé"
+      ],
+      "musica": "",
+      "elenco": [
+        {
+          "nombre": "Philippe Nahon",
+          "personaje": "The Butcher",
+          "foto": "https://image.tmdb.org/t/p/w185/CHlLvN1GCXb78eB418z9yfhrSu.jpg",
+          "iniciales": "PN"
+        },
+        {
+          "nombre": "Blandine Lenoir",
+          "personaje": "Cynthia",
+          "foto": "https://image.tmdb.org/t/p/w185/bGEI9iE02Gii7jixkE41PtuGnm7.jpg",
+          "iniciales": "BL"
+        },
+        {
+          "nombre": "Marie Berto",
+          "personaje": "Cynthia's Mother",
+          "foto": "https://image.tmdb.org/t/p/w185/dRSdz5DL3mWLvJZrN3J5LWIuIvf.jpg",
+          "iniciales": "MB"
+        },
+        {
+          "nombre": "Frankie Pain",
+          "personaje": "Mistress",
+          "foto": "https://image.tmdb.org/t/p/w185/mpOpvHwgAwJkHYL4PGbgZzeQuvT.jpg",
+          "iniciales": "FP"
+        },
+        {
+          "nombre": "Lucile Hadzihalilovic",
+          "personaje": "Nurse",
+          "foto": "https://image.tmdb.org/t/p/w185/70CXi3pBvKpOy4cwMUwPWynHurP.jpg",
+          "iniciales": "LH"
+        },
+        {
+          "nombre": "Frédéric Bodson",
+          "personaje": "TV Preacher",
+          "foto": "https://image.tmdb.org/t/p/w185/w9WHYUYnoVgWmO3FDSAf7fugwqo.jpg",
+          "iniciales": "FB"
+        },
+        {
+          "nombre": "Hélène Testud",
+          "personaje": "Maid",
+          "foto": null,
+          "iniciales": "HT"
+        },
+        {
+          "nombre": "Roland Guéridon",
+          "personaje": "Cafe Customer",
+          "foto": null,
+          "iniciales": "RG"
+        }
+      ],
+      "paises": [
+        "France"
+      ],
+      "idiomas": [
+        "Deutsch",
+        "Français"
+      ],
+      "productoras": [
+        "Les Cinémas de la Zone"
+      ],
+      "temas": [
+        "Revenge",
+        "New french extremism",
+        "Short film",
+        "New french extremity"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt0218871",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Le Boucher Collection",
+        "partes": [
+          {
+            "tmdb_id": 1568,
+            "titulo": "Carne",
+            "anio": "1991",
+            "poster": "https://image.tmdb.org/t/p/w342/7QNHk05hoi3dXaLFiZyXoj1I81b.jpg",
+            "fecha": "1991-11-10"
+          },
+          {
+            "tmdb_id": 1567,
+            "titulo": "Solo contra todos",
+            "anio": "1999",
+            "poster": "https://image.tmdb.org/t/p/w342/J43kb9OMFPRdVdx17C9Jr3ARLR.jpg",
+            "fecha": "1999-02-17"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 842,
+          "titulo": "El asesinato de Richard Nixon",
+          "anio": "2004",
+          "poster": "https://image.tmdb.org/t/p/w342/zrMznzwdFmGAVANfj7Sa0dgcYzp.jpg",
+          "score": 6.5
+        },
+        {
+          "tmdb_id": 643769,
+          "titulo": "2박 3일",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/lXuMhVMMROB3fdJGT9NPA0dXOLn.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 643847,
+          "titulo": "Boiling Point",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/mfzH3Zqm3QGK6SsdyCBPoB0NgPF.jpg",
+          "score": 7.365
+        },
+        {
+          "tmdb_id": 1041362,
+          "titulo": "Cuanacaquilitl",
+          "anio": "2022",
+          "poster": "https://image.tmdb.org/t/p/w342/lp9Je1NU2F8oFBfmsfwaZMPVdao.jpg",
+          "score": 5.0
+        },
+        {
+          "tmdb_id": 979,
+          "titulo": "Irreversible",
+          "anio": "2002",
+          "poster": "https://image.tmdb.org/t/p/w342/a6HvMOj2lVYnzqaNY6cX2hoCCXz.jpg",
+          "score": 7.16
+        },
+        {
+          "tmdb_id": 984,
+          "titulo": "Harry el sucio",
+          "anio": "1971",
+          "poster": "https://image.tmdb.org/t/p/w342/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
+          "score": 7.452
+        },
+        {
+          "tmdb_id": 456567,
+          "titulo": "Bhoomi",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/zVh5RNjIcM3Wggp0Be3fGdLxz75.jpg",
+          "score": 6.0
+        },
+        {
+          "tmdb_id": 456578,
+          "titulo": "Cowboy and Indian",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/6IZwo3Tt7edbqlW8mrEtiY92fRS.jpg",
+          "score": 0.0
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-19"
+  },
+  "1300968": {
+    "tmdb": {
+      "tmdb_id": 1300968,
+      "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
+      "titulo_original": "The Hunger Games: Sunrise on the Reaping",
+      "tagline": "Rompe el sistema. Cambia las reglas del juego.",
+      "anio": "2026",
+      "estreno": "2026-11-18",
+      "duracion": 159,
+      "generos": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "score": 7.465,
+      "votos": 43,
+      "certificacion": "+13",
+      "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "poster": "https://image.tmdb.org/t/p/w342/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+        "https://image.tmdb.org/t/p/w780/vezToHmUsQApQKHChwz8E9LBfEA.jpg",
+        "https://image.tmdb.org/t/p/w780/Ac56cVxw43dUY7rUIjadk0ro0xt.jpg",
+        "https://image.tmdb.org/t/p/w780/cCGTwo2qtzKcvXvFvkvXO4J2f2D.jpg",
+        "https://image.tmdb.org/t/p/w780/6bM4RwgUsL8hPz5FjFDKM0vrDu2.jpg",
+        "https://image.tmdb.org/t/p/w780/qW47xOGl0dOMRUtAS2XugBlOO1t.jpg"
+      ],
+      "director": "Francis Lawrence",
+      "guionistas": [
+        "Billy Ray",
+        "Michael Lesslie"
+      ],
+      "musica": "James Newton Howard",
+      "elenco": [
+        {
+          "nombre": "Joseph Zada",
+          "personaje": "Haymitch Abernathy",
+          "foto": "https://image.tmdb.org/t/p/w185/7CUBF2zZpk9iFetHPfGFj9kOIx2.jpg",
+          "iniciales": "JZ"
+        },
+        {
+          "nombre": "Mckenna Grace",
+          "personaje": "Maysilee Donner / Merrilee Donner",
+          "foto": "https://image.tmdb.org/t/p/w185/lIAEvs8Ls6R8V2xafrtXkvDS13p.jpg",
+          "iniciales": "MG"
+        },
+        {
+          "nombre": "Ralph Fiennes",
+          "personaje": "President Coriolanus Snow",
+          "foto": "https://image.tmdb.org/t/p/w185/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg",
+          "iniciales": "RF"
+        },
+        {
+          "nombre": "Jesse Plemons",
+          "personaje": "Plutarch Heavensbee",
+          "foto": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg",
+          "iniciales": "JP"
+        },
+        {
+          "nombre": "Glenn Close",
+          "personaje": "Drusilla Sickle",
+          "foto": "https://image.tmdb.org/t/p/w185/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg",
+          "iniciales": "GC"
+        },
+        {
+          "nombre": "Whitney Peak",
+          "personaje": "Lenore Dove Baird",
+          "foto": "https://image.tmdb.org/t/p/w185/2TuyybZPFBJzIV4ctUzxo4w3O0X.jpg",
+          "iniciales": "WP"
+        },
+        {
+          "nombre": "Elle Fanning",
+          "personaje": "Effie Trinket",
+          "foto": "https://image.tmdb.org/t/p/w185/hGL46Q5bkVkQbKAT0SrXcV6ZvRg.jpg",
+          "iniciales": "EF"
+        },
+        {
+          "nombre": "Kieran Culkin",
+          "personaje": "Caesar Flickerman",
+          "foto": "https://image.tmdb.org/t/p/w185/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg",
+          "iniciales": "KC"
+        }
+      ],
+      "paises": [
+        "United States of America",
+        "Germany"
+      ],
+      "idiomas": [
+        "English"
+      ],
+      "productoras": [
+        "Lionsgate",
+        "Color Force",
+        "about:blank",
+        "Studio Babelsberg"
+      ],
+      "temas": [
+        "Based on novel or book",
+        "Dystopia",
+        "Post-apocalyptic future",
+        "Killing fields",
+        "Sequel",
+        "Prequel",
+        "Based on young adult novel",
+        "Fiction"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=71wxo7pAKVE",
+      "teaser": "",
+      "imdb_id": "tt32558705",
+      "homepage": "",
+      "coleccion": {
+        "nombre": "Los juegos del hambre - Nueva trilogía - Colección",
+        "partes": [
+          {
+            "tmdb_id": 695721,
+            "titulo": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
+            "anio": "2023",
+            "poster": "https://image.tmdb.org/t/p/w342/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
+            "fecha": "2023-11-15"
+          },
+          {
+            "tmdb_id": 1300968,
+            "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
+            "anio": "2026",
+            "poster": "https://image.tmdb.org/t/p/w342/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+            "fecha": "2026-11-18"
+          }
+        ]
+      },
+      "similares": [
+        {
+          "tmdb_id": 902,
+          "titulo": "La ciudad de los niños perdidos",
+          "anio": "1995",
+          "poster": "https://image.tmdb.org/t/p/w342/gZWry2QAKoDCUw965vomZAzIN0b.jpg",
+          "score": 7.25
+        },
+        {
+          "tmdb_id": 808,
+          "titulo": "Shrek",
+          "anio": "2001",
+          "poster": "https://image.tmdb.org/t/p/w342/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
+          "score": 7.781
+        },
+        {
+          "tmdb_id": 810,
+          "titulo": "Shrek tercero",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
+          "score": 6.317
+        },
+        {
+          "tmdb_id": 811,
+          "titulo": "Naves misteriosas",
+          "anio": "1972",
+          "poster": "https://image.tmdb.org/t/p/w342/nw9Y61x0aDZsFkGza2mSLa8vBUE.jpg",
+          "score": 6.372
+        },
+        {
+          "tmdb_id": 817,
+          "titulo": "Austin Powers II. La espía que me achuchó",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/6QyOlwOMojFcdaLBSqSGhpQETfG.jpg",
+          "score": 6.324
+        },
+        {
+          "tmdb_id": 823,
+          "titulo": "Jin-Roh: La brigada del lobo",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/clACOLa2bbgV9BbwHjWZ3bMs4iJ.jpg",
+          "score": 7.403
+        },
+        {
+          "tmdb_id": 877,
+          "titulo": "Scarface, el terror del Hampa",
+          "anio": "1932",
+          "poster": "https://image.tmdb.org/t/p/w342/5LhpEbHsJEF63FS5vdwcaRmQlVv.jpg",
+          "score": 7.398
+        },
+        {
+          "tmdb_id": 892,
+          "titulo": "Delicatessen",
+          "anio": "1991",
+          "poster": "https://image.tmdb.org/t/p/w342/cACoQdccxToUn0PRC1yW81bZHOG.jpg",
+          "score": 7.314
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-19"
+  },
+  "1510295": {
+    "tmdb": {
+      "tmdb_id": 1510295,
+      "titulo": "Recen por mí: la historia de Francisco",
+      "titulo_original": "Recen por mí: la historia de Francisco",
+      "tagline": "",
+      "anio": "2025",
+      "estreno": "2025-11-07",
+      "duracion": 110,
+      "generos": [
+        "Documental"
+      ],
+      "score": 0.0,
+      "votos": 0,
+      "certificacion": "",
+      "sinopsis": "",
+      "poster": "https://image.tmdb.org/t/p/w342/gnmbwuCoGwFblQ0tvvxHHh8LhTU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fma2xTmJ0UUG0AyJpjHU83gfwH.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/fma2xTmJ0UUG0AyJpjHU83gfwH.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/fma2xTmJ0UUG0AyJpjHU83gfwH.jpg",
+        "https://image.tmdb.org/t/p/w780/tNF2oKfzwWoen8GRAUxrtB2fWJ5.jpg",
+        "https://image.tmdb.org/t/p/w780/inlbWPppm4RciVSWPDEGECIRtlf.jpg",
+        "https://image.tmdb.org/t/p/w780/xIEBrLImSBpyNja1xdcFsbOjs4n.jpg",
+        "https://image.tmdb.org/t/p/w780/8Lja5bIRn5AHp1S3N1Zp40VLg3v.jpg"
+      ],
+      "director": "Facundo Bartucci",
+      "guionistas": [
+        "Facundo Bartucci"
+      ],
+      "musica": "Federico Etman",
+      "elenco": [
+        {
+          "nombre": "Francisco",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/uHnuMXrJmAlUqu4w00CQV29FOR0.jpg",
+          "iniciales": "FR"
+        }
+      ],
+      "paises": [
+        "Argentina"
+      ],
+      "idiomas": [
+        "Italiano",
+        "Español"
+      ],
+      "productoras": [
+        "Amargo y Retruco Films"
+      ],
+      "temas": [
+        "Pope",
+        "Biography",
+        "Argentina",
+        "Francis"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=vUrr8oRNmP4",
+      "teaser": "",
+      "imdb_id": "tt37194968",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 456489,
+          "titulo": "Papa Francesco: Come Dio comanda",
+          "anio": "2016",
+          "poster": "https://image.tmdb.org/t/p/w342/6kpMElysACwq7CY3EibUpUUI0Ys.jpg",
+          "score": 6.0
+        },
+        {
+          "tmdb_id": 456599,
+          "titulo": "The Fabulous Allan Carr",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/bCRiYgxxt82r7Rpo1gNlkoJRuNB.jpg",
+          "score": 5.0
+        },
+        {
+          "tmdb_id": 642173,
+          "titulo": "Verstörung - und eine Art von Poesie. Die Filmlegende Bernhard Wicki",
+          "anio": "2007",
+          "poster": "https://image.tmdb.org/t/p/w342/wc1NnU1gdsAjl8KxRWHTW1TWO2m.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 455968,
+          "titulo": "El verdadero Cary Grant",
+          "anio": "2017",
+          "poster": "https://image.tmdb.org/t/p/w342/tkvmbikfwJ0blIatdITYPfePwko.jpg",
+          "score": 6.6
+        },
+        {
+          "tmdb_id": 643320,
+          "titulo": "Father Michael McGivney",
+          "anio": "2008",
+          "poster": "https://image.tmdb.org/t/p/w342/vScCg6PUvZz93P9g4TYs5ZiH260.jpg",
+          "score": 0.0
+        },
+        {
+          "tmdb_id": 268930,
+          "titulo": "Frank Sinatra: The Voice of the Century",
+          "anio": "1998",
+          "poster": "https://image.tmdb.org/t/p/w342/vnWz4UK4CnVZyTVKyuaG4AtjGZJ.jpg",
+          "score": 7.7
+        },
+        {
+          "tmdb_id": 644560,
+          "titulo": "De rodillas corazón",
+          "anio": "2019",
+          "poster": "https://image.tmdb.org/t/p/w342/d3CKH5ULQHuPTPYDIrLF2HPbSID.jpg",
+          "score": 8.0
+        },
+        {
+          "tmdb_id": 268887,
+          "titulo": "Kirk Douglas: Before I Forget",
+          "anio": "2009",
+          "poster": "https://image.tmdb.org/t/p/w342/4fJAvAbFUhApwjJo2aBYHOEBfKv.jpg",
+          "score": 7.3
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-19"
+  },
+  "848700": {
+    "tmdb": {
+      "tmdb_id": 848700,
+      "titulo": "Minotauro",
+      "titulo_original": "Minotaure",
+      "tagline": "",
+      "anio": "2026",
+      "estreno": "2026-10-14",
+      "duracion": 141,
+      "generos": [
+        "Drama",
+        "Crimen",
+        "Suspense"
+      ],
+      "score": 7.452,
+      "votos": 52,
+      "certificacion": "+13",
+      "sinopsis": "Es la contemplación del director sobre la naturaleza de las relaciones humanas, el estado del hombre moderno y la fragilidad de la vida humana.",
+      "poster": "https://image.tmdb.org/t/p/w342/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+      "hero": "https://image.tmdb.org/t/p/w1280/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+      "galeria": [
+        "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+        "https://image.tmdb.org/t/p/w780/eO4IbUAzfFi9RH31gC8RuEVebKZ.jpg",
+        "https://image.tmdb.org/t/p/w780/7wvdkp0RsNvpz7DFbEr4mHNdCme.jpg",
+        "https://image.tmdb.org/t/p/w780/3bfR70njmjcw4rCx1OD5UcxFWrM.jpg",
+        "https://image.tmdb.org/t/p/w780/lg6bf2eaIIvnnsmeP6IRqdTFmbA.jpg",
+        "https://image.tmdb.org/t/p/w780/u23GVuhvrbCTjJMMeDE7QCBdUkj.jpg"
+      ],
+      "director": "Андрей Звягинцев",
+      "guionistas": [
+        "Семён Ляшенко",
+        "Андрей Звягинцев"
+      ],
+      "musica": "Evgueni Galperine, Sacha Galperine",
+      "elenco": [
+        {
+          "nombre": "Дмитрий Мазуров",
+          "personaje": "Gleb",
+          "foto": "https://image.tmdb.org/t/p/w185/gDr0k68ZL6C49PHupKkwl0ScutQ.jpg",
+          "iniciales": "ДМ"
+        },
+        {
+          "nombre": "Ирис Лебедева",
+          "personaje": "Galina",
+          "foto": "https://image.tmdb.org/t/p/w185/wcqsv6z1pMTShG0WEcyzmSFHQNZ.jpg",
+          "iniciales": "ИЛ"
+        },
+        {
+          "nombre": "Варвара Шмыкова",
+          "personaje": "Natasha",
+          "foto": "https://image.tmdb.org/t/p/w185/5KhNwwWYYWc9mWnthJe1QuU5ydD.jpg",
+          "iniciales": "ВШ"
+        },
+        {
+          "nombre": "Juris Žagars",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/2fJA2nPF8WbAhuVubVLzZv32MZi.jpg",
+          "iniciales": "JŽ"
+        },
+        {
+          "nombre": "Анатолий Белый",
+          "personaje": "",
+          "foto": "https://image.tmdb.org/t/p/w185/cQupz7e1lPQyAIfFlncdgYQUzXH.jpg",
+          "iniciales": "АБ"
+        },
+        {
+          "nombre": "ולדימיר פרידמן",
+          "personaje": "Mayor",
+          "foto": "https://image.tmdb.org/t/p/w185/6FlH4eFTBqZxf6M7XRqFgq72S0W.jpg",
+          "iniciales": "ופ"
+        },
+        {
+          "nombre": "Anastasia Mischenko",
+          "personaje": "Dasha",
+          "foto": "https://image.tmdb.org/t/p/w185/8uO0yf8Q1cmu2kCXbQCmKLb0Fe2.jpg",
+          "iniciales": "AM"
+        },
+        {
+          "nombre": "Iouri Zavalniouk",
+          "personaje": "Anton",
+          "foto": "https://image.tmdb.org/t/p/w185/pKYrMmJchOVdLQPQmRBaMtiOGcp.jpg",
+          "iniciales": "IZ"
+        }
+      ],
+      "paises": [
+        "France",
+        "Latvia",
+        "United States of America",
+        "Switzerland",
+        "Germany"
+      ],
+      "idiomas": [
+        "Pусский"
+      ],
+      "productoras": [
+        "MK Productions",
+        "CG Cinéma",
+        "Razor Film Produktion",
+        "Forma Pro Films",
+        "ARTE France Cinéma",
+        "ZDF",
+        "whiz movies",
+        "L.E.A.F. Entertainment"
+      ],
+      "temas": [
+        "Adultery",
+        "Infidelity",
+        "Husband wife relationship",
+        "Corruption",
+        "Photographer",
+        "Mental breakdown",
+        "Remake",
+        "Murder"
+      ],
+      "trailer": "",
+      "teaser": "",
+      "imdb_id": "tt37118301",
+      "homepage": "",
+      "coleccion": null,
+      "similares": [
+        {
+          "tmdb_id": 905,
+          "titulo": "La caja de Pandora (Lulú)",
+          "anio": "1929",
+          "poster": "https://image.tmdb.org/t/p/w342/pPUr6mtHlOVlgQjg2xeJgZZEgn2.jpg",
+          "score": 7.451
+        },
+        {
+          "tmdb_id": 805,
+          "titulo": "La semilla del diablo",
+          "anio": "1968",
+          "poster": "https://image.tmdb.org/t/p/w342/1PbbUmtP8SnGRCTvTzqfj5aj0xK.jpg",
+          "score": 7.815
+        },
+        {
+          "tmdb_id": 807,
+          "titulo": "Seven",
+          "anio": "1995",
+          "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+          "score": 8.383
+        },
+        {
+          "tmdb_id": 815,
+          "titulo": "Rebelión en la granja",
+          "anio": "1999",
+          "poster": "https://image.tmdb.org/t/p/w342/d6Z1wklb3TYWYsNDnyzKBIhilry.jpg",
+          "score": 5.7
+        },
+        {
+          "tmdb_id": 819,
+          "titulo": "Sleepers",
+          "anio": "1996",
+          "poster": "https://image.tmdb.org/t/p/w342/e0bzX1pK2STzUAYXnretiU9gkiq.jpg",
+          "score": 7.607
+        },
+        {
+          "tmdb_id": 825,
+          "titulo": "Jugando con el corazón",
+          "anio": "1998",
+          "poster": "https://image.tmdb.org/t/p/w342/cOyODb5KOIuPckhXfhhluSCtYCT.jpg",
+          "score": 6.7
+        },
+        {
+          "tmdb_id": 268282,
+          "titulo": "Bete Balanço",
+          "anio": "1984",
+          "poster": "https://image.tmdb.org/t/p/w342/dzhS66IsRdZjB0EJQvMUKeTHp1f.jpg",
+          "score": 6.0
+        },
+        {
+          "tmdb_id": 877,
+          "titulo": "Scarface, el terror del Hampa",
+          "anio": "1932",
+          "poster": "https://image.tmdb.org/t/p/w342/5LhpEbHsJEF63FS5vdwcaRmQlVv.jpg",
+          "score": 7.398
+        }
+      ]
+    },
+    "ultima_semana": "2026-11-19"
   }
 }
