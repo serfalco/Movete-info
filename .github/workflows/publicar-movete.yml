@@ -1,15 +1,26 @@
 name: Publicar semanal
 
+# La edicion sale el miercoles a la noche: el jueves 00:30 Argentina (03:30
+# UTC), asi el jueves a la mañana ya esta en linea y Google la ve antes.
+# A esa hora ya es jueves tambien en UTC, que es la fecha que usa el runner
+# para saber de que semana es la edicion (jueves_de_edicion).
+#
+# Lo que ya NO hace este workflow (21/11/2026), para que una demora no
+# arrastre todo lo demas:
+#  - Cine: "Publicar Cine", jueves 10:00. El Dia carga la cartelera nueva el
+#    jueves a la mañana; a la medianoche todavia esta la de la semana pasada.
+#  - Newsletter: "Enviar newsletter", jueves 09:00. Lee la cartelera que este
+#    workflow deja en data/eventos-semana.json.
+#
+# GitHub demora los cron hasta varias horas (el 19/11/2026: 9 horas). El
+# Worker movete-horarios de Cloudflare dispara este workflow a horario; el
+# cron de abajo queda de respaldo. Si corren los dos, la segunda corrida
+# espera a la primera (concurrency) y regenera lo mismo.
+
 on:
   schedule:
-    # Jueves 07:17 Argentina (10:17 UTC). GitHub puede demorar los cron.
-    - cron: "17 10 * * 4"
+    - cron: "30 3 * * 4"
   workflow_dispatch:
-    inputs:
-      enviar_newsletter:
-        description: "Enviar tambien el newsletter en esta corrida manual"
-        type: boolean
-        default: false
 
 permissions:
   contents: write
@@ -41,12 +52,6 @@ jobs:
           repository: serfalco/movete-espectaculos
           path: movete-espectaculos
 
-      - name: Checkout movete-cine
-        uses: actions/checkout@v4
-        with:
-          repository: serfalco/movete-cine
-          path: movete-cine
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -55,10 +60,6 @@ jobs:
       - name: Instalar dependencias de En vivo
         working-directory: movete-scraper
         run: pip install -r requirements.txt Pillow  # Pillow: copias livianas de imagenes
-
-      - name: Instalar dependencias de Cine
-        working-directory: movete-cine
-        run: pip install -r requirements.txt
 
       - name: Generar eventos.json
         id: scraper
@@ -87,16 +88,14 @@ jobs:
         working-directory: movete-espectaculos
         run: python generar_redes.py --eventos eventos.json --salida ../Movete-info/redes --afiches ../Movete-info/assets/afiches
 
-      - name: Generar Cine
-        working-directory: movete-cine
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          MOVETE_CINE_OUT: ../Movete-info/cine
-        run: python main.py
-
       - name: Actualizar fecha de portada
         working-directory: Movete-info
         run: python actualizar_portada.py
+
+      - name: Guardar la cartelera para el newsletter
+        # El newsletter sale aparte, el jueves a la mañana, y lee este archivo
+        # en vez de volver a scrapear.
+        run: cp movete-espectaculos/eventos.json Movete-info/data/eventos-semana.json
 
       - name: Commit unico en Movete-info
         working-directory: Movete-info
@@ -106,15 +105,6 @@ jobs:
           git add .
           git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Publicar edicion semanal MoVeTe"
           git push
-
-      - name: Enviar newsletter semanal
-        # Va despues del commit: el mail sale solo si el sitio ya se publico.
-        # Automatico los jueves (schedule); en corrida manual, solo si se marca la casilla.
-        if: github.event_name == 'schedule' || github.event.inputs.enviar_newsletter == 'true'
-        working-directory: movete-espectaculos
-        env:
-          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
-        run: python generar_newsletter.py --eventos eventos.json || echo "newsletter fallo, se continua"
 
       - name: Avisar si la cartelera salio incompleta
         # Va ULTIMO y a proposito: la edicion ya se publico. Este paso solo

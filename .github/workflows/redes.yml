@@ -8,9 +8,11 @@ name: Publicar en redes
 # META_TOKEN (ver redes/LEEME.md). Los IDs de la página y de Instagram son
 # públicos y van fijos acá.
 #
-# Corre a la mañana todos los días y tambien apenas termina "Publicar semanal":
-# el jueves el carrusel sale en cuanto la edicion esta en linea, aunque GitHub
-# demore el cron. Lo ya publicado queda anotado en publicado.json y no se repite.
+# Corre a la mañana y a la tarde todos los días. Ya no corre apenas termina
+# "Publicar semanal": desde el 21/11/2026 la edicion sale a la medianoche y el
+# carrusel del jueves se publicaria a la 1 de la mañana. El Worker
+# movete-horarios lo dispara a horario. Lo ya publicado queda anotado en
+# publicado.json y no se repite.
 
 on:
   schedule:
@@ -18,9 +20,6 @@ on:
     - cron: "43 11 * * *"
     # 18:43 Argentina: segunda pasada por si a la mañana la edicion no estaba.
     - cron: "43 21 * * *"
-  workflow_run:
-    workflows: ["Publicar semanal"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:

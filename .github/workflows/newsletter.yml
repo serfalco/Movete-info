@@ -1,0 +1,118 @@
+name: Enviar newsletter
+
+# El mail semanal, aparte de la edicion (21/11/2026). Sale el jueves 09:00
+# Argentina (12:00 UTC) con la cartelera que "Publicar semanal" dejo la
+# noche anterior en data/eventos-semana.json: no vuelve a scrapear.
+#
+# Dos seguros:
+#  - Si data/eventos-semana.json no es de esta semana (la edicion no salio),
+#    no manda nada y pone la corrida en rojo para que llegue el mail de aviso.
+#  - Anota en data/newsletter-enviado.txt el jueves que ya se mando: si el
+#    Worker y el cron de respaldo corren los dos, el segundo no lo repite.
+#
+# El Worker movete-horarios de Cloudflare lo dispara a horario; el cron de
+# abajo queda de respaldo por si el Worker no corre.
+
+on:
+  schedule:
+    - cron: "0 12 * * 4"
+  workflow_dispatch:
+    inputs:
+      forzar:
+        description: "Mandarlo aunque ya figure enviado esta semana"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsletter
+  cancel-in-progress: false
+
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Movete-info
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: Movete-info
+
+      - name: Checkout movete-espectaculos
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/movete-espectaculos
+          path: movete-espectaculos
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ver si corresponde mandarlo
+        id: chequeo
+        working-directory: movete-espectaculos
+        env:
+          FORZAR: ${{ github.event.inputs.forzar }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import date, datetime
+          from edicion import jueves_de_edicion
+
+          jueves = jueves_de_edicion(date.today()).isoformat()
+          salida = open(os.environ["GITHUB_OUTPUT"], "a")
+          ruta = "../Movete-info/data/eventos-semana.json"
+          try:
+              generado = str(json.load(open(ruta, encoding="utf-8")).get("generado", ""))[:10]
+          except (OSError, ValueError):
+              generado = ""
+          try:
+              ya = open("../Movete-info/data/newsletter-enviado.txt").read().strip()
+          except OSError:
+              ya = ""
+          if generado < jueves:
+              msg = (f"El newsletter no salio: la cartelera guardada es del {generado or '?'} "
+                     f"y la edicion de esta semana ({jueves}) no se publico.")
+              print(f"::error::{msg}")
+              salida.write("enviar=no\nerror=si\n")
+          elif ya == jueves and os.environ.get("FORZAR") != "true":
+              print(f"El newsletter del {jueves} ya se mando. No se repite.")
+              salida.write("enviar=no\nerror=no\n")
+          else:
+              salida.write(f"enviar=si\nerror=no\njueves={jueves}\n")
+          PY
+
+      - name: Enviar newsletter
+        if: steps.chequeo.outputs.enviar == 'si'
+        working-directory: movete-espectaculos
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+          MOVETE_ALERTA: ${{ github.workspace }}/_alerta.txt
+        run: python generar_newsletter.py --eventos ../Movete-info/data/eventos-semana.json
+
+      - name: Anotar que ya salio
+        if: steps.chequeo.outputs.enviar == 'si' && hashFiles('_alerta.txt') == ''
+        working-directory: Movete-info
+        run: |
+          echo "${{ steps.chequeo.outputs.jueves }}" > data/newsletter-enviado.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/newsletter-enviado.txt
+          git commit -m "Newsletter: enviado el de la semana ${{ steps.chequeo.outputs.jueves }}"
+          git pull --rebase -q && git push
+
+      - name: Avisar si fallo
+        # Rojo = llega el mail de GitHub. Igual que en "Publicar semanal".
+        if: always()
+        run: |
+          if [ "${{ steps.chequeo.outputs.error }}" = "si" ]; then exit 1; fi
+          if [ -f "$GITHUB_WORKSPACE/_alerta.txt" ]; then
+            echo "::error::$(head -1 "$GITHUB_WORKSPACE/_alerta.txt")"
+            cat "$GITHUB_WORKSPACE/_alerta.txt"
+            exit 1
+          fi
+          echo "Newsletter OK."

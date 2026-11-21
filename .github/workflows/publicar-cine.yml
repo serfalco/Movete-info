@@ -1,6 +1,12 @@
 name: Publicar Cine
 
+# Jueves 10:00 Argentina (13:00 UTC): El Dia ya cargo la cartelera de la
+# semana nueva. Antes iba dentro de "Publicar semanal". El Worker
+# movete-horarios lo dispara a horario; el cron queda de respaldo.
+
 on:
+  schedule:
+    - cron: "0 13 * * 4"
   workflow_dispatch:
 
 permissions:
