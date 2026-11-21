@@ -95,6 +95,12 @@ jobs:
           git pull --rebase origin main
           git push
 
+      - name: Avisar a Bing de las paginas nuevas (IndexNow)
+        # Google no lo usa; Bing y DuckDuckGo si. Nunca corta la publicacion.
+        continue-on-error: true
+        working-directory: Movete-info
+        run: python avisar_indexnow.py
+
       - name: Avisar si la cartelera salio incompleta
         if: always() && steps.scraper.outcome == 'success'
         run: |

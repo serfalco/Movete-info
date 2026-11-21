@@ -106,6 +106,12 @@ jobs:
           git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Publicar edicion semanal MoVeTe"
           git push
 
+      - name: Avisar a Bing de las paginas nuevas (IndexNow)
+        # Google no lo usa; Bing y DuckDuckGo si. Nunca corta la publicacion.
+        continue-on-error: true
+        working-directory: Movete-info
+        run: python avisar_indexnow.py
+
       - name: Avisar si la cartelera salio incompleta
         # Va ULTIMO y a proposito: la edicion ya se publico. Este paso solo
         # pone la corrida en rojo, que es lo unico que hace que GitHub mande

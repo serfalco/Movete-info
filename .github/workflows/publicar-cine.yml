@@ -61,3 +61,9 @@ jobs:
           git add .
           git diff --cached --quiet && echo "Sin cambios para publicar" || git commit -m "Publicar edición semanal Cine"
           git push
+
+      - name: Avisar a Bing de las paginas nuevas (IndexNow)
+        # Google no lo usa; Bing y DuckDuckGo si. Nunca corta la publicacion.
+        continue-on-error: true
+        working-directory: Movete-info
+        run: python avisar_indexnow.py
