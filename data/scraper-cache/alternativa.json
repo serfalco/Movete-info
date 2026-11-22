@@ -100,6 +100,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/31/000318331.jpg"
   },
   {
+    "titulo": "¡ACTÚEN!",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas102624-actuen?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/10/000319610.jpg"
+  },
+  {
     "titulo": "Las del Lirio. Tullido retrato familiar",
     "fecha": "2026-11-22 20:30:00",
     "lugar": "TCB - TEATRO COMUNITARIO DE BERISSO",
@@ -141,7 +151,7 @@
   },
   {
     "titulo": "La fiaca",
-    "fecha": "2026-12-04 21:00:00",
+    "fecha": "2026-11-28 21:00:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
