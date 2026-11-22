@@ -1,0 +1,29 @@
+# MoVeTe
+
+> Agenda cultural semanal de La Plata, Argentina: cine, teatro, música en vivo, stand up, danza, ferias y talleres en La Plata, City Bell, Gonnet, Berisso y Ensenada. Cada edición va de jueves a miércoles. No vende entradas: reúne horarios y salas para encontrar qué hacer.
+
+## Esta semana
+- [En vivo](https://movete.info/en-vivo/): teatro, música, stand up, danza y espectáculos de la semana en La Plata.
+- [Hoy](https://movete.info/en-vivo/hoy/): qué hacer hoy en La Plata.
+- [Fin de semana](https://movete.info/en-vivo/fin-de-semana/): planes para el finde.
+- [Lo que se viene](https://movete.info/en-vivo/lo-que-se-viene/): próximas fechas.
+- [Cine](https://movete.info/cine/): cartelera de cine de La Plata con horarios por sala, cineclubes y funciones especiales.
+- [Mapa cultural](https://movete.info/mapa/): qué hay cerca, en La Plata y alrededores.
+
+## Por tipo de evento
+- [Teatro](https://movete.info/en-vivo/teatro/)
+- [Música](https://movete.info/en-vivo/musica/)
+- [Stand up](https://movete.info/en-vivo/stand-up/)
+- [Humor](https://movete.info/en-vivo/humor/)
+- [Impro](https://movete.info/en-vivo/impro/)
+- [Danza](https://movete.info/en-vivo/danza/)
+- [Infantil](https://movete.info/en-vivo/infantil/)
+- [Ferias](https://movete.info/en-vivo/ferias/)
+- [Talleres](https://movete.info/en-vivo/taller/)
+- [Charlas](https://movete.info/en-vivo/charlas/)
+
+## Para organizadores
+- [Sumá tu evento](https://movete.info/sumar/): cargar una obra, show o función en la agenda. Gratis.
+
+## Archivo
+- [Ediciones anteriores](https://movete.info/en-vivo/archivo/)
