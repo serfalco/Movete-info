@@ -216,7 +216,7 @@
         (evs.length > 1 ? '<b class="mapa-pin-n">' + evs.length + '</b>' : '') +
         (s.casa ? '<i class="mapa-pin-casa" aria-hidden="true">★</i>' : '') + '</span>';
       var m = L.marker([s.lat, s.lng], {
-        icon: L.divIcon({ className: 'mapa-pin-wrap', html: html, iconSize: [38, 38], iconAnchor: [19, 19], popupAnchor: [0, -18] }),
+        icon: L.divIcon({ className: 'mapa-pin-wrap', html: html, iconSize: [28, 28], iconAnchor: [14, 14], popupAnchor: [0, -13] }),
         title: s.nombre + ' · ' + evs.length + (evs.length === 1 ? ' evento' : ' eventos'),
         alt: s.nombre,
         riseOnHover: true
@@ -261,7 +261,7 @@
       if (l.s && marcadores[l.s]) return;
       var m = L.marker([l.lat, l.lng], {
         icon: L.divIcon({ className: 'mapa-pin-wrap', html: '<span class="mapa-pin mapa-pin--lugar">' + iconoLugar(l.k) + '</span>',
-          iconSize: [30, 30], iconAnchor: [15, 15], popupAnchor: [0, -14] }),
+          iconSize: [22, 22], iconAnchor: [11, 11], popupAnchor: [0, -10] }),
         title: l.n + (l.t ? ' · ' + l.t : ''),
         alt: l.n,
         zIndexOffset: -1000

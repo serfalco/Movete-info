@@ -180,36 +180,36 @@
   position: relative;
   display: grid;
   place-items: center;
-  width: 38px;
-  height: 38px;
+  width: 28px;
+  height: 28px;
   border-radius: 50%;
   background: var(--cat, var(--c-otros));
   color: #fff;
-  border: 2.5px solid #fff;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, .35);
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .35);
   box-sizing: border-box;
 }
-.mapa-pin svg { width: 19px; height: 19px; }
+.mapa-pin svg { width: 14px; height: 14px; }
 .mapa-pin-n {
   position: absolute;
-  top: -7px;
-  right: -8px;
-  min-width: 20px;
-  height: 20px;
-  padding: 0 5px;
+  top: -6px;
+  right: -7px;
+  min-width: 16px;
+  height: 16px;
+  padding: 0 4px;
   border-radius: 999px;
   background: #1a1611;
   color: #fff;
-  font: 700 12px/20px var(--font-body);
+  font: 700 10px/13px var(--font-body);
   text-align: center;
   border: 1.5px solid #fff;
 }
 .mapa-pin--pronto::before {
   content: "";
   position: absolute;
-  inset: -3px;
+  inset: -2px;
   border-radius: 50%;
-  border: 3px solid var(--cat, var(--c-otros));
+  border: 2px solid var(--cat, var(--c-otros));
   animation: mapa-late 1.6s ease-out infinite;
 }
 @keyframes mapa-late {
@@ -293,23 +293,23 @@
 .mapa-sorpresa-otra { margin-left: 8px; }
 
 /* --- Pin y aviso de Tres Empanadas ("Stand Up en Tres Empanadas") ---------------------------------------- */
-.mapa-pin--casa { border-color: #d4a017; box-shadow: 0 0 0 2px #d4a017, 0 2px 6px rgba(0, 0, 0, .35); }
+.mapa-pin--casa { border-color: #d4a017; box-shadow: 0 0 0 1.5px #d4a017, 0 1px 4px rgba(0, 0, 0, .35); }
 .mapa-pin-casa {
   position: absolute;
-  top: -8px;
-  left: -8px;
-  width: 18px;
-  height: 18px;
+  top: -6px;
+  left: -6px;
+  width: 14px;
+  height: 14px;
   border-radius: 50%;
   background: #d4a017;
   color: #1a1611;
-  font: 700 11px/18px var(--font-body);
+  font: 700 8px/11px var(--font-body);
   font-style: normal;
   text-align: center;
   border: 1.5px solid #fff;
 }
 
-.pagina-mapa { padding-bottom: calc(88px + env(safe-area-inset-bottom)); }
+.pagina-mapa { padding-bottom: calc(64px + env(safe-area-inset-bottom)); }
 .mapa-casa {
   position: fixed;
   left: 50%;
@@ -318,22 +318,22 @@
   z-index: 1000;
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 6px;
   width: max-content;
   max-width: calc(100% - 24px);
-  padding: 9px 14px 9px 10px;
+  padding: 5px 12px;
   border-radius: 999px;
   background: var(--ink);
   color: var(--paper);
-  border: 2px solid #d4a017;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, .3);
-  font-size: .92rem;
+  border: 1.5px solid #d4a017;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .3);
+  font-size: .8rem;
   line-height: 1.25;
 }
 .mapa-casa-texto { min-width: 0; }
 .mapa-casa-cuando, .mapa-casa-dist { white-space: nowrap; }
 @media (max-width: 480px) {
-  .mapa-casa { border-radius: 18px; width: calc(100% - 24px); }
+  .mapa-casa { border-radius: 14px; }
 }
 .mapa-casa a { color: var(--paper); font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
 .mapa-casa a:focus-visible { outline: 3px solid #d4a017; outline-offset: 2px; }
@@ -341,15 +341,15 @@
 /* --- Lugares fijos ("Ver también lugares") ---------------------------------------------- */
 .mapa-chip-lugares[aria-pressed="true"] { background: #6b6f76; border-color: #6b6f76; color: #fff; }
 .mapa-pin--lugar {
-  width: 30px;
-  height: 30px;
-  border-radius: 8px;
+  width: 22px;
+  height: 22px;
+  border-radius: 6px;
   background: #8a8f98;
-  border: 2px solid #fff;
+  border: 1.5px solid #fff;
   color: #fff;
   opacity: .92;
 }
-.mapa-pin--lugar svg { width: 16px; height: 16px; }
+.mapa-pin--lugar svg { width: 12px; height: 12px; }
 .mapa-pop-tipo, .mapa-pop-dir { margin: 0 0 4px; color: var(--muted); font-size: .85rem; }
 .mapa-pop-nada { margin: 0 0 6px; font-size: .85rem; }
 .mapa-pop-horario { margin: 0 0 6px; font-size: .88rem; }
