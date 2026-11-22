@@ -342,7 +342,7 @@
     document.querySelector('.mapa-orden').hidden = !estado.origen;
   }
 
-  // --- Aviso de Tres Empanadas ("De la casa") ----------------------------------
+  // --- Aviso de Tres Empanadas ("Stand Up en Tres Empanadas") ----------------------------------
   // Próxima fecha real y, si hay ubicación, a cuántas cuadras. Sin fecha
   // próxima: "Ver próximas fechas". Un solo link, el de la marca.
   function actualizarAviso() {

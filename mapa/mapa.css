@@ -292,7 +292,7 @@
 .mapa-sorpresa-vacio { margin: 0 0 10px; color: var(--muted); }
 .mapa-sorpresa-otra { margin-left: 8px; }
 
-/* --- Pin y aviso de Tres Empanadas ("De la casa") ---------------------------------------- */
+/* --- Pin y aviso de Tres Empanadas ("Stand Up en Tres Empanadas") ---------------------------------------- */
 .mapa-pin--casa { border-color: #d4a017; box-shadow: 0 0 0 2px #d4a017, 0 2px 6px rgba(0, 0, 0, .35); }
 .mapa-pin-casa {
   position: absolute;
@@ -329,17 +329,6 @@
   box-shadow: 0 4px 14px rgba(0, 0, 0, .3);
   font-size: .92rem;
   line-height: 1.25;
-}
-.mapa-casa-etiqueta {
-  flex: 0 0 auto;
-  padding: 3px 8px;
-  border-radius: 999px;
-  background: #d4a017;
-  color: #1a1611;
-  font-size: .72rem;
-  font-weight: 700;
-  letter-spacing: .02em;
-  text-transform: uppercase;
 }
 .mapa-casa-texto { min-width: 0; }
 .mapa-casa-cuando, .mapa-casa-dist { white-space: nowrap; }
