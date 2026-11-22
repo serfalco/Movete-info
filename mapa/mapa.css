@@ -1,0 +1,374 @@
+/* Mapa cultural de MoVeTe (/mapa/). Usa los tokens de /assets/css/movete.css. */
+
+.mapa-main { max-width: none; }
+.mapa-hero { padding-bottom: 4px; }
+/* En el celular el mapa tiene que asomar en la primera pantalla. */
+@media (max-width: 640px) {
+  .mapa-hero { padding-top: 14px; }
+  .mapa-hero h1 { font-size: clamp(2rem, 9vw, 2.6rem); margin: 4px 0; }
+  .mapa-hero .lead { font-size: .95rem; margin: 0; }
+  .mapa-controles { gap: 6px; margin-bottom: 10px; }
+  .mapa-ubicacion { gap: 6px 10px; }
+  #mapa { height: 52vh; }
+}
+.mapa-total { white-space: nowrap; }
+
+/* --- Filtros ------------------------------------------------------------- */
+.mapa-controles {
+  display: grid;
+  gap: 8px;
+  margin: 8px auto 14px;
+  max-width: var(--max);
+}
+.mapa-fila {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-bottom: 2px;
+}
+.mapa-fila::-webkit-scrollbar { display: none; }
+.mapa-chip {
+  flex: 0 0 auto;
+  font: inherit;
+  font-size: .9rem;
+  padding: 7px 13px;
+  border-radius: 999px;
+  border: 1px solid var(--line-strong);
+  background: var(--card);
+  color: var(--ink);
+  cursor: pointer;
+  min-height: 36px;
+}
+.mapa-chip[data-rubro]:not([data-rubro=""]) {
+  border-color: color-mix(in srgb, var(--cat) 55%, transparent);
+}
+.mapa-chip[aria-pressed="true"] {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+.mapa-chip[data-rubro]:not([data-rubro=""])[aria-pressed="true"] {
+  background: var(--cat);
+  border-color: var(--cat);
+  color: #fff;
+}
+.mapa-chip:focus-visible, .mapa-ver:focus-visible, .mapa-punto:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.mapa-ubicacion {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+}
+.mapa-geo { cursor: pointer; }
+.mapa-partida { display: inline-flex; align-items: center; gap: 6px; font-size: .92rem; color: var(--muted); }
+.mapa-punto {
+  font: inherit;
+  font-size: .92rem;
+  padding: 7px 10px;
+  border-radius: 12px;
+  border: 1px solid var(--line-strong);
+  background: var(--card);
+  color: var(--ink);
+}
+.mapa-privacidad, .mapa-geo-estado { flex-basis: 100%; margin: 0; font-size: .85rem; color: var(--muted); }
+.mapa-geo-estado:empty { display: none; }
+
+/* --- Mapa + lista ---------------------------------------------------------- */
+.mapa-layout {
+  display: grid;
+  gap: 16px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.mapa-lienzo { position: relative; }
+#mapa {
+  height: 58vh;
+  min-height: 320px;
+  border-radius: var(--radius);
+  border: 1px solid var(--line-strong);
+  overflow: hidden;
+  background: var(--card);
+  z-index: 0;
+}
+#mapa.mapa-caido { display: none; }
+.mapa-noscript { padding: 12px; }
+
+@media (min-width: 900px) {
+  .mapa-layout { grid-template-columns: minmax(0, 3fr) minmax(340px, 2fr); align-items: start; }
+  .mapa-lienzo { position: sticky; top: calc(var(--sticky-header-height) + 12px); }
+  #mapa { height: calc(100vh - var(--sticky-header-height) - 36px); }
+}
+
+.mapa-panel h2 { margin: 0; }
+.mapa-lista-cabecera {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 12px;
+  margin: 4px 0 10px;
+}
+.mapa-cuenta { margin: 0; color: var(--muted); font-size: .9rem; }
+.mapa-orden { display: flex; gap: 6px; flex-basis: 100%; }
+.mapa-orden[hidden] { display: none; }
+
+.mapa-lista, .mapa-cerca-lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.mapa-item { margin: 0; }
+.mapa-item[hidden] { display: none; }
+.mapa-item h3 { margin: 4px 0 2px; }
+.mapa-dist { margin: 0 0 0 auto; font-size: .85rem; font-weight: 700; color: var(--accent-text); }
+.mapa-sin-pin { margin: 4px 0 0; font-size: .82rem; color: var(--muted); }
+.mapa-item-acciones { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+.mapa-ver, .mapa-llegar {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font: inherit;
+  font-size: .88rem;
+  padding: 6px 11px;
+  border-radius: 999px;
+  border: 1px solid var(--line-strong);
+  background: transparent;
+  color: var(--ink);
+  text-decoration: none;
+  cursor: pointer;
+  min-height: 34px;
+}
+.mapa-ver[hidden] { display: none; }
+.mapa-sin-resultados, .mapa-vacio { color: var(--muted); }
+
+/* --- Cerca tuyo ahora --------------------------------------------------------- */
+.mapa-cerca {
+  margin-bottom: 18px;
+  padding: 14px;
+  border-radius: var(--radius);
+  background: color-mix(in srgb, var(--accent) 9%, var(--card));
+  border: 1px solid var(--line);
+}
+.mapa-cerca[hidden] { display: none; }
+.mapa-cerca h2 { margin-bottom: 10px; }
+.mapa-cerca-lista li {
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr);
+  gap: 4px 10px;
+  align-items: center;
+}
+.mapa-cerca-lista .mapa-llegar { grid-column: 2; justify-self: start; }
+.mapa-cerca-icono {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: var(--cat);
+  color: #fff;
+}
+.mapa-cerca-icono svg { width: 18px; height: 18px; }
+.mapa-cerca-texto { display: grid; gap: 2px; }
+.mapa-cerca-texto span { font-size: .88rem; color: var(--muted); }
+.mapa-cerca-vacio { display: block !important; color: var(--muted); }
+
+.mapa-sumar { margin-top: 20px; }
+
+/* --- Pines -------------------------------------------------------------------- */
+.mapa-pin-wrap { background: none; border: 0; }
+.mapa-pin {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: var(--cat, var(--c-otros));
+  color: #fff;
+  border: 2.5px solid #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .35);
+  box-sizing: border-box;
+}
+.mapa-pin svg { width: 19px; height: 19px; }
+.mapa-pin-n {
+  position: absolute;
+  top: -7px;
+  right: -8px;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5px;
+  border-radius: 999px;
+  background: #1a1611;
+  color: #fff;
+  font: 700 12px/20px var(--font-body);
+  text-align: center;
+  border: 1.5px solid #fff;
+}
+.mapa-pin--pronto::before {
+  content: "";
+  position: absolute;
+  inset: -3px;
+  border-radius: 50%;
+  border: 3px solid var(--cat, var(--c-otros));
+  animation: mapa-late 1.6s ease-out infinite;
+}
+@keyframes mapa-late {
+  from { transform: scale(1); opacity: .8; }
+  to { transform: scale(1.9); opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mapa-pin--pronto::before { animation: none; opacity: .6; transform: scale(1.25); }
+}
+
+.mapa-origen { fill: #2f8fd6; fill-opacity: 1; stroke: #fff; }
+
+/* --- Popups (Leaflet) ------------------------------------------------------------ */
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: var(--card);
+  color: var(--ink);
+}
+.leaflet-popup-content { margin: 12px 14px; font-family: var(--font-body); }
+.mapa-pop-sala { margin: 0 0 2px; font-weight: 700; font-size: 1rem; }
+.mapa-pop-dist { margin: 0 0 6px; font-size: .85rem; color: var(--accent-text); font-weight: 700; }
+.mapa-pop ul { margin: 6px 0; padding: 0; list-style: none; display: grid; gap: 5px; }
+.mapa-pop li { font-size: .9rem; line-height: 1.3; }
+.mapa-pop-hora { color: var(--muted); font-size: .82rem; white-space: nowrap; }
+.mapa-pop-mas { margin: 0 0 6px; font-size: .82rem; color: var(--muted); }
+.mapa-pop a { color: var(--accent-text); }
+.mapa-pop .mapa-llegar { color: var(--ink); }
+.leaflet-container a.leaflet-popup-close-button { color: var(--muted); }
+.leaflet-control-attribution { font-size: 10px; }
+
+/* --- Por zona (enlazado interno) ------------------------------------------------ */
+.mapa-zonas { margin-top: 22px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.mapa-zonas h2 { flex-basis: 100%; margin: 0 0 4px; font-size: 1.2rem; }
+.mapa-zonas a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 13px;
+  border-radius: 999px;
+  border: 1px solid var(--line-strong);
+  background: var(--card);
+  color: var(--ink);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.mapa-zonas a span { font-size: .8rem; color: var(--muted); }
+.mapa-zonas a[aria-current="page"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.mapa-zonas a[aria-current="page"] span { color: inherit; opacity: .75; }
+
+/* --- Gratis (confirmados) ---------------------------------------------------------- */
+.mapa-chip-gratis { border-color: color-mix(in srgb, var(--accent2) 70%, var(--line-strong)); }
+.mapa-chip-gratis[aria-pressed="true"] { background: var(--accent2); border-color: var(--accent2); color: #1a1611; }
+.pill.mapa-gratis {
+  background: color-mix(in srgb, var(--accent2) 30%, transparent);
+  border-color: color-mix(in srgb, var(--accent2) 70%, transparent);
+  color: var(--ink);
+}
+.mapa-pop-lugar { color: var(--muted); font-size: .82rem; }
+.mapa-pop-gratis {
+  font-size: .72rem;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent2) 35%, transparent);
+  white-space: nowrap;
+}
+
+/* --- Sorprendeme --------------------------------------------------------------------- */
+.mapa-sorprendeme { cursor: pointer; }
+.mapa-sorpresa {
+  margin-bottom: 18px;
+  padding: 14px;
+  border-radius: var(--radius);
+  border: 2px dashed color-mix(in srgb, var(--accent) 60%, transparent);
+  background: var(--card);
+}
+.mapa-sorpresa[hidden] { display: none; }
+.mapa-sorpresa h2 { margin: 0 0 8px; font-size: 1.2rem; }
+.mapa-sorpresa-titulo { display: flex; align-items: center; gap: 10px; margin: 0 0 4px; font-size: 1.05rem; }
+.mapa-sorpresa-meta { margin: 0 0 10px; color: var(--muted); font-size: .9rem; }
+.mapa-sorpresa-vacio { margin: 0 0 10px; color: var(--muted); }
+.mapa-sorpresa-otra { margin-left: 8px; }
+
+/* --- Pin y aviso de Tres Empanadas ("De la casa") ---------------------------------------- */
+.mapa-pin--casa { border-color: #d4a017; box-shadow: 0 0 0 2px #d4a017, 0 2px 6px rgba(0, 0, 0, .35); }
+.mapa-pin-casa {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #d4a017;
+  color: #1a1611;
+  font: 700 11px/18px var(--font-body);
+  font-style: normal;
+  text-align: center;
+  border: 1.5px solid #fff;
+}
+
+.pagina-mapa { padding-bottom: calc(88px + env(safe-area-inset-bottom)); }
+.mapa-casa {
+  position: fixed;
+  left: 50%;
+  bottom: calc(10px + env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: max-content;
+  max-width: calc(100% - 24px);
+  padding: 9px 14px 9px 10px;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--paper);
+  border: 2px solid #d4a017;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, .3);
+  font-size: .92rem;
+  line-height: 1.25;
+}
+.mapa-casa-etiqueta {
+  flex: 0 0 auto;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: #d4a017;
+  color: #1a1611;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+}
+.mapa-casa-texto { min-width: 0; }
+.mapa-casa-cuando, .mapa-casa-dist { white-space: nowrap; }
+@media (max-width: 480px) {
+  .mapa-casa { border-radius: 18px; width: calc(100% - 24px); }
+}
+.mapa-casa a { color: var(--paper); font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
+.mapa-casa a:focus-visible { outline: 3px solid #d4a017; outline-offset: 2px; }
+
+/* --- Lugares fijos ("Ver también lugares") ---------------------------------------------- */
+.mapa-chip-lugares[aria-pressed="true"] { background: #6b6f76; border-color: #6b6f76; color: #fff; }
+.mapa-pin--lugar {
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+  background: #8a8f98;
+  border: 2px solid #fff;
+  color: #fff;
+  opacity: .92;
+}
+.mapa-pin--lugar svg { width: 16px; height: 16px; }
+.mapa-pop-tipo, .mapa-pop-dir { margin: 0 0 4px; color: var(--muted); font-size: .85rem; }
+.mapa-pop-nada { margin: 0 0 6px; font-size: .85rem; }
+.mapa-pop-horario { margin: 0 0 6px; font-size: .88rem; }
+.mapa-pop-horario span { color: var(--muted); font-size: .78rem; }
+.mapa-lugares-lista { margin: 18px 0; }
+.mapa-lugares-lista summary { cursor: pointer; font-weight: 700; font-size: 1.05rem; }
+.mapa-lugares-lista summary span { color: var(--muted); font-weight: 400; }
+.mapa-lugares-lista ul { list-style: none; margin: 10px 0 0; padding: 0; }
+.mapa-lugares-lista li { padding: 8px 0; border-bottom: 1px solid var(--line); }
+.mapa-lugares-lista li span { display: block; color: var(--muted); font-size: .88rem; }
+.mapa-lugares-lista .mapa-llegar { font-size: .85rem; }

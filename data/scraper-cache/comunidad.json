@@ -1,55 +1,5 @@
 [
   {
-    "titulo": "Sol Bassa + Ramiro Sagasti + Seba Rosello",
-    "fecha": "2026-11-19 20:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621, La Plata",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/sol-bassa-ramiro-sagasti-seba-rosello",
-    "fuente": "comunidad",
-    "imagen": ""
-  },
-  {
-    "titulo": "Ale Escobar: Temazos",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621, La Plata",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/ale-escobar-temazos",
-    "fuente": "comunidad",
-    "imagen": ""
-  },
-  {
-    "titulo": "El cuarto de Verónica",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "La Plata",
-    "categoria": "teatro",
-    "url": "",
-    "fuente": "comunidad",
-    "imagen": ""
-  },
-  {
-    "titulo": "Joystick: Diarios de Humo + Ktacumbas y Cikes",
-    "fecha": "2026-11-21 20:00:00",
-    "lugar": "Guajira Bar",
-    "direccion": "Calle 49 Nº 484 entre 4 y 5, La Plata",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/joystick-presenta-diarios-de-humo-en-la-plata-junto-a-ktacumbas-y-cikes",
-    "fuente": "comunidad",
-    "imagen": ""
-  },
-  {
-    "titulo": "Botafogo Miguel Vilanova",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621, La Plata",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/botafogo-miguel-vilanova",
-    "fuente": "comunidad",
-    "imagen": ""
-  },
-  {
     "titulo": "El lago de los cisnes",
     "fecha": "2026-11-22 18:00:00",
     "lugar": "Teatro Argentino",

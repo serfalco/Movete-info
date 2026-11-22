@@ -1,45 +1,5 @@
 [
   {
-    "titulo": "Sol Bassa + Ramiro Sagasti + Seba Rosello",
-    "fecha": "2026-11-19 20:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/sol-bassa-ramiro-sagasti-seba-rosello",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Ale Escobar: Temazos",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/ale-escobar-temazos",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Joystick: Diarios de Humo + Ktacumbas y Cikes",
-    "fecha": "2026-11-21 20:00:00",
-    "lugar": "Guajira",
-    "direccion": "Calle 49 Nº 484 entre 4 y 5",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/joystick-presenta-diarios-de-humo-en-la-plata-junto-a-ktacumbas-y-cikes",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Botafogo Miguel Vilanova",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/botafogo-miguel-vilanova",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
     "titulo": "Pôncio Pilatos",
     "fecha": "2026-11-22 20:30:00",
     "lugar": "Casa Suiza",
@@ -98,136 +58,6 @@
     "url": "https://elmundodeberisso.com.ar/2026/10/18/sali-del-gararje-se-viene-la-segunda/",
     "fuente": "planilla",
     "imagen": "https://elmundodeberisso.com.ar/wp-content/uploads/2026/10/sali_del_garaje_2.webp"
-  },
-  {
-    "titulo": "Milonga Pa’ Recordarte",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Puerta B",
-    "direccion": "Montevideo y 18",
-    "categoria": "danza",
-    "url": "https://elmundodeberisso.com.ar/2026/11/05/noviembre-multigenero-en-puerta-b/",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
-    "titulo": "Morenas Flamencas — tablao con Martín Sebastián Tovar y Ani García",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Puerta B",
-    "direccion": "Montevideo y 18",
-    "categoria": "danza",
-    "url": "https://elmundodeberisso.com.ar/2026/11/05/noviembre-multigenero-en-puerta-b/",
-    "fuente": "planilla",
-    "imagen": "https://elmundodeberisso.com.ar/wp-content/uploads/2026/11/flamenco-1024x707.webp"
-  },
-  {
-    "titulo": "Etiqueta Negra: tributo a los Redondos",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "Calle 67 N° 139 e/ 116 y 117",
-    "categoria": "musica",
-    "url": "https://teatrina.com/salas/teatro-rene-favaloro",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/1200/images/agente-8df3e03ebb904f3ff6433ab2.jpg"
-  },
-  {
-    "titulo": "Laylat al Sharq",
-    "fecha": "2026-11-19 20:30:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 Nº 565, entre 43 y 44",
-    "categoria": "danza",
-    "url": "https://teatrina.com/obras/laylat-al-sharq",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-8fc46e1acb6892f66e173c90.jpg"
-  },
-  {
-    "titulo": "India Bombay, Casualcasual y Laureano y las Valkirias",
-    "fecha": "2026-11-20 20:00:00",
-    "lugar": "Ciudad de Gatos",
-    "direccion": "Calle 71 Nº 1099, esquina 17",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/india-bombay-casualcasual-y-laureano-y-las-valkirias",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-27e9db734e1f6b226d2dde81.jpg"
-  },
-  {
-    "titulo": "Casi presente - Agustina Aguilar",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "El Teatro Bar",
-    "direccion": "Calle 43 Nº 632, entre 7 y 8",
-    "categoria": "stand-up",
-    "url": "https://teatrina.com/obras/casi-presente-agustina-aguilar",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-fcf7e463fb79a202c1c2ffb5.jpg"
-  },
-  {
-    "titulo": "Memphis La Blusera",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Auditorio Charly García - Casa Metro",
-    "direccion": "Calle 4, entre 51 y 53",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/memphis-la-blusera",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-b242b5cdbe65ee176d273456.jpg"
-  },
-  {
-    "titulo": "Hombres en liquidación (stand up)",
-    "fecha": "2026-11-20 22:00:00",
-    "lugar": "Dynamo Teatro",
-    "direccion": "Calle 17 Nº 1754, esquina 68",
-    "categoria": "stand-up",
-    "url": "https://teatrina.com/obras/hombres-en-liquidacion-stand-up",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-640e49e782d1c749a7df8abb.jpg"
-  },
-  {
-    "titulo": "Casi Corales: concierto",
-    "fecha": "2026-11-21 20:00:00",
-    "lugar": "Dynamo Teatro",
-    "direccion": "Calle 17 Nº 1754, esquina 68",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/casi-corales-concierto",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-6bdbb24e53cb1f6c57e16e30.jpg"
-  },
-  {
-    "titulo": "La Vela Puerca + Las Pelotas",
-    "fecha": "2026-11-21 20:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "Avenida 44 y 115",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/la-vela-puerca-las-pelotas",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-962f40fd0e01b51b5878bf01.jpg"
-  },
-  {
-    "titulo": "Canciones de Cisterna - Historias de un amor",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 Nº 565, entre 43 y 44",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/canciones-de-cisterna-historias-de-un-amor",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-c89dee096397677083a0b51b.jpg"
-  },
-  {
-    "titulo": "La nona",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Teatro de la UNLP",
-    "direccion": "Calle 10 Nº 1076, entre 54 y 55",
-    "categoria": "teatro",
-    "url": "https://teatrina.com/obras/la-nona",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-4cc2226dc75bec910b227f3a.jpg"
-  },
-  {
-    "titulo": "Malena Muyala",
-    "fecha": "2026-11-21 22:00:00",
-    "lugar": "Sala A - Casa Metro",
-    "direccion": "Calle 4, entre 51 y 53",
-    "categoria": "musica",
-    "url": "https://teatrina.com/obras/malena-muyala",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-34bf95ccb84a3e6ff9164145.jpg"
   },
   {
     "titulo": "Agridulce Exprés",
@@ -368,16 +198,6 @@
     "url": "https://teatrina.com/obras/fernando-cabrera-y-hugo-fattoruso-82ef91",
     "fuente": "planilla",
     "imagen": "https://teatrina.com/uploads/mini/600/images/agente-244a310afe1e412b206f9dbd.jpg"
-  },
-  {
-    "titulo": "Antonio! Muestra La Flor Amarilla",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 565, entre 43 y 44",
-    "categoria": "danza",
-    "url": "https://teatrina.com/obras/antonio-muestra-la-flor-amarilla",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-60e9055c232f7ef04ff020e3.jpg"
   },
   {
     "titulo": "Westerburg — Muestra del taller de montaje Dracma",
@@ -598,25 +418,5 @@
     "url": "https://elmundodeberisso.com.ar/2026/10/18/sali-del-gararje-se-viene-la-segunda/",
     "fuente": "planilla",
     "imagen": "https://elmundodeberisso.com.ar/wp-content/uploads/2026/10/sali_del_garaje_2.webp"
-  },
-  {
-    "titulo": "Edición Especial — Prueba de Alumnos",
-    "fecha": "2026-11-19 21:00:00",
-    "lugar": "Tres Empanadas Comedia",
-    "direccion": "Calle 43 N° 1349, esquina 22",
-    "categoria": "stand-up",
-    "url": "https://tresempanadas.com.ar/reservas/2026-11-19-edicion-especial-prueba-de-alumnos/",
-    "fuente": "planilla",
-    "imagen": "https://tresempanadas.com.ar/data/flyers/2026-11-19-edicion-especial-show-de-alumnos.png"
-  },
-  {
-    "titulo": "Sociedad Platense de Stand Up",
-    "fecha": "2026-11-20 21:30:00",
-    "lugar": "Tres Empanadas Comedia",
-    "direccion": "Calle 43 N° 1349, esquina 22",
-    "categoria": "stand-up",
-    "url": "https://tresempanadas.com.ar/reservas/2026-11-20-sociedad-platense-de-stand-up/",
-    "fuente": "planilla",
-    "imagen": "https://tresempanadas.com.ar/data/flyers/2026-11-20-sociedad-platense-de-stand-up.png"
   }
 ]

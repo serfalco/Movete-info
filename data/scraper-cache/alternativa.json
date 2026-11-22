@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Cuánto vale una heladera",
-    "fecha": "2026-11-20 20:00:00",
-    "lugar": "CENTRO CULTURAL DARDO ROCHA",
-    "direccion": "Calle 50 575, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra72572-cuanto-vale-una-heladera",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/26/000227726.jpg"
-  },
-  {
     "titulo": "MATCH- TEATRO DEPORTE Y HUMOR",
     "fecha": "2026-11-27 21:00:00",
     "lugar": "SALA 420",
@@ -20,18 +10,8 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/46/000295746.jpg"
   },
   {
-    "titulo": "Ernesto y la moto",
-    "fecha": "2026-11-20 20:30:00",
-    "lugar": "EL CATRIN Y LA CATRINA",
-    "direccion": "Calle 70 #773, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra84081-ernesto-y-la-moto",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/86/000323986.jpg"
-  },
-  {
     "titulo": "Sociedad Platense de Stand Up",
-    "fecha": "2026-11-20 21:30:00",
+    "fecha": "2026-11-27 21:30:00",
     "lugar": "TRES EMPANADAS COMEDIA",
     "direccion": "Calle 43 N°1349, La Plata",
     "categoria": "stand-up",
@@ -41,7 +21,7 @@
   },
   {
     "titulo": "Liga de improvisadores",
-    "fecha": "2026-11-20 20:30:00",
+    "fecha": "2026-12-11 20:30:00",
     "lugar": "ESPACIO SUDAKA",
     "direccion": "Av 7 entre 68 y 69 N° 1789, La Plata",
     "categoria": "teatro",
@@ -58,26 +38,6 @@
     "url": "https://publico.alternativateatral.com/entradas88170-fabrica-de-chicas?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/05/000322605.jpg"
-  },
-  {
-    "titulo": "Los amantes de la casa azul",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "TEATRO EL ESCAPE",
-    "direccion": "44 1443 entre 23 y 24, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas95115-los-amantes-de-la-casa-azul?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/45/000322645.jpg"
-  },
-  {
-    "titulo": "La cantante calva",
-    "fecha": "2026-11-20 22:00:00",
-    "lugar": "LA MERCERIA TEATRO",
-    "direccion": "Calle 1 Nº 210, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas97717-la-cantante-calva?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/91/000323791.jpg"
   },
   {
     "titulo": "Isa Kremer, la voz del pueblo",
@@ -110,16 +70,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/61/000313361.jpg"
   },
   {
-    "titulo": "Roja",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "ESPACIO 44",
-    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas100778-roja?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000314138.jpg"
-  },
-  {
     "titulo": "Muestra del taller del match de improvisacion",
     "fecha": "2026-11-24 20:00:00",
     "lugar": "SALA 420",
@@ -150,32 +100,12 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/31/000318331.jpg"
   },
   {
-    "titulo": "¡ACTÚEN!",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "TEATRO ABIERTO",
-    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas102624-actuen?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/10/000319610.jpg"
-  },
-  {
-    "titulo": "Criminal",
-    "fecha": "2026-11-21 20:00:00",
-    "lugar": "TELON NEGRO TEATRO",
-    "direccion": "13 e/ 32 y 33, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas102913-criminal?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/77/000320577.jpg"
-  },
-  {
     "titulo": "Las del Lirio. Tullido retrato familiar",
     "fecha": "2026-11-22 20:30:00",
     "lugar": "TCB - TEATRO COMUNITARIO DE BERISSO",
     "direccion": "Nueva York y Marsella N°4711, La Plata",
     "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas102973-las-del-lirio-tullido-retrato-familiar?o=6",
+    "url": "https://www.alternativateatral.com.ar/obra102973-las-del-lirio-tullido-retrato-familiar",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/22/000324622.jpg"
   },
@@ -185,7 +115,7 @@
     "lugar": "EN ESO ESTAMOS",
     "direccion": "Calle 62 No. 274 e/ 1 y 115, La Plata",
     "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas102973-las-del-lirio-tullido-retrato-familiar?o=6",
+    "url": "https://www.alternativateatral.com.ar/obra102973-las-del-lirio-tullido-retrato-familiar",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/22/000324622.jpg"
   },
@@ -200,16 +130,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/36/000321036.jpg"
   },
   {
-    "titulo": "Escrito en la piel",
-    "fecha": "2026-11-21 21:30:00",
-    "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
-    "direccion": "Av 13 1900 esquina 71, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas103320-escrito-en-la-piel?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/43/000321643.jpg"
-  },
-  {
     "titulo": "El Ánimo",
     "fecha": "2026-11-27 21:00:00",
     "lugar": "EN ESO ESTAMOS",
@@ -220,18 +140,8 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/09/000323309.jpg"
   },
   {
-    "titulo": "Error 4 : amor",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "ESPACIO 44",
-    "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas103551-error-4-amor?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000322338.jpg"
-  },
-  {
     "titulo": "La fiaca",
-    "fecha": "2026-11-21 21:00:00",
+    "fecha": "2026-12-04 21:00:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
@@ -260,26 +170,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/29/000324029.jpg"
   },
   {
-    "titulo": "Fingir",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "TEATRO ABIERTO",
-    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas103682-fingir?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/57/000322757.jpg"
-  },
-  {
-    "titulo": "Proyecto 10",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "EL MEDIO ALJIBE",
-    "direccion": "11 e/66 y 67, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra103758-proyecto-10",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/55/000323055.jpg"
-  },
-  {
     "titulo": "Frutilla",
     "fecha": "2026-12-03 20:30:00",
     "lugar": "TACEC - TEATRO ARGENTINO CENTRO DE EXPERIMENTACIÓN Y CREACIÓN",
@@ -304,16 +194,6 @@
     "fecha": "2026-11-29 20:30:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas104015-miracolosa?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/62/000323762.jpg"
-  },
-  {
-    "titulo": "Miracolosa",
-    "fecha": "2026-11-21 21:30:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas104015-miracolosa?o=6",
     "fuente": "alternativa",
@@ -347,7 +227,7 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas104224-insignificante-el-peso-de-lo-que-no-se-ve?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/96/000324696.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/58/000324858.jpg"
   },
   {
     "titulo": "Insignificante: el peso de lo que no se ve",
@@ -357,7 +237,7 @@
     "categoria": "teatro",
     "url": "https://publico.alternativateatral.com/entradas104224-insignificante-el-peso-de-lo-que-no-se-ve?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/96/000324696.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/58/000324858.jpg"
   },
   {
     "titulo": "Estado de crisis VI - Docentes",
@@ -375,9 +255,9 @@
     "lugar": "CENTRO CULTURAL ESTACION PROVINCIAL",
     "direccion": "Calle 17 y 71, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra104362-teatro-oscuridad-extrema-un-hombre-singular",
+    "url": "https://publico.alternativateatral.com/entradas104362-teatro-oscuridad-extrema-un-hombre-singular?o=6",
     "fuente": "alternativa",
-    "imagen": ""
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/15/000324915.jpg"
   },
   {
     "titulo": "Sentires",
@@ -460,16 +340,6 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/47/000324547.jpg"
   },
   {
-    "titulo": "Muestras 6",
-    "fecha": "2026-12-19 23:00:00",
-    "lugar": "ESCENARIO-40",
-    "direccion": "Calle 40 #1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas104445-muestras-6?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/48/000324548.jpg"
-  },
-  {
     "titulo": "Muestras 7",
     "fecha": "2026-12-19 18:00:00",
     "lugar": "ESCENARIO-40",
@@ -530,12 +400,32 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/96/000324796.jpg"
   },
   {
-    "titulo": "Derecho al Drama - Quinta Sesión",
+    "titulo": "Derecho al drama - sexta sesión",
     "fecha": "2026-12-04 21:30:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra104550-derecho-al-drama-quinta-sesion-",
+    "url": "https://publico.alternativateatral.com/entradas104550-derecho-al-drama-sexta-sesion?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000324838.jpg"
+  },
+  {
+    "titulo": "Deshojando mariposas",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas104575-deshojando-mariposas?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/36/000324836.jpg"
+  },
+  {
+    "titulo": "Encuentro de coros",
+    "fecha": "2026-11-26 19:00:00",
+    "lugar": "BASILICA SAGRADO CORAZÓN DE JESÚS",
+    "direccion": "9 y 58, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra104577-encuentro-de-coros",
     "fuente": "alternativa",
     "imagen": ""
   }

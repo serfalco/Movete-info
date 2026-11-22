@@ -1,25 +1,30 @@
 [
   {
+    "precio": 30000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Letizia Bloisi",
+      "Gerónimo De Urquiza",
+      "Carolina Faletty",
+      "Malena Gerez",
+      "Mariana Ozafrain",
+      "Leandro Verón",
+      "Geraldine Vivier"
+    ],
+    "sinopsis": "Durante años, un escritor mantuvo su prestigio gracias a un pacto sobrenatural. Pero el acuerdo deja de funcionar y una de las partes regresa para cobrar lo que le corresponde.",
     "titulo": "¡Actúen!",
-    "fecha": "2026-11-21 21:00:00",
+    "fecha": "2026-11-28 21:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/actuen/funcion/la-plata/teatro-abierto/21-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/actuen/funcion/la-plata/teatro-abierto/28-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260908003447-773bf579.webp"
   },
   {
-    "titulo": "ADICTOS, Reunion de adictos IA",
-    "fecha": "2026-11-18 21:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "Calle 38 entre 20 y 21, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/adictos-reunion-de-adictos-ia/funcion/la-plata/teatro-abierto/18-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261117043306-31e93b13.webp"
-  },
-  {
+    "disponibilidad": "disponible",
+    "sinopsis": "Marta y Luis ellos son un matrimonio que pasan por una gran monotonía, todo eso hasta que se mudan al edificio Erika y Jeremías una pareja muy libre, dónde los harán pensar y quien te dice mucho más.",
     "titulo": "Camas Cruzadas",
     "fecha": "2026-11-28 21:00:00",
     "lugar": "Teatro La Nonna",
@@ -30,16 +35,13 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261029035726-a74ff7c7.jpg"
   },
   {
-    "titulo": "Criminal",
-    "fecha": "2026-11-21 20:00:00",
-    "lugar": "Telón Negro Teatro",
-    "direccion": "Av. 13 Nº 26, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/criminal-obra/funcion/la-plata/telon-negro-teatro/21-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260924011015-e77c7a68.webp"
-  },
-  {
+    "precio": 26000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Daniela Tumburus"
+    ],
+    "sinopsis": "En su primer unipersonal, Dan Tumburús se desahoga -con su humor crudo- sobre las relaciones, la maternidad, la terapia y el sexo, tal como lo hace en sus redes sociales.",
     "titulo": "Dan Tumburús: Estoy bien, gracias",
     "fecha": "2026-12-03 21:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -50,46 +52,30 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261031144505-44606256.webp"
   },
   {
-    "titulo": "El cuarto de veronica",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Teatro Metro La Plata",
-    "direccion": "Calle 4 Nº 78, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/el-cuarto-de-veronica/funcion/la-plata/teatro-metro-la-plata/20-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261103060350-66163aa7.webp"
-  },
-  {
-    "titulo": "Error 4 : amor",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Espacio 44",
-    "direccion": "Av. 44 N° 496, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/error-4-amor/funcion/la-plata/espacio-44/20-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109021916-83d6b3ab.webp"
-  },
-  {
+    "precio": 20000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Virginia Naón",
+      "Ayelén Dias Correia",
+      "Jorgelina Pérez",
+      "Mónica Calcagno"
+    ],
+    "sinopsis": "Dos relatos, dos vidas. Juana Baptista, negra esclava, historia recuperada de un expediente judicial del Juez de Bienes de Difuntos en tiempos del Virreynato. Por otro lado, Esperanza, recuperada de relatos familiares.",
     "titulo": "Escrito en la piel",
-    "fecha": "2026-11-21 21:30:00",
+    "fecha": "2026-11-28 21:30:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/21-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/escrito-en-la-piel/funcion/la-plata/viejo-almacen-el-obrero/28-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930051440-d15db00b.webp"
   },
   {
-    "titulo": "Fingir",
-    "fecha": "2026-11-17 20:30:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "Calle 38 entre 20 y 21, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/fingir/funcion/la-plata/teatro-abierto/17-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109021511-d3d1c47f.webp"
-  },
-  {
+    "precio": 20000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "sinopsis": "Cuando los delgados hilos que animan la ficción de lo real colapsan, ¿basta con el amor para sostener? “Invisible” propone un recorrido en clave poética por los intersticios de una mente fragmentada y un corazón herido por la voracidad de…",
     "titulo": "Invisible: Unipersonal de Juan Sola",
     "fecha": "2026-12-05 20:00:00",
     "lugar": "Teatro Metro La Plata",
@@ -100,36 +86,57 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260813191433-f3cfd3d2.webp"
   },
   {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Nico Soldo",
+      "Romina Girard",
+      "Eugenia Arigos",
+      "Gabriele Alimonti",
+      "Facundo Mauriño"
+    ],
+    "sinopsis": "La obra de Talesnik escrita para los 70` nos sigue interpelando y hoy -más que nunca- las nuevas generaciones se plantean la imposibilidad de independizarse de una forma de vida y un sistema que nos ahoga con sus reglas.",
     "titulo": "La Fiaca",
-    "fecha": "2026-11-21 21:00:00",
+    "fecha": "2026-11-28 21:00:00",
     "lugar": "Teatro El Escape",
     "direccion": "Calle 44 Nº 1443, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/la-fiaca-la-plata/funcion/la-plata/teatro-el-escape/21-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/la-fiaca-la-plata/funcion/la-plata/teatro-el-escape/28-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016165433-d13dd1b9.webp"
   },
   {
-    "titulo": "Los amantes de la casa azul",
-    "fecha": "2026-11-20 21:00:00",
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Yamila Acuña",
+      "Veronica Bascaran",
+      "Silvia Cogoma",
+      "Sebastián Luján",
+      "Alexis Morgante",
+      "Mariana Vitale"
+    ],
+    "sinopsis": "Ambientada en el conurbano bonaerense, \"Miracolosa\" nos adentra en nuestras costumbres más populares y miserias .",
+    "titulo": "Miracolosa",
+    "fecha": "2026-11-29 20:30:00",
     "lugar": "Teatro El Escape",
     "direccion": "Calle 44 Nº 1443, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/los-amantes-de-la-casa-azul/funcion/la-plata/teatro-el-escape/20-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016232050-6cf26c21.webp"
-  },
-  {
-    "titulo": "Miracolosa",
-    "fecha": "2026-11-21 21:30:00",
-    "lugar": "Escenario 40",
-    "direccion": "Calle 40 Nº 1180, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/miracolosa/funcion/la-plata/escenario-40/21-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/miracolosa/funcion/la-plata/teatro-el-escape/29-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109030259-626a9e2f.webp"
   },
   {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Guillermo Aloro",
+      "Valentina Antonini",
+      "Leandro Balbín",
+      "Lucía Baldantoni",
+      "Benjamín Baldantoni",
+      "Sofía Bugallo",
+      "Gisela Franco",
+      "Julia García Méndez"
+    ],
+    "sinopsis": "Una obra interdisciplinaria que combina teatro, danza y poesía corporal para reconstruir, a más de veinte años de la masacre de Cromañón.",
     "titulo": "Narices negras",
     "fecha": "2026-11-22 20:00:00",
     "lugar": "Viejo Almacén El Obrero",
@@ -140,6 +147,12 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261028032045-38f7419b.webp"
   },
   {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Chany Cejas",
+      "Franco Luna Serafini"
+    ],
+    "sinopsis": "Harta de vivir en la monotonía de Montesolo, Soledad tiene una idea que revolucionará al pueblo y le dará, por fin, la consagración que ella merece. Su padre estaría orgulloso. Lamentablemente la única persona con la que cuenta es Susana.",
     "titulo": "Otra estúpida razón para no morir (en otoño)",
     "fecha": "2026-11-22 20:00:00",
     "lugar": "Teatro Abierto",
@@ -148,25 +161,5 @@
     "url": "https://teatrocerca.com.ar/obra/otra-estupida-razon-para-no-morir-en-otono/funcion/la-plata/teatro-abierto/22-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109024958-f4a6ed55.webp"
-  },
-  {
-    "titulo": "Roja",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Espacio 44",
-    "direccion": "Av. 44 N° 496, La Plata",
-    "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/roja/funcion/la-plata/espacio-44/21-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109030017-91e9919a.webp"
-  },
-  {
-    "titulo": "Turco Naim: Un Turco Suelto:",
-    "fecha": "2026-11-21 21:00:00",
-    "lugar": "Teatro La Nonna",
-    "direccion": "Calle 47 Nº 395, La Plata",
-    "categoria": "stand-up",
-    "url": "https://teatrocerca.com.ar/obra/turco-naim-un-turco-suelto/funcion/la-plata/teatro-la-nonna/21-noviembre-2026",
-    "fuente": "teatrocerca",
-    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260901022602-8c03d999.webp"
   }
 ]

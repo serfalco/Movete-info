@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Qué hacer esta semana en Tolosa · Mapa cultural · MoVeTe</title>
+  <meta name="description" content="Teatro, música, stand up y más en Tolosa esta semana: 0 eventos en el mapa, con cómo llegar.">
+  <link rel="canonical" href="https://movete.info/mapa/tolosa/">
+  <meta name="robots" content="noindex, follow">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MoVeTe">
+  <meta property="og:title" content="Qué hacer esta semana en Tolosa · Mapa cultural · MoVeTe">
+  <meta property="og:description" content="Teatro, música, stand up y más en Tolosa esta semana: 0 eventos en el mapa, con cómo llegar.">
+  <meta property="og:url" content="https://movete.info/mapa/tolosa/">
+  <meta property="og:image" content="https://movete.info/assets/images/cartelera-en-vivo.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/assets/css/movete.css">
+  <link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="/mapa/mapa.css?v=83044f80c5">
+</head>
+<body id="top" class="pagina-mapa">
+  <header class="site-header">
+    <a class="brand" href="/">MoVeTe<span>●</span></a>
+    <nav class="site-nav" aria-label="Secciones principales">
+      <a href="/">Inicio</a>
+      <a href="/cine/">Cine</a>
+      <a href="/en-vivo/">En vivo</a>
+      <a href="/mapa/" aria-current="page">Mapa</a>
+    </nav>
+  </header>
+
+  <main class="mapa-main">
+    <section class="hero compact mapa-hero">
+      <p class="eyebrow">Mapa cultural · Tolosa</p>
+      <h1>Qué hacer esta semana en Tolosa</h1>
+      <p class="lead">Lo que hay esta semana en Tolosa, en el mapa y en la lista. <span class="mapa-total">0 eventos esta semana.</span></p>
+    </section>
+
+    <section class="mapa-controles" aria-label="Filtros del mapa">
+      <div class="mapa-fila" role="group" aria-label="Cuándo">
+        <button type="button" class="mapa-chip" data-cuando="hoy" aria-pressed="false">Hoy</button>
+        <button type="button" class="mapa-chip" data-cuando="noche" aria-pressed="false">Esta noche</button>
+        <button type="button" class="mapa-chip" data-cuando="finde" aria-pressed="false">Finde</button>
+        <button type="button" class="mapa-chip" data-cuando="semana" aria-pressed="true">Semana</button>
+      </div>
+      <div class="mapa-fila" role="group" aria-label="Horario">
+        <button type="button" class="mapa-chip" data-franja="" aria-pressed="true">A cualquier hora</button>
+        <button type="button" class="mapa-chip" data-franja="tarde" aria-pressed="false">Tarde</button>
+        <button type="button" class="mapa-chip" data-franja="noche" aria-pressed="false">Noche</button>
+        
+      </div>
+      <div class="mapa-fila mapa-rubros" role="group" aria-label="Rubro">
+          <button type="button" class="mapa-chip" data-rubro="" aria-pressed="true">Todo</button>
+      </div>
+      <div class="mapa-fila" role="group" aria-label="Qué ver en el mapa">
+        
+      </div>
+      <div class="mapa-ubicacion">
+        <button type="button" class="button small mapa-geo">Usar mi ubicación</button>
+        <button type="button" class="button small secondary mapa-sorprendeme">Sorprendeme</button>
+        <label class="mapa-partida">o salí desde
+          <select class="mapa-punto" aria-label="Punto de partida">
+            <option value="">elegí un lugar</option>
+            <option value="plaza-moreno">Plaza Moreno</option>
+            <option value="plaza-san-martin">Plaza San Martín</option>
+            <option value="plaza-italia">Plaza Italia</option>
+            <option value="plaza-rocha">Plaza Rocha</option>
+            <option value="meridiano-v">Meridiano V</option>
+            <option value="city-bell">City Bell (Plaza Belgrano)</option>
+            <option value="gonnet">Gonnet</option>
+            <option value="berisso">Berisso</option>
+            <option value="ensenada">Ensenada</option>
+          </select>
+        </label>
+        <p class="mapa-privacidad">Tu ubicación se usa solo en tu teléfono: no llega a MoVeTe.</p>
+        <p class="mapa-geo-estado" role="status" aria-live="polite"></p>
+      </div>
+    </section>
+
+    <div class="mapa-layout">
+      <div class="mapa-lienzo">
+        <div id="mapa" role="region" aria-label="Mapa de eventos"></div>
+        <noscript><p class="mapa-noscript">El mapa necesita JavaScript. Abajo está la lista completa.</p></noscript>
+      </div>
+
+      <section class="mapa-panel" aria-labelledby="mapa-lista-titulo">
+        <section class="mapa-sorpresa" hidden aria-live="polite" aria-labelledby="mapa-sorpresa-titulo">
+          <h2 id="mapa-sorpresa-titulo">Te toca</h2>
+          <div class="mapa-sorpresa-cuerpo"></div>
+          <button type="button" class="mapa-chip mapa-sorpresa-otra">Otro</button>
+        </section>
+
+        <section class="mapa-cerca" hidden aria-labelledby="mapa-cerca-titulo">
+          <h2 id="mapa-cerca-titulo">Cerca tuyo ahora</h2>
+          <ol class="mapa-cerca-lista"></ol>
+        </section>
+
+        <div class="mapa-lista-cabecera">
+          <h2 id="mapa-lista-titulo">Esta semana en Tolosa</h2>
+          <p class="mapa-cuenta" role="status" aria-live="polite"></p>
+          <div class="mapa-orden" role="group" aria-label="Ordenar" hidden>
+            <button type="button" class="mapa-chip" data-orden="hora" aria-pressed="true">Por hora</button>
+            <button type="button" class="mapa-chip" data-orden="cerca" aria-pressed="false">Más cerca</button>
+          </div>
+        </div>
+        <ol class="mapa-lista">
+      <li class="mapa-vacio">Esta semana todavía no cargamos eventos en Tolosa. <a href="/mapa/">Mirá todo el mapa →</a></li>
+        </ol>
+        <p class="mapa-sin-resultados" hidden>No hay nada con esos filtros. Probá con otro día o rubro.</p>
+
+        
+
+        <nav class="mapa-zonas" aria-label="Zonas">
+        <h2>Por zona</h2>
+        <a href="/mapa/">Todo Gran La Plata</a>
+        <a href="/mapa/casco/">Casco <span>65</span></a>
+        <a href="/mapa/meridiano-v/">Meridiano V <span>4</span></a>
+        <a href="/mapa/gonnet/">Gonnet <span>5</span></a>
+      </nav>
+
+        <section class="card mapa-sumar">
+          <h2>¿Tenés un evento?</h2>
+          <p>Sumalo gratis a la cartelera y al mapa.</p>
+          <a class="button small" href="/sumar/">Sumá tu evento</a>
+        </section>
+      </section>
+    </div>
+
+    <p class="site-notice">La info puede cambiar. Confirmá horarios y disponibilidad con cada sala o espacio.</p>
+  </main>
+
+  <aside class="mapa-casa" aria-label="De la casa">
+    <span class="mapa-casa-etiqueta">De la casa</span>
+    <span class="mapa-casa-texto"><a href="https://tresempanadas.com.ar/reservas/?utm_source=movete&amp;utm_medium=mapa&amp;utm_campaign=aviso">Tres Empanadas</a> · <span class="mapa-casa-cuando">vie 21:30</span><span class="mapa-casa-dist"></span></span>
+  </aside>
+
+  <footer class="site-footer">
+    <p class="footer-line">
+      <span class="footer-brand">MoVeTe<span>.</span></span>
+      <span aria-hidden="true">·</span>
+      <span>La Plata</span>
+      <span aria-hidden="true">·</span>
+      <span>2026</span>
+      <span aria-hidden="true">·</span>
+      <a href="/en-vivo/">Cartelera</a>
+    </p>
+  </footer>
+
+  <script id="mapa-datos" type="application/json">{"eventos":[],"salas":{},"puntos":[{"id":"plaza-moreno","nombre":"Plaza Moreno","lat":-34.921364,"lng":-57.954492},{"id":"plaza-san-martin","nombre":"Plaza San Martín","lat":-34.915301,"lng":-57.947867},{"id":"plaza-italia","nombre":"Plaza Italia","lat":-34.910658,"lng":-57.955279},{"id":"plaza-rocha","nombre":"Plaza Rocha","lat":-34.920876,"lng":-57.941576},{"id":"meridiano-v","nombre":"Meridiano V","lat":-34.939012,"lng":-57.939767},{"id":"city-bell","nombre":"City Bell (Plaza Belgrano)","lat":-34.871452,"lng":-58.046223},{"id":"gonnet","nombre":"Gonnet","lat":-34.88524,"lng":-58.023818},{"id":"berisso","nombre":"Berisso","lat":-34.868857,"lng":-57.882867},{"id":"ensenada","nombre":"Ensenada","lat":-34.85749,"lng":-57.907717}],"rubros":{"stand-up":"Stand Up","teatro":"Teatro","musica":"Música","danza":"Danza","infantil":"Infantil","taller":"Taller","impro":"Impro","humor":"Humor","a-plasticas":"Artes plásticas","ferias":"Ferias y fiestas","charlas":"Charlas y letras","cine":"Cine","otros":"Otros"},"casa":{"nombre":"Tres Empanadas","url":"https://tresempanadas.com.ar/reservas/?utm_source=movete&utm_medium=mapa&utm_campaign=aviso","lat":-34.923728,"lng":-57.971826,"proximas":[{"i":"2026-11-27T21:30","sh":false}]}}</script>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/@maplibre/maplibre-gl-leaflet@0.0.22/leaflet-maplibre-gl.js" defer></script>
+  <script src="/mapa/mapa.js?v=8d3102860e" defer></script>
+  <script src="/assets/js/movete.js" defer></script>
+</body>
+</html>

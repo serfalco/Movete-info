@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "LUCHO SSJ",
-    "fecha": "2026-11-20 21:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
     "titulo": "COSMIC KID",
     "fecha": "2026-11-28 21:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -30,56 +20,49 @@
     "imagen": ""
   },
   {
-    "titulo": "ESTELARES",
-    "fecha": "2026-12-11 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "ESTELARES",
-    "fecha": "2026-12-11 21:00:00",
-    "lugar": "Teatro Argentino La Plata",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "musica",
-    "url": "",
-    "fuente": "livepass",
-    "imagen": ""
-  },
-  {
-    "titulo": "LUCHO SSJ",
-    "fecha": "2026-11-20 20:00:00",
+    "titulo": "USTED SEÑALEMELO",
+    "fecha": "2026-12-10 21:00:00",
     "lugar": "Teatro Ópera La Plata",
     "direccion": "Calle 58 entre 10 y 11, La Plata",
     "categoria": "musica",
-    "url": "https://livepass.com.ar/events/lucho-ssj-en-el-teatro-opera-lp-2026-11-20-20-00-00-0300",
+    "url": "",
     "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/1a359fc18a2f32194280ab112130843ddf35b234.jpg?1786127873"
+    "imagen": ""
   },
   {
-    "titulo": "La Vela Puerca + Las Pelotas",
-    "fecha": "2026-11-21 20:00:00",
+    "titulo": "ESTELARES",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "ESTELARES",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "Teatro Argentino La Plata",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "musica",
+    "url": "",
+    "fuente": "livepass",
+    "imagen": ""
+  },
+  {
+    "titulo": "GUASONES",
+    "fecha": "2027-03-06 21:00:00",
     "lugar": "Hipódromo de La Plata",
     "direccion": "Av. 44 y 115, La Plata",
     "categoria": "musica",
-    "url": "https://livepass.com.ar/events/la-vela-puerca-las-pelotas-en-el-hipodromo-de-la-plata",
+    "url": "",
     "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/abd9271f55f2f6602194c05d03b848802ebe8cb3.JPEG?1786713212"
+    "imagen": ""
   },
   {
-    "titulo": "BENJAMIN AMADEO",
-    "fecha": "2026-11-21 20:00:00",
-    "lugar": "Teatro Ópera La Plata",
-    "direccion": "Calle 58 entre 10 y 11, La Plata",
-    "categoria": "musica",
-    "url": "https://livepass.com.ar/events/benjamin-amadeo-en-el-teatro-opera-lp-21-11",
-    "fuente": "livepass",
-    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/6ff33f35d6abb65beaf15e69985cafea498a676c.jpg?1777059456"
-  },
-  {
+    "precio": 25500,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "COSMIC KID",
     "fecha": "2026-11-28 20:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -90,6 +73,9 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/fe7f28565b77eb715706a6419ce1c3367e1f5310.jpg?1789495783"
   },
   {
+    "precio": 69000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "Un Poco de Ruido",
     "fecha": "2026-11-28 21:00:00",
     "lugar": "Hipódromo de La Plata",
@@ -100,6 +86,9 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/962e720eee98fd5fe2f8d66dbd37bef0db79b587.jpg?1786717683"
   },
   {
+    "precio": 57500,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "LA BANDA DE CARLITOS Y EUGE QUEVEDO",
     "fecha": "2026-12-04 21:00:00",
     "lugar": "Hipódromo de La Plata",
@@ -110,6 +99,9 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/f10cfcca9c3361b80a687c681e1ffc79ffc37670.jpg?1789674475"
   },
   {
+    "precio": 34500,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "LUZ GAGGI",
     "fecha": "2026-12-05 20:00:00",
     "lugar": "Teatro Ópera La Plata",
@@ -120,6 +112,9 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/dc109969fb5c6375c03ee9559f293c8bac5f2db6.jpg?1790950961"
   },
   {
+    "precio": 74750,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "SERU GIRAN POR LEBON Y AZNAR",
     "fecha": "2026-12-05 21:00:00",
     "lugar": "Hipódromo de La Plata",
@@ -130,6 +125,9 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/9358a40f143beb52a25db802ff337ac2a5b0127f.jpg?1782761027"
   },
   {
+    "precio": 92000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "ABEL PINTOS presenta Buenaventura Tour",
     "fecha": "2026-12-07 21:00:00",
     "lugar": "Hipódromo de La Plata",
@@ -140,6 +138,35 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/d5193fded71e9e9a82f2eeb06c3833d0500f15cd.jpeg?1791396727"
   },
   {
+    "precio": 51750,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "titulo": "USTED SENALEMELO",
+    "fecha": "2026-12-10 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/usted-senalemelo-en-el-teatro-opera-lp-2026-12-10-20-00-00-0300",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/3bd4c401c6757daab794e25526da7a90b725b0e8.jpg?1795206711"
+  },
+  {
+    "precio": 34500,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "titulo": "ATTITUDE, TRIBUTO A GUNS N? ROSES",
+    "fecha": "2026-12-11 20:00:00",
+    "lugar": "Teatro Ópera La Plata",
+    "direccion": "Calle 58 entre 10 y 11, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/attitude-tributo-a-guns-n-roses-en-el-teatro-opera-lp-2026-12-11-20-00-00-0300",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/2228c23ad34f01a1b6ead6544b34431036800d45.jpeg?1795182421"
+  },
+  {
+    "precio": 51750,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "ESTELARES",
     "fecha": "2026-12-11 21:00:00",
     "lugar": "Teatro Argentino La Plata",
@@ -150,6 +177,9 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/c3671707f2252f9877795b56c5ddc74fa24a8f22.jpg?1792436256"
   },
   {
+    "precio": 51750,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "EL UNIPERSONAL DE LUCHO MELLERA",
     "fecha": "2026-12-12 21:00:00",
     "lugar": "Teatro Argentino La Plata",
@@ -160,6 +190,9 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/d54c6a0243da0216d82ea07b7b7ab75ae162e892.jpg?1792427153"
   },
   {
+    "precio": 80500,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "TAN BIONICA",
     "fecha": "2026-12-12 21:00:00",
     "lugar": "Estadio Jorge Luis Hirschi",
@@ -170,6 +203,9 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/e4b0773ce2bbb204283b39a7714e634f20701791.jpg?1775657669"
   },
   {
+    "precio": 69000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "Valeria Lynch",
     "fecha": "2026-12-13 21:00:00",
     "lugar": "Teatro Argentino La Plata",
@@ -180,6 +216,9 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/02a0cc26d293b7db8686a3fe5a5d21f9c4b8ff58.jpg?1786479847"
   },
   {
+    "precio": 74750,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "EL MATO A UN POLICIA MOTORIZADO",
     "fecha": "2026-12-19 21:00:00",
     "lugar": "Hipódromo de La Plata",
@@ -190,6 +229,22 @@
     "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/19549357c924c647d496f1d09804a130c9a21891.jpg?1790787928"
   },
   {
+    "precio": 80500,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "titulo": "GUASONES",
+    "fecha": "2027-03-06 21:00:00",
+    "lugar": "Hipódromo de La Plata",
+    "direccion": "Av. 44 y 115, La Plata",
+    "categoria": "musica",
+    "url": "https://livepass.com.ar/events/guasones-en-el-hipodromo-de-la-plata",
+    "fuente": "livepass",
+    "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/93e9eadf07d0814c43f151497d046f7d27730d26.jpg?1794857020"
+  },
+  {
+    "precio": 80500,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
     "titulo": "MARKY RAMONE",
     "fecha": "2027-05-05 20:00:00",
     "lugar": "Teatro Ópera La Plata",
