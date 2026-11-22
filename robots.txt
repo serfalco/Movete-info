@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://movete.info/sitemap.xml
 Sitemap: https://movete.info/cine/sitemap-pelis.xml
+Sitemap: https://movete.info/mapa/sitemap-mapa.xml

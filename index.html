@@ -293,6 +293,39 @@
     .mv-about{font-size:.95rem;max-width:720px;color:color-mix(in srgb,var(--ink) 80%,transparent)}
     .mv-empty{padding:18px 0}
     .mv-block .event-card[hidden]{display:none}
+
+    /* Botón grande al mapa cultural: va debajo de la portada, sin tocarla. */
+    .home-mapa { margin: 22px 0 0; }
+    .home-mapa-boton {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 14px;
+      padding: 16px 20px;
+      border-radius: var(--radius);
+      background: var(--ink);
+      color: var(--paper);
+      text-decoration: none;
+      box-shadow: 0 6px 0 var(--accent);
+      transition: transform .12s ease, box-shadow .12s ease;
+    }
+    .home-mapa-boton:hover { transform: translateY(-2px); box-shadow: 0 8px 0 var(--accent); color: var(--paper); }
+    .home-mapa-boton:active { transform: translateY(3px); box-shadow: 0 3px 0 var(--accent); }
+    .home-mapa-boton:focus-visible { outline: 3px solid var(--accent2); outline-offset: 3px; }
+    .home-mapa-icono {
+      display: grid;
+      place-items: center;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: #fff;
+    }
+    .home-mapa-icono svg { width: 26px; height: 26px; }
+    .home-mapa-texto strong { display: block; font-family: var(--font-display); font-size: 1.45rem; line-height: 1.1; }
+    .home-mapa-texto span { display: block; margin-top: 3px; font-size: .92rem; opacity: .8; }
+    .home-mapa-flecha { font-size: 1.6rem; }
+    @media (prefers-reduced-motion: reduce) { .home-mapa-boton { transition: none; } }
   </style>
 </head>
 <body id="top" class="home-page">
@@ -332,6 +365,17 @@
         </div>
         <p class="home-culture-line">Porque la cultura es encontrarnos.</p>
       </div>
+    </section>
+
+    <section class="home-mapa" aria-label="Mapa cultural">
+      <a class="home-mapa-boton" href="/mapa/">
+        <span class="home-mapa-icono" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 5-8 12-8 12s-8-7-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg></span>
+        <span class="home-mapa-texto">
+          <strong>Qué hay cerca tuyo</strong>
+          <span>El mapa de la semana: teatro, música y más, a pocas cuadras.</span>
+        </span>
+        <span class="home-mapa-flecha" aria-hidden="true">→</span>
+      </a>
     </section>
 
     <section class="mv-block" aria-label="Qué hay esta semana">

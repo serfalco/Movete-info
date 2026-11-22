@@ -51,6 +51,13 @@ jobs:
           repository: serfalco/movete-espectaculos
           path: movete-espectaculos
 
+      - name: Checkout Movete-mapa
+        continue-on-error: true
+        uses: actions/checkout@v4
+        with:
+          repository: serfalco/Movete-mapa
+          path: Movete-mapa
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -73,6 +80,13 @@ jobs:
       - name: Actualizar lo vigente sin tocar la edicion fechada
         working-directory: movete-espectaculos
         run: python generar_edicion.py --eventos eventos.json --output ../Movete-info/en-vivo --sin-fechada
+
+      - name: Generar el mapa
+        # /mapa/ lee el mismo eventos.json y las salas de movete-espectaculos.
+        # Si falla, la cartelera se publica igual.
+        continue-on-error: true
+        working-directory: Movete-mapa
+        run: python generar_mapa.py --eventos ../movete-espectaculos/eventos.json --output ../Movete-info/mapa
 
       - name: Actualizar portada
         working-directory: Movete-info
