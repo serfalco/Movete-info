@@ -1,7 +1,7 @@
 {
 "/": {
-"fecha": "2026-11-22",
-"huella": "2266857f94576124"
+"fecha": "2026-11-24",
+"huella": "e489138f1c0af05e"
 },
 "/cine/": {
 "fecha": "2026-11-21",
@@ -76,12 +76,12 @@
 "huella": "b3a40cc7d8b6145f"
 },
 "/en-vivo/2026-11-26/": {
-"fecha": "2026-11-26",
-"huella": "d78ce228863f0791"
+"fecha": "2026-11-24",
+"huella": "4f4963d75e4c7710"
 },
 "/en-vivo/archivo/": {
 "fecha": "2026-11-24",
-"huella": "76bafa4e3f01c87f"
+"huella": "c3e08db14fe98e45"
 },
 "/en-vivo/danza/": {
 "fecha": "2026-11-24",
@@ -93,11 +93,11 @@
 },
 "/en-vivo/fin-de-semana/": {
 "fecha": "2026-11-24",
-"huella": "41868117c61b555a"
+"huella": "e0279185e4cd73ae"
 },
 "/en-vivo/hoy/": {
 "fecha": "2026-11-24",
-"huella": "ac6df266435fcfc3"
+"huella": "80a94c97f1c288fc"
 },
 "/en-vivo/impro/": {
 "fecha": "2026-11-19",
@@ -617,7 +617,7 @@
 },
 "/en-vivo/obra/ciclo-de-obras-cortas-el-escape-noviembre/": {
 "fecha": "2026-11-24",
-"huella": "6d7161f0a312ae26"
+"huella": "7f0f410e8dc94efa"
 },
 "/en-vivo/obra/ciclo-de-obras-cortas-el-escape-octubre/": {
 "fecha": "2026-11-24",
@@ -725,7 +725,7 @@
 },
 "/en-vivo/obra/copa-c-l-plata-century-21/": {
 "fecha": "2026-11-24",
-"huella": "93f2157497fa4b85"
+"huella": "64d7dd873f5ff8cb"
 },
 "/en-vivo/obra/coro-de-camara-de-unlp/": {
 "fecha": "2026-11-24",
@@ -2146,6 +2146,10 @@
 "/en-vivo/obra/la-trasnochada-los-falsificadores-de-siempre/": {
 "fecha": "2026-11-24",
 "huella": "106922fafacde144"
+},
+"/en-vivo/obra/la-ultima-invocacion-kenopsica/": {
+"fecha": "2026-11-24",
+"huella": "3e5202d987481dfd"
 },
 "/en-vivo/obra/la-vela-puerca-las-pelotas/": {
 "fecha": "2026-11-24",
@@ -3937,7 +3941,7 @@
 },
 "/en-vivo/sala/teatro-el-escape/": {
 "fecha": "2026-11-24",
-"huella": "c83c122794780e79"
+"huella": "ea4fb6419e40b9bd"
 },
 "/en-vivo/sala/teatro-la-lechuza/": {
 "fecha": "2026-11-24",

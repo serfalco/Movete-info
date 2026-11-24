@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Carne - Dir. Tomas Marichal Urban",
-    "fecha": "2026-11-24 16:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/carne-dir-tomas-marichal-urban-cine-select-espacio-incaa-20261119182459",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261119182500.jpg"
-  },
-  {
     "titulo": "Wikimedistas editando",
     "fecha": "2026-11-24 16:00:00",
     "lugar": "Biblioteca Pública Universidad Nacional de La Plata - UNLP",
@@ -28,6 +18,16 @@
     "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
+  },
+  {
+    "titulo": "Carne - Dir. Tomas Marichal Urban",
+    "fecha": "2026-11-24 16:00:00",
+    "lugar": "Cine Select (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/carne-dir-tomas-marichal-urban-cine-select-espacio-incaa-20261119182459",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182500.jpg"
   },
   {
     "titulo": "Torneo de La Campaña",
@@ -170,16 +170,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261116150910.jpg"
   },
   {
-    "titulo": "Premiación del Arquitecto Rubén Omar Pesci",
-    "fecha": "2026-11-26 19:00:00",
-    "lugar": "La Peña de las Bellas Artes",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/premiacion-del-arquitecto-ruben-omar-pesci-la-pena-de-las-bellas-artes-20261121093842",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121093843.jpg"
-  },
-  {
     "titulo": "Homenaje a Raúl Zerbino",
     "fecha": "2026-11-26 19:00:00",
     "lugar": "Conservatorio de Música Gilardo Gilardi - Edificio Servente",
@@ -188,6 +178,16 @@
     "url": "https://agendalaplata.ar/evento/homenaje-a-raul-zerbino-conservatorio-de-musica-gilardo-gilardi-edificio-servente-20261121100548",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261121100549.jpg"
+  },
+  {
+    "titulo": "Premiación del Arquitecto Rubén Omar Pesci",
+    "fecha": "2026-11-26 19:00:00",
+    "lugar": "La Peña de las Bellas Artes",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/premiacion-del-arquitecto-ruben-omar-pesci-la-pena-de-las-bellas-artes-20261121093842",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261121093843.jpg"
   },
   {
     "titulo": "El lago de los cisnes",

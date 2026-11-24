@@ -8,11 +8,11 @@
     "teatro_metro": 4,
     "coliseo": 4,
     "opera": 2,
-    "plateauno": 2,
+    "plateauno": 1,
     "passline": 16,
     "teatrocerca": 10,
     "comunidad": 9,
-    "planilla": 47
+    "planilla": 48
   },
   "estado": {
     "genda": "ok",

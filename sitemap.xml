@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://movete.info/</loc><lastmod>2026-11-22</lastmod></url>
+  <url><loc>https://movete.info/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/cine/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://movete.info/cine/pelis/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://movete.info/en-vivo/</loc><lastmod>2026-11-24</lastmod></url>
@@ -24,7 +24,7 @@
   <url><loc>https://movete.info/en-vivo/2026-11-05/</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-11-12/</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://movete.info/en-vivo/2026-11-19/</loc><lastmod>2026-11-19</lastmod></url>
-  <url><loc>https://movete.info/en-vivo/2026-11-26/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/2026-11-26/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/cine/sala/cinema-city/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://movete.info/cine/sala/cinema-ocho/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://movete.info/cine/sala/cinema-paradiso/</loc><lastmod>2026-11-21</lastmod></url>
@@ -617,6 +617,7 @@
   <url><loc>https://movete.info/en-vivo/obra/la-risa/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/la-tm-vonharv-volumen-2/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/la-trasnochada-los-falsificadores-de-siempre/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/obra/la-ultima-invocacion-kenopsica/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/la-vela-puerca-las-pelotas/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/la-veredita-cumple-10-anos/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/la-visita/</loc><lastmod>2026-11-24</lastmod></url>
