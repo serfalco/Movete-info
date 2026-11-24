@@ -1,19 +1,18 @@
 {
-  "fecha": "2026-11-19",
-  "total": 248,
+  "fecha": "2026-11-24",
+  "total": 169,
   "por_fuente": {
-    "genda": 131,
-    "livepass": 20,
-    "alternativa": 54,
-    "teatro_metro": 12,
+    "genda": 71,
+    "livepass": 21,
+    "alternativa": 42,
+    "teatro_metro": 4,
     "coliseo": 4,
-    "opera": 3,
-    "plateauno": 3,
-    "passline": 18,
-    "teatrobar": 0,
-    "teatrocerca": 15,
-    "comunidad": 16,
-    "planilla": 62
+    "opera": 2,
+    "plateauno": 2,
+    "passline": 16,
+    "teatrocerca": 10,
+    "comunidad": 9,
+    "planilla": 47
   },
   "estado": {
     "genda": "ok",
@@ -24,8 +23,7 @@
     "opera": "ok",
     "plateauno": "ok",
     "passline": "ok",
-    "teatrobar": "vencida",
-    "teatrocerca": "cache",
+    "teatrocerca": "ok",
     "comunidad": "ok",
     "planilla": "ok"
   }

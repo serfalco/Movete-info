@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Pôncio Pilatos",
-    "fecha": "2026-11-22 20:30:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/poncio-pilatos",
-    "fuente": "planilla",
-    "imagen": ""
-  },
-  {
     "titulo": "Kiss Me",
     "fecha": "2026-11-27 21:00:00",
     "lugar": "Espacio Live",
@@ -48,26 +38,6 @@
     "url": "https://www.passline.com/eventos/still-young-en-la-plata-8",
     "fuente": "planilla",
     "imagen": ""
-  },
-  {
-    "titulo": "Salí del Garaje — sexta fecha",
-    "fecha": "2026-11-22 19:00:00",
-    "lugar": "Raíces del Dawson",
-    "direccion": "Nueva York y Marsella",
-    "categoria": "musica",
-    "url": "https://elmundodeberisso.com.ar/2026/10/18/sali-del-gararje-se-viene-la-segunda/",
-    "fuente": "planilla",
-    "imagen": "https://elmundodeberisso.com.ar/wp-content/uploads/2026/10/sali_del_garaje_2.webp"
-  },
-  {
-    "titulo": "Agridulce Exprés",
-    "fecha": "2026-11-22 20:00:00",
-    "lugar": "Dynamo Teatro",
-    "direccion": "Calle 17 Nº 1754, esquina 68",
-    "categoria": "teatro",
-    "url": "https://teatrina.com/obras/agridulce-expres",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-36b0ad44ff059811971e30aa.jpg"
   },
   {
     "titulo": "Chakras, meditación sensorial en completa oscuridad",
@@ -198,36 +168,6 @@
     "url": "https://teatrina.com/obras/fernando-cabrera-y-hugo-fattoruso-82ef91",
     "fuente": "planilla",
     "imagen": "https://teatrina.com/uploads/mini/600/images/agente-244a310afe1e412b206f9dbd.jpg"
-  },
-  {
-    "titulo": "Westerburg — Muestra del taller de montaje Dracma",
-    "fecha": "2026-11-22 17:00:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 565, entre 43 y 44",
-    "categoria": "teatro",
-    "url": "https://teatrina.com/obras/westerburg-muestra-del-taller-de-montaje-dracma",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-c7fb9fdc1156651e4637c45a.jpg"
-  },
-  {
-    "titulo": "La fábrica de chocolate — Muestra Dracma",
-    "fecha": "2026-11-23 15:00:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 565, entre 43 y 44",
-    "categoria": "teatro",
-    "url": "https://teatrina.com/obras/la-fabrica-de-chocolate-muestra-dracma",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-e979bdf5eee7230bda268c0f.jpg"
-  },
-  {
-    "titulo": "Westerburg — Muestra del taller de montaje Dracma",
-    "fecha": "2026-11-23 19:00:00",
-    "lugar": "Doble-T",
-    "direccion": "Calle 23 565, entre 43 y 44",
-    "categoria": "teatro",
-    "url": "https://teatrina.com/obras/westerburg-muestra-del-taller-de-montaje-dracma",
-    "fuente": "planilla",
-    "imagen": "https://teatrina.com/uploads/mini/600/images/agente-c7fb9fdc1156651e4637c45a.jpg"
   },
   {
     "titulo": "Muestra anual - LoStudio",
@@ -418,5 +358,115 @@
     "url": "https://elmundodeberisso.com.ar/2026/10/18/sali-del-gararje-se-viene-la-segunda/",
     "fuente": "planilla",
     "imagen": "https://elmundodeberisso.com.ar/wp-content/uploads/2026/10/sali_del_garaje_2.webp"
+  },
+  {
+    "titulo": "Muestra anual Asymmetrical: Pole & Dance",
+    "fecha": "2026-12-08 16:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "danza",
+    "url": "https://teatrina.com/obras/muestra-anual-asymmetrical-pole-y-dance",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "K4 + Jai Yia + Fraxu",
+    "fecha": "2026-12-11 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/k4-jai-yia-fraxu",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Xeito Novo",
+    "fecha": "2026-12-12 21:00:00",
+    "lugar": "Sala C - Juan Falú - Casa Metro",
+    "direccion": "Calle 4, entre 51 y 53",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/xeito-novo",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "El Gran Showman - Muestra Taller de montaje Espacio PlanVe",
+    "fecha": "2026-12-09 20:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/el-gran-showman-muestra-taller-de-montaje-espacio-planve",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Joaco Burgos presenta Desde lo profundo",
+    "fecha": "2026-12-13 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/joaco-burgos-presenta-desde-lo-profundo",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "The Jazz Room: Tributo a Frank Sinatra y Louis Armstrong",
+    "fecha": "2026-12-11 19:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/the-jazz-room-tributo-a-frank-sinatra-y-louis-armstrong-61e3eb",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "The Jazz Room: Tributo a Frank Sinatra y Louis Armstrong",
+    "fecha": "2026-12-11 21:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/the-jazz-room-tributo-a-frank-sinatra-y-louis-armstrong-61e3eb",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Las Ligas Menores, La Teoría del Caos y OK Pirámides",
+    "fecha": "2026-12-12 20:00:00",
+    "lugar": "Ciudad de Gatos",
+    "direccion": "Calle 71 1099, esquina 17",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/las-ligas-menores-la-teoria-del-caos-y-ok-piramides",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "Gran muestra anual 2026: Studio Phoenix, quinta edición",
+    "fecha": "2026-12-08 20:30:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "danza",
+    "url": "https://teatrina.com/obras/gran-muestra-anual-2026-studio-phoenix-quinta-edicion",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La nona",
+    "fecha": "2026-12-12 21:00:00",
+    "lugar": "Teatro de la UNLP",
+    "direccion": "Calle 10 1076, entre 54 y 55",
+    "categoria": "teatro",
+    "url": "https://teatrina.com/obras/la-nona",
+    "fuente": "planilla",
+    "imagen": ""
+  },
+  {
+    "titulo": "La Matilde - Cumbia Club",
+    "fecha": "2026-12-12 21:00:00",
+    "lugar": "Doble-T",
+    "direccion": "Calle 23 565, entre 43 y 44",
+    "categoria": "musica",
+    "url": "https://teatrina.com/obras/la-matilde-cumbia-club",
+    "fuente": "planilla",
+    "imagen": ""
   }
 ]

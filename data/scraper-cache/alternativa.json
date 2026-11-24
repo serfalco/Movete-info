@@ -31,7 +31,7 @@
   },
   {
     "titulo": "Fábrica de chicas",
-    "fecha": "2026-11-22 20:00:00",
+    "fecha": "2026-11-29 20:00:00",
     "lugar": "ESCENARIO-40",
     "direccion": "Calle 40 #1180, La Plata",
     "categoria": "teatro",
@@ -40,14 +40,14 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/05/000322605.jpg"
   },
   {
-    "titulo": "Isa Kremer, la voz del pueblo",
-    "fecha": "2026-11-22 20:30:00",
-    "lugar": "CENTRO LITERARIO ISRAELITA Y BIBLIOTECA MAX NORDAU",
-    "direccion": "Calle 11 N° 1272 e/58 y 59, La Plata",
+    "titulo": "La cantante calva",
+    "fecha": "2026-12-04 22:00:00",
+    "lugar": "LA MERCERIA TEATRO",
+    "direccion": "Calle 1 Nº 210, La Plata",
     "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas98163-isa-kremer-la-voz-del-pueblo?o=6",
+    "url": "https://publico.alternativateatral.com/entradas97717-la-cantante-calva?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/65/000307865.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/91/000323791.jpg"
   },
   {
     "titulo": "Todas Somos YO?",
@@ -81,7 +81,7 @@
   },
   {
     "titulo": "Narices negras",
-    "fecha": "2026-11-22 20:00:00",
+    "fecha": "2026-11-29 20:00:00",
     "lugar": "CENTRO CULTURAL VIEJO ALMACEN EL OBRERO",
     "direccion": "Av 13 1900 esquina 71, La Plata",
     "categoria": "teatro",
@@ -111,23 +111,13 @@
   },
   {
     "titulo": "Las del Lirio. Tullido retrato familiar",
-    "fecha": "2026-11-22 20:30:00",
-    "lugar": "TCB - TEATRO COMUNITARIO DE BERISSO",
-    "direccion": "Nueva York y Marsella N°4711, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102973-las-del-lirio-tullido-retrato-familiar",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/22/000324622.jpg"
-  },
-  {
-    "titulo": "Las del Lirio. Tullido retrato familiar",
     "fecha": "2026-11-28 21:00:00",
     "lugar": "EN ESO ESTAMOS",
     "direccion": "Calle 62 No. 274 e/ 1 y 115, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra102973-las-del-lirio-tullido-retrato-familiar",
+    "url": "https://publico.alternativateatral.com/entradas102973-las-del-lirio-tullido-retrato-familiar?o=6",
     "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/22/000324622.jpg"
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/20/000325020.jpg"
   },
   {
     "titulo": "EL ÚLTIMO TANGO, un crimen en 2x4",
@@ -161,7 +151,7 @@
   },
   {
     "titulo": "Otra estúpida razón para no morir (en otoño)",
-    "fecha": "2026-11-22 20:00:00",
+    "fecha": "2026-11-29 20:00:00",
     "lugar": "TEATRO ABIERTO",
     "direccion": "38 e/ 20 y 21 n 1263, La Plata",
     "categoria": "teatro",
@@ -191,7 +181,7 @@
   },
   {
     "titulo": "Ciclo de obras cortas El Escape - Noviembre",
-    "fecha": "2026-11-23 20:00:00",
+    "fecha": "2026-11-27 21:00:00",
     "lugar": "TEATRO EL ESCAPE",
     "direccion": "44 1443 entre 23 y 24, La Plata",
     "categoria": "teatro",
@@ -208,16 +198,6 @@
     "url": "https://publico.alternativateatral.com/entradas104015-miracolosa?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/62/000323762.jpg"
-  },
-  {
-    "titulo": "Sancho, ¡a la carga!",
-    "fecha": "2026-11-22 16:00:00",
-    "lugar": "TEATRO ABIERTO",
-    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
-    "categoria": "teatro",
-    "url": "https://publico.alternativateatral.com/entradas104092-sancho-a-la-carga?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/04/000324004.jpg"
   },
   {
     "titulo": "Altares paganos",
@@ -251,7 +231,7 @@
   },
   {
     "titulo": "Estado de crisis VI - Docentes",
-    "fecha": "2026-11-22 19:30:00",
+    "fecha": "2026-11-29 19:30:00",
     "lugar": "ESPACIO 44",
     "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
     "categoria": "teatro",
@@ -381,23 +361,13 @@
   },
   {
     "titulo": "El lago de los cisnes",
-    "fecha": "2026-11-22 18:00:00",
+    "fecha": "2026-11-25 20:00:00",
     "lugar": "CENTRO PROVINCIAL DE LAS ARTES TEATRO ARGENTINO",
     "direccion": "Av. 51 entre 9 y 10, La Plata",
     "categoria": "teatro",
     "url": "https://www.alternativateatral.com.ar/obra104527-el-lago-de-los-cisnes",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/37/000324737.jpg"
-  },
-  {
-    "titulo": "Dúo Vivalto da Camera",
-    "fecha": "2026-11-22 17:00:00",
-    "lugar": "CENTRO PROVINCIAL DE LAS ARTES TEATRO ARGENTINO",
-    "direccion": "Av. 51 entre 9 y 10, La Plata",
-    "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra104528-duo-vivalto-da-camera",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/38/000324738.jpg"
   },
   {
     "titulo": "Noche de Tipica y Jazz",
@@ -438,5 +408,15 @@
     "url": "https://www.alternativateatral.com.ar/obra104577-encuentro-de-coros",
     "fuente": "alternativa",
     "imagen": ""
+  },
+  {
+    "titulo": "Un vestido, un amor y una hermana moribunda",
+    "fecha": "2026-12-05 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas104691-un-vestido-un-amor-y-una-hermana-moribunda?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/21/000325021.jpg"
   }
 ]

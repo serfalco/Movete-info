@@ -138,11 +138,11 @@
     ],
     "sinopsis": "Una obra interdisciplinaria que combina teatro, danza y poesía corporal para reconstruir, a más de veinte años de la masacre de Cromañón.",
     "titulo": "Narices negras",
-    "fecha": "2026-11-22 20:00:00",
+    "fecha": "2026-11-29 20:00:00",
     "lugar": "Viejo Almacén El Obrero",
     "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/narices-negras/funcion/la-plata/viejo-almacen-el-obrero/22-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/narices-negras/funcion/la-plata/viejo-almacen-el-obrero/29-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261028032045-38f7419b.webp"
   },
@@ -154,12 +154,28 @@
     ],
     "sinopsis": "Harta de vivir en la monotonía de Montesolo, Soledad tiene una idea que revolucionará al pueblo y le dará, por fin, la consagración que ella merece. Su padre estaría orgulloso. Lamentablemente la única persona con la que cuenta es Susana.",
     "titulo": "Otra estúpida razón para no morir (en otoño)",
-    "fecha": "2026-11-22 20:00:00",
+    "fecha": "2026-11-29 20:00:00",
     "lugar": "Teatro Abierto",
     "direccion": "Calle 38 entre 20 y 21, La Plata",
     "categoria": "teatro",
-    "url": "https://teatrocerca.com.ar/obra/otra-estupida-razon-para-no-morir-en-otono/funcion/la-plata/teatro-abierto/22-noviembre-2026",
+    "url": "https://teatrocerca.com.ar/obra/otra-estupida-razon-para-no-morir-en-otono/funcion/la-plata/teatro-abierto/29-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261109024958-f4a6ed55.webp"
+  },
+  {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Checho Falco",
+      "Julián Dorati"
+    ],
+    "sinopsis": "Sociedad Platense de Stand Up Checho Falco y Julián Dorati se juntan para hacer lo que mejor les sale: encontrarle el lado gracioso a cosas que, en principio, no tenían ninguna gracia.",
+    "titulo": "Sociedad Platense de Stand Up",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "Tres Empanadas Comedia",
+    "direccion": "Calle 43 Nº 1349, La Plata",
+    "categoria": "stand-up",
+    "url": "https://teatrocerca.com.ar/obra/sociedad-platense-de-stand-up/funcion/la-plata/tres-empanadas-comedia-la-plata/27-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/revision/d062f501c420293ea65f232f7078c6c95bbc0342.webp"
   }
 ]

@@ -1,405 +1,5 @@
 [
   {
-    "titulo": "Chyip",
-    "fecha": "2026-11-22 15:00:00",
-    "lugar": "Centro Cultural Islas Malvinas - Museo Y Galería Fotográfica Mugafo",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/chyip-centro-cultural-islas-malvinas-museo-y-galeria-fotografica-mugafo-20261121100921",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121100922.jpg"
-  },
-  {
-    "titulo": "Solarians",
-    "fecha": "2026-11-22 15:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/solarians-planetario-unlp-20261121122456",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121122457.jpg"
-  },
-  {
-    "titulo": "Recorrido Ciencia al toque",
-    "fecha": "2026-11-22 15:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/recorrido-ciencia-al-toque-planetario-unlp-20261121123004",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121123005.jpg"
-  },
-  {
-    "titulo": "Show del Mago Gaspar",
-    "fecha": "2026-11-22 15:30:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/show-del-mago-gaspar-republica-de-los-ninos-20261121101301",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121101302.jpg"
-  },
-  {
-    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
-    "fecha": "2026-11-22 16:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
-  },
-  {
-    "titulo": "Javico Circo",
-    "fecha": "2026-11-22 16:00:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/javico-circo-republica-de-los-ninos-20261121101153",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121101154.jpg"
-  },
-  {
-    "titulo": "Carne - Dir. Tomas Marichal Urban",
-    "fecha": "2026-11-22 16:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/carne-dir-tomas-marichal-urban-cine-select-espacio-incaa-20261119182459",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261119182500.jpg"
-  },
-  {
-    "titulo": "Un paseo por el cielo",
-    "fecha": "2026-11-22 16:30:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-paseo-por-el-cielo-planetario-unlp-20261121122627",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121122628.jpg"
-  },
-  {
-    "titulo": "Hacia las estrellas",
-    "fecha": "2026-11-22 17:45:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hacia-las-estrellas-planetario-unlp-20261121122722",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121122723.jpg"
-  },
-  {
-    "titulo": "El lago de los cisnes",
-    "fecha": "2026-11-22 18:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/el-lago-de-los-cisnes-teatro-argentino-centro-provincial-de-las-artes-20261105084134",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
-  },
-  {
-    "titulo": "El tango de José - Dir. Mario Verón",
-    "fecha": "2026-11-22 18:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-tango-de-jose-dir-mario-veron-cine-select-espacio-incaa-20261116150331",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116150332.jpg"
-  },
-  {
-    "titulo": "Para los contrincantes - Dir. Federico Luis",
-    "fecha": "2026-11-22 18:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/para-los-contrincantes-dir-federico-luis-cine-ecoselect-espacio-incaa-20261116145712",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116145713.jpg"
-  },
-  {
-    "titulo": "Irene, yo y mi otro yo - Dir. Hermanos Farrelly",
-    "fecha": "2026-11-22 19:00:00",
-    "lugar": "La Plata",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/irene-yo-y-mi-otro-yo-dir-hermanos-farrelly-20261111123310",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261111123311.jpg"
-  },
-  {
-    "titulo": "Un instante en la penumbra",
-    "fecha": "2026-11-22 19:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-instante-en-la-penumbra-planetario-unlp-20261121122803",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121122804.jpg"
-  },
-  {
-    "titulo": "Los días libres - Dir. Lucila Mariani",
-    "fecha": "2026-11-22 19:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/los-dias-libres-dir-lucila-mariani-cine-select-espacio-incaa-20261116145618",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116145619.jpg"
-  },
-  {
-    "titulo": "Narices negras",
-    "fecha": "2026-11-22 20:00:00",
-    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/narices-negras-viejo-almacen-el-obrero-cantina-del-obrero-20261121090353",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121090354.jpg"
-  },
-  {
-    "titulo": "Fábrica de chicas",
-    "fecha": "2026-11-22 20:00:00",
-    "lugar": "Escenario 40",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/fabrica-de-chicas-escenario-40-20261015204345",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261015204346.jpg"
-  },
-  {
-    "titulo": "Inframundo",
-    "fecha": "2026-11-22 20:00:00",
-    "lugar": "Sala 420",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/inframundo-sala-420-20261028193813",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261028193814.jpg"
-  },
-  {
-    "titulo": "Barrio triste - Dir. De Stillz",
-    "fecha": "2026-11-22 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/barrio-triste-dir-de-stillz-cine-ecoselect-espacio-incaa-20261116125929",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116125930.jpg"
-  },
-  {
-    "titulo": "Otra estúpida razón para no morir (en otoño)",
-    "fecha": "2026-11-22 20:00:00",
-    "lugar": "Teatro Abierto",
-    "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/otra-estupida-razon-para-no-morir-en-otono-teatro-abierto-20261111151204",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261111151205.jpg"
-  },
-  {
-    "titulo": "Ballet de San Petersburgo – El Cascanueces",
-    "fecha": "2026-11-22 20:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/ballet-de-san-petersburgo-el-cascanueces-teatro-metro-20261114211943",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261114211944.jpg"
-  },
-  {
-    "titulo": "Funk - Dir. Aly Muritiba",
-    "fecha": "2026-11-22 21:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/funk-dir-aly-muritiba-pasaje-dardo-rocha-20261116130307",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116130308.jpg"
-  },
-  {
-    "titulo": "El desvelo - Dir. Flor Cárdenas",
-    "fecha": "2026-11-22 21:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-desvelo-dir-flor-cardenas-cine-select-espacio-incaa-20261116150226",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116150227.jpg"
-  },
-  {
-    "titulo": "Algún Algo - Dir. Facundo Nicolás Casale",
-    "fecha": "2026-11-22 21:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/algun-algo-dir-facundo-nicolas-casale-cine-select-espacio-incaa-20261116125339",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116125340.jpg"
-  },
-  {
-    "titulo": "El Boseo - Dir. Leonel Fastovsky, Pablo Viti",
-    "fecha": "2026-11-22 21:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-boseo-dir-leonel-fastovsky-pablo-viti-cine-select-espacio-incaa-20261116150138",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116150139.jpg"
-  },
-  {
-    "titulo": "Los invisibles — Tributo a Callejeros + Aplanadora - Tributo a Divididos",
-    "fecha": "2026-11-22 22:30:00",
-    "lugar": "Teatro René Favaloro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/los-invisibles-tributo-a-callejeros-aplanadora-tributo-a-divididos-teatro-rene-favaloro-20261021120951",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261021120952.jpg"
-  },
-  {
-    "titulo": "Solarians",
-    "fecha": "2026-11-23 15:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/solarians-planetario-unlp-20261121122456",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121122457.jpg"
-  },
-  {
-    "titulo": "Recorrido Ciencia al toque",
-    "fecha": "2026-11-23 15:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/recorrido-ciencia-al-toque-planetario-unlp-20261121123004",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121123005.jpg"
-  },
-  {
-    "titulo": "Feria Miga",
-    "fecha": "2026-11-23 16:00:00",
-    "lugar": "Hipódromo de La Plata",
-    "direccion": "",
-    "categoria": "ferias",
-    "url": "https://agendalaplata.ar/evento/feria-miga-hipodromo-de-la-plata-20261116100328",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116100329.jpg"
-  },
-  {
-    "titulo": "Payaso Manotas",
-    "fecha": "2026-11-23 16:00:00",
-    "lugar": "República de los Niños",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/payaso-manotas-republica-de-los-ninos-20261121101049",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121101050.jpg"
-  },
-  {
-    "titulo": "Un paseo por el cielo",
-    "fecha": "2026-11-23 16:30:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-paseo-por-el-cielo-planetario-unlp-20261121122627",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121122628.jpg"
-  },
-  {
-    "titulo": "Hacia las estrellas",
-    "fecha": "2026-11-23 17:45:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/hacia-las-estrellas-planetario-unlp-20261121122722",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121122723.jpg"
-  },
-  {
-    "titulo": "Cuarto de flores - Dir. Sofía Guerrini",
-    "fecha": "2026-11-23 18:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/cuarto-de-flores-dir-sofia-guerrini-cine-select-espacio-incaa-20261116150049",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116150050.jpg"
-  },
-  {
-    "titulo": "Un instante en la penumbra",
-    "fecha": "2026-11-23 19:00:00",
-    "lugar": "Planetario UNLP",
-    "direccion": "",
-    "categoria": "infantil",
-    "url": "https://agendalaplata.ar/evento/un-instante-en-la-penumbra-planetario-unlp-20261121122803",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121122804.jpg"
-  },
-  {
-    "titulo": "Divididos",
-    "fecha": "2026-11-23 20:00:00",
-    "lugar": "Club Atenas",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/divididos-club-atenas-20260720232252",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260720232253.jpg"
-  },
-  {
-    "titulo": "Persistencia: un informe inconcluso - Dir. Equipo docente de RE4",
-    "fecha": "2026-11-23 20:00:00",
-    "lugar": "Pasaje Dardo Rocha",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/persistencia-un-informe-inconcluso-dir-equipo-docente-de-re4-pasaje-dardo-rocha-20261116202813",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116202814.jpg"
-  },
-  {
-    "titulo": "La Maldición de los Gobernadores - Dir. Marcos H. Rodríguez",
-    "fecha": "2026-11-23 20:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/la-maldicion-de-los-gobernadores-dir-marcos-h-rodriguez-cine-select-espacio-incaa-20261116150415",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116150416.jpg"
-  },
-  {
-    "titulo": "Lisandro Aristimuño - Experiencia coral",
-    "fecha": "2026-11-23 20:00:00",
-    "lugar": "Teatro Metro",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/lisandro-aristimuno-experiencia-coral-teatro-metro-20261114211554",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261114211555.jpg"
-  },
-  {
-    "titulo": "Movimiento - Dir. Federico Barrios",
-    "fecha": "2026-11-23 21:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/movimiento-dir-federico-barrios-cine-select-espacio-incaa-20261116150517",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116150518.jpg"
-  },
-  {
-    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
-    "fecha": "2026-11-24 16:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
-  },
-  {
     "titulo": "Carne - Dir. Tomas Marichal Urban",
     "fecha": "2026-11-24 16:00:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -418,6 +18,16 @@
     "url": "https://agendalaplata.ar/evento/wikimedistas-editando-biblioteca-publica-universidad-nacional-de-la-plata-unlp-20261121084759",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261121084800.jpg"
+  },
+  {
+    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
+    "fecha": "2026-11-24 16:00:00",
+    "lugar": "Cine Ecoselect (Espacio INCAA)",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
   },
   {
     "titulo": "Torneo de La Campaña",
@@ -590,6 +200,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
   },
   {
+    "titulo": "Peña La Florecida",
+    "fecha": "2026-11-26 21:00:00",
+    "lugar": "Esquina América",
+    "direccion": "",
+    "categoria": "danza",
+    "url": "https://agendalaplata.ar/evento/pena-la-florecida-esquina-america-20261124020649",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261124020650.jpg"
+  },
+  {
     "titulo": "Familia teme enfrentar una nueva noche de terror - Dir. Cristian Ponce",
     "fecha": "2026-11-26 21:30:00",
     "lugar": "Cine Select (Espacio INCAA)",
@@ -608,6 +228,16 @@
     "url": "https://agendalaplata.ar/evento/el-hechizo-de-los-arboles-expedicion-urbana-biblioteca-publica-universidad-nacional-de-la-plata-unlp-20261121084320",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261121084321.jpg"
+  },
+  {
+    "titulo": "La escena que nos nombra",
+    "fecha": "2026-11-27 20:00:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/la-escena-que-nos-nombra-viejo-almacen-el-obrero-cantina-del-obrero-20261124010920",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261124010921.jpg"
   },
   {
     "titulo": "El lago de los cisnes",
@@ -670,6 +300,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261121123849.jpg"
   },
   {
+    "titulo": "Sociedad Platense de Stand Up",
+    "fecha": "2026-11-27 21:30:00",
+    "lugar": "Tres Empanadas Comedia",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/sociedad-platense-de-stand-up-tres-empanadas-comedia-20261123011729",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261123011730.jpg"
+  },
+  {
     "titulo": "Paseo de los artesanos",
     "fecha": "2026-11-28 11:00:00",
     "lugar": "República de los Niños",
@@ -708,6 +348,16 @@
     "url": "https://agendalaplata.ar/evento/un-poco-de-ruido-hipodromo-de-la-plata-20260817221437",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20260817221438.jpg"
+  },
+  {
+    "titulo": "La escena que nos nombra",
+    "fecha": "2026-11-28 20:00:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/la-escena-que-nos-nombra-viejo-almacen-el-obrero-cantina-del-obrero-20261124011037",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261124011038.jpg"
   },
   {
     "titulo": "El lago de los cisnes",
@@ -940,6 +590,26 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260921110121.jpg"
   },
   {
+    "titulo": "Sociedad Platense de Stand Up",
+    "fecha": "2026-12-04 21:30:00",
+    "lugar": "Tres Empanadas Comedia",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/sociedad-platense-de-stand-up-tres-empanadas-comedia-20261123011729",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261123011730.jpg"
+  },
+  {
+    "titulo": "La cantante calva",
+    "fecha": "2026-12-04 22:00:00",
+    "lugar": "La Mercería Teatro",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/la-cantante-calva-la-merceria-teatro-20261123142907",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261123142908.jpg"
+  },
+  {
     "titulo": "Serú Girán por Lebón y Aznar",
     "fecha": "2026-12-05 20:00:00",
     "lugar": "Hipódromo de La Plata",
@@ -990,6 +660,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261021131701.jpg"
   },
   {
+    "titulo": "Sociedad Platense de Stand Up",
+    "fecha": "2026-12-11 21:30:00",
+    "lugar": "Tres Empanadas Comedia",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/sociedad-platense-de-stand-up-tres-empanadas-comedia-20261123011729",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261123011730.jpg"
+  },
+  {
     "titulo": "Meet Up de game devs",
     "fecha": "2026-12-12 17:00:00",
     "lugar": "La Culturosa",
@@ -1018,5 +698,15 @@
     "url": "https://agendalaplata.ar/evento/torneo-de-rompecabezas-centro-gallego-de-la-plata-20261112110654",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261112110655.jpg"
+  },
+  {
+    "titulo": "Sociedad Platense de Stand Up",
+    "fecha": "2026-12-18 21:30:00",
+    "lugar": "Tres Empanadas Comedia",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/sociedad-platense-de-stand-up-tres-empanadas-comedia-20261123011729",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261123011730.jpg"
   }
 ]

@@ -1,26 +1,6 @@
 [
   {
     "titulo": "El lago de los cisnes",
-    "fecha": "2026-11-22 18:00:00",
-    "lugar": "Teatro Argentino",
-    "direccion": "La Plata",
-    "categoria": "danza",
-    "url": "",
-    "fuente": "comunidad",
-    "imagen": ""
-  },
-  {
-    "titulo": "Pôncio Pilatos",
-    "fecha": "2026-11-22 20:30:00",
-    "lugar": "Casa Suiza",
-    "direccion": "Calle 2 Nº 621, La Plata",
-    "categoria": "musica",
-    "url": "https://www.passline.com/eventos/poncio-pilatos",
-    "fuente": "comunidad",
-    "imagen": ""
-  },
-  {
-    "titulo": "El lago de los cisnes",
     "fecha": "2026-11-25 20:00:00",
     "lugar": "Teatro Argentino",
     "direccion": "La Plata",
