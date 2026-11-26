@@ -1,8 +1,8 @@
 {
-  "generado": "2026-11-26T03:36:33",
-  "total": 176,
+  "generado": "2026-11-26T13:40:26",
+  "total": 183,
   "por_fuente": {
-    "genda": 69,
+    "genda": 76,
     "livepass": 22,
     "alternativa": 49,
     "teatro_metro": 4,
@@ -15,14 +15,15 @@
     "planilla": 48
   },
   "por_categoria": {
-    "cine": 12,
+    "cine": 14,
     "otros": 8,
-    "musica": 65,
-    "teatro": 60,
-    "danza": 17,
+    "musica": 66,
+    "teatro": 61,
+    "a-plasticas": 3,
+    "danza": 18,
     "charlas": 1,
     "impro": 2,
-    "stand-up": 5,
+    "stand-up": 4,
     "ferias": 4,
     "infantil": 1,
     "humor": 1
@@ -87,6 +88,16 @@
       "url": "https://www.alternativateatral.com.ar/obra104577-encuentro-de-coros",
       "fuente": "alternativa",
       "imagen": ""
+    },
+    {
+      "titulo": "Tramas posibles",
+      "fecha": "2026-11-26 20:00:00",
+      "lugar": "Casa sesentaydos",
+      "direccion": "",
+      "categoria": "a-plasticas",
+      "url": "https://agendalaplata.ar/evento/tramas-posibles-casa-sesentaydos-20261126122429",
+      "fuente": "genda",
+      "imagen": "https://agendalaplata.ar/_fotos/20261126122430.jpg"
     },
     {
       "titulo": "El lago de los cisnes",
@@ -266,7 +277,7 @@
       "categoria": "cine",
       "url": "https://agendalaplata.ar/evento/monobanda-fest-cine-club-proyecciones-terrestres-20261125103600",
       "fuente": "genda",
-      "imagen": "https://agendalaplata.ar/_fotos/20261125103601.jpg"
+      "imagen": "https://agendalaplata.ar/_fotos/20261126072837.jpg"
     },
     {
       "titulo": "Impro al 2020 Vs Match La Plata - La revancha",
@@ -428,14 +439,14 @@
       "imagen": "https://berisso.gob.ar//storage/post/thumbnails/695fKwZGcv6xLjyjFK5sctfK4jNHHL7zzACdbsnp.jpg"
     },
     {
-      "titulo": "Los nadadores - Dir. Sol Iglesias SK",
+      "titulo": "Festival Artimañas",
       "fecha": "2026-11-28 19:00:00",
-      "lugar": "Cine Club Proyecciones Terrestres",
+      "lugar": "Facultad de Artes - Sede Fonseca",
       "direccion": "",
-      "categoria": "cine",
-      "url": "https://agendalaplata.ar/evento/los-nadadores-dir-sol-iglesias-sk-cine-club-proyecciones-terrestres-20261116203259",
+      "categoria": "a-plasticas",
+      "url": "https://agendalaplata.ar/evento/festival-artimanas-facultad-de-artes-sede-fonseca-20261126023729",
       "fuente": "genda",
-      "imagen": "https://agendalaplata.ar/_fotos/20261116203300.jpg"
+      "imagen": "https://agendalaplata.ar/_fotos/20261126023730.jpg"
     },
     {
       "titulo": "Te amo, Antoño - Dir. Tamara Leschner",
@@ -446,6 +457,16 @@
       "url": "https://agendalaplata.ar/evento/te-amo-antono-dir-tamara-leschner-cine-club-proyecciones-terrestres-20261116203351",
       "fuente": "genda",
       "imagen": "https://agendalaplata.ar/_fotos/20261116203352.jpg"
+    },
+    {
+      "titulo": "Los nadadores - Dir. Sol Iglesias SK",
+      "fecha": "2026-11-28 19:00:00",
+      "lugar": "Cine Club Proyecciones Terrestres",
+      "direccion": "",
+      "categoria": "cine",
+      "url": "https://agendalaplata.ar/evento/los-nadadores-dir-sol-iglesias-sk-cine-club-proyecciones-terrestres-20261116203259",
+      "fuente": "genda",
+      "imagen": "https://agendalaplata.ar/_fotos/20261116203300.jpg"
     },
     {
       "titulo": "La visita",
@@ -537,6 +558,16 @@
       "url": "https://agendalaplata.ar/evento/la-mancha-de-rolando-teatro-rene-favaloro-20261021130713",
       "fuente": "genda",
       "imagen": "https://agendalaplata.ar/_fotos/20261021130714.jpg"
+    },
+    {
+      "titulo": "Cancionistxs #55",
+      "fecha": "2026-11-28 21:00:00",
+      "lugar": "La Bicicletería creación colectiva",
+      "direccion": "",
+      "categoria": "musica",
+      "url": "https://agendalaplata.ar/evento/cancionistxs-55-la-bicicleteria-creacion-colectiva-20261126103156",
+      "fuente": "genda",
+      "imagen": "https://agendalaplata.ar/_fotos/20261126103157.jpg"
     },
     {
       "titulo": "Música Nacional de los 70s y 80s",
@@ -762,16 +793,6 @@
       "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
     },
     {
-      "titulo": "Aquí y allá - Dir. Jean-Luc Godard, Jean-Pierre Gorin, Anne-Marie Miéville, Groupe Dziga Vertov",
-      "fecha": "2026-11-29 17:00:00",
-      "lugar": "Cine Club Proyecciones Terrestres",
-      "direccion": "",
-      "categoria": "cine",
-      "url": "https://agendalaplata.ar/evento/aqui-y-alla-dir-jean-luc-godard-jean-pierre-gorin-anne-marie-mieville-groupe-dziga-vertov-cine-club-proyecciones-terrestres-20261125105850",
-      "fuente": "genda",
-      "imagen": "https://agendalaplata.ar/_fotos/20261125105851.jpg"
-    },
-    {
       "titulo": "Camerata Académica",
       "fecha": "2026-11-29 17:00:00",
       "lugar": "Teatro Argentino - Centro Provincial de las Artes",
@@ -780,6 +801,16 @@
       "url": "https://agendalaplata.ar/evento/camerata-academica-teatro-argentino-centro-provincial-de-las-artes-20261125110504",
       "fuente": "genda",
       "imagen": "https://agendalaplata.ar/_fotos/20261125110505.jpg"
+    },
+    {
+      "titulo": "Aquí y allá - Dir. Jean-Luc Godard, Jean-Pierre Gorin, Anne-Marie Miéville, Groupe Dziga Vertov",
+      "fecha": "2026-11-29 17:00:00",
+      "lugar": "Cine Club Proyecciones Terrestres",
+      "direccion": "",
+      "categoria": "cine",
+      "url": "https://agendalaplata.ar/evento/aqui-y-alla-dir-jean-luc-godard-jean-pierre-gorin-anne-marie-mieville-groupe-dziga-vertov-cine-club-proyecciones-terrestres-20261125105850",
+      "fuente": "genda",
+      "imagen": "https://agendalaplata.ar/_fotos/20261125105851.jpg"
     },
     {
       "titulo": "Cine Multaqa",
@@ -847,6 +878,16 @@
       "url": "https://publico.alternativateatral.com/entradas104242-estado-de-crisis-vi-docentes?o=6",
       "fuente": "alternativa",
       "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/50/000324550.jpg"
+    },
+    {
+      "titulo": "Las del lirio",
+      "fecha": "2026-11-29 20:00:00",
+      "lugar": "Teatro Red Pido Gancho",
+      "direccion": "",
+      "categoria": "teatro",
+      "url": "https://agendalaplata.ar/evento/las-del-lirio-teatro-red-pido-gancho-20261126113421",
+      "fuente": "genda",
+      "imagen": "https://agendalaplata.ar/_fotos/20261126113422.jpg"
     },
     {
       "titulo": "Narices negras",
@@ -953,6 +994,16 @@
       "imagen": "https://agendalaplata.ar/_fotos/20260830163636.jpg"
     },
     {
+      "titulo": "Desde el río hasta el mar",
+      "fecha": "2026-12-03 18:00:00",
+      "lugar": "Esquina América",
+      "direccion": "",
+      "categoria": "a-plasticas",
+      "url": "https://agendalaplata.ar/evento/desde-el-rio-hasta-el-mar-esquina-america-20261126122211",
+      "fuente": "genda",
+      "imagen": "https://agendalaplata.ar/_fotos/20261126122212.jpg"
+    },
+    {
       "titulo": "UN FUEGO PARA IORIO 🔥",
       "fecha": "2026-12-03 20:00:00",
       "lugar": "Casa Suiza",
@@ -982,6 +1033,16 @@
         "Andrés San Román"
       ],
       "sinopsis": "El cine vuelve a escena Una celebración del teatro popular argentino, donde la memoria se transforma en presente. Frutilla regresa en una nueva versión creada por Victoria Carreras."
+    },
+    {
+      "titulo": "500 días con ella - Dir. Marc Webb",
+      "fecha": "2026-12-03 21:00:00",
+      "lugar": "Logia café",
+      "direccion": "",
+      "categoria": "cine",
+      "url": "https://agendalaplata.ar/evento/500-dias-con-ella-dir-marc-webb-logia-cafe-20261126104446",
+      "fuente": "genda",
+      "imagen": "https://agendalaplata.ar/_fotos/20261126104447.jpg"
     },
     {
       "precio": 26000,
@@ -1522,6 +1583,16 @@
       "imagen": ""
     },
     {
+      "titulo": "Scooby-doo (2002) - Cena temática",
+      "fecha": "2026-12-11 20:30:00",
+      "lugar": "Pampa Cultural",
+      "direccion": "",
+      "categoria": "cine",
+      "url": "https://agendalaplata.ar/evento/scooby-doo-2002-cena-tematica-pampa-cultural-20261126125054",
+      "fuente": "genda",
+      "imagen": "https://agendalaplata.ar/_fotos/20261126125055.jpg"
+    },
+    {
       "titulo": "Liga de improvisadores",
       "fecha": "2026-12-11 20:30:00",
       "lugar": "ESPACIO SUDAKA",
@@ -1588,9 +1659,9 @@
       "lugar": "ESPACIO 44",
       "direccion": "Av. 44 N° 496 entre 4 y 5, La Plata",
       "categoria": "teatro",
-      "url": "https://www.alternativateatral.com.ar/obra104428-sentires",
+      "url": "https://publico.alternativateatral.com/entradas104428-sentires?o=6",
       "fuente": "alternativa",
-      "imagen": ""
+      "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/72/000325172.jpg"
     },
     {
       "titulo": "Syrah y Doble Gota en Espacio Live",
@@ -1799,6 +1870,16 @@
       "imagen": "https://agendalaplata.ar/_fotos/20261112110655.jpg"
     },
     {
+      "titulo": "VOILÀ · Historias que llegan",
+      "fecha": "2026-12-13 15:00:00",
+      "lugar": "Crisoles La Plata -Centro Cultural y de Actividades Artísticas",
+      "direccion": "",
+      "categoria": "danza",
+      "url": "https://agendalaplata.ar/evento/voila-historias-que-llegan-crisoles-la-plata-centro-cultural-y-de-actividades-artisticas-20261126105115",
+      "fuente": "genda",
+      "imagen": "https://agendalaplata.ar/_fotos/20261126105116.jpg"
+    },
+    {
       "titulo": "Insignificante: el peso de lo que no se ve",
       "fecha": "2026-12-13 20:00:00",
       "lugar": "Teatro Espacio 44",
@@ -1850,16 +1931,6 @@
       "url": "https://publico.alternativateatral.com/entradas104441-los-celos-son-logicos?o=6",
       "fuente": "alternativa",
       "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/45/000324545.jpg"
-    },
-    {
-      "titulo": "Sociedad Platense de Stand Up",
-      "fecha": "2026-12-18 21:30:00",
-      "lugar": "Tres Empanadas Comedia",
-      "direccion": "",
-      "categoria": "stand-up",
-      "url": "https://agendalaplata.ar/evento/sociedad-platense-de-stand-up-tres-empanadas-comedia-20261123011729",
-      "fuente": "genda",
-      "imagen": "https://agendalaplata.ar/_fotos/20261123011730.jpg"
     },
     {
       "titulo": "Muestras 3",
@@ -1978,6 +2049,9 @@
       "disponibilidad": "disponible"
     },
     {
+      "precio": 92000,
+      "moneda": "ARS",
+      "disponibilidad": "disponible",
       "titulo": "NO TE VA GUSTAR",
       "fecha": "2027-03-13 21:00:00",
       "lugar": "Hipódromo de La Plata",

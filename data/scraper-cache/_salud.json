@@ -1,8 +1,8 @@
 {
   "fecha": "2026-11-26",
-  "total": 176,
+  "total": 183,
   "por_fuente": {
-    "genda": 69,
+    "genda": 76,
     "livepass": 22,
     "alternativa": 49,
     "teatro_metro": 4,
@@ -23,7 +23,7 @@
     "opera": "ok",
     "plateauno": "ok",
     "passline": "ok",
-    "teatrocerca": "ok",
+    "teatrocerca": "cache",
     "comunidad": "ok",
     "planilla": "ok"
   }

@@ -1,7 +1,7 @@
 {
 "/": {
 "fecha": "2026-11-26",
-"huella": "33a33ceb643f55b3"
+"huella": "64a0ea6c056d22e2"
 },
 "/cine/": {
 "fecha": "2026-11-21",
@@ -48,8 +48,8 @@
 "huella": "aaa922fcebabe769"
 },
 "/en-vivo/": {
-"fecha": "2026-11-25",
-"huella": "3ddb499232615012"
+"fecha": "2026-11-26",
+"huella": "7b4758ce3836a506"
 },
 "/en-vivo/2026-10-29/": {
 "fecha": "2026-10-29",
@@ -68,12 +68,16 @@
 "huella": "b3a40cc7d8b6145f"
 },
 "/en-vivo/2026-11-26/": {
-"fecha": "2026-11-25",
-"huella": "b002cc8d725ea9b6"
+"fecha": "2026-11-26",
+"huella": "a97a16cb24be18cb"
+},
+"/en-vivo/a-plasticas/": {
+"fecha": "2026-11-26",
+"huella": "6deadde2b7f3983a"
 },
 "/en-vivo/archivo/": {
 "fecha": "2026-11-26",
-"huella": "03a501e13f4e58e1"
+"huella": "904a520e2c6e5882"
 },
 "/en-vivo/charlas/": {
 "fecha": "2026-11-25",
@@ -88,16 +92,16 @@
 "huella": "86299bfcbf764792"
 },
 "/en-vivo/fiestas/": {
-"fecha": "2026-11-24",
-"huella": "9cd40178f1f744ce"
+"fecha": "2026-11-26",
+"huella": "6a4de71e503b1996"
 },
 "/en-vivo/fin-de-semana/": {
-"fecha": "2026-11-25",
-"huella": "3f6a68419f42b3aa"
+"fecha": "2026-11-26",
+"huella": "6045d6d27c80b88e"
 },
 "/en-vivo/hoy/": {
-"fecha": "2026-11-25",
-"huella": "2f195cde83533609"
+"fecha": "2026-11-26",
+"huella": "452bf23d03ac7d65"
 },
 "/en-vivo/impro/": {
 "fecha": "2026-11-25",
@@ -108,8 +112,8 @@
 "huella": "2924768f58783db5"
 },
 "/en-vivo/musica/": {
-"fecha": "2026-11-25",
-"huella": "586c7d2e12a0767c"
+"fecha": "2026-11-26",
+"huella": "e734da79f3e48b2c"
 },
 "/en-vivo/obra/10-anos-de-rey-de-espadas/": {
 "fecha": "2026-11-24",
@@ -482,6 +486,10 @@
 "/en-vivo/obra/canciones-para-naufragio-40-anos-de-oktubre/": {
 "fecha": "2026-11-24",
 "huella": "4bacb089f9d9b126"
+},
+"/en-vivo/obra/cancionistxs-55/": {
+"fecha": "2026-11-26",
+"huella": "92b6abb7bd6b771e"
 },
 "/en-vivo/obra/cantamos-a-charly/": {
 "fecha": "2026-11-24",
@@ -890,6 +898,10 @@
 "/en-vivo/obra/desarmar-la-representacion/": {
 "fecha": "2026-11-24",
 "huella": "7ad5a16c9d639b15"
+},
+"/en-vivo/obra/desde-el-rio-hasta-el-mar/": {
+"fecha": "2026-11-26",
+"huella": "92dccb5f3debbdf6"
 },
 "/en-vivo/obra/deshojando-mariposas/": {
 "fecha": "2026-11-24",
@@ -1446,6 +1458,10 @@
 "/en-vivo/obra/festival-a-puro-sonido-macabro-horror-en-vhs-y-coleccionismo-retro/": {
 "fecha": "2026-11-24",
 "huella": "796d125af1b0df1f"
+},
+"/en-vivo/obra/festival-artimanas/": {
+"fecha": "2026-11-26",
+"huella": "12cb17ab9d96edee"
 },
 "/en-vivo/obra/festival-casa-suiza/": {
 "fecha": "2026-11-24",
@@ -2224,8 +2240,8 @@
 "huella": "1d833184f78ba388"
 },
 "/en-vivo/obra/las-del-lirio/": {
-"fecha": "2026-11-24",
-"huella": "485b88890cddb187"
+"fecha": "2026-11-26",
+"huella": "32039559cc76df64"
 },
 "/en-vivo/obra/las-hijas/": {
 "fecha": "2026-11-24",
@@ -2692,8 +2708,8 @@
 "huella": "753974cccf6a4c93"
 },
 "/en-vivo/obra/no-te-va-gustar/": {
-"fecha": "2026-11-25",
-"huella": "1bfd6c868b4d3d2e"
+"fecha": "2026-11-26",
+"huella": "14fb2c009969be68"
 },
 "/en-vivo/obra/no-te-vayas-con-amor-o-sin-el/": {
 "fecha": "2026-11-24",
@@ -3280,8 +3296,8 @@
 "huella": "508f06a599f4972d"
 },
 "/en-vivo/obra/sociedad-platense-de-stand-up/": {
-"fecha": "2026-11-24",
-"huella": "465a352f298ed653"
+"fecha": "2026-11-26",
+"huella": "7eac0c4dce474dab"
 },
 "/en-vivo/obra/sofia-viola-20-anos-deluxe/": {
 "fecha": "2026-11-24",
@@ -3495,6 +3511,10 @@
 "fecha": "2026-11-24",
 "huella": "b4b938499dd3ab50"
 },
+"/en-vivo/obra/tramas-posibles/": {
+"fecha": "2026-11-26",
+"huella": "2d26dad1bb4070a6"
+},
 "/en-vivo/obra/trastornados-la-lechuga-mecanica-los-citricos/": {
 "fecha": "2026-11-24",
 "huella": "2a18c6fb05b042d6"
@@ -3651,6 +3671,10 @@
 "fecha": "2026-11-24",
 "huella": "6c8a10728071ce14"
 },
+"/en-vivo/obra/voila-historias-que-llegan/": {
+"fecha": "2026-11-26",
+"huella": "de2a5f5785b6f773"
+},
 "/en-vivo/obra/volcada/": {
 "fecha": "2026-11-24",
 "huella": "31d751762ad49d79"
@@ -3756,8 +3780,8 @@
 "huella": "fd96d82c5af0b9dc"
 },
 "/en-vivo/sala/centro-cultural-viejo-almacen-el-obrero/": {
-"fecha": "2026-11-25",
-"huella": "74b602a77f334e8c"
+"fecha": "2026-11-26",
+"huella": "3d203ce09f2e0663"
 },
 "/en-vivo/sala/centro-de-arte-unlp/": {
 "fecha": "2026-11-24",
@@ -3844,8 +3868,8 @@
 "huella": "c0684514c557feec"
 },
 "/en-vivo/sala/esquina-america/": {
-"fecha": "2026-11-24",
-"huella": "81173681760c211f"
+"fecha": "2026-11-26",
+"huella": "03b85df9f86afe7b"
 },
 "/en-vivo/sala/estadio-atenas/": {
 "fecha": "2026-11-24",
@@ -3872,8 +3896,8 @@
 "huella": "64094186080c24af"
 },
 "/en-vivo/sala/hipodromo-de-la-plata/": {
-"fecha": "2026-11-25",
-"huella": "1c671cf454188c28"
+"fecha": "2026-11-26",
+"huella": "dfe10a603af20e6f"
 },
 "/en-vivo/sala/jardin-botanico-del-parque-saavedra/": {
 "fecha": "2026-11-24",
@@ -4020,16 +4044,16 @@
 "huella": "97ea5fc778e10af2"
 },
 "/en-vivo/sala/tres-empanadas-comedia/": {
-"fecha": "2026-11-24",
-"huella": "15f873c0c3124b82"
+"fecha": "2026-11-26",
+"huella": "584d79140f2a6bbe"
 },
 "/en-vivo/stand-up/": {
 "fecha": "2026-11-25",
 "huella": "d6af92fa56cc9b92"
 },
 "/en-vivo/teatro/": {
-"fecha": "2026-11-25",
-"huella": "033b087fc781d7e8"
+"fecha": "2026-11-26",
+"huella": "7b15d9560757c51f"
 },
 "/en-vivo/verano/": {
 "fecha": "2026-11-25",
