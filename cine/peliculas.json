@@ -258,6 +258,34 @@
     "tmdb_id": 1180894,
     "trailer": "https://www.youtube.com/watch?v=2f2IUUapOzA"
   },
+  "bichos del mar": {
+    "anio": "2026",
+    "backdrop": null,
+    "director": "Tatiana Lichtensztein",
+    "duracion": 0,
+    "elenco": [
+      "Nadia Cerino"
+    ],
+    "generos": [
+      "Documental",
+      "Fantasía",
+      "Aventura",
+      "Ciencia ficción",
+      "Acción",
+      "Historia",
+      "Bélica"
+    ],
+    "paises": [
+      "Argentina"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/uYTQGXobST0zbqoBXmGBsuezb8h.jpg",
+    "score": 0.0,
+    "sinopsis": "",
+    "titulo": "Bichos del mar",
+    "titulo_original": "Bichos del mar",
+    "tmdb_id": 1797377,
+    "trailer": ""
+  },
   "bleach thousand year blood war the calamity": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/fwdosqd1BW1tDlvaF9qhMuERQGY.jpg",
@@ -780,6 +808,32 @@
     "tmdb_id": 1477712,
     "trailer": "https://www.youtube.com/watch?v=zYC5iij2DTg"
   },
+  "el heroe de berlin": {
+    "anio": "2016",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eWUJTW9HFDmlIACchS6Ohnk5Aom.jpg",
+    "director": "Stephen Hopkins",
+    "duracion": 134,
+    "elenco": [
+      "Stephan James",
+      "Jason Sudeikis",
+      "Eli Goree"
+    ],
+    "generos": [
+      "Drama",
+      "Historia"
+    ],
+    "paises": [
+      "Canada",
+      "Germany"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/dBwAaSpLJ2m5UhD0ob2mDqlM7RE.jpg",
+    "score": 7.262,
+    "sinopsis": "Narra la historia del mítico atleta Jesse Owens, el coloso de la velocidad que saltó a la fama en los Juegos Olímpicos de Berlín de 1936, cuando dejó al mundo boquiabierto con sus espectaculares marcas que echaron por tierra la teoría de Hitler sobre la supremacía de la raza aria.",
+    "titulo": "El héroe de Berlín",
+    "titulo_original": "Race",
+    "tmdb_id": 323677,
+    "trailer": "https://www.youtube.com/watch?v=qzDi9GwIr0w"
+  },
   "el partido": {
     "anio": "2026",
     "backdrop": "https://image.tmdb.org/t/p/w780/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
@@ -1092,6 +1146,35 @@
     "titulo_original": "Hangar Rojo",
     "tmdb_id": 1563588,
     "trailer": ""
+  },
+  "hechizo bienvenidos a hexe": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
+    "director": "Jason Hand",
+    "duracion": 103,
+    "elenco": [
+      "Hailee Steinfeld",
+      "Rashida Jones",
+      "Jodie Foster"
+    ],
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Familia",
+      "Fantasía",
+      "Comedia"
+    ],
+    "paises": [
+      "United States",
+      "Canada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+    "score": 5.711,
+    "sinopsis": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+    "titulo": "Hechizo: Bienvenidos a Hexe",
+    "titulo_original": "Hexed",
+    "tmdb_id": 1538497,
+    "trailer": "https://www.youtube.com/watch?v=wkr5TpxKOTw"
   },
   "hechizo de amor la magia continua": {
     "anio": "2026",
@@ -1497,6 +1580,31 @@
     "titulo_original": "Insidious: Out of the Further",
     "tmdb_id": 1291595,
     "trailer": ""
+  },
+  "la nueva focker": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "director": "John Hamburg",
+    "duracion": 105,
+    "elenco": [
+      "Ben Stiller",
+      "Robert De Niro",
+      "Ariana Grande"
+    ],
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "paises": [
+      "United States"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
+    "score": 6.8,
+    "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+    "titulo": "Ahora los suegros son ellos",
+    "titulo_original": "Focker In-Law",
+    "tmdb_id": 1400336,
+    "trailer": "https://www.youtube.com/watch?v=j0MROuSV-pA"
   },
   "la odisea": {
     "anio": "2026",
@@ -2038,6 +2146,30 @@
     "tmdb_id": 145247,
     "trailer": ""
   },
+  "puedes verlo todo": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+    "director": "Nathan Fielder",
+    "duracion": 175,
+    "elenco": [
+      "Elizabeth Holmes",
+      "Nathan Fielder",
+      "Billy Evans"
+    ],
+    "generos": [
+      "Documental"
+    ],
+    "paises": [
+      "United States"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/hcuFuAlGeQy1yKhd3I0hZ5sgCzl.jpg",
+    "score": 8.6,
+    "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
+    "titulo": "Puedes verlo todo",
+    "titulo_original": "You Can See Everything",
+    "tmdb_id": 1765072,
+    "trailer": "https://www.youtube.com/watch?v=-B-gh1BlS4w"
+  },
   "que dios perdona a todos": null,
   "queres ser mi hijo": {
     "anio": "2026",
@@ -2088,6 +2220,33 @@
     "titulo_original": "I Want Your Sex",
     "tmdb_id": 1288059,
     "trailer": ""
+  },
+  "ramayana el nacimiento de una leyenda": {
+    "anio": "2026",
+    "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+    "director": "Nitesh Tiwari",
+    "duracion": 201,
+    "elenco": [
+      "Ranbir Kapoor",
+      "Yash",
+      "Sai Pallavi"
+    ],
+    "generos": [
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ],
+    "paises": [
+      "India",
+      "United Kingdom"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w342/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+    "score": 7.5,
+    "sinopsis": "Una antigua epopeya sigue a un joven príncipe y a una princesa, cuyo matrimonio y posterior exilio marcan el comienzo de un viaje legendario. Su historia de amor, deber y destino prepara el terreno para desafíos aún mayores.",
+    "titulo": "Ramayana: El Nacimiento de una Leyenda",
+    "titulo_original": "रामायणम्",
+    "tmdb_id": 656908,
+    "trailer": "https://www.youtube.com/watch?v=tPf0_b026Ck"
   },
   "recen por mi la historia de francisco": {
     "anio": "2025",
