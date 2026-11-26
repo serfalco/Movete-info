@@ -35,6 +35,9 @@ def historia_del_dia(redes, fecha):
     return None
 
 
+ROTAN = ["#AgendaCultural", "#Teatro", "#MusicaEnVivo", "#StandUp", "#Cultura"]
+
+
 def corto(linea, maximo=48):
     linea = ARROBA_RE.sub("", linea).strip()
     return linea if len(linea) <= maximo else linea[: maximo - 1].rstrip() + "…"
@@ -46,7 +49,8 @@ def armar(texto_fb, fecha, dia_semana):
     pie = f"Todos los planes de hoy 👉 {link}"
     if dia_semana in (2, 6):  # miercoles y domingo
         pie += f"\n📬 La agenda, cada jueves en tu mail: {NEWSLETTER}"
-    pie += "\n#LaPlata #QuéHacerEnLaPlata #AgendaCultural"
+    # 3 hashtags (X castiga los posts con muchos), sin tildes; el tercero rota por dia.
+    pie += f"\n#LaPlata #QueHacerEnLaPlata {ROTAN[dia_semana % len(ROTAN)]}"
 
     if not texto_fb:
         cabeza = "¿Qué hacer hoy en La Plata? Teatro, música, stand up, cine y más 👇"
