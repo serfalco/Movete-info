@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://movete.info/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://movete.info/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://movete.info/cine/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://movete.info/cine/pelis/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://movete.info/en-vivo/</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://movete.info/en-vivo/archivo/</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/archivo/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://movete.info/en-vivo/charlas/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://movete.info/en-vivo/danza/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://movete.info/en-vivo/ferias/</loc><lastmod>2026-11-25</lastmod></url>
@@ -101,7 +101,7 @@
   <url><loc>https://movete.info/en-vivo/sala/teatro-coliseo-podesta/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-de-camara-de-city-bell/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-el-altillo-del-sur/</loc><lastmod>2026-11-24</lastmod></url>
-  <url><loc>https://movete.info/en-vivo/sala/teatro-el-escape/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/sala/teatro-el-escape/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-la-lechuza/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-la-nonna/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/sala/teatro-metro/</loc><lastmod>2026-11-24</lastmod></url>
@@ -543,6 +543,7 @@
   <url><loc>https://movete.info/en-vivo/obra/juan-falu/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/juan-sideral-desembarco-wookies/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/juana-rozas/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/obra/jugueteria-el-escape-muestra-de-alumnos/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/juli-bellese/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/julian-bellese-stand-up-comedy/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/julian-hernandez/</loc><lastmod>2026-11-24</lastmod></url>
@@ -718,6 +719,7 @@
   <url><loc>https://movete.info/en-vivo/obra/muestra-anual-lostudio/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/muestra-compania-zafarrancho/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/muestra-cronopia-del-grupo-de-los-viernes/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/obra/muestra-de-alumnos-nos-vamos-y-la-mejor-tia/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/muestra-de-arte/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/muestra-de-pintura-fluo/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/muestra-del-taller-del-match-de-improvisacion/</loc><lastmod>2026-11-25</lastmod></url>
@@ -838,6 +840,7 @@
   <url><loc>https://movete.info/en-vivo/obra/pure-disco-20-anos-en-espacio-live/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/puzzle/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/q-lokura/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/obra/que-hacemos-aca-muestra-de-alumnos/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/que-macana/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/que-no-pare-de-sonar-6ta-edicion/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/que-quilombo/</loc><lastmod>2026-11-24</lastmod></url>
@@ -879,6 +882,7 @@
   <url><loc>https://movete.info/en-vivo/obra/salsa-y-no-llores/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/sancho-a-la-carga/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/santuario-nuestra-senora-de-schoenstatt/</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://movete.info/en-vivo/obra/se-murio-el-gordito-muestra-de-alumnos/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/segunda-mano/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/segundamano-en-espacio-live-ultimo-show-del-ano/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://movete.info/en-vivo/obra/segundo-tiempo-sexteto/</loc><lastmod>2026-11-24</lastmod></url>

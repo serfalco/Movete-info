@@ -30,16 +30,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261121093843.jpg"
   },
   {
-    "titulo": "Homenaje a Raúl Zerbino",
-    "fecha": "2026-11-26 19:00:00",
-    "lugar": "Conservatorio de Música Gilardo Gilardi - Edificio Servente",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/homenaje-a-raul-zerbino-conservatorio-de-musica-gilardo-gilardi-edificio-servente-20261121100548",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121100549.jpg"
-  },
-  {
     "titulo": "Nuestra tierra - Dir. Lucrecia Martel",
     "fecha": "2026-11-26 19:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
@@ -48,6 +38,16 @@
     "url": "https://agendalaplata.ar/evento/nuestra-tierra-dir-lucrecia-martel-cine-club-proyecciones-terrestres-20261125105552",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261125105553.jpg"
+  },
+  {
+    "titulo": "Homenaje a Raúl Zerbino",
+    "fecha": "2026-11-26 19:00:00",
+    "lugar": "Conservatorio de Música Gilardo Gilardi - Edificio Servente",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/homenaje-a-raul-zerbino-conservatorio-de-musica-gilardo-gilardi-edificio-servente-20261121100548",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261121100549.jpg"
   },
   {
     "titulo": "El lago de los cisnes",
@@ -200,16 +200,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
   },
   {
-    "titulo": "Te amo, Antoño - Dir. Tamara Leschner",
-    "fecha": "2026-11-28 19:00:00",
-    "lugar": "Cine Club Proyecciones Terrestres",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/te-amo-antono-dir-tamara-leschner-cine-club-proyecciones-terrestres-20261116203351",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116203352.jpg"
-  },
-  {
     "titulo": "Los nadadores - Dir. Sol Iglesias SK",
     "fecha": "2026-11-28 19:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
@@ -218,6 +208,16 @@
     "url": "https://agendalaplata.ar/evento/los-nadadores-dir-sol-iglesias-sk-cine-club-proyecciones-terrestres-20261116203259",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261116203300.jpg"
+  },
+  {
+    "titulo": "Te amo, Antoño - Dir. Tamara Leschner",
+    "fecha": "2026-11-28 19:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/te-amo-antono-dir-tamara-leschner-cine-club-proyecciones-terrestres-20261116203351",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261116203352.jpg"
   },
   {
     "titulo": "Un poco de ruido",
@@ -320,16 +320,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
   },
   {
-    "titulo": "Camerata Académica",
-    "fecha": "2026-11-29 17:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/camerata-academica-teatro-argentino-centro-provincial-de-las-artes-20261125110504",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261125110505.jpg"
-  },
-  {
     "titulo": "Aquí y allá - Dir. Jean-Luc Godard, Jean-Pierre Gorin, Anne-Marie Miéville, Groupe Dziga Vertov",
     "fecha": "2026-11-29 17:00:00",
     "lugar": "Cine Club Proyecciones Terrestres",
@@ -338,6 +328,16 @@
     "url": "https://agendalaplata.ar/evento/aqui-y-alla-dir-jean-luc-godard-jean-pierre-gorin-anne-marie-mieville-groupe-dziga-vertov-cine-club-proyecciones-terrestres-20261125105850",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261125105851.jpg"
+  },
+  {
+    "titulo": "Camerata Académica",
+    "fecha": "2026-11-29 17:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/camerata-academica-teatro-argentino-centro-provincial-de-las-artes-20261125110504",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125110505.jpg"
   },
   {
     "titulo": "Cine Multaqa",

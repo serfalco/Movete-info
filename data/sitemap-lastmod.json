@@ -1,7 +1,7 @@
 {
 "/": {
-"fecha": "2026-11-24",
-"huella": "e489138f1c0af05e"
+"fecha": "2026-11-26",
+"huella": "33a33ceb643f55b3"
 },
 "/cine/": {
 "fecha": "2026-11-21",
@@ -72,8 +72,8 @@
 "huella": "b002cc8d725ea9b6"
 },
 "/en-vivo/archivo/": {
-"fecha": "2026-11-25",
-"huella": "c106bbc85ebb83e8"
+"fecha": "2026-11-26",
+"huella": "03a501e13f4e58e1"
 },
 "/en-vivo/charlas/": {
 "fecha": "2026-11-25",
@@ -1843,6 +1843,10 @@
 "fecha": "2026-11-24",
 "huella": "ecf60850e047ff3d"
 },
+"/en-vivo/obra/jugueteria-el-escape-muestra-de-alumnos/": {
+"fecha": "2026-11-26",
+"huella": "0c2c3c103ae53489"
+},
 "/en-vivo/obra/juli-bellese/": {
 "fecha": "2026-11-24",
 "huella": "9f5b5cc9f0a17c0d"
@@ -2543,6 +2547,10 @@
 "fecha": "2026-11-24",
 "huella": "f084435dd73e4aa9"
 },
+"/en-vivo/obra/muestra-de-alumnos-nos-vamos-y-la-mejor-tia/": {
+"fecha": "2026-11-26",
+"huella": "6e8e64656bfb8238"
+},
 "/en-vivo/obra/muestra-de-arte/": {
 "fecha": "2026-11-24",
 "huella": "e92088592856c242"
@@ -3023,6 +3031,10 @@
 "fecha": "2026-11-24",
 "huella": "6385ec477dbb3f80"
 },
+"/en-vivo/obra/que-hacemos-aca-muestra-de-alumnos/": {
+"fecha": "2026-11-26",
+"huella": "d44c356425dab417"
+},
 "/en-vivo/obra/que-macana/": {
 "fecha": "2026-11-24",
 "huella": "f545a28dc0515e5f"
@@ -3186,6 +3198,10 @@
 "/en-vivo/obra/santuario-nuestra-senora-de-schoenstatt/": {
 "fecha": "2026-11-25",
 "huella": "d5ea54253c6d1215"
+},
+"/en-vivo/obra/se-murio-el-gordito-muestra-de-alumnos/": {
+"fecha": "2026-11-26",
+"huella": "6fcf26f39e5dac9b"
 },
 "/en-vivo/obra/segunda-mano/": {
 "fecha": "2026-11-24",
@@ -3972,8 +3988,8 @@
 "huella": "2f80b260e3bbdb6f"
 },
 "/en-vivo/sala/teatro-el-escape/": {
-"fecha": "2026-11-24",
-"huella": "ea4fb6419e40b9bd"
+"fecha": "2026-11-26",
+"huella": "d900484054c088e4"
 },
 "/en-vivo/sala/teatro-la-lechuza/": {
 "fecha": "2026-11-25",

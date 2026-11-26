@@ -55,7 +55,7 @@
     "lugar": "ÁREA CHICA",
     "direccion": "Boulevard 83 403, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra95731-vacio",
+    "url": "https://publico.alternativateatral.com/entradas95731-vacio?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/18/000299018.jpg"
   },
@@ -85,7 +85,7 @@
     "lugar": "ÁREA CHICA",
     "direccion": "Boulevard 83 403, La Plata",
     "categoria": "teatro",
-    "url": "https://www.alternativateatral.com.ar/obra100218-maybe",
+    "url": "https://publico.alternativateatral.com/entradas100218-maybe?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/33/000312233.jpg"
   },
@@ -448,5 +448,45 @@
     "url": "https://publico.alternativateatral.com/entradas104691-un-vestido-un-amor-y-una-hermana-moribunda?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/21/000325021.jpg"
+  },
+  {
+    "titulo": "¿Qué hacemos acá? - Muestra de alumnos",
+    "fecha": "2026-12-05 21:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas104798-que-hacemos-aca-muestra-de-alumnos?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/59/000325159.jpg"
+  },
+  {
+    "titulo": "Muestra de alumnos - ¿Nos vamos? y La mejor tía",
+    "fecha": "2026-12-06 20:00:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas104799-muestra-de-alumnos-nos-vamos-y-la-mejor-tia?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/62/000325162.jpg"
+  },
+  {
+    "titulo": "Se murió el gordito - Muestra de alumnos",
+    "fecha": "2026-12-11 20:30:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas104800-se-murio-el-gordito-muestra-de-alumnos?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/65/000325165.jpg"
+  },
+  {
+    "titulo": "Juguetería “El Escape” - Muestra de alumnos",
+    "fecha": "2026-12-13 20:30:00",
+    "lugar": "TEATRO EL ESCAPE",
+    "direccion": "44 1443 entre 23 y 24, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas104801-jugueteria-el-escape-muestra-de-alumnos?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/66/000325166.jpg"
   }
 ]
