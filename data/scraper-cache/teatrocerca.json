@@ -24,6 +24,22 @@
   },
   {
     "disponibilidad": "disponible",
+    "elenco": [
+      "Luciana Abelenda",
+      "Mario Lombard"
+    ],
+    "sinopsis": "La soledad multiplica los altares. Antonio transita la tercera edad entre dioses mundanos, celestiales y noticias que tejen su realidad.",
+    "titulo": "Altares paganos",
+    "fecha": "2026-11-27 21:30:00",
+    "lugar": "Escenario 40",
+    "direccion": "Calle 40 Nº 1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/altares-paganos/funcion/la-plata/escenario-40/27-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261125060227-dfd76515.webp"
+  },
+  {
+    "disponibilidad": "disponible",
     "sinopsis": "Marta y Luis ellos son un matrimonio que pasan por una gran monotonía, todo eso hasta que se mudan al edificio Erika y Jeremías una pareja muy libre, dónde los harán pensar y quien te dice mucho más.",
     "titulo": "Camas Cruzadas",
     "fecha": "2026-11-28 21:00:00",
@@ -33,6 +49,24 @@
     "url": "https://teatrocerca.com.ar/obra/camas-cruzadas/funcion/la-plata/teatro-la-nonna/28-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261029035726-a74ff7c7.jpg"
+  },
+  {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Gabi Busechian",
+      "Melany Kuhn",
+      "Yani Maccallini",
+      "Amparo Maldonado"
+    ],
+    "sinopsis": "Dos conejas en cautiverio planean escapar de la veterinaria donde se encuentran de oferta. Las condiciones se presentan favorables a la huida, la humana estará ausente esa misma noche.",
+    "titulo": "Cuando los animales duerman",
+    "fecha": "2026-11-28 20:00:00",
+    "lugar": "Viejo Almacén El Obrero",
+    "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/cuando-los-animales-duerman/funcion/la-plata/viejo-almacen-el-obrero/28-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260824213254-f9e5776b.webp"
   },
   {
     "precio": 26000,
@@ -50,6 +84,18 @@
     "url": "https://teatrocerca.com.ar/obra/dan-tumburus-estoy-bien-gracias/funcion/la-plata/teatro-metro-la-plata/3-diciembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261031144505-44606256.webp"
+  },
+  {
+    "disponibilidad": "disponible",
+    "sinopsis": "El ánimo es una instalación escénica que utiliza objetos cotidianos, motores y proyecciones para crear atmósferas extraordinarias.",
+    "titulo": "El Ánimo",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "En eso estamos",
+    "direccion": "Calle 62 N° 274, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/el-animo/funcion/la-plata/en-eso-estamos/27-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261125055940-5accfc99.webp"
   },
   {
     "precio": 20000,
@@ -72,6 +118,61 @@
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260930051440-d15db00b.webp"
   },
   {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Ivana Barcelona",
+      "Daiana Fossatti"
+    ],
+    "sinopsis": "Esther y Alma, dos mujeres en una fábrica en cualquier lugar de la provincia de buenos aires. Día tras día en un espacio cerrado, sin ventanas; ambas arman, empaquetan, atan cajas de cartón pintado.",
+    "titulo": "Fábrica de chicas",
+    "fecha": "2026-11-29 20:00:00",
+    "lugar": "Escenario 40",
+    "direccion": "Calle 40 Nº 1180, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/fabrica-de-chicas/funcion/la-plata/escenario-40/29-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261125051954-0dfe7146.webp"
+  },
+  {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Victoria Carreras",
+      "Pablo Cernadas",
+      "Diego Giorgio",
+      "Luis Podestá",
+      "Sebastian Pozzi",
+      "Daniela Rubiatti",
+      "Andrés San Román"
+    ],
+    "sinopsis": "El cine vuelve a escena Una celebración del teatro popular argentino, donde la memoria se transforma en presente. Frutilla regresa en una nueva versión creada por Victoria Carreras.",
+    "titulo": "Frutilla",
+    "fecha": "2026-12-03 20:30:00",
+    "lugar": "TACEC - TEATRO ARGENTINO CENTRO DE EXPERIMENTACIÓN Y CREACIÓN",
+    "direccion": "Av. 51 entre 9 y 10, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/frutilla-teatro-musical-pelicula/funcion/la-plata/tacec-teatro-argentino-centro-de-experimentacion-y-creacion/3-diciembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261125061328-ffd49737.webp"
+  },
+  {
+    "precio": 20000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Wanda Fernandez",
+      "Agustina Quarchioni"
+    ],
+    "sinopsis": "Ella intenta reconstruir su historia. La memoria se vuelve escenario y el cuerpo, prueba. Dos realidades entrelazadas pero sólo un desenlace. Una obra que explora el abuso de poder, la violencia de género y la salud mental.",
+    "titulo": "Insignificante: el peso de lo que no se ve",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "Viejo Almacén El Obrero",
+    "direccion": "Av 13 N° 1900 Esq. 71, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/insignificante-el-peso-de-lo-que-no-se-ve/funcion/la-plata/viejo-almacen-el-obrero/11-diciembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261125060810-903542c7.webp"
+  },
+  {
     "precio": 20000,
     "moneda": "ARS",
     "disponibilidad": "disponible",
@@ -84,6 +185,28 @@
     "url": "https://teatrocerca.com.ar/obra/invisible-unipersonal-de-juan-sola/funcion/la-plata/teatro-metro-la-plata/5-diciembre-2026-20-00",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260813191433-f3cfd3d2.webp"
+  },
+  {
+    "precio": 20000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Agusta Bermudez",
+      "Ayelen Garaventta",
+      "Nicolas Kepes",
+      "Cabe Mallo",
+      "Nicolás Saghessi",
+      "Carolina Torres Canollan"
+    ],
+    "sinopsis": "Clásico del teatro del absurdo de Eugene Ionesco, nos presenta una sociedad incomprensible, en un mundo que se empeña en mostrarnos que todos estamos conectados.",
+    "titulo": "La cantante calva",
+    "fecha": "2026-12-04 22:00:00",
+    "lugar": "La Mercería Teatro",
+    "direccion": "Av. 1 Nº 210, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/la-cantante-calva/funcion/la-plata/la-merceria-teatro/4-diciembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260901073558-a657e47c.webp"
   },
   {
     "disponibilidad": "disponible",
@@ -103,6 +226,39 @@
     "url": "https://teatrocerca.com.ar/obra/la-fiaca-la-plata/funcion/la-plata/teatro-el-escape/28-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261016165433-d13dd1b9.webp"
+  },
+  {
+    "precio": 20000,
+    "moneda": "ARS",
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Francisco Mendieta"
+    ],
+    "sinopsis": "Juan Krakovich, un juez penal que anticipó el estallido social de 2001, decide refugiarse en una estancia familiar en el sur de la provincia de Buenos Aires.",
+    "titulo": "Laberinto Borges",
+    "fecha": "2026-12-04 20:30:00",
+    "lugar": "Espacio 44",
+    "direccion": "Av. 44 N° 496, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/laberinto-borges/funcion/la-plata/espacio-44/4-diciembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260831172754-2136733e.jpg"
+  },
+  {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Mariela Marcela Kosturkoff",
+      "Vanesa Romano; Emilia Iacovino"
+    ],
+    "sinopsis": "Entre las ruinas de su antigua gloria, una familia sostiene secretos, luces y canciones olvidadas.",
+    "titulo": "Las del lirio",
+    "fecha": "2026-11-28 21:00:00",
+    "lugar": "En eso estamos",
+    "direccion": "Calle 62 N° 274, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/las-del-lirio/funcion/la-plata/en-eso-estamos/28-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261125052656-03d25156.webp"
   },
   {
     "disponibilidad": "disponible",
@@ -165,6 +321,23 @@
   {
     "disponibilidad": "disponible",
     "elenco": [
+      "Virgina Calabrese",
+      "Fátima Khamis",
+      "Mara Mussumeci"
+    ],
+    "sinopsis": "En la penumbra asfixiante que imponen la rutina productiva y el contexto de censura, una poeta experimentada se ve forzada a la escritura de versos edulcorados y repetitivos.",
+    "titulo": "Poema criollo. Versos del subsuelo",
+    "fecha": "2026-11-29 19:30:00",
+    "lugar": "La Lechuza Teatro",
+    "direccion": "Calle 58 Nº 757, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/poema-criollo-versos-del-subsuelo/funcion/la-plata/la-lechuza-teatro/29-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20260901073349-8225234a.webp"
+  },
+  {
+    "disponibilidad": "disponible",
+    "elenco": [
       "Checho Falco",
       "Julián Dorati"
     ],
@@ -177,5 +350,40 @@
     "url": "https://teatrocerca.com.ar/obra/sociedad-platense-de-stand-up/funcion/la-plata/tres-empanadas-comedia-la-plata/27-noviembre-2026",
     "fuente": "teatrocerca",
     "imagen": "https://teatrocerca.com.ar/uploads/posters/revision/d062f501c420293ea65f232f7078c6c95bbc0342.webp"
+  },
+  {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Verónica Bogdan"
+    ],
+    "sinopsis": "A fines de los años 80´s, Vera deja su carrera y se entrega al territorio doméstico: hijos, mandados, llamados, esposo y una cena importante.",
+    "titulo": "Todas Somos YO?",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "Espacio 44",
+    "direccion": "Av. 44 N° 496, La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/todas-somos-yo/funcion/la-plata/espacio-44/27-noviembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261125055637-9c9c0122.webp"
+  },
+  {
+    "disponibilidad": "disponible",
+    "elenco": [
+      "Lara Del Castillo",
+      "Camila Fernandez",
+      "Úrsula Herrera",
+      "Juan Sebastian Lavalle",
+      "Sofia Mazzuca",
+      "Justina Pelassini"
+    ],
+    "sinopsis": "La Gringa, una madama de carácter,está decidida a reencontrarse con su amor. El problema es que él está en Italia, cruzando el océano. Sus tres chicas, que de Venecia saben tanto como de italiano, están decididas a cumplirle el sueño.",
+    "titulo": "Venecia",
+    "fecha": "2026-12-06 20:00:00",
+    "lugar": "Sala 301130",
+    "direccion": "Av 1 407 (casi esq. 40), La Plata",
+    "categoria": "teatro",
+    "url": "https://teatrocerca.com.ar/obra/venecia/funcion/la-plata/sala-301130/6-diciembre-2026",
+    "fuente": "teatrocerca",
+    "imagen": "https://teatrocerca.com.ar/uploads/posters/poster-20261112023552-2345ef2f.webp"
   }
 ]

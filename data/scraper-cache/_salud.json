@@ -1,17 +1,17 @@
 {
-  "fecha": "2026-11-24",
-  "total": 169,
+  "fecha": "2026-11-26",
+  "total": 172,
   "por_fuente": {
-    "genda": 71,
-    "livepass": 21,
-    "alternativa": 42,
+    "genda": 69,
+    "livepass": 22,
+    "alternativa": 45,
     "teatro_metro": 4,
     "coliseo": 4,
     "opera": 2,
-    "plateauno": 1,
-    "passline": 16,
-    "teatrocerca": 10,
-    "comunidad": 9,
+    "plateauno": 2,
+    "passline": 17,
+    "teatrocerca": 22,
+    "comunidad": 8,
     "planilla": 48
   },
   "estado": {

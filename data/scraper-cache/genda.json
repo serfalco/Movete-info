@@ -1,153 +1,13 @@
 [
   {
-    "titulo": "Wikimedistas editando",
-    "fecha": "2026-11-24 16:00:00",
-    "lugar": "Biblioteca Pública Universidad Nacional de La Plata - UNLP",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/wikimedistas-editando-biblioteca-publica-universidad-nacional-de-la-plata-unlp-20261121084759",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121084800.jpg"
-  },
-  {
-    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
-    "fecha": "2026-11-24 16:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
-  },
-  {
-    "titulo": "Carne - Dir. Tomas Marichal Urban",
-    "fecha": "2026-11-24 16:00:00",
+    "titulo": "Nietes. La memoria es el futuro - Dir. Raúl Laffitte, Los otros mundos",
+    "fecha": "2026-11-26 18:00:00",
     "lugar": "Cine Select (Espacio INCAA)",
     "direccion": "",
     "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/carne-dir-tomas-marichal-urban-cine-select-espacio-incaa-20261119182459",
+    "url": "https://agendalaplata.ar/evento/nietes-la-memoria-es-el-futuro-dir-raul-laffitte-los-otros-mundos-cine-select-espacio-incaa-20261116150909",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261119182500.jpg"
-  },
-  {
-    "titulo": "Torneo de La Campaña",
-    "fecha": "2026-11-24 19:00:00",
-    "lugar": "La Culturosa",
-    "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/torneo-de-la-campana-la-culturosa-20261121092908",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121092909.jpg"
-  },
-  {
-    "titulo": "Concierto homnaje a Enrique Gerardi",
-    "fecha": "2026-11-24 19:30:00",
-    "lugar": "La Peña de las Bellas Artes",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/concierto-homnaje-a-enrique-gerardi-la-pena-de-las-bellas-artes-20261121095729",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121095730.jpg"
-  },
-  {
-    "titulo": "A veces me entra tristeza, otras veces rebelión",
-    "fecha": "2026-11-24 19:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/a-veces-me-entra-tristeza-otras-veces-rebelion-cine-select-espacio-incaa-20261115140609",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261115140610.jpg"
-  },
-  {
-    "titulo": "El camino contrario - Dir. Daniel Flores, Martín Wain",
-    "fecha": "2026-11-24 20:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-camino-contrario-dir-daniel-flores-martin-wain-cine-ecoselect-espacio-incaa-20261116202431",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116202432.jpg"
-  },
-  {
-    "titulo": "El llanto del perro - Dir. Jano Piccardo, Federico Venzi",
-    "fecha": "2026-11-25 16:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-llanto-del-perro-dir-jano-piccardo-federico-venzi-cine-ecoselect-espacio-incaa-20261119182939",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261119182940.jpg"
-  },
-  {
-    "titulo": "Nunkui - Dir. Verenice Benítez",
-    "fecha": "2026-11-25 18:00:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/nunkui-dir-verenice-benitez-cine-ecoselect-espacio-incaa-20261116202513",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116202514.jpg"
-  },
-  {
-    "titulo": "Violencia Invisible - Dir. Pedro Romero, Florencia Nizzo",
-    "fecha": "2026-11-25 19:30:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/violencia-invisible-dir-pedro-romero-florencia-nizzo-cine-ecoselect-espacio-incaa-20261116202605",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116202606.jpg"
-  },
-  {
-    "titulo": "El lago de los cisnes",
-    "fecha": "2026-11-25 20:00:00",
-    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
-    "direccion": "",
-    "categoria": "danza",
-    "url": "https://agendalaplata.ar/evento/el-lago-de-los-cisnes-teatro-argentino-centro-provincial-de-las-artes-20261105084134",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
-  },
-  {
-    "titulo": "Pedro en el país - Dir. María Alché, Benjamín Naishtat",
-    "fecha": "2026-11-25 20:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/pedro-en-el-pais-dir-maria-alche-benjamin-naishtat-cine-select-espacio-incaa-20261116145812",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116145813.jpg"
-  },
-  {
-    "titulo": "Accidente - Dir. Valentine Torre",
-    "fecha": "2026-11-25 20:30:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/accidente-dir-valentine-torre-cine-ecoselect-espacio-incaa-20261116124939",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116124940.jpg"
-  },
-  {
-    "titulo": "Agua fría - Dir. Antonia Martínez Valls, Meme Cabello",
-    "fecha": "2026-11-25 20:45:00",
-    "lugar": "Cine Ecoselect (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/agua-fria-dir-antonia-martinez-valls-meme-cabello-cine-ecoselect-espacio-incaa-20261116125138",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116125139.jpg"
-  },
-  {
-    "titulo": "El Fantasma - Dir. Ignacio Masllorens, David Lamelas",
-    "fecha": "2026-11-25 21:30:00",
-    "lugar": "Cine Select (Espacio INCAA)",
-    "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/el-fantasma-dir-ignacio-masllorens-david-lamelas-cine-select-espacio-incaa-20261116130040",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116130041.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261116150910.jpg"
   },
   {
     "titulo": "Subterráneo, melancólico y extraterrestre - Dir. Fran Cadierno",
@@ -160,14 +20,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261116192835.jpg"
   },
   {
-    "titulo": "Nietes. La memoria es el futuro - Dir. Raúl Laffitte, Los otros mundos",
-    "fecha": "2026-11-26 18:00:00",
-    "lugar": "Cine Select (Espacio INCAA)",
+    "titulo": "Premiación del Arquitecto Rubén Omar Pesci",
+    "fecha": "2026-11-26 19:00:00",
+    "lugar": "La Peña de las Bellas Artes",
     "direccion": "",
-    "categoria": "cine",
-    "url": "https://agendalaplata.ar/evento/nietes-la-memoria-es-el-futuro-dir-raul-laffitte-los-otros-mundos-cine-select-espacio-incaa-20261116150909",
+    "categoria": "otros",
+    "url": "https://agendalaplata.ar/evento/premiacion-del-arquitecto-ruben-omar-pesci-la-pena-de-las-bellas-artes-20261121093842",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261116150910.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261121093843.jpg"
   },
   {
     "titulo": "Homenaje a Raúl Zerbino",
@@ -180,14 +40,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261121100549.jpg"
   },
   {
-    "titulo": "Premiación del Arquitecto Rubén Omar Pesci",
+    "titulo": "Nuestra tierra - Dir. Lucrecia Martel",
     "fecha": "2026-11-26 19:00:00",
-    "lugar": "La Peña de las Bellas Artes",
+    "lugar": "Cine Club Proyecciones Terrestres",
     "direccion": "",
-    "categoria": "otros",
-    "url": "https://agendalaplata.ar/evento/premiacion-del-arquitecto-ruben-omar-pesci-la-pena-de-las-bellas-artes-20261121093842",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/nuestra-tierra-dir-lucrecia-martel-cine-club-proyecciones-terrestres-20261125105552",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261121093843.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261125105553.jpg"
   },
   {
     "titulo": "El lago de los cisnes",
@@ -208,6 +68,16 @@
     "url": "https://agendalaplata.ar/evento/pena-la-florecida-esquina-america-20261124020649",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261124020650.jpg"
+  },
+  {
+    "titulo": "El lado oscuro del corazón - Dir. Eliseo Subiela",
+    "fecha": "2026-11-26 21:30:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/el-lado-oscuro-del-corazon-dir-eliseo-subiela-cine-club-proyecciones-terrestres-20261125105719",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125105720.jpg"
   },
   {
     "titulo": "Familia teme enfrentar una nueva noche de terror - Dir. Cristian Ponce",
@@ -250,16 +120,6 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261105084135.jpg"
   },
   {
-    "titulo": "Velada Sinfónica - Sindicato Argentino de Boleros con Julián y Juan Carlos Baglietto + Luisa Kuliok",
-    "fecha": "2026-11-27 20:00:00",
-    "lugar": "Teatro y Museo Coliseo Podestá",
-    "direccion": "",
-    "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/velada-sinfonica-sindicato-argentino-de-boleros-con-julian-y-juan-carlos-baglietto-luisa-kuliok-teatro-y-museo-coliseo-podesta-20261022203545",
-    "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261022203546.jpg"
-  },
-  {
     "titulo": "Julián Hernández - “Tu cuerpo no miente”",
     "fecha": "2026-11-27 20:00:00",
     "lugar": "Teatro Metro",
@@ -268,6 +128,16 @@
     "url": "https://agendalaplata.ar/evento/julian-hernandez-tu-cuerpo-no-miente-teatro-metro-20261114212217",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261114212218.jpg"
+  },
+  {
+    "titulo": "Velada Sinfónica - Sindicato Argentino de Boleros con Julián y Juan Carlos Baglietto + Luisa Kuliok",
+    "fecha": "2026-11-27 20:00:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/velada-sinfonica-sindicato-argentino-de-boleros-con-julian-y-juan-carlos-baglietto-luisa-kuliok-teatro-y-museo-coliseo-podesta-20261022203545",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261022203546.jpg"
   },
   {
     "titulo": "O - Dir. Maximiliano Nery",
@@ -288,6 +158,16 @@
     "url": "https://agendalaplata.ar/evento/kissme-espacio-live-20261020164625",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261020164626.jpg"
+  },
+  {
+    "titulo": "Monobanda Fest",
+    "fecha": "2026-11-27 21:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/monobanda-fest-cine-club-proyecciones-terrestres-20261125103600",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125103601.jpg"
   },
   {
     "titulo": "Impro al 2020 Vs Match La Plata - La revancha",
@@ -390,14 +270,24 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261021130714.jpg"
   },
   {
-    "titulo": "¡Actúen!",
+    "titulo": "Música Nacional de los 70s y 80s",
     "fecha": "2026-11-28 21:00:00",
-    "lugar": "Teatro Abierto",
+    "lugar": "Casa Suiza",
     "direccion": "",
-    "categoria": "teatro",
-    "url": "https://agendalaplata.ar/evento/actuen-teatro-abierto-20260827013949",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/musica-nacional-de-los-70s-y-80s-casa-suiza-20261124222510",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260827013950.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261124222511.jpg"
+  },
+  {
+    "titulo": "“Palabra Plena” - Gabriel Rolón",
+    "fecha": "2026-11-28 21:30:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "stand-up",
+    "url": "https://agendalaplata.ar/evento/palabra-plena-gabriel-rolon-teatro-y-museo-coliseo-podesta-20261125111515",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125111516.jpg"
   },
   {
     "titulo": "Calle vapor",
@@ -428,6 +318,26 @@
     "url": "https://agendalaplata.ar/evento/paseo-de-los-artesanos-republica-de-los-ninos-20261105092134",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261105092135.jpg"
+  },
+  {
+    "titulo": "Camerata Académica",
+    "fecha": "2026-11-29 17:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/camerata-academica-teatro-argentino-centro-provincial-de-las-artes-20261125110504",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125110505.jpg"
+  },
+  {
+    "titulo": "Aquí y allá - Dir. Jean-Luc Godard, Jean-Pierre Gorin, Anne-Marie Miéville, Groupe Dziga Vertov",
+    "fecha": "2026-11-29 17:00:00",
+    "lugar": "Cine Club Proyecciones Terrestres",
+    "direccion": "",
+    "categoria": "cine",
+    "url": "https://agendalaplata.ar/evento/aqui-y-alla-dir-jean-luc-godard-jean-pierre-gorin-anne-marie-mieville-groupe-dziga-vertov-cine-club-proyecciones-terrestres-20261125105850",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125105851.jpg"
   },
   {
     "titulo": "Cine Multaqa",
@@ -510,6 +420,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261116203221.jpg"
   },
   {
+    "titulo": "Laberinto Podestá, el último aplauso",
+    "fecha": "2026-11-30 20:00:00",
+    "lugar": "Teatro y Museo Coliseo Podestá",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/laberinto-podesta-el-ultimo-aplauso-teatro-y-museo-coliseo-podesta-20261125111158",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125111159.jpg"
+  },
+  {
     "titulo": "Fernando Cabrera y Hugo Fattoruso",
     "fecha": "2026-12-01 20:00:00",
     "lugar": "Casa Metro",
@@ -560,14 +480,14 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261121085830.jpg"
   },
   {
-    "titulo": "Mapai - Homero",
+    "titulo": "La banda de Carlitos y Euge Quevedo",
     "fecha": "2026-12-04 21:00:00",
-    "lugar": "La Salamanca Centro de Cultura y Peña",
+    "lugar": "Hipódromo de La Plata",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/mapai-homero-la-salamanca-centro-de-cultura-y-pena-20261115111243",
+    "url": "https://agendalaplata.ar/evento/la-banda-de-carlitos-y-euge-quevedo-hipodromo-de-la-plata-20260921110120",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20261115111244.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20260921110121.jpg"
   },
   {
     "titulo": "Chango spasiuk",
@@ -580,14 +500,24 @@
     "imagen": "https://agendalaplata.ar/_fotos/20261114211440.jpg"
   },
   {
-    "titulo": "La banda de Carlitos y Euge Quevedo",
+    "titulo": "Mapai - Homero",
     "fecha": "2026-12-04 21:00:00",
-    "lugar": "Hipódromo de La Plata",
+    "lugar": "La Salamanca Centro de Cultura y Peña",
     "direccion": "",
     "categoria": "musica",
-    "url": "https://agendalaplata.ar/evento/la-banda-de-carlitos-y-euge-quevedo-hipodromo-de-la-plata-20260921110120",
+    "url": "https://agendalaplata.ar/evento/mapai-homero-la-salamanca-centro-de-cultura-y-pena-20261115111243",
     "fuente": "genda",
-    "imagen": "https://agendalaplata.ar/_fotos/20260921110121.jpg"
+    "imagen": "https://agendalaplata.ar/_fotos/20261115111244.jpg"
+  },
+  {
+    "titulo": "Fran Cos",
+    "fecha": "2026-12-04 21:00:00",
+    "lugar": "Teatro Bar Cultural La Ferretería",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/fran-cos-teatro-bar-cultural-la-ferreteria-20261125110219",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125110220.jpg"
   },
   {
     "titulo": "Sociedad Platense de Stand Up",
@@ -608,6 +538,16 @@
     "url": "https://agendalaplata.ar/evento/la-cantante-calva-la-merceria-teatro-20261123142907",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261123142908.jpg"
+  },
+  {
+    "titulo": "Edita 2026 - Encuentro de editores de todo el país",
+    "fecha": "2026-12-05 14:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "ferias",
+    "url": "https://agendalaplata.ar/evento/edita-2026-encuentro-de-editores-de-todo-el-pais-teatro-argentino-centro-provincial-de-las-artes-20261125110808",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125110809.jpg"
   },
   {
     "titulo": "Serú Girán por Lebón y Aznar",
@@ -640,6 +580,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260921134915.jpg"
   },
   {
+    "titulo": "Edita 2026 - Encuentro de editores de todo el país",
+    "fecha": "2026-12-06 15:00:00",
+    "lugar": "Teatro Argentino - Centro Provincial de las Artes",
+    "direccion": "",
+    "categoria": "ferias",
+    "url": "https://agendalaplata.ar/evento/edita-2026-encuentro-de-editores-de-todo-el-pais-teatro-argentino-centro-provincial-de-las-artes-20261125110808",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125110809.jpg"
+  },
+  {
     "titulo": "Elena Roger",
     "fecha": "2026-12-08 20:30:00",
     "lugar": "Teatro y Museo Coliseo Podestá",
@@ -658,6 +608,16 @@
     "url": "https://agendalaplata.ar/evento/estelares-teatro-argentino-centro-provincial-de-las-artes-20261021131700",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261021131701.jpg"
+  },
+  {
+    "titulo": "Insignificante: el peso de lo que no se ve",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "Viejo Almacén el Obrero - Cantina del Obrero",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/insignificante-el-peso-de-lo-que-no-se-ve-viejo-almacen-el-obrero-cantina-del-obrero-20261124155823",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261124155824.jpg"
   },
   {
     "titulo": "Sociedad Platense de Stand Up",
@@ -690,6 +650,16 @@
     "imagen": "https://agendalaplata.ar/_fotos/20260407182345.jpg"
   },
   {
+    "titulo": "La Matilde cumple 6 años - Cumbia",
+    "fecha": "2026-12-12 21:00:00",
+    "lugar": "Espacio Doble-T",
+    "direccion": "",
+    "categoria": "musica",
+    "url": "https://agendalaplata.ar/evento/la-matilde-cumple-6-anos-cumbia-espacio-doble-t-20261125120217",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261125120218.jpg"
+  },
+  {
     "titulo": "Torneo de Rompecabezas",
     "fecha": "2026-12-13 14:00:00",
     "lugar": "Centro Gallego de la Plata",
@@ -698,6 +668,16 @@
     "url": "https://agendalaplata.ar/evento/torneo-de-rompecabezas-centro-gallego-de-la-plata-20261112110654",
     "fuente": "genda",
     "imagen": "https://agendalaplata.ar/_fotos/20261112110655.jpg"
+  },
+  {
+    "titulo": "Insignificante: el peso de lo que no se ve",
+    "fecha": "2026-12-13 20:00:00",
+    "lugar": "Teatro Espacio 44",
+    "direccion": "",
+    "categoria": "teatro",
+    "url": "https://agendalaplata.ar/evento/insignificante-el-peso-de-lo-que-no-se-ve-teatro-espacio-44-20261124160159",
+    "fuente": "genda",
+    "imagen": "https://agendalaplata.ar/_fotos/20261124160200.jpg"
   },
   {
     "titulo": "Sociedad Platense de Stand Up",

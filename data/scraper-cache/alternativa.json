@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Trío Magnolia",
+    "fecha": "2026-12-12 21:00:00",
+    "lugar": "LA MERCERIA TEATRO",
+    "direccion": "Calle 1 Nº 210, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas76944-trio-magnolia?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/13/000310413.jpg"
+  },
+  {
     "titulo": "MATCH- TEATRO DEPORTE Y HUMOR",
     "fecha": "2026-11-27 21:00:00",
     "lugar": "SALA 420",
@@ -40,6 +50,16 @@
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/05/000322605.jpg"
   },
   {
+    "titulo": "Vacío",
+    "fecha": "2026-12-12 22:00:00",
+    "lugar": "ÁREA CHICA",
+    "direccion": "Boulevard 83 403, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra95731-vacio",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/18/000299018.jpg"
+  },
+  {
     "titulo": "La cantante calva",
     "fecha": "2026-12-04 22:00:00",
     "lugar": "LA MERCERIA TEATRO",
@@ -48,6 +68,26 @@
     "url": "https://publico.alternativateatral.com/entradas97717-la-cantante-calva?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/91/000323791.jpg"
+  },
+  {
+    "titulo": "Yunta de bueyes",
+    "fecha": "2026-12-11 21:00:00",
+    "lugar": "TEATRO ABIERTO",
+    "direccion": "38 e/ 20 y 21 n 1263, La Plata",
+    "categoria": "teatro",
+    "url": "https://publico.alternativateatral.com/entradas98660-yunta-de-bueyes?o=6",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/42/000308042.jpg"
+  },
+  {
+    "titulo": "Maybe",
+    "fecha": "2026-12-06 20:30:00",
+    "lugar": "ÁREA CHICA",
+    "direccion": "Boulevard 83 403, La Plata",
+    "categoria": "teatro",
+    "url": "https://www.alternativateatral.com.ar/obra100218-maybe",
+    "fuente": "alternativa",
+    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/33/000312233.jpg"
   },
   {
     "titulo": "Todas Somos YO?",
@@ -68,16 +108,6 @@
     "url": "https://publico.alternativateatral.com/entradas100577-laberinto-borges?o=6",
     "fuente": "alternativa",
     "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/61/000313361.jpg"
-  },
-  {
-    "titulo": "Muestra del taller del match de improvisacion",
-    "fecha": "2026-11-24 20:00:00",
-    "lugar": "SALA 420",
-    "direccion": "Calle 42 N° 571 entre 6 y 7, La Plata",
-    "categoria": "impro",
-    "url": "https://publico.alternativateatral.com/entradas101265-muestra-del-taller-del-match-de-improvisacion?o=6",
-    "fuente": "alternativa",
-    "imagen": "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/91/000322791.jpg"
   },
   {
     "titulo": "Narices negras",
@@ -361,7 +391,7 @@
   },
   {
     "titulo": "El lago de los cisnes",
-    "fecha": "2026-11-25 20:00:00",
+    "fecha": "2026-11-26 20:00:00",
     "lugar": "CENTRO PROVINCIAL DE LAS ARTES TEATRO ARGENTINO",
     "direccion": "Av. 51 entre 9 y 10, La Plata",
     "categoria": "teatro",
